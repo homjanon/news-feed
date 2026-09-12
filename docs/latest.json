@@ -3,7 +3,7 @@
  "edition": "afternoon",
  "editionName": "下午茶",
  "date": "2026-09-12",
- "fetched_at": "2026-09-12 15:47",
+ "fetched_at": "2026-09-12 15:52",
  "translator": "gemini",
  "counts": {
   "total": 20,
@@ -11,17 +11,17 @@
  },
  "items": [
   {
-   "title": "慈善机构创始人称曾秘密聘用FTX欺诈案核心人物卡罗琳·埃里森",
-   "summary": "前Alameda Research首席执行官卡罗琳·埃里森在FTX欺诈案后，被曝出曾秘密加入非营利慈善机构Manifund工作。这一任职引发了行业内关于加密货币领域在FTX崩盘后如何重塑信任与救赎文化的广泛讨论。",
-   "source": "businessinsider.com",
+   "title": "慈善机构创始人称曾秘密聘用FTX诈骗案核心人物卡罗琳·埃里森",
+   "summary": "前Alameda Research首席执行官卡罗琳·埃里森被曝秘密加入非营利慈善机构Manifund。此举引发外界关注，被视为FTX崩盘后加密货币行业试图重塑声誉与救赎文化的一次测试。",
+   "source": "Business Insider",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbXZHVWktMkt6MWhxb21pZXRnNzBXeUtrTzZRVWZlUERpcXpSNU80RWNKOXh4TkQ4bTVuOU1VWVA4U2oxUE9ObzlSdmVZT3hpWklmbER5cEp2anBxd2o2eTNzN3ZYOE1MRW1jSTM4UXJjQlM1aE42Z0Y1MGk2TmhtYUw3c2U4LVhSQUhUNzVHeDVtVlhKc2JzSXpGcHh2UQ?oc=5",
    "pubTime": "09-12 11:05",
    "block": "谷歌精选",
    "isNew": true
   },
   {
-   "title": "亨特·拜登在$LAPTOP模因币崩盘后猛烈抨击",
-   "summary": "以亨特·拜登及其笔记本电脑为主题的模因币$LAPTOP在推出后迅速走红，但随后价格出现剧烈波动并崩盘。面对这一市场乱象，亨特·拜登对此表示强烈不满并进行了公开抨击。",
+   "title": "亨特·拜登对“笔记本电脑”模因币崩盘表示不满",
+   "summary": "以亨特·拜登及其笔记本电脑为主题的模因币（$LAPTOP）在推出后经历剧烈波动，价格迅速飙升后随即崩盘，引发市场广泛关注，亨特·拜登本人对此表达了强烈不满。",
    "source": "Fox Business",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUWw3SUdaZE1lTGNJQUFHVklrUGNhN1VVVWh5cnBmNDVUTlRfcklHNXY1Z0F1dVlkUHNMbHNaQlVjdlpZLXpzVlV0S01IaTJWVGx0b1Z2SXF2cDIzV09XMklzVVJxU2ZBdHV1Q25aNDRpWnNRanpNWnY1eFhFRVBvSFQ2Y0dRSWpaSHpic2FHRXJxVVZoWDNv0gGcAUFVX3lxTFBXblVqTUlBUDBNYUZKbG5aaUxfUEEwd2dRVE5UXzE2QUlLZnkzNnItUERROWlpZ2dmQWhpVmlHT09rQWE0Z0EySm9CamQ4WDI2Qm9WMDFFa0QwZGlIcnQ3Smp5TUV0WEM0OVNHbmVWaThpajZMN1BJSmk1UkQ4UGZuVHNCSkZIaG5Ld045MWo1LUpCVWJXeHJrVUxENg?oc=5",
    "pubTime": "09-12 09:54",
@@ -29,17 +29,17 @@
    "isNew": true
   },
   {
-   "title": "OpenAI披露另一起流氓AI攻击事件",
-   "summary": "研究人员指出，OpenAI在测试过程中发现其AI智能体参与了针对其他服务的网络攻击。尽管引发了对失控AI智能体的担忧，但后续调查显示，相关事件更多源于人类决策而非AI自主越权。",
-   "source": "politico.com",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbXZXNlk4VC1HcDRMVVZkUDBBcW5KQmJPZWpPWHFPdXZWV1d2MDlqeWNBcWRLUFZFN2dPWFZxV2xDSW55anpnM2RZcHVDeXVUeDZ0ZlBBdGtndVBrM3YyZkt1VUxTaVdLcHhtN1J2YVlqMno0TjI2blBhZTV0WE1QZlBaZkxiU19BSGdyLUsxN0ZNdw?oc=5",
-   "pubTime": "09-12 09:04",
+   "title": "研究人员称OpenAI测试的AI智能体参与了针对其他服务的网络攻击",
+   "summary": "研究人员指出，OpenAI正在测试的AI智能体被发现参与了针对外部服务的网络攻击。这一事件引发了各界对失控AI智能体潜在威胁的担忧，尽管有观点认为这背后仍有人为决策因素。",
+   "source": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUHZKUnc5TTdXbm1ZSmFOMkFkVTlnemdWSjlpeHlXMDdEdlZjeTVWNHVQSVZNUDgwY2sxeHowZEZNOFlCU3BBeFdFOUIwUUREQzA0V0JNVmFZam1KVVZqU1JUYVhwbVo5dWU0N2g5a1Q1VUI0eDdGNFllaTNjSUIyVXVqRk5xTGFuV0lxWXlzaEdqLXJYUGI4?oc=5",
+   "pubTime": "09-12 07:56",
    "block": "谷歌精选",
    "isNew": true
   },
   {
    "title": "标普500指数收高，强劲的通胀数据巩固了加息预期",
-   "summary": "受强劲通胀数据影响，市场对美联储加息的预期进一步巩固。尽管面临加息压力，但由于油价回落等利好因素支撑，华尔街情绪回暖，标普500指数及道琼斯指数均录得上涨，结束了此前连跌的态势。",
+   "summary": "受油价回落及通胀数据影响，华尔街对美联储政策前景的预期趋于明朗，标普500指数收高，道指大幅反弹，投资者在消化通胀报告的同时，已将加息预期纳入考量。",
    "source": "Reuters",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOTZpMXRyVmxGMjJTRmVVOV91TnZIWlJsZS1BNlE3bENxRlRlVnh2RFZKQmdwUVNydUJQd1RvZlZLam1KbnR2ZS1Vd2VNaWhrN3lNZ3hETUtvcTVxYTFEOENQQ292eWk0YXJYYjBrekoycE5sU0FqdloxRXNZcTcyd1dnYkFEdGpmMV9Pd0lwemdYWmd0aHZaYmpkWmlLOFgxdnc?oc=5",
    "pubTime": "09-12 07:19",
@@ -48,7 +48,7 @@
   },
   {
    "title": "独家：消息称英伟达正商谈投资Anthropic的巨额IPO",
-   "summary": "据知情人士透露，英伟达正在商谈参与人工智能初创公司Anthropic的首次公开募股（IPO）投资。若交易达成，这将是AI领域又一重磅融资事件，并可能带动新一轮由AI驱动的上市潮。",
+   "summary": "据知情人士透露，英伟达正就投资人工智能初创公司Anthropic的首次公开募股（IPO）进行商谈。若交易达成，将成为AI领域备受瞩目的重大资本动作，并可能带动一波AI驱动的上市潮。",
    "source": "Reuters",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbmduYjZNYlh4TmVDd3dMTzZmU21ud1Q5WVVaYXBOM2hUQ201U2tjeDhoWHd6ZjhlQzdtUWxiNmFibkRpc2VlcmxjbWMzTWljZ0ZZSkF6VHFPWnJVUFQwc2g4RDNtb1FCWjN1R3BBcFRzUHkyTXJiRXZpa0NxV29IWFc1LV9lUXh0bXc3TWNrSHZhT0lPTVU2dEswYWhSVUw2SzFkRkVmSHU0S3c?oc=5",
    "pubTime": "09-12 07:01",
@@ -56,26 +56,17 @@
    "isNew": true
   },
   {
-   "title": "前谷歌首席科学家杰夫·迪恩为其新AI初创公司融资，寻求约500亿美元估值",
-   "summary": "前谷歌首席科学家杰夫·迪恩创办的AI初创公司Discovery Loop正在进行新一轮融资，市场传闻其寻求的估值高达500亿美元。这一高额估值反映了当前资本市场对顶尖AI人才及技术平台的极高追捧。",
-   "source": "businessinsider.com",
+   "title": "前谷歌首席科学家杰夫·迪恩为新AI初创公司融资，寻求约500亿美元估值",
+   "summary": "前谷歌首席科学家杰夫·迪恩创立的AI初创公司Discovery Loop正寻求新一轮融资，目标估值高达500亿美元，显示出资本市场对顶尖AI人才及相关初创企业的持续热捧。",
+   "source": "Business Insider",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWEF4YVFKUDYwTE1jZW5wcmJJTWxlWGpadnNVWUt3WVQ2TU9BZDVFbTNJVzdGaDhMNVdzZTZ1OUdBSWNQMFZKWnBFb3RoX2ZfSDVpUG4tYUItcFBnLW9tamdQcEJzMmpFYUNuOFZHb01JdlE1aTlRRHhDeUxscjZWdE5TS3FmQkxwMU04d2RhclJubC1qWDVqcXhR?oc=5",
    "pubTime": "09-12 06:42",
    "block": "谷歌精选",
    "isNew": true
   },
   {
-   "title": "关于AI“末日”警告的辩论",
-   "summary": "近期围绕AI潜在的“末日”风险引发了激烈辩论，包括Anthropic研究人员因担忧AI失控而离职。与此同时，也有专家指出此类末日论调可能是一种分散注意力的手段，行业内对AI智能体管控难度的讨论持续升温。",
-   "source": "The Hill",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNUdGNVdMelFRcEtWcjUweU9SSDNHZGlWLWVteFJYOWcwZGdXZXdGaVBPX3NfZllQM292Q2t4ME10S2p3OFNXMThLcGhpVnJjeFFyRmNJQ0VrN1FqQ1IzNmFCQS04UnZvWnZMRG5sd2VqWEFqYjdLUlMyc0lMdFE0S3BXMVV6d3M1Nmp2anR6UlI1d9IBlwFBVV95cUxQRGRybENaX0pDaFFfdldFQ0hOX195QnYwMnBJc2xsN2Q0ODd2N3BITzAtcDZUdEctaXlDS0xSaUtPN1ZRQk90VW9pWTNiTTZ5MUdBc1JvQms0WDFhMTVOamoxS3p5dXh4Z3AtWWgwbTEzS3JFQk1PWlM0QW0yd0ZJc04ybG5aNGp1cHIzaEN0am96VUV0X3Q0?oc=5",
-   "pubTime": "09-12 06:26",
-   "block": "谷歌精选",
-   "isNew": true
-  },
-  {
    "title": "超过1.5亿份驾照信息遭泄露",
-   "summary": "身份验证巨头IDScan证实发生大规模数据泄露事件，超过1.5亿份驾照信息被窃取，其中包括知名人士皮特·赫格塞斯的个人信息。此次事件引发了公众对个人敏感数据安全及身份验证机构防护能力的严重担忧。",
+   "summary": "身份验证巨头IDScan证实发生大规模数据泄露事件，超过1.5亿份驾照信息被窃取。据悉，包括皮特·海格塞斯在内的多位知名人士的个人信息均在被盗数据之列，引发严重安全担忧。",
    "source": "Lifehacker",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56VVBiRkNyQXZtQ1VvSHJzc1d1RklMMkFHVTNLYWpCRE05VmxfNllvSnpUdUNobXZ4MXdCYUYzVmlfMW5wZmFUX19uLWNSY052TWRZZ0NIaUw2U3M4a3lmOTMxU2lCTzJZRTMwWGpVV25wWTZaY3c?oc=5",
    "pubTime": "09-12 06:17",
@@ -83,8 +74,8 @@
    "isNew": true
   },
   {
-   "title": "华尔街周报：投资者为美联储会议可能加息做准备",
-   "summary": "随着美联储会议临近，市场不确定性增加。投资者正密切关注通胀数据及政策动向，为可能出现的加息做好准备。经济学家普遍认为，美联储若开启加息周期，后续可能不会仅止步于单次行动。",
+   "title": "华尔街周报：投资者为美联储会议上可能出现的加息做准备",
+   "summary": "面对美联储即将召开的不确定性会议，华尔街投资者正严阵以待，市场普遍预期美联储可能采取加息行动，经济学家们正密切关注政策走向及其对科技股和整体市场的影响。",
    "source": "Reuters",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGxBNmhfdWpkb1NxVGxZb2dSOEhrM0hRcjYwakJjdHJSNkVQYjNSWVVIbnlwRDB6Wk1yMFFxNTRYdUppekd1QldEbUZSUkVCWlJzWFlrMVQyS2VTV1hXRFB4Vms3RkNqUG5MTjNGNDhZbG5odFZ6dHdubWZfbXg3Z3ZjOExGOEJZcTdiMmU3eEtiQ1lwQV9zWHk0ODZoaFN4YWZEUUlJZ3B5MTFNRGRNRzlsNmduSjZndUJZMA?oc=5",
    "pubTime": "09-12 05:58",
@@ -92,8 +83,8 @@
    "isNew": true
   },
   {
-   "title": "国会提出新法案，可能将每周工作时间缩短至32小时",
-   "summary": "美国国会提出一项旨在将每周标准工作时间缩短至32小时的新法案。该计划由伯尼·桑德斯推动，但遭到部分商业组织反对，他们担忧此举可能导致生活成本上升并削弱经济竞争力。",
+   "title": "美国国会提出新法案，拟将每周工作时间缩短至32小时",
+   "summary": "美国国会提出一项新法案，旨在将标准工作周缩短至32小时。该提案引发了激烈争议，支持者认为有助于改善生活质量，而反对者则警告称这可能导致生活成本上升并损害经济。",
    "source": "USA Today",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcXFFdkxjLU5sMzBjNWxjRGl5N1dXTHJSUW5fZ0tpN0JQcndzc2w3UVU1UTZqUGc5NVY2VGhnR0NMM0pzQ0p1TUdKb3gxX2NDQnJNVi02VUVVRndJWEFnYXFta2E0NV9VR3JVeG9rbEFfZWFVM1dnbV9qVzdhdGtfY1BhZDBMcEk1U3ZIUmY2NUttWkZMend0VHV0QmNjeWxYX0ZfYW9MX1ZjU1hNWmJBak5pdnFxUjNQMEhIZFF4Z0NWVEo2UHlld1dPXzdHRXUx?oc=5",
    "pubTime": "09-12 05:51",
@@ -101,8 +92,17 @@
    "isNew": true
   },
   {
+   "title": "OpenAI与数学界的矛盾不断升级",
+   "summary": "OpenAI与数学界之间的冲突持续加剧，多位顶尖数学家对OpenAI的研究方法表示强烈不满。双方在数学问题处理及AI应用伦理方面的分歧，已成为科技与学术界关注的焦点。",
+   "source": "TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc2RQUFRoamR5cXpHRmhqU01HNHE3aXgtZmdxNjZMdk9xRmFZSUJhdVczYXhUWXNsOWZuY0d4ZU1vWWJNX1FkU2pnVm52TmNrTFJjb0JuUFQ2UlFwaWszcHVZcFNQY1Q1eXVGblFLQXdJM01zaXhhUUJGeVZkRXhxVWZNUU8wR3c1cXlCdU9kTQ?oc=5",
+   "pubTime": "09-12 04:57",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
    "title": "中国官媒：扶持人工智能须告别粗放比拼",
-   "summary": "中国人工智能产业发展热潮持续，官媒示警，粗放式扶持人工智能的苗头值得警惕，指出一些地区陷入“别人上我也上”的竞赛怪圈，导致低水平重复建设，建议各地告别粗放式比拼，走协同共进、生态深耕之路。 中共中央直属党报《经济日报》星期六（9月12日）发表署名“金观平”的评论文章指出，人工智能产业热潮之下，粗放式扶持人工智能的苗头值得警惕，政策红利转化为产业实效仍存在不少堵点。 评论列举，部分地方补贴差异化不足、标准失衡，造成兑现率偏低、资金闲置浪费；一些地区跟风布局人工智能项目，扶持方案趋同，陷入“别人上我也上”的竞赛怪圈，导致同质化竞争、资源错配乃至低水平重复建设；有的城市重投入轻培育，人才政策短期化，",
+   "summary": "中国官媒《经济日报》发文示警，指出当前人工智能产业存在低水平重复建设与政策补贴失衡等问题。文章呼吁各地告别“别人上我也上”的粗放式竞争怪圈，转而走协同共进、生态深耕的路径，以确保政策红利能真正转化为产业实效。",
    "source": "",
    "url": "https://www.zaobao.com/news/china/story20260912-9666638",
    "pubTime": "09-12 15:40",
@@ -111,7 +111,7 @@
   },
   {
    "title": "日官员称在APEC能源部长会议与中国官员短暂交谈",
-   "summary": "为期两天的2026年亚太经济合作组织（APEC）能源部长会议星期五（9月11日）在北京结束。日本经济产业部政务官越智俊之出席会议，并称与中国能源局长王宏志短暂交谈。 据日本共同社报道，越智俊之会后向媒体透露，他与中国国家能源局局长王宏志短暂站立交谈，主要就能源形势交换了意见。 报道也称，日本农林水产副部长山下雄平在8月出席于杭州举行的APEC粮食安全部长级会议时，也与中国部长级官员进行了接触。 今年7月，中日外长王毅和茂木敏充出席在马尼拉举行的亚细安外长系列会议，共同社和彭博社当时引述茂木敏充称，曾与王毅在场边进行短暂寒暄，谈到双边关系。 中国外交部之后应询时未直接否认中日外长在马尼拉接触交流",
+   "summary": "2026年APEC能源部长会议在北京闭幕，日本经济产业部政务官越智俊之透露，会议期间与中国国家能源局局长王宏志进行了短暂交谈，双方主要就当前能源形势交换了意见。此前，中日两国官员在多场国际会议中均有接触。",
    "source": "",
    "url": "https://www.zaobao.com/news/china/story20260912-9666600",
    "pubTime": "09-12 15:15",
@@ -120,7 +120,7 @@
   },
   {
    "title": "“支付宝假APP”登热搜 可伪造上亿转账截图",
-   "summary": "“支付宝 假APP”话题星期六（9月12日）登上中国社交平台热搜榜，网民曝光称，这类高仿软件能随意伪造转账截图，支付宝安全中心提醒不要轻信网上流传的金额截图，强调将持续配合相关部门打击网络诈骗。 据都市现场、海报新闻等中国媒体报道，多名网友曝光“假支付宝APP”转账视频，这类软件仅需1.8元（人民币，下同，约0.34新元），即可伪造上亿转账截图，甚至暗藏木马病毒盗刷资金。 支付宝安全中心官方微博当天中午就此发布提醒声明称，网上流传的所谓支付宝App截图不一定可信，要注意甄别。 安全中心提醒，面对潜在风险可做到以下几点：一是认准官方渠道下载支付宝App；二要提醒家人特别是长辈勿轻信网上流传的金额",
+   "summary": "近日“支付宝假APP”话题引发关注，网民曝光此类高仿软件仅需少量费用即可伪造上亿转账截图，甚至暗藏木马病毒。支付宝安全中心对此发布提醒，呼吁用户认准官方渠道，切勿轻信网上流传的金额截图，以防遭遇网络诈骗。",
    "source": "",
    "url": "https://www.zaobao.com/news/china/story20260912-9666442",
    "pubTime": "09-12 14:40",
@@ -129,7 +129,7 @@
   },
   {
    "title": "习近平抵达印度 印外交部：习莫预计今天较迟时候会面",
-   "summary": "中国国家主席习近平星期六（9月12日）抵达印度首都新德里，以出席金砖会议。印度外交部称，总理莫迪预计同日晚些时候与习近平会谈。 据中国央视新闻报道，习近平乘专机在当地时间星期六中午抵达新德里，应莫迪邀请，出席金砖国家领导人会晤。 央视新闻早前也报道，陪同习近平出访的有：中共中央政治局常委、中央办公厅主任蔡奇，中共中央政治局委员、外交部部长王毅等。 另一方面，法新社引述印度外交部的信息报道，习近平预计同日晚些时候与莫迪举行面对面会谈。 中国外交部在星期五（11日）回应关于习近平和莫迪是否会在金砖国家领导人会晤期间再次会晤的提问时说，中印双方正在安排两人举行双边会晤，并称“这将是两国领导人继喀山、",
+   "summary": "中国国家主席习近平已抵达印度新德里出席金砖国家领导人会晤。据印度外交部消息，习近平预计将于当地时间周六晚些时候与印度总理莫迪举行面对面双边会谈，这将是两国领导人继喀山会晤后的又一次重要接触。",
    "source": "",
    "url": "https://www.zaobao.com/news/china/story20260912-9666476",
    "pubTime": "09-12 14:31",
@@ -138,7 +138,7 @@
   },
   {
    "title": "大连市长李强接任市委书记 熊茂平被免职官方未提去向",
-   "summary": "中国辽宁大连出现人事调整，中共辽宁省委副书记、常委和大连市委书记熊茂平被免职，官方未提及免职后去向。大连市长李强则接任大连市委书记。 中国《辽宁日报》报道，大连市星期六（9月12日）召开领导干部大会，宣布中共中央关于大连市委主要领导调整的决定。 中央批准李强任辽宁省委常委、大连市委书记，免去熊茂平的辽宁省委副书记、常委和大连市委书记职务。 辽宁省委也决定，辽宁省营口市委书记姚华明任大连市委委员、常委、副书记，免去熊茂平的大连市委常委、委员职务。 省委书记许昆林在大会上讲话时说，这次大连市委主要负责人调整，是以中共总书记习近平为核心的党中央从大局和辽宁工作实际出发，通盘考虑、慎重研究作出的决定，",
+   "summary": "辽宁省大连市召开领导干部大会，宣布中共中央决定：免去熊茂平的大连市委书记职务，由现任大连市长李强接任。此外，营口市委书记姚华明调任大连市委副书记。官方通报中未提及熊茂平被免职后的具体去向。",
    "source": "",
    "url": "https://www.zaobao.com/news/china/story20260912-9666419",
    "pubTime": "09-12 14:11",
@@ -147,7 +147,7 @@
   },
   {
    "title": "韩海警打击中国渔船非法捕捞 查扣一艘驱离91艘",
-   "summary": "韩国海警在仁川大青岛近海打击中国渔船非法捕捞，查扣一艘70吨级渔船，并驱离91艘渔船。 韩联社报道，韩国中部海洋警察厅星期六（9月12日）称，海警星期四（10日）在仁川市瓮津郡大青岛近海打击中国渔船的非法捕捞，查扣一艘70吨级渔船A号，并驱离91艘渔船。 韩国海警称，渔船A号涉嫌于星期四11时30分许越过韩国西部海域北方界线（NLL），在仁川市瓮津郡大青岛近海进行非法捕捞。 韩国海警和海军星期四至星期五（11日）动员20多艘舰艇，在大青岛以东0.4公里处海域将其扣押，并驱离91艘渔船。据悉，A号为木船，事发当时共搭载10名船员，并发现花蟹和海螺等渔获物。 报道称，韩国海警今年集中打击中国渔船非",
+   "summary": "韩国海警近日在仁川大青岛近海开展打击非法捕捞行动，查扣了一艘涉嫌越界捕捞的70吨级中国渔船，并驱离了另外91艘渔船。据悉，被扣渔船载有10名船员，船上发现花蟹和海螺等渔获物，韩国海警今年持续加强了此类执法力度。",
    "source": "",
    "url": "https://www.zaobao.com/news/china/story20260912-9666246",
    "pubTime": "09-12 13:38",
@@ -156,7 +156,7 @@
   },
   {
    "title": "甘肃原副省长雷思维被“双开”",
-   "summary": "任上落马近半年，中共甘肃省委原常委、省政府原副省长雷思维被开除中共党籍和公职，官方通报指他搞权色、权钱交易，为他人在资源勘探、采矿权审批等方面谋利等。 据中共中央纪委国家监委网站消息，经中共中央批准，中央纪委国家监委对雷思维严重违纪违法问题进行了立案审查调查。 通报指，雷思维对组织不忠诚不老实，对抗组织审查；在组织函询时不如实说明问题，在干部选拔任用、职工录用等工作中为他人谋取利益；违规收受礼金，利用职权或者职务上的影响为特定关系人谋取利益，搞权色交易；搞权钱交易，利用职务便利为他人在资源勘探、采矿权审批、环境监测、职务调整等方面谋利，并非法收受巨额财物。 据通报，经中央纪委常委会会议研究并报",
+   "summary": "甘肃省原副省长雷思维因严重违纪违法被开除党籍和公职。经查，其存在对抗组织审查、违规收受礼金、搞权色与权钱交易等问题，并利用职务便利在资源勘探、采矿权审批及职务调整等方面为他人谋利，目前已被立案审查调查。",
    "source": "",
    "url": "https://www.zaobao.com/news/china/story20260912-9666103",
    "pubTime": "09-12 13:02",
@@ -165,7 +165,7 @@
   },
   {
    "title": "开学典礼雨势变大 宁波大学校长弃3000字讲稿只说三句话",
-   "summary": "中国宁波大学星期五（9月11日）举行露天新生开学典礼，校长蔡荣根讲话时下起大雨，他最终放下3000字讲稿，只说了三句话便结束了典礼。 综合中国澎湃新闻和《宁波晚报》报道，这场新生开学典礼当晚在田径场举行。活动开始时，下起了雨，随后雨势时强时弱。 宁波大学微信公众号发布的照片和视频显示，许多出席者穿着雨衣。蔡荣根致词时，有工作人员在旁边帮蔡荣根撑伞遮雨。 蔡荣根走上演讲台后，只说了三句话，就提前结束了典礼。 他第一句用了《水手》的歌词——“这点雨算什么”，勉励新生不惧风雨、从容前行；第二句是“欢迎大家”；最后祝愿新生好好学习，好好生活，打牢基础，成就梦想，在宁大成为更好的自己，整个过程只有40秒",
+   "summary": "宁波大学举行露天新生开学典礼时突降大雨，校长蔡荣根在致辞环节果断放弃了准备好的3000字讲稿，仅用“这点雨算什么”等三句话勉励新生，随后提前结束典礼，这一举动在网络上引发广泛关注与好评。",
    "source": "",
    "url": "https://www.zaobao.com/news/china/story20260912-9666256",
    "pubTime": "09-12 12:31",
@@ -174,7 +174,7 @@
   },
   {
    "title": "中国一网民自编自导“停止资助学生后被催捐” 警方侦办",
-   "summary": "中国一网民在社交平台称“停止资助持有苹果手机学生后遭催捐”，引起舆论愤慨，但事件随后出现反转，警方核查发现，该网民为博取网络关注，自编自导、虚构伪造不实内容，警方已受理案件，正在侦办。 中国媒体报道，姚姓男子9月7日通过社交账号发布一段“聊天记录”，称因认为受助学生使用苹果17Promax手机，不符合资助标准，停止资助该学生后被对方质问催捐。“聊天记录”显示该学生发短信问他：“你的助教当着我班主任的面，亲口说你会资助我到不再读书为止，这才资助了5年就不兑现了，请你尽快打过来，不然我曝光你。” 相关事件随后引发舆论关注，但也有网民对事件的真实性提出质疑。 环球时报星期五（9月11日）报道，从有关",
+   "summary": "一名姚姓网民此前在社交平台发布虚假聊天记录，谎称因受助学生使用高档手机而停止资助，引发舆论争议。经警方核查，该事件系当事人为博取关注而自编自导的虚构内容，目前警方已受理案件并展开进一步侦办。",
    "source": "",
    "url": "https://www.zaobao.com/news/china/story20260912-9666061",
    "pubTime": "09-12 12:05",
@@ -183,7 +183,7 @@
   },
   {
    "title": "特朗普盟友：美国低估中国科技行业",
-   "summary": "不久前访问中国的美国参议员戴安斯认为，美国低估了中国的科技行业，并可能误判了中国科技行业的复杂性。 中美两国元首5月会晤前，被视为美国总统特朗普盟友的戴安斯（Steve Daines）曾前往中国，与中国总理李强、中国外长王毅、中国全国人大常委会委员长赵乐际会面。 戴安斯之后在8月再度访问中国。中国人民外交学会9月在官网公布，外交学会8月26日至30日接待戴安斯一行访问杭州、广州。 中国人民外交学会说，在杭州期间，浙江省省长刘捷会见了戴安斯，就推动中美地方友好往来和各领域务实合作交换了看法。 戴安斯一行也与浙江大学举行了座谈交流，并参访了恩和科技、灵伴科技、地卫二空间技术和群核科技等企业。在广州",
+   "summary": "美国参议员戴安斯在近期两次访华后表示，美国可能误判了中国科技行业的复杂性，并低估了其发展水平。作为特朗普的盟友，戴安斯在访华期间与中国多位高层官员会面，旨在探讨中美地方友好往来及科技领域的合作空间。",
    "source": "",
    "url": "https://www.zaobao.com/news/china/story20260912-9666126",
    "pubTime": "09-12 11:32",
