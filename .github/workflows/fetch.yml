@@ -1,0 +1,75 @@
+name: fetch-news
+
+# 老张自建新闻源 · 每天两场
+#   早咖啡  北京 07:00  = UTC 23:00（前一天）
+#   下午茶  北京 15:20  = UTC 07:20
+# 说明：GitHub schedule 走共享队列可能延迟几分钟（portfolio 因此改走 Cloudflare）。
+#       要用 Cloudflare 心跳精确触发时，对下面的 workflow_dispatch 接口 POST 即可：
+#       POST /repos/homjanon/news-feed/actions/workflows/fetch.yml/dispatches
+#       {"ref":"main","inputs":{"edition":"morning"}}   （Token 需 repo + workflow 权限）
+on:
+  workflow_dispatch:
+    inputs:
+      edition:
+        description: 场次
+        type: choice
+        options: [morning, afternoon]
+        default: morning
+        required: true
+  schedule:
+    - cron: '0 23 * * *'   # 北京 07:00 早咖啡
+    - cron: '20 7 * * *'   # 北京 15:20 下午茶
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-news
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 判定场次（schedule 触发按 UTC 小时；手动触发用输入值）
+        id: ed
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "edition=${{ inputs.edition }}" >> "$GITHUB_OUTPUT"
+          else
+            H=$(date -u +%H)
+            if [ "$H" = "23" ]; then
+              echo "edition=morning" >> "$GITHUB_OUTPUT"
+            else
+              echo "edition=afternoon" >> "$GITHUB_OUTPUT"
+            fi
+          fi
+
+      - name: 抓取并生成 JSON
+        env:
+          AGNES_API_KEY: ${{ secrets.AGNES_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/fetch_news.py --edition "${{ steps.ed.outputs.edition }}" --outdir docs
+
+      - name: 清理超过 7 天的归档
+        run: |
+          mkdir -p docs/news
+          find docs/news -name '*.json' -mtime +7 -delete
+
+      - name: 提交发布
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs
+          if git diff --cached --quiet; then
+            echo "本次无变化，跳过提交"
+          else
+            git commit -m "news: $(TZ=Asia/Shanghai date +%F) ${{ steps.ed.outputs.edition }}"
+            git push
+          fi
