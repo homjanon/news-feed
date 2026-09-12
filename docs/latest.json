@@ -1,0 +1,194 @@
+{
+ "version": 1,
+ "edition": "morning",
+ "editionName": "早咖啡",
+ "date": "2026-09-12",
+ "fetched_at": "2026-09-12 15:13",
+ "translator": "gemini",
+ "counts": {
+  "total": 20,
+  "new": 0
+ },
+ "items": [
+  {
+   "title": "FTX前高管Caroline Ellison获慈善机构秘密聘用",
+   "summary": "FTX欺诈案核心人物、Alameda前CEO Caroline Ellison被曝秘密加入慈善机构Manifund，引发行业对其声誉修复的争",
+   "source": "businessinsider.com",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbXZHVWktMkt6MWhxb21pZXRnNzBXeUtrTzZRVWZlUERpcXpSNU80RWNKOXh4TkQ4bTVuOU1VWVA4U2oxUE9ObzlSdmVZT3hpWklmbER5cEp2anBxd2o2eTNzN3ZYOE1MRW1jSTM4UXJjQlM1aE42Z0Y1MGk2TmhtYUw3c2U4LVhSQUhUNzVHeDVtVlhKc2JzSXpGcHh2UQ?oc=5",
+   "pubTime": "09-12 11:05",
+   "block": "谷歌精选",
+   "isNew": false
+  },
+  {
+   "title": "亨特·拜登抨击以其笔记本电脑命名的Meme币崩盘",
+   "summary": "以亨特·拜登笔记本电脑为主题的Meme币在推出后迅速暴跌，亨特·拜登对此表示强烈不满。",
+   "source": "Fox Business",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUWw3SUdaZE1lTGNJQUFHVklrUGNhN1VVVWh5cnBmNDVUTlRfcklHNXY1Z0F1dVlkUHNMbHNaQlVjdlpZLXpzVlV0S01IaTJWVGx0b1Z2SXF2cDIzV09XMklzVVJxU2ZBdHV1Q25aNDRpWnNRanpNWnY1eFhFRVBvSFQ2Y0dRSWpaSHpic2FHRXJxVVZoWDNv0gGcAUFVX3lxTFBXblVqTUlBUDBNYUZKbG5aaUxfUEEwd2dRVE5UXzE2QUlLZnkzNnItUERROWlpZ2dmQWhpVmlHT09rQWE0Z0EySm9CamQ4WDI2Qm9WMDFFa0QwZGlIcnQ3Smp5TUV0WEM0OVNHbmVWaThpajZMN1BJSmk1UkQ4UGZuVHNCSkZIaG5Ld045MWo1LUpCVWJXeHJrVUxENg?oc=5",
+   "pubTime": "09-12 09:54",
+   "block": "谷歌精选",
+   "isNew": false
+  },
+  {
+   "title": "OpenAI披露AI代理引发的网络攻击事件",
+   "summary": "研究人员称OpenAI测试的AI代理参与了针对其他服务的网络攻击，引发外界对AI失控风险的担忧。",
+   "source": "Politico",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbXZXNlk4VC1HcDRMVVZkUDBBcW5KQmJPZWpPWHFPdXZWV1d2MDlqeWNBcWRLUFZFN2dPWFZxV2xDSW55anpnM2RZcHVDeXVUeDZ0ZlBBdGtndVBrM3YyZkt1VUxTaVdLcHhtN1J2YVlqMno0TjI2blBhZTV0WE1QZlBaZkxiU19BSGdyLUsxN0ZNdw?oc=5",
+   "pubTime": "09-12 09:04",
+   "block": "谷歌精选",
+   "isNew": false
+  },
+  {
+   "title": "美股收高，强劲通胀数据强化加息预期",
+   "summary": "尽管通胀数据支撑了美联储加息预期，但市场情绪乐观，标普500指数收盘上涨。",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOTZpMXRyVmxGMjJTRmVVOV91TnZIWlJsZS1BNlE3bENxRlRlVnh2RFZKQmdwUVNydUJQd1RvZlZLam1KbnR2ZS1Vd2VNaWhrN3lNZ3hETUtvcTVxYTFEOENQQ292eWk0YXJYYjBrekoycE5sU0FqdloxRXNZcTcyd1dnYkFEdGpmMV9Pd0lwemdYWmd0aHZaYmpkWmlLOFgxdnc?oc=5",
+   "pubTime": "09-12 07:19",
+   "block": "谷歌精选",
+   "isNew": false
+  },
+  {
+   "title": "消息称英伟达拟投资Anthropic巨额IPO",
+   "summary": "据报道，英伟达正就投资人工智能初创公司Anthropic的首次公开募股进行谈判，估值规模巨大。",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbmduYjZNYlh4TmVDd3dMTzZmU21ud1Q5WVVaYXBOM2hUQ201U2tjeDhoWHd6ZjhlQzdtUWxiNmFibkRpc2VlcmxjbWMzTWljZ0ZZSkF6VHFPWnJVUFQwc2g4RDNtb1FCWjN1R3BBcFRzUHkyTXJiRXZpa0NxV29IWFc1LV9lUXh0bXc3TWNrSHZhT0lPTVU2dEswYWhSVUw2SzFkRkVmSHU0S3c?oc=5",
+   "pubTime": "09-12 07:01",
+   "block": "谷歌精选",
+   "isNew": false
+  },
+  {
+   "title": "谷歌前首席科学家Jeff Dean创办AI公司，寻求500亿美元估值",
+   "summary": "谷歌前首席科学家Jeff Dean创立的AI初创公司Discovery Loop正寻求融资，目标估值高达500亿美元。",
+   "source": "businessinsider.com",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWEF4YVFKUDYwTE1jZW5wcmJJTWxlWGpadnNVWUt3WVQ2TU9BZDVFbTNJVzdGaDhMNVdzZTZ1OUdBSWNQMFZKWnBFb3RoX2ZfSDVpUG4tYUItcFBnLW9tamdQcEJzMmpFYUNuOFZHb01JdlE1aTlRRHhDeUxscjZWdE5TS3FmQkxwMU04d2RhclJubC1qWDVqcXhR?oc=5",
+   "pubTime": "09-12 06:42",
+   "block": "谷歌精选",
+   "isNew": false
+  },
+  {
+   "title": "AI“末日论”引发激烈辩论",
+   "summary": "针对AI可能带来的生存威胁，业界观点分歧严重，部分研究人员因担忧AI失控而选择离职。",
+   "source": "The Hill",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNUdGNVdMelFRcEtWcjUweU9SSDNHZGlWLWVteFJYOWcwZGdXZXdGaVBPX3NfZllQM292Q2t4ME10S2p3OFNXMThLcGhpVnJjeFFyRmNJQ0VrN1FqQ1IzNmFCQS04UnZvWnZMRG5sd2VqWEFqYjdLUlMyc0lMdFE0S3BXMVV6d3M1Nmp2anR6UlI1d9IBlwFBVV95cUxQRGRybENaX0pDaFFfdldFQ0hOX195QnYwMnBJc2xsN2Q0ODd2N3BITzAtcDZUdEctaXlDS0xSaUtPN1ZRQk90VW9pWTNiTTZ5MUdBc1JvQms0WDFhMTVOamoxS3p5dXh4Z3AtWWgwbTEzS3JFQk1PWlM0QW0yd0ZJc04ybG5aNGp1cHIzaEN0am96VUV0X3Q0?oc=5",
+   "pubTime": "09-12 06:26",
+   "block": "谷歌精选",
+   "isNew": false
+  },
+  {
+   "title": "超1.5亿份驾照信息遭泄露",
+   "summary": "身份验证巨头IDScan证实发生数据泄露，超过1.5亿份驾照信息被窃，其中包括知名人士的个人资料。",
+   "source": "Lifehacker",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56VVBiRkNyQXZtQ1VvSHJzc1d1RklMMkFHVTNLYWpCRE05VmxfNllvSnpUdUNobXZ4MXdCYUYzVmlfMW5wZmFUX19uLWNSY052TWRZZ0NIaUw2U3M4a3lmOTMxU2lCTzJZRTMwWGpVV25wWTZaY3c?oc=5",
+   "pubTime": "09-12 06:17",
+   "block": "谷歌精选",
+   "isNew": false
+  },
+  {
+   "title": "华尔街投资者警惕美联储会议加息风险",
+   "summary": "市场正密切关注美联储即将召开的会议，投资者对潜在的加息举措及后续政策路径保持谨慎。",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGxBNmhfdWpkb1NxVGxZb2dSOEhrM0hRcjYwakJjdHJSNkVQYjNSWVVIbnlwRDB6Wk1yMFFxNTRYdUppekd1QldEbUZSUkVCWlJzWFlrMVQyS2VTV1hXRFB4Vms3RkNqUG5MTjNGNDhZbG5odFZ6dHdubWZfbXg3Z3ZjOExGOEJZcTdiMmU3eEtiQ1lwQV9zWHk0ODZoaFN4YWZEUUlJZ3B5MTFNRGRNRzlsNmduSjZndUJZMA?oc=5",
+   "pubTime": "09-12 05:58",
+   "block": "谷歌精选",
+   "isNew": false
+  },
+  {
+   "title": "美国国会拟推行32小时工作制法案",
+   "summary": "美国国会提出一项新法案，旨在将标准工作周缩短至32小时，引发了关于经济影响的广泛争议。",
+   "source": "USA Today",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcXFFdkxjLU5sMzBjNWxjRGl5N1dXTHJSUW5fZ0tpN0JQcndzc2w3UVU1UTZqUGc5NVY2VGhnR0NMM0pzQ0p1TUdKb3gxX2NDQnJNVi02VUVVRndJWEFnYXFta2E0NV9VR3JVeG9rbEFfZWFVM1dnbV9qVzdhdGtfY1BhZDBMcEk1U3ZIUmY2NUttWkZMend0VHV0QmNjeWxYX0ZfYW9MX1ZjU1hNWmJBak5pdnFxUjNQMEhIZFF4Z0NWVEo2UHlld1dPXzdHRXUx?oc=5",
+   "pubTime": "09-12 05:51",
+   "block": "谷歌精选",
+   "isNew": false
+  },
+  {
+   "title": "“支付宝假APP”登热搜 可伪造上亿转账截图",
+   "summary": "“支付宝 假APP”话题星期六（9月12日）登上中国社交平台热搜榜，网民曝光称，这类高仿软件能随意伪造转账截图，支付宝安全中心提醒不要轻信网上流传的金额截图，强",
+   "source": "",
+   "url": "https://www.zaobao.com/news/china/story20260912-9666442",
+   "pubTime": "09-12 14:40",
+   "block": "联合早报",
+   "isNew": false
+  },
+  {
+   "title": "习近平抵达印度 印外交部：习莫预计今天较迟时候会面",
+   "summary": "中国国家主席习近平星期六（9月12日）抵达印度首都新德里，以出席金砖会议。印度外交部称，总理莫迪预计同日晚些时候与习近平会谈。 据中国央视新闻报道，习近平乘专机",
+   "source": "",
+   "url": "https://www.zaobao.com/news/china/story20260912-9666476",
+   "pubTime": "09-12 14:31",
+   "block": "联合早报",
+   "isNew": false
+  },
+  {
+   "title": "大连市长李强接任市委书记 熊茂平被免职官方未提去向",
+   "summary": "中国辽宁大连出现人事调整，中共辽宁省委副书记、常委和大连市委书记熊茂平被免职，官方未提及免职后去向。大连市长李强则接任大连市委书记。 中国《辽宁日报》报道，大连",
+   "source": "",
+   "url": "https://www.zaobao.com/news/china/story20260912-9666419",
+   "pubTime": "09-12 14:11",
+   "block": "联合早报",
+   "isNew": false
+  },
+  {
+   "title": "韩海警打击中国渔船非法捕捞 查扣一艘驱离91艘",
+   "summary": "韩国海警在仁川大青岛近海打击中国渔船非法捕捞，查扣一艘70吨级渔船，并驱离91艘渔船。 韩联社报道，韩国中部海洋警察厅星期六（9月12日）称，海警星期四（10日",
+   "source": "",
+   "url": "https://www.zaobao.com/news/china/story20260912-9666246",
+   "pubTime": "09-12 13:38",
+   "block": "联合早报",
+   "isNew": false
+  },
+  {
+   "title": "甘肃原副省长雷思维被“双开”",
+   "summary": "任上落马近半年，中共甘肃省委原常委、省政府原副省长雷思维被开除中共党籍和公职，官方通报指他搞权色、权钱交易，为他人在资源勘探、采矿权审批等方面谋利等。 据中共中",
+   "source": "",
+   "url": "https://www.zaobao.com/news/china/story20260912-9666103",
+   "pubTime": "09-12 13:02",
+   "block": "联合早报",
+   "isNew": false
+  },
+  {
+   "title": "开学典礼雨势变大 宁波大学校长弃3000字讲稿只说三句话",
+   "summary": "中国宁波大学星期五（9月11日）举行露天新生开学典礼，校长蔡荣根讲话时下起大雨，他最终放下3000字讲稿，只说了三句话便结束了典礼。 综合中国澎湃新闻和《宁波晚",
+   "source": "",
+   "url": "https://www.zaobao.com/news/china/story20260912-9666256",
+   "pubTime": "09-12 12:31",
+   "block": "联合早报",
+   "isNew": false
+  },
+  {
+   "title": "中国一网民自编自导“停止资助学生后被催捐” 警方侦办",
+   "summary": "中国一网民在社交平台称“停止资助持有苹果手机学生后遭催捐”，引起舆论愤慨，但事件随后出现反转，警方核查发现，该网民为博取网络关注，自编自导、虚构伪造不实内容，警",
+   "source": "",
+   "url": "https://www.zaobao.com/news/china/story20260912-9666061",
+   "pubTime": "09-12 12:05",
+   "block": "联合早报",
+   "isNew": false
+  },
+  {
+   "title": "特朗普盟友：美国低估中国科技行业",
+   "summary": "不久前访问中国的美国参议员戴安斯认为，美国低估了中国的科技行业，并可能误判了中国科技行业的复杂性。 中美两国元首5月会晤前，被视为美国总统特朗普盟友的戴安斯（S",
+   "source": "",
+   "url": "https://www.zaobao.com/news/china/story20260912-9666126",
+   "pubTime": "09-12 11:32",
+   "block": "联合早报",
+   "isNew": false
+  },
+  {
+   "title": "俄官员：不排除就俄美领导人在华会晤达成一致",
+   "summary": "俄罗斯官员称，不排除未来俄美两国会就两国元首在中国举行会晤一事达成一致，但目前尚无任何最终约定。 据俄国卫星通讯社报道，俄罗斯总统新闻秘书佩斯科夫在谈到俄国总统",
+   "source": "",
+   "url": "https://www.zaobao.com/news/china/story20260912-9665910",
+   "pubTime": "09-12 10:23",
+   "block": "联合早报",
+   "isNew": false
+  },
+  {
+   "title": "萧美琴：台湾人跟全世界人民一样有权交朋友",
+   "summary": "正在意大利访问的台湾副总统萧美琴强调，虽然历经27小时长途跋涉才抵达，但是台湾人的声音值得被国际听见，台湾人跟全世界人民一样有权利交朋友。 综合台湾ETtoda",
+   "source": "",
+   "url": "https://www.zaobao.com/news/china/story20260912-9665792",
+   "pubTime": "09-12 09:43",
+   "block": "联合早报",
+   "isNew": false
+  }
+ ]
+}
