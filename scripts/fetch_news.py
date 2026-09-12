@@ -130,15 +130,20 @@ def fetch_source(cfg):
 
 
 def llm_translate(items, tcfg):
-    """对 block 含需翻译条目做「译标题+摘要」。任一模型成功即返回；全失败保留原文。"""
-    todo = [i for i in items if i.get("_need_translate")]
+    """对 LLM 源的条目做「AI 摘要」。任一模型成功即返回；全失败降级截断摘要（不空窗）。
+    标题：英文 → 译成中文；已是中文（联合早报）→ 原样保留，不改写。
+    摘要：40~summary_max 字中文摘要（2026-09-12 用户要求；不再对早报做 desc[:80] 硬切）。"""
+    todo = [i for i in items if i.get("_llm")]
     if not todo:
         return "none"
+    smin = int(tcfg.get("summary_min", 40))
     smax = int(tcfg.get("summary_max", 60))
     sys_prompt = (
-        "你是财经新闻编辑。输入是 JSON 数组 [{\"i\":序号,\"title\":英文标题,\"desc\":英文摘要}]。"
-        f"输出同样是 JSON 数组 [{{\"i\":序号,\"title\":中文标题,\"summary\":中文摘要}}]，"
-        f"title 翻译成简洁中文（专有名词保留通用译名），summary 不超过 {smax} 字、概括要点。"
+        "你是财经新闻编辑。输入是 JSON 数组 [{\"i\":序号,\"title\":标题,\"desc\":正文开头}]。"
+        "输出同样是 JSON 数组 [{\"i\":序号,\"title\":标题,\"summary\":中文摘要}]，规则："
+        "① title：若输入是英文则译成简洁中文（专有名词用通用译名）；若输入已是中文，必须一字不改原样返回；"
+        f"② summary：{smin}~{smax} 字左右的中文摘要，把正文开头的核心事实整理成完整通顺的一段话；"
+        "要点较多时可适当超出字数——信息完整比控制字数更重要，不逐字照抄、绝不以半句话截断结尾。"
         "只输出 JSON 数组本身，不要任何解释、不要 markdown 代码块。")
     for m in tcfg.get("models", []):
         key = os.environ.get(m.get("key_env", ""))
@@ -169,20 +174,25 @@ def llm_translate(items, tcfg):
             arr = json.loads(text)
             if not isinstance(arr, list) or len(arr) != len(todo):
                 raise RuntimeError(f"返回条数不符（期望 {len(todo)}，得 {len(arr) if isinstance(arr, list) else '非数组'}）")
+            changed_title = 0
             for row in arr:
                 i = int(row.get("i", -1))
-                if 0 <= i < len(todo):
-                    t = str(row.get("title", "")).strip()
-                    s = str(row.get("summary", "")).strip()
-                    if t:
-                        todo[i]["title"] = t
-                    if s:
-                        todo[i]["summary"] = s[: smax + 10]
-            log(f"  🌐 中文化完成（{m['name']} / {m['model']}，{len(todo)} 条）")
+                if not (0 <= i < len(todo)):
+                    continue
+                it = todo[i]
+                t = str(row.get("title", "")).strip()
+                s = str(row.get("summary", "")).strip()
+                # 中文标题一律保留原样（防 LLM 擅自改写事实性标题）；仅英文标题采纳译文
+                if it["_translate_title"] and t:
+                    it["title"] = t
+                    changed_title += 1
+                if s:
+                    it["summary"] = s   # 原样保留，不做截断（2026-09-12 用户指示：信息完整优先）
+            log(f"  🌐 AI 摘要完成（{m['name']} / {m['model']}，{len(todo)}条，译标题 {changed_title} 条）")
             return m["name"]
         except Exception as e:
             log(f"  ⚠️ {m['name']} 失败：{type(e).__name__}: {str(e)[:120]}")
-    log("  ⬇️ 翻译全部失败，降级保留英文原标题（不空窗）")
+    log("  ⬇️ AI 摘要全部失败，降级为截断摘要（不空窗）")
     return "none(原文)"
 
 
@@ -233,7 +243,9 @@ def main():
             continue
         for i in items:
             i["block"] = src["block"]
-            i["_need_translate"] = bool(src.get("translate"))
+            i["_llm"] = bool(src.get("translate"))
+            # 标题含 CJK（联合早报）→ 保留原标题只做摘要；纯英文（谷歌）→ 标题也译
+            i["_translate_title"] = not re.search(r"[\u4e00-\u9fff]", i["title"])
         if src.get("translate"):
             translator = llm_translate(items, tcfg)
         all_items.extend(items)
@@ -257,7 +269,7 @@ def main():
         },
         "items": [{
             "title": i["title"],
-            "summary": i.get("summary", i["desc"][:80]),
+            "summary": i.get("summary") or i["desc"],   # AI 失败时降级用 RSS 原文开头，不截断
             "source": i["source"],
             "url": i["url"],
             "pubTime": bj_pub(i["pubDate"]),
