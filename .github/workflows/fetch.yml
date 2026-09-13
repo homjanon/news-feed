@@ -3,8 +3,8 @@ name: fetch-news
 # 老张自建新闻源 · 每天两场
 #   早咖啡  北京 07:00  = UTC 23:00（前一天）
 #   下午茶  北京 15:20  = UTC 07:20
-# 说明：GitHub schedule 走共享队列可能延迟几分钟（portfolio 因此改走 Cloudflare）。
-#       要用 Cloudflare 心跳精确触发时，对下面的 workflow_dispatch 接口 POST 即可：
+# 触发方式（单通道 2026-09-13 起）：由 Cloudflare Worker qdii-dispatch 定时调用
+#   workflow_dispatch 触发（心跳每 5 分钟，到点 POST 下面接口），GitHub 侧不再配置 schedule：
 #       POST /repos/homjanon/news-feed/actions/workflows/fetch.yml/dispatches
 #       {"ref":"main","inputs":{"edition":"morning"}}   （Token 需 repo + workflow 权限）
 on:
@@ -16,9 +16,6 @@ on:
         options: [morning, afternoon]
         default: morning
         required: true
-  schedule:
-    - cron: '0 23 * * *'   # 北京 07:00 早咖啡
-    - cron: '20 7 * * *'   # 北京 15:20 下午茶
 
 permissions:
   contents: write
