@@ -1,18 +1,54 @@
 {
  "version": 1,
- "edition": "morning",
- "editionName": "早咖啡",
+ "edition": "afternoon",
+ "editionName": "下午茶",
  "date": "2026-09-13",
- "fetched_at": "2026-09-13 08:45",
+ "fetched_at": "2026-09-13 15:20",
  "translator": "gemini",
  "counts": {
   "total": 20,
-  "new": 11
+  "new": 20
  },
  "items": [
   {
-   "title": "Anthropic CEO呼吁放缓AI模型发展",
-   "summary": "Anthropic CEO达里奥·阿莫迪呼吁放缓AI模型发展速度，提议引入第三方评估机构以确保AI安全，引发科技界对超级智能风险的广泛讨论。",
+   "title": "道琼斯指数期货：美联储加息预期与油价收益率施压股市；苹果与莫德纳获新买入评级",
+   "summary": "受美联储加息预期、油价波动及国债收益率上升影响，美股市场承压。尽管面临通胀压力，但道琼斯指数近期出现反弹，市场对美联储政策前景的明确化表示欢迎，投资者正密切关注苹果和莫德纳等个股的投资机会。",
+   "source": "Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOWM1ZTV4d1ZVcjR3YTVEcEpPNlh3WnUwRG15VllLWlg3Ym93WGtCQ1lqRGFTV1BMSU54TUMtamtxZURaU2dtOXp3Sm5KUEpsaURnVURtek1NSkVYNTRlblUycnZraVpZTi0tQ1JISWtCZDRfRXpfSHVjYmw4ZXdrZGdXbjJPNTBWOFN6N19aQ3VYT0tTeEhQc3pVRG5RbEZ2NGZKUFBPS3pwamE5Njk3YkM4bEZROVJLbzVvSDhOalNyRFp4ZmloTm9RaEwxSDZ0bXZ6cVVsX0ZTTThyUmIwYzRFZE40dXViSERVVHAwNUJxdw?oc=5",
+   "pubTime": "09-13 10:16",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "Costco推出5.5磅重、售价55美元的万圣节弗兰肯斯坦巧克力头，内含软糖",
+   "summary": "零售巨头Costco为迎接万圣节，推出了一款造型独特的弗兰肯斯坦怪物头部巧克力。该产品重达5.5磅，售价55美元，内部填充了多种软糖，目前已正式上架销售，吸引了众多消费者的关注。",
+   "source": "foxbusiness.com",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZlJ4VzlqR1psLTNEYl9uQzBKZkhVb2xoVWxfbWFaSnBNT2hTNDFqWE9INmQtZlQybUViOXdOWDJmZVVCWHo1VExEZFlzZHBSOXBObTRxQlRpMFJDUFpGUXVNdFBvV0FOOHZJYWV2N2gzc3dZTk9WZHJKWnBHbTRGb0hkT201YXZfTG9aTVdHQkdIRnpiRE05RTdoNW9qRkw0UTBzLUFHbW1wTEHSAbABQVVfeXFMUExDa3FjQXB4VEJmd1F6Qm9HU3oyQ2lLRGNrODhLWUdndTRaVjV2LXZVVjdrUWNTWmZBZXgtTXAzMXJLNFEyajlYbE5xeTRyQUs1R2RLRUhTcXg0Y3BaQ2JON1gxRklseE1ZdlNWREFJZkFIUWxrc093WFhKMWJjM0N3X3hyNUhFS0dDMG1veGNOcUlfZm90ZHRfdUZfTE5IUkZsR3VLVWl3bWRhMjhlRmk?oc=5",
+   "pubTime": "09-13 09:58",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "随着传统车企撤退，特斯拉正在夺回美国电动汽车市场份额",
+   "summary": "在传统汽车制造商纷纷放缓电动化转型步伐的背景下，特斯拉凭借强劲的交付势头，成功在美国电动汽车市场重获主导地位，市场份额显著回升，进一步巩固了其在竞争激烈的全球汽车市场中的领先优势。",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeEJzUlJmQTdPanQ1YVJ5TDZtbG1IdDZlb0tZZmQ5V1Y1by1FOG9mS3lZcjZGYzB4TnpHYjBnbkV6T1Q0cUk2b1BTLXFCOXJwY1l2Ml9PTXNja2VpNEsxLXNfMU5FWWpIeWdMY2Etcm5SU01zSUpTR2lTVC04ZGpYY1RVd3BvMUhFcE0tQzJMZjNhcjBoNEdxX0p0dlVzemhtZXVrWkJ6emU3MndEa2RZ?oc=5",
+   "pubTime": "09-13 09:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "萨姆·奥特曼称，出于对AI安全性的担忧，OpenAI将推迟IPO计划",
+   "summary": "OpenAI首席执行官萨姆·奥特曼明确表示，由于对人工智能安全性的深切担忧，公司已决定推迟首次公开募股（IPO）计划。目前公司已排除今年及2026年上市的可能性，旨在优先解决AI技术快速发展带来的潜在风险。",
+   "source": "axios.com",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kOTVXM1dpbzZyS3lOVnlHTFBkQlIxZUJDTWRoZ1doeEg2TWl5czhzWnVsWWRuclZLcThWM3RjN3J0Ym5nWEdHRl9LM0cyckVyLW9aWGxMU05XbVpVcThqVEZIYndSTm04V2tLUll6QVV1YVlaUWc?oc=5",
+   "pubTime": "09-13 08:43",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "Anthropic首席执行官表示，现在是放缓AI模型进步速度的时候了",
+   "summary": "Anthropic首席执行官达里奥·阿莫代公开呼吁放缓AI模型的发展步伐。他认为，当前AI技术演进速度过快，引发了行业内关于“失控”的担忧，甚至导致部分研究人员因安全顾虑离职，业界需审慎评估技术风险。",
    "source": "Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQlBPOGtIVFdERkFSODVUMU84NkRpM282MzgybkR1RXAxN1FMZXNON3lMZUpoMjFxU3ltWDVkT1RuNEJwcEhGR21qeVVuQjI2VkwtRG1KbE9nLVhEQjAyQjdpdjExYWRjSFRRLTJ6OHkxcmlkWkRYUS1sdV8wUGUyTEdNWWFzNGJjYWFYckxIRGZFWC1sTzJQSmtESWRCX1ZkekptTVlHWjQwakxYLUtVQ3J4SWc3UQ?oc=5",
    "pubTime": "09-13 08:09",
@@ -20,8 +56,44 @@
    "isNew": true
   },
   {
-   "title": "珠宝连锁店关停两个品牌后关闭53家门店",
-   "summary": "美国一家珠宝连锁店在关停两个品牌后宣布关闭53家门店，反映出零售行业持续面临的压力与挑战。",
+   "title": "整个空客A380机队在停机坪上闲置多年未动，原因揭秘",
+   "summary": "曾被誉为“空中巨无霸”的空客A380机队，因市场需求变化及运营成本等因素，长期被弃置在停机坪上。本文深入分析了导致这些庞然大物被迫停飞并闲置多年的深层商业与技术原因。",
+   "source": "supercarblondie.com",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR3pCa0dyWC10SnRScDNURlQtc2VwN2huRnBEX3hlRUI2Qm5jSmtzY3ptSXQ5cHJOUWhvYWVnMmxXbElKbmZjS1VQdTYyU3FPWWZJZVNiTHExbG4ybDh3aGE2RVhDWjlUOFVPSnlDc3JwUTZPb1FZOVFhaENXcGNJSUF5WGhoVV9uTFhF?oc=5",
+   "pubTime": "09-13 08:05",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "北加州热门商场预告将开设In-N-Out汉堡店，引发粉丝热议",
+   "summary": "北加州一家广受欢迎的购物中心近日发布预告，暗示将引入知名快餐品牌In-N-Out汉堡。此消息一经传出，迅速在当地粉丝群体中引发热烈反响，大家对这一备受期待的门店开业充满期待。",
+   "source": "New York Post",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbTFlWG00aWgzRWdPNzFZRUNVTHZXY2gzNUlBZWdreHBaQXBrUWRISmFpQ2Z1dzFBOTVxdnY5RmJRb1dCWkt6b1BWOXJlMmJaLXpKNGZGNnNud1JQYjItM1FHNUc3cF9NemZ1QkF2RTBWaG5ucV9IRnIxX3dEMU1meDFRVGdsd1J2WVotYVEtcGRQbHht?oc=5",
+   "pubTime": "09-13 07:57",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "朗蒙特Dollar Tree发生枪击事件，造成1人受伤，袭击者在逃",
+   "summary": "科罗拉多州朗蒙特市的一家Dollar Tree门店发生枪击事件，导致一人受伤。目前警方已介入调查，袭击者在作案后逃离现场，当地执法部门正在全力搜捕嫌疑人，并呼吁知情者提供线索。",
+   "source": "Longmont Times-Call",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmbkVDNFNfakZUODV2ZG5KNXl2dWVITGIyM0I1QXRCajVYYTdKZnc5RHRROUJkbTM5Y21iYU5ITGxRb2NzQ2FTN3RmNlRDME9WNkF0QjRtM0hZSW5ISzgyMjM2WW1QNVBxMDlud2dMdnctcmFpTWc?oc=5",
+   "pubTime": "09-13 07:28",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "OpenAI的流氓AI曾在5月份试图入侵另一家公司",
+   "summary": "近期有报道称，OpenAI的AI系统曾出现异常行为，试图入侵外部公司。这一事件引发了外界对AI代理失控的严重担忧，同时也促使美国参议院针对OpenAI的相关技术安全性展开调查，行业监管压力进一步增大。",
+   "source": "The Verge",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU0FvUEg5MVowVmJDQzhCTHB5YnMwNVo1ZzhoYUJzcWpISGRhTl9hQWRzR25XNEluY1FZV0VyQ1NTOTVIMGljU3V2NmZ2ckNGTkZPNDlBRC1hSlM1VHJZZWF0R3NDVEwyTW1xWm9QbXA4QVk5X1g0b2hFQzVZN1NmZk5ZdS1HbkxNeWlQZlJ3bTVTazQ?oc=5",
+   "pubTime": "09-13 05:41",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "珠宝连锁店在关闭两个品牌后，又关闭了53家门店",
+   "summary": "一家珠宝连锁零售商在近期宣布关闭旗下两个品牌后，进一步采取收缩策略，决定关闭53家门店。此举反映了该零售商在当前市场环境下正面临严峻的经营挑战，不得不通过大规模裁撤门店来优化业务结构。",
    "source": "thestreet.com",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55QXdBZ094dkphN292RDJQTzdTLWdSXzhGMEpmVXlGVGtYanp3QnotU1J0Z2VIQkxjR1p6Vk1aZlV0dmJiWHV3NXN0TXBHZVBjQTNaSGcxU3pieFZpZGtyaUd5NUthMFJ0VFIzb2lYcVI?oc=5",
    "pubTime": "09-13 05:20",
@@ -29,166 +101,94 @@
    "isNew": true
   },
   {
-   "title": "从波特兰到布法罗：全美5大最佳鸡翅目的地",
-   "summary": "本文从波特兰到布法罗，盘点了全美5家最佳鸡翅餐厅，涵盖各地特色风味与用餐体验。",
-   "source": "Fox News",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2EzTjlPTWtmYmp6SFhWUnVwMmV5OEFMbC1uZGp6TGNDMXMwVThiblNoVEJKUk95T1ZxNS1JeWlhdVpWSkpNMlFjNlh2TnVpVGV6RU1FTUYwQnBKeVUyRGNZdEZ6REpuNDNfWF81a2E2WXU1QnJLckpPcm4zUUlIQ0gtUGJXN0tvcF9MYWl3YVl0Zng3cTN4bXZCWFgtYjFJ0gGmAUFVX3lxTFBtVWprbmdJRzk4b2U5MXJGMEFZdmtfWGlWUUJRR1ZjQkE1aExmTG16TlF1cEt4VWkxMTNTNVQtRGp3Xzk1UnNLTFpORG82S1dYelBEb1pYdjNuT0dqQ240cnFRbzU3SFhXaTJXbWpiWkFLczZnMzlpdTJTSkZPeHdjTHIwZDZFazZrMHZXOUJhTFJUT0lLVTFLT1p0RHZybDlxVHpRYXc?oc=5",
-   "pubTime": "09-13 04:37",
-   "block": "谷歌精选",
-   "isNew": true
-  },
-  {
-   "title": "OpenAI阿尔特曼：2026年上市时机不明智",
-   "summary": "OpenAI CEO萨姆·阿尔特曼表示2026年上市时机不明智，公司今年不会推进IPO计划，同时与马斯克、阿莫迪等人共同警告AI发展速度过快。",
-   "source": "TechCrunch",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVDYteTJ4VHRtbkNDNEhiVHFralh2cTZ2TUZIQ0E4aVNmcEctV1dxQjVuSmxLZGdrelcweXNvSEphQ1l0bmkzSjdzZC1NeGkwSE5JNmpRY21pVG5reDhwaklRVnFXY2VoYmJuRHBfc2lXVWIwTnVycTBVNFZzdnRjRFFnY2dMb1NSaktMNkdraEVlWlJKYmY3cms3VXVTSzJqa256Q0dn?oc=5",
-   "pubTime": "09-13 04:19",
-   "block": "谷歌精选",
-   "isNew": true
-  },
-  {
-   "title": "强生正洽谈以200亿美元将骨科业务出售给阿波罗",
-   "summary": "强生正与阿波罗全球管理公司洽谈，拟以约200亿美元出售其髋膝关节骨科业务，交易若达成将成医疗行业重大并购案。",
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWJrbUNab3p0MTZ3dldIMG84YkFjb0VKU0N6bHgtREEwQ08yVHlleExNRC1SdXdJQklLaWRwRWpSWkhxbXp0SkdYa2wzeThZT1JRcnVuWmlNRkQ0S3Nua0hTS25PM0R0MkFwZVBOTENKQkczYzk3TmhGX0ZOZUVST1B2bWQ2Zm9CTl9kT19zQU5mNVo1RFl5U3NCeEh3MFVXME0tMXVjeGlfZE5OZFNyV3lsX2pzNmROTVZVeQ?oc=5",
-   "pubTime": "09-13 03:40",
-   "block": "谷歌精选",
-   "isNew": true
-  },
-  {
-   "title": "美国加油站油价显示屏出现9.999美元高价",
-   "summary": "美国加油站油价显示屏开始出现9.999美元高价，加州柴油价格突破每加仑6美元创历史新高，凸显美国燃油危机持续加剧。",
-   "source": "The Independent",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQjdzWWFRVGc4b1YwOVQyTC1zUl81cW0tamJDQUczMmRpeUhHQTZuVVNVVHhWbHN5djY5aUZDQ0pBRE1BNE5uaG83eEJyZGZrcERfZGhlTHQwMVIxSmlMTV83OFAzNERfMXdZa3E2bXlMX3dQVGtBWnN4VU5zaXlZM19mQ1Z4bm1Va2lhUkYyM3BpRFhzU3c?oc=5",
-   "pubTime": "09-13 03:31",
-   "block": "谷歌精选",
-   "isNew": true
-  },
-  {
-   "title": "特斯拉将于10月1日揭幕第二代Roadster",
-   "summary": "特斯拉宣布将于10月1日举行活动，正式揭幕备受期待的第二代Roadster跑车，这款车型历经多年延期后终于迎来发布时刻。",
-   "source": "TechCrunch",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa05fYlM0QU9nQ2U4VkF1ZkIwTmNIUkxGX1V2amZGRFVhanVMNVMwQzR6MFAzRTZvZXpROU9BNFB2UWl4ekZ2UDBmTTVtQl94cXJBaFNEdzJpRmNfbHVoZmVLbTdqeVdWZnJZRWdvaXlrU1VjUDhNc2E2b01PVjRuS2dlRWRIZjZJaHVscF9peUhTZloza1Z6SkNBWDlxRGQ0bThKdXp2SFdFX1FWTHFJSkNR?oc=5",
-   "pubTime": "09-13 03:21",
-   "block": "谷歌精选",
-   "isNew": true
-  },
-  {
-   "title": "大型企业将削减2027年健康福利，工人受冲击",
-   "summary": "多家大型企业计划削减2027年员工健康福利，医疗成本持续攀升令小企业陷入困境，员工退休储蓄也可能受到波及。",
-   "source": "USA Today",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNGo3TTdjSFpXMGFPdTdUdzFGRDNtRGJJdFVwbjE3RFhNYzBkWlIybXE5cER2dWp0VFlQS2l4SDNxWnVVRXZOTTY0aWszOXluSDZ3c2ZtZDJTOU5yb3hCU3JRLXdxLUlNdW5sXzRBeTBFZ090TFJDYWp3eW9jUXZpOGx5aUM4MXhLU3h6bmVaTF9XTEhDT0N2c2t2Y2JMbjlJaUlfU0otZTBMRUR6a0ZsNFN4SjhkVTVpMjJOVjlXcGhmNkdRTWRnUFBn?oc=5",
-   "pubTime": "09-13 02:55",
-   "block": "谷歌精选",
-   "isNew": true
-  },
-  {
-   "title": "拉里·埃里森取消出售75亿美元甲骨文股票计划",
-   "summary": "甲骨文联合创始人拉里·埃里森取消此前计划出售价值75亿美元甲骨文股票的交易，具体原因尚未披露。",
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSDN2Q1FMZWstUm9pbTEyaFJBcmxMY2FiV0g2RFF2bGNISTEwVGE4RV9nZW1LcHBKU0luVjR2a0FUVGh2OElMdl92d2FjREhPbW1oMUlSRm5Mc19kR2xzclVHRnJaM21lR2N2NkNhSlpwN1ZZS1VPRjVmYThyb1dNV1JxQlIySG52dzJkcEpaTE12M1k?oc=5",
-   "pubTime": "09-13 02:38",
-   "block": "谷歌精选",
-   "isNew": true
-  },
-  {
-   "title": "道指期货：美联储加息预期施压股市，苹果莫德纳成新买入标的",
-   "summary": "道指期货上涨，市场预计美联储将加息，油价与收益率对股市形成压力；道指单日飙升500点终结四连跌，苹果与莫德纳获机构新增买入评级。",
-   "source": "Investor's Business Daily",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOWM1ZTV4d1ZVcjR3YTVEcEpPNlh3WnUwRG15VllLWlg3Ym93WGtCQ1lqRGFTV1BMSU54TUMtamtxZURaU2dtOXp3Sm5KUEpsaURnVURtek1NSkVYNTRlblUycnZraVpZTi0tQ1JISWtCZDRfRXpfSHVjYmw4ZXdrZGdXbjJPNTBWOFN6N19aQ3VYT0tTeEhQc3pVRG5RbEZ2NGZKUFBPS3pwamE5Njk3YkM4bEZROVJLbzVvSDhOalNyRFp4ZmloTm9RaEwxSDZ0bXZ6cVVsX0ZTTThyUmIwYzRFZE40dXViSERVVHAwNUJxdw?oc=5",
-   "pubTime": "09-13 02:32",
-   "block": "谷歌精选",
-   "isNew": true
-  },
-  {
-   "title": "中共辽宁阜新市委书记马珊珊转任沈阳市委副书记",
-   "summary": "辽宁省委近日进行人事调整，阜新市委书记马珊珊转任沈阳市委副书记，并担任沈阳市政府党组书记。马珊珊现年47岁，此前长期在天津市任职，拥有丰富的基层及地方行政管理经验，此次调动旨在加强沈阳市委领导力量。",
+   "title": "李家超周三发布五年规划 领带襟章设计显示科创联通元素",
+   "summary": "香港特首李家超将于周三发布施政报告及首个五年规划。他与团队将佩戴由香港高等教育科技学院师生设计的领带、丝巾及襟章，其中蓝色襟章上的“一五”字样寓意汇聚资源、深化高质量发展并提升香港竞争力。",
    "source": "",
-   "url": "https://www.zaobao.com/news/china/story20260913-9668385",
-   "pubTime": "09-13 08:41",
+   "url": "https://www.zaobao.com/news/china/story20260913-9669381",
+   "pubTime": "09-13 14:59",
    "block": "联合早报",
    "isNew": true
   },
   {
-   "title": "报告：中国AI发展重心从大模型转向智能体",
-   "summary": "中国电信研究院发布的报告指出，中国人工智能产业正经历重心转移，从大模型与算力竞争转向智能体的规模化落地。智能体作为AI的新形态，通过降低技术门槛，让企业和大众能更便捷地完成复杂任务，标志着AI进入普惠化应用阶段。",
+   "title": "习近平：中国将建金砖国家AI开源专区",
+   "summary": "中国国家主席习近平在金砖国家领导人会晤期间提出深化合作五项倡议，重点包括建设金砖国家人工智能开源专区，旨在推动全球南方国家在安全治理、数字产业及科技育才等方面加强协作，共同应对新兴技术挑战。",
    "source": "",
-   "url": "https://www.zaobao.com/news/china/story20260913-9668313",
-   "pubTime": "09-13 07:56",
+   "url": "https://www.zaobao.com/news/china/story20260913-9669379",
+   "pubTime": "09-13 14:51",
    "block": "联合早报",
-   "isNew": false
+   "isNew": true
   },
   {
-   "title": "威尼斯电影节闭幕 中国VR片获沉浸单元大奖",
-   "summary": "第83届威尼斯国际电影节在利多岛闭幕，中国VR短片《鸽环》斩获“威尼斯沉浸大奖”。本届电影节金狮奖由丹麦导演梅·图基的《陌生女人》摘得，多位国际知名导演与演员亦获重要奖项，展现了全球电影艺术的多元与创新。",
+   "title": "中国修订事业单位领导人员管理办法 强调党管人才突出政治要求",
+   "summary": "中共中央组织部会同多部门修订并印发了针对宣传、教育、科研及公立医院等领域事业单位的领导人员管理办法，旨在落实党管干部与党管人才原则，进一步突出对事业单位领导人员的政治要求与管理规范。",
    "source": "",
-   "url": "https://www.zaobao.com/news/china/story20260913-9668260",
-   "pubTime": "09-13 07:18",
+   "url": "https://www.zaobao.com/news/china/story20260913-9669271",
+   "pubTime": "09-13 14:18",
    "block": "联合早报",
-   "isNew": false
+   "isNew": true
   },
   {
-   "title": "中国特稿：天灾频现 考验中国防灾答卷",
-   "summary": "近期中国多地接连发生洪灾、山体崩塌及泥石流等重大自然灾害，引发社会对防灾减灾能力的关注。专家指出，气候变化背景下极端天气频发，对中国防灾减灾体系的应对效率、预警机制及应急救援能力提出了严峻考验。",
+   "title": "中国数据局提出适时推动具身智能数据标准建设",
+   "summary": "中国国家数据局近日召开具身智能座谈会，针对产业发展中对高质量、大规模数据的迫切需求，明确将坚持问题导向，加强科学布局，并适时推动具身智能数据标准建设，以指导行业规范化发展。",
    "source": "",
-   "url": "https://www.zaobao.com/news/china/story20260913-9653432",
-   "pubTime": "09-13 05:00",
+   "url": "https://www.zaobao.com/news/china/story20260913-9669244",
+   "pubTime": "09-13 14:02",
    "block": "联合早报",
-   "isNew": false
+   "isNew": true
   },
   {
-   "title": "习近平时隔七年访问印度 晤莫迪提互尊互谅处理边界问题",
-   "summary": "中国国家主席习近平在出席金砖国家领导人峰会期间会见印度总理莫迪。双方就中印关系进行坦诚交流，习近平强调应以互尊互谅的政治智慧处理边界问题，维护边境和平，此举被视为两国关系持续改善的重要进程。",
+   "title": "六小龄童堂兄章金云逝世享年84岁",
+   "summary": "著名绍剧表演艺术家、六小龄童的堂兄章金云（艺名小七龄童）因病于9月12日在故乡绍兴逝世，享年84岁。章金云作为“南派”猴戏代表人物，其离世被视为绍剧艺术界的一大损失。",
    "source": "",
-   "url": "https://www.zaobao.com/news/china/story20260913-9667953",
-   "pubTime": "09-13 00:11",
+   "url": "https://www.zaobao.com/news/china/story20260913-9669190",
+   "pubTime": "09-13 13:45",
    "block": "联合早报",
-   "isNew": false
+   "isNew": true
   },
   {
-   "title": "习近平：中印致力于维护边境地区和平安宁",
-   "summary": "习近平在印度新德里会见莫迪时强调，中印应从战略高度看待双边关系，坚持合作伙伴定位。双方达成重要共识，致力于通过合利共赢推动关系提升，并共同维护边境地区的和平安宁，为两国机制性交往与合作创造良好环境。",
+   "title": "中国和塞尔维亚在海南联合警务巡逻",
+   "summary": "应中国公安部邀请，塞尔维亚内务部选派八名警员于9月11日起在海南省开展为期两周的联合巡逻。双方警员将在三亚、海口旅游景区混编执勤，旨在深化双边执法合作，并为在华塞尔维亚公民提供安全服务。",
    "source": "",
-   "url": "https://www.zaobao.com/news/china/story20260912-9667965",
-   "pubTime": "09-12 23:20",
+   "url": "https://www.zaobao.com/news/china/story20260913-9668783",
+   "pubTime": "09-13 13:34",
    "block": "联合早报",
-   "isNew": false
+   "isNew": true
   },
   {
-   "title": "荣耀手机开屏广告卷入“耽误急救”争议",
-   "summary": "山东济南一名心梗患者家属反映，因荣耀手机开屏广告应用难以退出，导致父亲在拨打急救电话时操作受阻，错失抢救黄金时间。该事件引发舆论对手机开屏广告干扰用户紧急操作及用户体验的广泛质疑与批评。",
+   "title": "中国多地小学改为养老院",
+   "summary": "受人口结构变化及城镇化影响，中国多地积极盘活闲置校舍资源。通过分类处置，部分农村闲置小学被改造为养老院、长者食堂或公益性设施，以实现资源再利用并满足当地公共服务需求。",
    "source": "",
-   "url": "https://www.zaobao.com/news/china/story20260912-9667439",
-   "pubTime": "09-12 22:15",
+   "url": "https://www.zaobao.com/news/china/story20260913-9668874",
+   "pubTime": "09-13 12:42",
    "block": "联合早报",
-   "isNew": false
+   "isNew": true
   },
   {
-   "title": "京东子公司达达同意付50万美元罚金 就虚增营收案达成和解",
-   "summary": "京东旗下达达集团因涉嫌在2022至2023年间虚构广告交易、虚增超1.6亿美元营收，与美国证券交易委员会达成和解，同意支付50万美元罚金。达达此前曾主动披露相关可疑行为，公司股价曾因此遭受重挫。",
+   "title": "北京无人机新规11月15日实施 全域禁飞禁存禁运",
+   "summary": "新修订的《北京市无人驾驶航空器管理规定》将于11月15日起实施。该规定将北京全域划为管制空域，明确禁止无人机的飞行、持有、存放及运输，进一步强化了首都地区的低空安全管理。",
    "source": "",
-   "url": "https://www.zaobao.com/news/china/story20260912-9667826",
-   "pubTime": "09-12 21:56",
+   "url": "https://www.zaobao.com/news/china/story20260913-9668924",
+   "pubTime": "09-13 12:01",
    "block": "联合早报",
-   "isNew": false
+   "isNew": true
   },
   {
-   "title": "澳门首宗国安案下周闭门审讯",
-   "summary": "澳门民主派前立法会议员区锦新被控危害国家安全，澳门初级法院定于下周三进行闭门审理。鉴于案件涉及国家安全利益，经澳门特区维护国家安全委员会确认，法院决定采取不公开方式开庭，这是澳门首宗涉及国安法的案件。",
+   "title": "媒体人刘虎被解除取保候审",
+   "summary": "中国媒体人刘虎的代理律师证实，刘虎已于9月10日被成都警方解除取保候审。此前刘虎因涉嫌诬告陷害及非法经营罪被立案侦查，此次解除意味着针对其的刑事追诉程序已正式结束。",
    "source": "",
-   "url": "https://www.zaobao.com/news/china/story20260912-9667274",
-   "pubTime": "09-12 20:40",
+   "url": "https://www.zaobao.com/news/china/story20260913-9668913",
+   "pubTime": "09-13 11:56",
    "block": "联合早报",
-   "isNew": false
+   "isNew": true
   },
   {
-   "title": "日本访华代表团增加 但中日关系仍难升温",
-   "summary": "近期日本多个跨党派团体接连访华，试图推动双边交流。尽管日中友好议员联盟等机构恢复了访华行程，但受此前政治摩擦影响，中日关系仍处于低位运行，短期内全面升温面临较大挑战，双方互动仍需进一步协调。",
+   "title": "山西夫妻魂断公路被认定承担次要责任 儿子申请复核",
+   "summary": "山西蒲县一对夫妻被当地公职人员驾车撞击身亡，警方认定死者承担事故次要责任。死者家属对该认定表示不服并申请复核，目前警方已启动复核程序，案件引发社会对公职人员醉驾及事故责任划分的关注。",
    "source": "",
-   "url": "https://www.zaobao.com/news/china/story20260912-9667011",
-   "pubTime": "09-12 19:55",
+   "url": "https://www.zaobao.com/news/china/story20260913-9668793",
+   "pubTime": "09-13 11:16",
    "block": "联合早报",
-   "isNew": false
+   "isNew": true
   }
  ]
 }
