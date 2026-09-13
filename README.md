@@ -36,20 +36,23 @@ GitHub Pages（/docs）→ https://homjanon.github.io/news-feed/
 
 ## 场次与触发
 
-| 场次 | 北京时间 | UTC cron | 内容 |
-|---|---|---|---|
-| ☕ 早咖啡 | 07:00 | `0 23 * * *` | 谷歌最新 10 + 早报最新 10 |
-| 🍵 下午茶 | 15:20 | `20 7 * * *` | 同上（含上午之后的增量，标「新」） |
+| 场次 | 北京时间 | 内容 |
+|---|---|---|
+| ☕ 早咖啡 | 07:00 | 谷歌最新 10 + 早报最新 10 |
+| 🍵 下午茶 | 15:20 | 同上（含上午之后的增量，标「新」） |
 
-触发方式二选一（已都配好）：
+**触发方式（单通道 · 2026-09-13 起）**：由 **Cloudflare Worker `qdii-dispatch`** 统一调度
+——心跳每 5 分钟，到点调 GitHub API `workflow_dispatch` 触发本仓 `fetch.yml`：
 
-1. **Actions schedule**（默认，可能延迟几分钟）
-2. **Cloudflare Worker 精确触发**（推荐，与 portfolio 的 qdii-dispatch 同套路）：
-   ```
-   POST https://api.github.com/repos/homjanon/news-feed/actions/workflows/fetch.yml/dispatches
-   Authorization: Bearer <GITHUB_TOKEN>      # 需 repo + workflow 权限
-   {"ref":"main","inputs":{"edition":"morning"}}    # 或 "afternoon"
-   ```
+```
+POST https://api.github.com/repos/homjanon/news-feed/actions/workflows/fetch.yml/dispatches
+Authorization: Bearer <GITHUB_TOKEN>      # 需 repo + workflow 权限
+{"ref":"main","inputs":{"edition":"morning"}}    # 或 "afternoon"
+```
+
+> GitHub 侧已**移除 schedule**（不再自触发）：Actions 共享 cron 队列会偶发延迟/静默跳过。
+> 手动补跑任一指定场次：
+> `https://qdii-dispatch.homjanon.workers.dev/trigger?repo=news-feed&edition=afternoon&key=<DISPATCH_KEY>`
 
 ## Secrets（用户自管，与 portfolio 同名）
 
