@@ -3,16 +3,16 @@
  "edition": "morning",
  "editionName": "早咖啡",
  "date": "2026-09-13",
- "fetched_at": "2026-09-13 08:37",
+ "fetched_at": "2026-09-13 08:45",
  "translator": "gemini",
  "counts": {
   "total": 20,
-  "new": 20
+  "new": 11
  },
  "items": [
   {
-   "title": "Anthropic首席执行官称现在是放缓AI模型进展的时候了",
-   "summary": "Anthropic首席执行官Dario Amodei呼吁行业竞争对手达成共识，引入第三方评估机构以确保人工智能安全，并强调在超级智能带来的末日风险下，必须放缓前沿AI模型的开发节奏。",
+   "title": "Anthropic CEO呼吁放缓AI模型发展",
+   "summary": "Anthropic CEO达里奥·阿莫迪呼吁放缓AI模型发展速度，提议引入第三方评估机构以确保AI安全，引发科技界对超级智能风险的广泛讨论。",
    "source": "Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQlBPOGtIVFdERkFSODVUMU84NkRpM282MzgybkR1RXAxN1FMZXNON3lMZUpoMjFxU3ltWDVkT1RuNEJwcEhGR21qeVVuQjI2VkwtRG1KbE9nLVhEQjAyQjdpdjExYWRjSFRRLTJ6OHkxcmlkWkRYUS1sdV8wUGUyTEdNWWFzNGJjYWFYckxIRGZFWC1sTzJQSmtESWRCX1ZkekptTVlHWjQwakxYLUtVQ3J4SWc3UQ?oc=5",
    "pubTime": "09-13 08:09",
@@ -20,8 +20,8 @@
    "isNew": true
   },
   {
-   "title": "珠宝连锁店在关闭两个品牌后又关闭了53家门店",
-   "summary": "知名珠宝连锁品牌在宣布关停旗下两个子品牌后，进一步采取收缩策略，关闭了53家零售门店，显示出该企业在当前市场环境下正面临严峻的经营压力与业务调整。",
+   "title": "珠宝连锁店关停两个品牌后关闭53家门店",
+   "summary": "美国一家珠宝连锁店在关停两个品牌后宣布关闭53家门店，反映出零售行业持续面临的压力与挑战。",
    "source": "thestreet.com",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55QXdBZ094dkphN292RDJQTzdTLWdSXzhGMEpmVXlGVGtYanp3QnotU1J0Z2VIQkxjR1p6Vk1aZlV0dmJiWHV3NXN0TXBHZVBjQTNaSGcxU3pieFZpZGtyaUd5NUthMFJ0VFIzb2lYcVI?oc=5",
    "pubTime": "09-13 05:20",
@@ -29,8 +29,8 @@
    "isNew": true
   },
   {
-   "title": "从波特兰到布法罗，这是美国最好的5个鸡翅目的地",
-   "summary": "本文盘点了美国境内最值得一去的5个鸡翅美食胜地，从波特兰到布法罗，这些城市凭借独特的烹饪风格和极高的口碑，成为了全美鸡翅爱好者的必访之地。",
+   "title": "从波特兰到布法罗：全美5大最佳鸡翅目的地",
+   "summary": "本文从波特兰到布法罗，盘点了全美5家最佳鸡翅餐厅，涵盖各地特色风味与用餐体验。",
    "source": "Fox News",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2EzTjlPTWtmYmp6SFhWUnVwMmV5OEFMbC1uZGp6TGNDMXMwVThiblNoVEJKUk95T1ZxNS1JeWlhdVpWSkpNMlFjNlh2TnVpVGV6RU1FTUYwQnBKeVUyRGNZdEZ6REpuNDNfWF81a2E2WXU1QnJLckpPcm4zUUlIQ0gtUGJXN0tvcF9MYWl3YVl0Zng3cTN4bXZCWFgtYjFJ0gGmAUFVX3lxTFBtVWprbmdJRzk4b2U5MXJGMEFZdmtfWGlWUUJRR1ZjQkE1aExmTG16TlF1cEt4VWkxMTNTNVQtRGp3Xzk1UnNLTFpORG82S1dYelBEb1pYdjNuT0dqQ240cnFRbzU3SFhXaTJXbWpiWkFLczZnMzlpdTJTSkZPeHdjTHIwZDZFazZrMHZXOUJhTFJUT0lLVTFLT1p0RHZybDlxVHpRYXc?oc=5",
    "pubTime": "09-13 04:37",
@@ -38,17 +38,17 @@
    "isNew": true
   },
   {
-   "title": "OpenAI的萨姆·奥特曼称2026年上市是“不明智的”",
-   "summary": "OpenAI首席执行官萨姆·奥特曼明确表示，公司在2026年进行首次公开募股（IPO）是不明智的。在AI安全担忧加剧的背景下，OpenAI已排除近期上市的可能性。",
-   "source": "techcrunch.com",
+   "title": "OpenAI阿尔特曼：2026年上市时机不明智",
+   "summary": "OpenAI CEO萨姆·阿尔特曼表示2026年上市时机不明智，公司今年不会推进IPO计划，同时与马斯克、阿莫迪等人共同警告AI发展速度过快。",
+   "source": "TechCrunch",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVDYteTJ4VHRtbkNDNEhiVHFralh2cTZ2TUZIQ0E4aVNmcEctV1dxQjVuSmxLZGdrelcweXNvSEphQ1l0bmkzSjdzZC1NeGkwSE5JNmpRY21pVG5reDhwaklRVnFXY2VoYmJuRHBfc2lXVWIwTnVycTBVNFZzdnRjRFFnY2dMb1NSaktMNkdraEVlWlJKYmY3cms3VXVTSzJqa256Q0dn?oc=5",
    "pubTime": "09-13 04:19",
    "block": "谷歌精选",
    "isNew": true
   },
   {
-   "title": "强生正就以200亿美元将髋关节和膝关节业务出售给阿波罗进行谈判",
-   "summary": "强生公司正与私募股权巨头阿波罗全球管理公司进行深入谈判，计划以约200亿美元的价格出售其骨科业务部门，此举旨在优化公司资产组合并聚焦核心医疗业务。",
+   "title": "强生正洽谈以200亿美元将骨科业务出售给阿波罗",
+   "summary": "强生正与阿波罗全球管理公司洽谈，拟以约200亿美元出售其髋膝关节骨科业务，交易若达成将成医疗行业重大并购案。",
    "source": "WSJ",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWJrbUNab3p0MTZ3dldIMG84YkFjb0VKU0N6bHgtREEwQ08yVHlleExNRC1SdXdJQklLaWRwRWpSWkhxbXp0SkdYa2wzeThZT1JRcnVuWmlNRkQ0S3Nua0hTS25PM0R0MkFwZVBOTENKQkczYzk3TmhGX0ZOZUVST1B2bWQ2Zm9CTl9kT19zQU5mNVo1RFl5U3NCeEh3MFVXME0tMXVjeGlfZE5OZFNyV3lsX2pzNmROTVZVeQ?oc=5",
    "pubTime": "09-13 03:40",
@@ -56,8 +56,8 @@
    "isNew": true
   },
   {
-   "title": "美国加油站开始将显示屏价格上限设为9.999美元",
-   "summary": "受燃油价格持续高企影响，美国部分加油站的油价显示屏已达到极限，被迫将价格上限设定为9.999美元。加州等地柴油价格的飙升进一步凸显了当前的能源危机。",
+   "title": "美国加油站油价显示屏出现9.999美元高价",
+   "summary": "美国加油站油价显示屏开始出现9.999美元高价，加州柴油价格突破每加仑6美元创历史新高，凸显美国燃油危机持续加剧。",
    "source": "The Independent",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQjdzWWFRVGc4b1YwOVQyTC1zUl81cW0tamJDQUczMmRpeUhHQTZuVVNVVHhWbHN5djY5aUZDQ0pBRE1BNE5uaG83eEJyZGZrcERfZGhlTHQwMVIxSmlMTV83OFAzNERfMXdZa3E2bXlMX3dQVGtBWnN4VU5zaXlZM19mQ1Z4bm1Va2lhUkYyM3BpRFhzU3c?oc=5",
    "pubTime": "09-13 03:31",
@@ -65,17 +65,17 @@
    "isNew": true
   },
   {
-   "title": "特斯拉称将于10月1日最终发布第二代Roadster",
-   "summary": "特斯拉官方宣布，备受期待且多次推迟的第二代Roadster跑车将于10月1日正式亮相。这一消息引发市场高度关注，标志着特斯拉在高性能电动车领域的新进展。",
-   "source": "techcrunch.com",
+   "title": "特斯拉将于10月1日揭幕第二代Roadster",
+   "summary": "特斯拉宣布将于10月1日举行活动，正式揭幕备受期待的第二代Roadster跑车，这款车型历经多年延期后终于迎来发布时刻。",
+   "source": "TechCrunch",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa05fYlM0QU9nQ2U4VkF1ZkIwTmNIUkxGX1V2amZGRFVhanVMNVMwQzR6MFAzRTZvZXpROU9BNFB2UWl4ekZ2UDBmTTVtQl94cXJBaFNEdzJpRmNfbHVoZmVLbTdqeVdWZnJZRWdvaXlrU1VjUDhNc2E2b01PVjRuS2dlRWRIZjZJaHVscF9peUhTZloza1Z6SkNBWDlxRGQ0bThKdXp2SFdFX1FWTHFJSkNR?oc=5",
    "pubTime": "09-13 03:21",
    "block": "谷歌精选",
    "isNew": true
   },
   {
-   "title": "大型企业将削减2027年员工医疗福利，引发员工不满",
-   "summary": "多家大型企业计划在2027年削减员工医疗福利，以应对不断上涨的医疗成本。此举对员工保障造成打击，同时也反映出企业在成本压力下正面临艰难的经营决策。",
+   "title": "大型企业将削减2027年健康福利，工人受冲击",
+   "summary": "多家大型企业计划削减2027年员工健康福利，医疗成本持续攀升令小企业陷入困境，员工退休储蓄也可能受到波及。",
    "source": "USA Today",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNGo3TTdjSFpXMGFPdTdUdzFGRDNtRGJJdFVwbjE3RFhNYzBkWlIybXE5cER2dWp0VFlQS2l4SDNxWnVVRXZOTTY0aWszOXluSDZ3c2ZtZDJTOU5yb3hCU3JRLXdxLUlNdW5sXzRBeTBFZ090TFJDYWp3eW9jUXZpOGx5aUM4MXhLU3h6bmVaTF9XTEhDT0N2c2t2Y2JMbjlJaUlfU0otZTBMRUR6a0ZsNFN4SjhkVTVpMjJOVjlXcGhmNkdRTWRnUFBn?oc=5",
    "pubTime": "09-13 02:55",
@@ -83,8 +83,8 @@
    "isNew": true
   },
   {
-   "title": "拉里·埃里森取消出售甲骨文股票的计划",
-   "summary": "甲骨文公司创始人拉里·埃里森已正式取消了此前制定的出售价值高达75亿美元甲骨文股票的计划，这一决定引起了投资者对公司未来股价走势的广泛关注。",
+   "title": "拉里·埃里森取消出售75亿美元甲骨文股票计划",
+   "summary": "甲骨文联合创始人拉里·埃里森取消此前计划出售价值75亿美元甲骨文股票的交易，具体原因尚未披露。",
    "source": "Reuters",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSDN2Q1FMZWstUm9pbTEyaFJBcmxMY2FiV0g2RFF2bGNISTEwVGE4RV9nZW1LcHBKU0luVjR2a0FUVGh2OElMdl92d2FjREhPbW1oMUlSRm5Mc19kR2xzclVHRnJaM21lR2N2NkNhSlpwN1ZZS1VPRjVmYThyb1dNV1JxQlIySG52dzJkcEpaTE12M1k?oc=5",
    "pubTime": "09-13 02:38",
@@ -92,8 +92,8 @@
    "isNew": true
   },
   {
-   "title": "道琼斯期货：美联储加息预期与油价收益率压力影响股市；苹果、莫德纳成为新买入标的",
-   "summary": "受美联储加息预期、油价波动及国债收益率上升影响，美股市场承压。尽管宏观环境复杂，但分析人士指出苹果和莫德纳等个股仍具备买入价值，市场正寻求在通胀压力中寻找投资机会。",
+   "title": "道指期货：美联储加息预期施压股市，苹果莫德纳成新买入标的",
+   "summary": "道指期货上涨，市场预计美联储将加息，油价与收益率对股市形成压力；道指单日飙升500点终结四连跌，苹果与莫德纳获机构新增买入评级。",
    "source": "Investor's Business Daily",
    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOWM1ZTV4d1ZVcjR3YTVEcEpPNlh3WnUwRG15VllLWlg3Ym93WGtCQ1lqRGFTV1BMSU54TUMtamtxZURaU2dtOXp3Sm5KUEpsaURnVURtek1NSkVYNTRlblUycnZraVpZTi0tQ1JISWtCZDRfRXpfSHVjYmw4ZXdrZGdXbjJPNTBWOFN6N19aQ3VYT0tTeEhQc3pVRG5RbEZ2NGZKUFBPS3pwamE5Njk3YkM4bEZROVJLbzVvSDhOalNyRFp4ZmloTm9RaEwxSDZ0bXZ6cVVsX0ZTTThyUmIwYzRFZE40dXViSERVVHAwNUJxdw?oc=5",
    "pubTime": "09-13 02:32",
@@ -101,94 +101,94 @@
    "isNew": true
   },
   {
+   "title": "中共辽宁阜新市委书记马珊珊转任沈阳市委副书记",
+   "summary": "辽宁省委近日进行人事调整，阜新市委书记马珊珊转任沈阳市委副书记，并担任沈阳市政府党组书记。马珊珊现年47岁，此前长期在天津市任职，拥有丰富的基层及地方行政管理经验，此次调动旨在加强沈阳市委领导力量。",
+   "source": "",
+   "url": "https://www.zaobao.com/news/china/story20260913-9668385",
+   "pubTime": "09-13 08:41",
+   "block": "联合早报",
+   "isNew": true
+  },
+  {
    "title": "报告：中国AI发展重心从大模型转向智能体",
-   "summary": "中国电信研究院发布的最新报告指出，中国人工智能产业正经历战略转型，发展重心已从单纯的大模型与算力竞争，转向智能体的规模化落地与应用变现，旨在通过智能体让复杂技术实现普惠化，助力大众和企业高效完成复杂任务。",
+   "summary": "中国电信研究院发布的报告指出，中国人工智能产业正经历重心转移，从大模型与算力竞争转向智能体的规模化落地。智能体作为AI的新形态，通过降低技术门槛，让企业和大众能更便捷地完成复杂任务，标志着AI进入普惠化应用阶段。",
    "source": "",
    "url": "https://www.zaobao.com/news/china/story20260913-9668313",
    "pubTime": "09-13 07:56",
    "block": "联合早报",
-   "isNew": true
+   "isNew": false
   },
   {
    "title": "威尼斯电影节闭幕 中国VR片获沉浸单元大奖",
-   "summary": "第83届威尼斯国际电影节在利多岛闭幕，中国VR短片《鸽环》荣获“威尼斯沉浸大奖”。本届电影节金狮奖由丹麦导演梅·图基的《陌生女人》摘得，多位国际影人分别获得最佳导演、最佳男女演员等重要奖项。",
+   "summary": "第83届威尼斯国际电影节在利多岛闭幕，中国VR短片《鸽环》斩获“威尼斯沉浸大奖”。本届电影节金狮奖由丹麦导演梅·图基的《陌生女人》摘得，多位国际知名导演与演员亦获重要奖项，展现了全球电影艺术的多元与创新。",
    "source": "",
    "url": "https://www.zaobao.com/news/china/story20260913-9668260",
    "pubTime": "09-13 07:18",
    "block": "联合早报",
-   "isNew": true
+   "isNew": false
   },
   {
    "title": "中国特稿：天灾频现 考验中国防灾答卷",
-   "summary": "广西、重庆、西藏等地在不到两个月内接连发生洪灾、山体崩塌及泥石流等重大灾害，造成严重人员伤亡。专家指出气候变化加剧了极端天气风险，频发的自然灾害正严峻考验着中国的防灾减灾体系与应急响应能力。",
+   "summary": "近期中国多地接连发生洪灾、山体崩塌及泥石流等重大自然灾害，引发社会对防灾减灾能力的关注。专家指出，气候变化背景下极端天气频发，对中国防灾减灾体系的应对效率、预警机制及应急救援能力提出了严峻考验。",
    "source": "",
    "url": "https://www.zaobao.com/news/china/story20260913-9653432",
    "pubTime": "09-13 05:00",
    "block": "联合早报",
-   "isNew": true
+   "isNew": false
   },
   {
    "title": "习近平时隔七年访问印度 晤莫迪提互尊互谅处理边界问题",
-   "summary": "中国国家主席习近平在出席金砖国家领导人峰会期间会见印度总理莫迪。双方就中印关系进行坦诚交流，习近平强调应以互尊互谅的政治智慧排除干扰，共同维护边境和平，双方达成中印要做合作伙伴的重要共识。",
+   "summary": "中国国家主席习近平在出席金砖国家领导人峰会期间会见印度总理莫迪。双方就中印关系进行坦诚交流，习近平强调应以互尊互谅的政治智慧处理边界问题，维护边境和平，此举被视为两国关系持续改善的重要进程。",
    "source": "",
    "url": "https://www.zaobao.com/news/china/story20260913-9667953",
    "pubTime": "09-13 00:11",
    "block": "联合早报",
-   "isNew": true
+   "isNew": false
   },
   {
    "title": "习近平：中印致力于维护边境地区和平安宁",
-   "summary": "习近平在金砖峰会期间会见莫迪时表示，中方始终从战略高度看待中印关系，主张以合作共赢理念相互成就。两国领导人重申致力于维护边境地区和平安宁，并指出中印机制性交往正逐步恢复，合作领域不断拓宽。",
+   "summary": "习近平在印度新德里会见莫迪时强调，中印应从战略高度看待双边关系，坚持合作伙伴定位。双方达成重要共识，致力于通过合利共赢推动关系提升，并共同维护边境地区的和平安宁，为两国机制性交往与合作创造良好环境。",
    "source": "",
    "url": "https://www.zaobao.com/news/china/story20260912-9667965",
    "pubTime": "09-12 23:20",
    "block": "联合早报",
-   "isNew": true
+   "isNew": false
   },
   {
    "title": "荣耀手机开屏广告卷入“耽误急救”争议",
-   "summary": "山东一名男子指控其父亲在拨打120急救电话时，因误触荣耀手机“魔法画报”开屏广告且难以退出，导致错过心梗急救黄金时间，其母不幸离世。该事件引发舆论对手机开屏广告干扰紧急操作及用户体验的广泛质疑。",
+   "summary": "山东济南一名心梗患者家属反映，因荣耀手机开屏广告应用难以退出，导致父亲在拨打急救电话时操作受阻，错失抢救黄金时间。该事件引发舆论对手机开屏广告干扰用户紧急操作及用户体验的广泛质疑与批评。",
    "source": "",
    "url": "https://www.zaobao.com/news/china/story20260912-9667439",
    "pubTime": "09-12 22:15",
    "block": "联合早报",
-   "isNew": true
+   "isNew": false
   },
   {
    "title": "京东子公司达达同意付50万美元罚金 就虚增营收案达成和解",
-   "summary": "京东旗下达达集团因涉嫌在2022至2023年间虚构在线广告交易，虚增超1.6亿美元营收，与美国证券交易委员会达成和解。达达同意支付50万美元罚金，但未承认相关指控，此前该调查曾导致公司股价大幅波动。",
+   "summary": "京东旗下达达集团因涉嫌在2022至2023年间虚构广告交易、虚增超1.6亿美元营收，与美国证券交易委员会达成和解，同意支付50万美元罚金。达达此前曾主动披露相关可疑行为，公司股价曾因此遭受重挫。",
    "source": "",
    "url": "https://www.zaobao.com/news/china/story20260912-9667826",
    "pubTime": "09-12 21:56",
    "block": "联合早报",
-   "isNew": true
+   "isNew": false
   },
   {
    "title": "澳门首宗国安案下周闭门审讯",
-   "summary": "澳门民主派前立法会议员区锦新被控危害国家安全，澳门初级法院公告该案将于下周三开庭。应检察院请求并经国安委确认，为维护国家安全利益，法官决定采取闭门审理方式，此案系澳门首次根据国安法进行的审判。",
+   "summary": "澳门民主派前立法会议员区锦新被控危害国家安全，澳门初级法院定于下周三进行闭门审理。鉴于案件涉及国家安全利益，经澳门特区维护国家安全委员会确认，法院决定采取不公开方式开庭，这是澳门首宗涉及国安法的案件。",
    "source": "",
    "url": "https://www.zaobao.com/news/china/story20260912-9667274",
    "pubTime": "09-12 20:40",
    "block": "联合早报",
-   "isNew": true
+   "isNew": false
   },
   {
    "title": "日本访华代表团增加 但中日关系仍难升温",
-   "summary": "近期日本多个跨党派团体接连访华，包括“日中友好议员联盟”年轻成员及贸易代表团。尽管交流频率有所增加，但受此前“台湾有事”论等政治因素影响，分析认为中日关系短期内仍难以实现实质性升温。",
+   "summary": "近期日本多个跨党派团体接连访华，试图推动双边交流。尽管日中友好议员联盟等机构恢复了访华行程，但受此前政治摩擦影响，中日关系仍处于低位运行，短期内全面升温面临较大挑战，双方互动仍需进一步协调。",
    "source": "",
    "url": "https://www.zaobao.com/news/china/story20260912-9667011",
    "pubTime": "09-12 19:55",
    "block": "联合早报",
-   "isNew": true
-  },
-  {
-   "title": "习近平：中国愿同金砖成员一道为实现中东和平发挥作用",
-   "summary": "习近平在金砖国家领导人第18次会晤上发表讲话，强调金砖机制在应对全球挑战中的重要作用。他明确表示，中国愿与金砖成员国加强协作，共同为推动中东地区和平稳定发挥建设性作用，坚定维护全球南方共同利益。",
-   "source": "",
-   "url": "https://www.zaobao.com/news/china/story20260912-9667366",
-   "pubTime": "09-12 19:03",
-   "block": "联合早报",
-   "isNew": true
+   "isNew": false
   }
  ]
 }
