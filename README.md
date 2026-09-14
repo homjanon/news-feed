@@ -1,6 +1,6 @@
 # 老张新闻源（news-feed）
 
-独立的每日新闻抓取服务：**谷歌新闻（Business·美国区）+ 联合早报（中港台即时）各取最新 10 条 = 20 条**，每天早（07:00）、下午（15:20）各抓一场，产出静态 JSON + 手机友好的阅读页。
+独立的每日新闻抓取服务：**谷歌新闻（Business·美国区）+ 联合早报（中港台即时）各取最新 10 条 = 20 条**，每天下午（15:20）、夜间（22:30）各抓一场，产出静态 JSON + 手机友好的阅读页。
 
 > 与 `portfolio` 仓完全解耦：portfolio 的每日 06:30 日报不受本项目任何影响；本项目也**不依赖** portfolio。
 
@@ -13,9 +13,9 @@
 ## 数据流
 
 ```
-触发（Actions schedule 或 Cloudflare workflow_dispatch）
+触发（Cloudflare Worker qdii-dispatch 心跳 → workflow_dispatch）
         ↓
-scripts/fetch_news.py --edition morning|afternoon
+scripts/fetch_news.py --edition afternoon|night
         ├─ 抓谷歌 Business 美国区（62 条 → 去重 → 按 pubDate 倒序 → 取 10；失败换英国区）
         ├─ 抓联合早报中港台即时（三实例兜底 → 取 10）
         ├─ LLM 中文化谷歌词（Agnes → Gemini 链；失败降级英文原标题，绝不空窗）
@@ -62,7 +62,7 @@ GitHub Pages（/docs）→ https://homjanon.github.io/news-feed/
 
 ```json
 {
-  "edition": "morning",          // morning=下午茶 / afternoon=下午茶
+  "edition": "afternoon",        // afternoon=下午茶 / night=夜豆浆
   "date": "2026-09-12",
   "fetched_at": "2026-09-12 07:04",
   "translator": "agnes",         // none(原文)=未配置 Key 或翻译失败
@@ -103,7 +103,7 @@ GitHub Pages（/docs）→ https://homjanon.github.io/news-feed/
 
 ```bash
 # 谷歌源本机被墙时走代理；未配置 LLM Key 会自动降级英文标题
-HTTPS_PROXY=http://127.0.0.1:7890 python scripts/fetch_news.py --edition morning --outdir docs
+HTTPS_PROXY=http://127.0.0.1:7890 python scripts/fetch_news.py --edition afternoon --outdir docs
 ```
 
 ## 页面
