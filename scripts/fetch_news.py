@@ -9,8 +9,8 @@
   4. 抓取失败保留上一场数据（本脚本只写当天文件，不删旧文件，latest.json 由成功场次覆盖）。
 
 用法：
-  python scripts/fetch_news.py --edition morning  --outdir docs
-  python scripts/fetch_news.py --edition afternoon --outdir docs
+  python scripts/fetch_news.py --edition afternoon --outdir docs   # 下午茶 15:20
+  python scripts/fetch_news.py --edition night     --outdir docs   # 夜豆浆 22:30
 
 仅用标准库（urllib / xml.etree），Actions 上零安装依赖。
 本机调试谷歌源被墙时：HTTPS_PROXY=http://127.0.0.1:7890 python scripts/fetch_news.py ...
@@ -32,7 +32,7 @@ TZ_CN = datetime.timezone(datetime.timedelta(hours=8))
 HERE = os.path.dirname(os.path.abspath(__file__))
 
 # 谷歌链接是 news.google.com 重定向链，正文里展示来源媒体名即可
-EDITION_NAME = {"morning": "早咖啡", "afternoon": "下午茶"}
+EDITION_NAME = {"afternoon": "下午茶", "night": "夜豆浆"}
 
 
 def log(msg):
@@ -119,6 +119,12 @@ def fetch_source(cfg):
                         m = re.match(r"^(.*?)\s+-\s+([^-]{2,40})$", i["title"])
                         if m:
                             i["title"], i["source"] = m.group(1).strip(), m.group(2).strip()
+            # 该源若在配置里指定了 default_source，则给仍没有来源的条目补上
+            # （联合早报的 RSS 没有 <source> 标签，靠这条保证每条都有出处）
+            if cfg.get("default_source"):
+                for i in items:
+                    if not i["source"]:
+                        i["source"] = cfg["default_source"]
             items = items[: int(cfg.get("take", 10))]
             log(f"  ✅ {host} → 采纳 {len(items)} 条")
             return items, host
@@ -199,7 +205,7 @@ def llm_translate(items, tcfg):
 def mark_new(items, outdir, date, edition):
     """与「同日期另一场」比对打 isNew；没有则与最近一份历史归档比对。"""
     prev_path = None
-    other = "afternoon" if edition == "morning" else "morning"
+    other = "night" if edition == "afternoon" else "afternoon"
     cand = os.path.join(outdir, "news", f"{date}-{other}.json")
     if os.path.exists(cand):
         prev_path = cand
@@ -220,7 +226,7 @@ def mark_new(items, outdir, date, edition):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--edition", required=True, choices=["morning", "afternoon"])
+    ap.add_argument("--edition", required=True, choices=["afternoon", "night"])
     ap.add_argument("--outdir", default="docs")
     ap.add_argument("--config", default=os.path.join(HERE, "sources.json"))
     ap.add_argument("--keep-days", type=int, default=7, help="归档保留天数")

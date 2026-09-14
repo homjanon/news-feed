@@ -43,18 +43,18 @@
   </header>
 
   <div class="tabs">
-    <div class="tab on" id="tab-morning" data-ed="morning">☕ 早咖啡</div>
-    <div class="tab" id="tab-afternoon" data-ed="afternoon">🍵 下午茶</div>
+    <div class="tab on" id="tab-afternoon" data-ed="afternoon">🍵 下午茶</div>
+    <div class="tab" id="tab-afternoon" data-ed="night">🥛 夜豆浆</div>
   </div>
   <div class="note" id="note"></div>
   <div id="list"><div class="empty">加载中…</div></div>
 
-  <footer>谷歌精选 + 联合早报 · 各取最新 10 条 · 每天 07:00 / 15:20 抓取<br>仅供研究参考，不构成投资建议</footer>
+  <footer>谷歌精选 + 联合早报 · 各取最新 10 条 · 每天 15:20 / 22:30 更新<br>仅供研究参考，不构成投资建议</footer>
 </div>
 
 <script>
 (function () {
-  var state = { ed: 'morning', cache: {} };
+  var state = { ed: 'afternoon', cache: {} };
 
   function today() {
     var d = new Date(Date.now() + 8 * 3600e3);   // 北京日期
@@ -102,13 +102,13 @@
   }
   function show(ed) {
     state.ed = ed;
-    document.getElementById('tab-morning').classList.toggle('on', ed === 'morning');
     document.getElementById('tab-afternoon').classList.toggle('on', ed === 'afternoon');
+    document.getElementById('tab-night').classList.toggle('on', ed === 'night');
     document.getElementById('list').innerHTML = '<div class="empty">加载中…</div>';
     load(ed).then(function (j) {
       var match = j.edition === ed;
       document.getElementById('note').textContent = match ? '' :
-        '（本场「' + (ed === 'morning' ? '早咖啡' : '下午茶') + '」还没生成，先显示最近一场：'
+        '（本场「' + (ed === 'afternoon' ? '下午茶' : '夜豆浆') + '」还没生成，先显示最近一场：'
         + (j.editionName || j.edition) + ' ' + (j.date || '') + '）';
       render(j);
     }).catch(function (e) {
@@ -116,12 +116,13 @@
         '<div class="empty">加载失败：' + esc(e.message) + '<br>稍后刷新再试</div>';
     });
   }
-  document.getElementById('tab-morning').onclick = function () { show('morning'); };
   document.getElementById('tab-afternoon').onclick = function () { show('afternoon'); };
+  document.getElementById('tab-night').onclick = function () { show('night'); };
 
   /* 按当前北京时间选默认页签：15:00 后看下午茶 */
-  var h = new Date(Date.now() + 8 * 3600e3).getUTCHours();
-  show(h >= 15 ? 'afternoon' : 'morning');
+  /* 默认页签＝最近一场：15:00–22:29 看下午茶，其余时间看夜豆浆 */
+  var nb = new Date(Date.now() + 8 * 3600e3), h = nb.getUTCHours(), mi = nb.getUTCMinutes();
+  show((h >= 15 && (h < 22 || (h === 22 && mi < 30))) ? 'afternoon' : 'night');
 })();
 </script>
 </body>

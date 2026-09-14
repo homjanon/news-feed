@@ -6,7 +6,7 @@
 
 ## 为什么独立建仓
 
-- **早咖啡 / 下午茶双场次**：portfolio 的日报是"隔夜+今晨"语义，加"下午场"要动它的模式判定，风险大。独立抓取则一天两场天然成立。
+- **下午茶 / 下午茶双场次**：portfolio 的日报是"隔夜+今晨"语义，加"下午场"要动它的模式判定，风险大。独立抓取则一天两场天然成立。
 - **App 数据源**：老张工具箱 App（一期）读这里的 JSON 渲染新闻流，网页照旧读 portfolio——一份数据两个出口，互不干扰。
 - **可扩展**：后续新增 RSS 只改 `scripts/sources.json`，不改代码。
 
@@ -36,23 +36,20 @@ GitHub Pages（/docs）→ https://homjanon.github.io/news-feed/
 
 ## 场次与触发
 
-| 场次 | 北京时间 | 内容 |
-|---|---|---|
-| ☕ 早咖啡 | 07:00 | 谷歌最新 10 + 早报最新 10 |
-| 🍵 下午茶 | 15:20 | 同上（含上午之后的增量，标「新」） |
+| 场次 | 北京时间 | UTC cron | 内容 |
+|---|---|---|---|
+| ☕ 下午茶 | 07:00 | `0 23 * * *` | 谷歌最新 10 + 早报最新 10 |
+| 🍵 下午茶 | 15:20 | `20 7 * * *` | 同上（含上午之后的增量，标「新」） |
 
-**触发方式（单通道 · 2026-09-13 起）**：由 **Cloudflare Worker `qdii-dispatch`** 统一调度
-——心跳每 5 分钟，到点调 GitHub API `workflow_dispatch` 触发本仓 `fetch.yml`：
+触发方式二选一（已都配好）：
 
-```
-POST https://api.github.com/repos/homjanon/news-feed/actions/workflows/fetch.yml/dispatches
-Authorization: Bearer <GITHUB_TOKEN>      # 需 repo + workflow 权限
-{"ref":"main","inputs":{"edition":"morning"}}    # 或 "afternoon"
-```
-
-> GitHub 侧已**移除 schedule**（不再自触发）：Actions 共享 cron 队列会偶发延迟/静默跳过。
-> 手动补跑任一指定场次：
-> `https://qdii-dispatch.homjanon.workers.dev/trigger?repo=news-feed&edition=afternoon&key=<DISPATCH_KEY>`
+1. **Actions schedule**（默认，可能延迟几分钟）
+2. **Cloudflare Worker 精确触发**（推荐，与 portfolio 的 qdii-dispatch 同套路）：
+   ```
+   POST https://api.github.com/repos/homjanon/news-feed/actions/workflows/fetch.yml/dispatches
+   Authorization: Bearer <GITHUB_TOKEN>      # 需 repo + workflow 权限
+   {"ref":"main","inputs":{"edition":"morning"}}    # 或 "afternoon"
+   ```
 
 ## Secrets（用户自管，与 portfolio 同名）
 
@@ -65,7 +62,7 @@ Authorization: Bearer <GITHUB_TOKEN>      # 需 repo + workflow 权限
 
 ```json
 {
-  "edition": "morning",          // morning=早咖啡 / afternoon=下午茶
+  "edition": "morning",          // morning=下午茶 / afternoon=下午茶
   "date": "2026-09-12",
   "fetched_at": "2026-09-12 07:04",
   "translator": "agnes",         // none(原文)=未配置 Key 或翻译失败
@@ -111,7 +108,7 @@ HTTPS_PROXY=http://127.0.0.1:7890 python scripts/fetch_news.py --edition morning
 
 ## 页面
 
-- 阅读页：`docs/index.html`（早咖啡/下午茶双页签，15:00 后自动切下午茶）
+- 阅读页：`docs/index.html`（下午茶/下午茶双页签，15:00 后自动切下午茶）
 - 数据：`docs/latest.json`（最新一场）、`docs/news/{日期}-{场次}.json`（7 天归档）
 
 免责声明：内容来自公开 RSS，仅供研究参考，不构成投资建议。

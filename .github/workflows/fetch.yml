@@ -1,25 +1,23 @@
 name: fetch-news
 
-# 老张自建新闻源 · 每天两场
-#   早咖啡  北京 07:00  = UTC 23:00（前一天）
-#   下午茶  北京 15:20  = UTC 07:20
-# 说明：GitHub schedule 走共享队列可能延迟几分钟（portfolio 因此改走 Cloudflare）。
-#       要用 Cloudflare 心跳精确触发时，对下面的 workflow_dispatch 接口 POST 即可：
-#       POST /repos/homjanon/news-feed/actions/workflows/fetch.yml/dispatches
-#       {"ref":"main","inputs":{"edition":"morning"}}   （Token 需 repo + workflow 权限）
+# 老张自建新闻源 · 每天两场（2026-09-15 起）
+#   下午茶  北京 15:20
+#   夜豆浆  北京 22:30
+#
+# ⚠️ 本 workflow 已【取消 GitHub Actions 定时】，只由 Cloudflare 定时触发（精确、不排共享队列）：
+#    POST /repos/homjanon/news-feed/actions/workflows/fetch.yml/dispatches
+#    {"ref":"main","inputs":{"edition":"afternoon"}}   ← 15:20（Token 需 repo + workflow 权限）
+#    {"ref":"main","inputs":{"edition":"night"}}       ← 22:30
+#    也可在 Actions 页面手动 Run workflow（可在界面上选场次）。
 on:
   workflow_dispatch:
     inputs:
       edition:
         description: 场次
         type: choice
-        options: [morning, afternoon]
-        default: morning
+        options: [afternoon, night]
+        default: afternoon
         required: true
-  schedule:
-    - cron: '0 23 * * *'   # 北京 07:00 早咖啡
-    - cron: '20 7 * * *'   # 北京 15:20 下午茶
-
 permissions:
   contents: write
 
@@ -37,19 +35,9 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: 判定场次（schedule 触发按 UTC 小时；手动触发用输入值）
+      - name: 判定场次（本 workflow 只由 Cloudflare 定时 / 手动触发，直接用输入值）
         id: ed
-        run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            echo "edition=${{ inputs.edition }}" >> "$GITHUB_OUTPUT"
-          else
-            H=$(date -u +%H)
-            if [ "$H" = "23" ]; then
-              echo "edition=morning" >> "$GITHUB_OUTPUT"
-            else
-              echo "edition=afternoon" >> "$GITHUB_OUTPUT"
-            fi
-          fi
+        run: echo "edition=${{ inputs.edition }}" >> "$GITHUB_OUTPUT"
 
       - name: 抓取并生成 JSON
         env:
