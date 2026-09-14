@@ -3,16 +3,25 @@
  "edition": "night",
  "editionName": "夜豆浆",
  "date": "2026-09-15",
- "fetched_at": "2026-09-15 07:39",
+ "fetched_at": "2026-09-15 07:55",
  "translator": "gemini",
  "counts": {
   "total": 20,
-  "new": 10
+  "new": 12
  },
  "items": [
   {
-   "title": "美股今日：10年期美债收益率触及5%，AI担忧冲击科技股",
-   "summary": "10年期美债收益率触及5%关键阈值，创2023年以来新高，引发市场对美国经济前景的担忧；同时AI相关警告冲击科技股，美股整体承压。",
+   "title": "美股周初下跌，10年期美债收益率短暂触及5%，油价上涨",
+   "summary": "美股周初普遍下跌，道指、标普500和纳指均走低，芯片股因AI担忧而下跌。10年期美债收益率短暂触及5%关口，油价同步上涨。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JdDYxaFIxTm84YVA5TWNJTHA5VFdNamVzM2FjNjFDTXdzWXpiWi1EajE5Yy1WQ2ZtTXpSVWtGQWVTQWxxNTZuTXozUkhDeXBfMmZCUGpOQmN2enFZSDhZZWl1c1lqZm5DdTg0Z2VNTHhaMldOWE05SNIBfkFVX3lxTFBLSUFVbWpsTFE5OEc3ODgybWlYUnJiMUsxQlE0Zkx6cFdvaDB3a3pMLVJYOHV3MWdFMTNILVRxZ2ZMSTYwY1Y3SkU5S2JCZUFaODVDOWk0eG90MWRubkgzdVloa0p1aXpxNzFRTExRM3FfaFZsR19Pc1l1eGhsQQ?oc=5",
+   "pubTime": "09-15 06:07",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美股今日：10年期美债收益率触及5%，AI警告令科技股承压",
+   "summary": "10年期美债收益率触及5%关键关口，对美国经济和市场具有重要意义。受AI担忧影响，科技股承压下跌，同时油价飙升，柴油价格创历史新高。",
    "source": "WSJ",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWZSbjFBdjV2Wm83NHFwYzNNVTJHWnVvYkZmd010aWZERmFNU1F2T0JNeVhXdUNlZkRHU3dYVjJWTmVLNF8tbm8xYU5RQlFxQ0lZUmN1VkpMQVZ5OHgxZnJNVVdxeVpkeTBiR0Y5eVZPd2QxeVh5UWdyNk1QdVlWeXdiTEZocGs?oc=5",
    "pubTime": "09-15 06:04",
@@ -20,17 +29,17 @@
    "isNew": true
   },
   {
-   "title": "吉利布兰德私下敦促民主党人推进加密货币法案",
-   "summary": "参议员吉利布兰德私下敦促民主党同僚推进加密货币监管法案，该法案即将面临参议院投票。特朗普已同意加入民主党要求的更严格道德准则，为法案通过扫除障碍。",
+   "title": "吉尔布兰德私下敦促民主党人推进加密货币法案",
+   "summary": "参议员吉尔布兰德私下敦促民主党同事推进加密货币监管法案。该法案即将面临参议院投票，沃伦计划在参议院批评《清晰度法案》，特朗普已同意接受民主党要求的更严格道德准则。",
    "source": "Politico",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGJFQjRTNDFMcmU2M21xVzBIcHEtamRvZ0doQU9YamF5MG9nbUFzQlk5U2FZcUNrWlJodEhMbThCX2RJSTZ1SFVQX2tFVXc4dTVqTDJNRzA1cXFjbWgzMTBxZG1ndnV2ZVdJZndETHdhby1lY1JOSGtHRUxJNjRkQ3hTdWlmQjZqLXBSRDlpLTFieGpDd0pac09EQXRWWGJIUUpPdzQxOXpVVlZtQjJ1U1Q2azJ3ZTc4WThkMW5n?oc=5",
    "pubTime": "09-15 05:56",
    "block": "谷歌精选",
-   "isNew": false
+   "isNew": true
   },
   {
    "title": "Costco近翻倍机油价格并限制购买",
-   "summary": "Costco将自有品牌Kirkland机油价格提高近一倍至57.99美元，并限制会员购买数量，以应对全球机油供应短缺问题。",
+   "summary": "Costco将Kirkland品牌机油价格近翻倍至57.99美元，并限制会员购买数量。此举源于全球机油供应短缺的担忧，公司开始对机油实行配给销售。",
    "source": "The Hill",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT2QwcDJKOURabUd2cmRKQ0dDNk9ONXAwcEo0dXVqS2tzNzh0UXRWeGlKeE1hcjBpcTJ1S2swUE9IZjFsOFB2OVNxbG1zbEtVZGNQWVd3M3hsdnFBZklMLU0yS0pjR3dfU1NpY2RWRmowb0JfUFA3QUw1ZTJtWGo0dUgxQWhLcll6aXI4bjFmdjAzSVlDZVI4aHMyUVhTMTcxTnprM3J6MzRvekxqSkFiddIBtgFBVV95cUxONzZWenBWZkdtWU13Tl8wMWlIb3M1X3JLbzc0eEk3TS1WbEVLQWlPSDNGcHQ2eWVCTk1TN1N4clV2LV9PbWxwdXVqdUY4c1NzbjIwU0dyN29MQm4zSlNGTWdEU0Z3Y3hJMHJ4dUwyZEpFZW5ESUVmT3UyVzRyaDlsZElJeXg1RTN4NWlzVUlFa2xTM3g0R0FNTVU5UHVndUNPMERkZF82aXVFb2JGOVBRRjJmblNpdw?oc=5",
    "pubTime": "09-15 05:15",
@@ -39,7 +48,7 @@
   },
   {
    "title": "马斯克旗下X Corp与SpaceX AI解决针对苹果的反垄断诉讼",
-   "summary": "马斯克旗下X Corp与SpaceX AI已就针对苹果的反垄断诉讼达成和解，双方正式解决相关争议。",
+   "summary": "马斯克旗下的X Corp与SpaceX AI已解决针对苹果公司的反垄断诉讼。具体和解条款尚未披露。",
    "source": "Reuters",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMDlqV0V1WnBGSk9WemJuZHB2WXhUMTlSMVFRYzltVmxfUjF1bzdycXZqMnVOUGFTTHJYbkxVc0JnTXB4NS1lMmllZmlYQWwzVFE5MWFLaURvcDJDNDRfMFQ4WmpwOENoX3ZXVG9oMXcycjlZN3dNc3BUNmt0R2FBNlVTSEVCZUlxaGJJaWtmLTg5RU1GMDR6SmFudlVtcHZCTGo3RG1n?oc=5",
    "pubTime": "09-15 05:11",
@@ -47,17 +56,8 @@
    "isNew": true
   },
   {
-   "title": "AI股下跌，但油价回吐涨幅后华尔街其余板块走势相对平稳",
-   "summary": "AI相关股票下跌，但油价回吐早盘涨幅后，华尔街其余板块走势相对平稳。10年期美债收益率突破5%关键关口，市场对AI担忧情绪有所缓解。",
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRFpLbXVrOWE4Ri1ZaUsxT0FWc1VvZHc0bU04NWdORHpjcm5XdFc1YXlOMUE3VXNrbmppdlJOMVBYMkhYS3MtYjl1d3gtbG5mMFNGLU5fdUNWOHo4V2kxcDdDOTE4cW1CRDFkTDNBMXI1ZDdxeGNFSHhldGhSY3NyYTVIQVdrMloxalNiZGJLbkI?oc=5",
-   "pubTime": "09-15 05:01",
-   "block": "谷歌精选",
-   "isNew": true
-  },
-  {
-   "title": "美银CEO一语引发银行股抛售",
-   "summary": "美银预计第三季度投资银行费用将下降逾10%，CEO相关表态引发银行股抛售，美银领跌金融服务板块。",
+   "title": "美银CEO一字引发银行股抛售",
+   "summary": "美国银行CEO因一个词引发银行股抛售。美银预计第三季度投资银行费用将下降超过10%，领跌金融服务板块股价。",
    "source": "Barron's",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcTh3OEh1dVJfRmRuYURMX0lwOUlxeGlMcy1YVzZqeW84d2lOaVV2VzVpZVlucUtkMmd1d3ctZWRtNE1xX1BfZDZmZ3M1TmY1UzZSWU5fUFlYeDgxMENkS290RURLUjBhRFVtRHhkeVFhWHJFa29QNFJEOFljTW1Zeg?oc=5",
    "pubTime": "09-15 04:42",
@@ -65,17 +65,17 @@
    "isNew": true
   },
   {
-   "title": "大众汽车打造续航近500英里电动车",
-   "summary": "大众汽车发布Mission Efficiency概念车，续航接近500英里，号称全球最高效的近量产电动车，被视为电动时代的XL1。",
-   "source": "motor1.com",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR2ZUU0RFejNaMjd1TWxteFhUOWtGZjRwY1N5SGR5U1ZuUEJmZDF3Z2FYME5QSVNJQ3V1bXVqQTQyTm5tNl81aG1JaWdSdWlWUXRPOVlNb2gwSkhSZW0tTEV4bEJJdmlYdjg5OEFEQlZGY205LXJXYmpNSDA1QmI0YU1mNEk?oc=5",
-   "pubTime": "09-15 04:03",
+   "title": "圣保罗Summit Brewing公司面临法拍",
+   "summary": "圣保罗Summit Brewing公司面临法拍，该公司背负820万美元债务。银行已启动法拍程序，法院文件显示该公司正面临约800万美元债务问题。",
+   "source": "MPR News",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUklacWI0UmMxMm9CLUZfTEVWWWpBeE5LUjZQREN1b04yQkNSUG9LTHgzeXBBOVVMeXFQc0hHN0pOTEl4dG5GWGlxUUM0cGtjR2xndlhxaWVybVZMVU9sRHp4SWp5MTVRNUVfaDJpZ2U1dDgxTEFJSVB1UE96N3N2ZzdaT21YVHJvc3VmTVZrYlp5X0RaNlFB?oc=5",
+   "pubTime": "09-15 04:19",
    "block": "谷歌精选",
    "isNew": true
   },
   {
-   "title": "中东局势持续动荡担忧推高油价",
-   "summary": "中东局势持续动荡引发供应担忧，沙特能源设施遇袭致油价跳涨。特朗普表示美国对与伊朗谈判持开放态度，市场关注沙特管道恢复情况。",
+   "title": "担心中东中断持续，油价上涨",
+   "summary": "受中东地区供应中断可能持续的担忧影响，油价上涨。",
    "source": "WSJ",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbnFxZkFyN3FYVllsTi1xa1RxYjBkM1ZKdHJabmxnVF9jUkpRSnhuYkFtT0Z3Q1B1OWhzNjN4Q2lnYVBFOGxkbExaYjdtUko4blVnZUV4M3Q4QnQtc2M4Zkd0UFpUNEZZQUhuSlZwUzNqaENmczlNcmcydklnb1lfSmttSFlxUDZGbThuaHBtYlFGS1NCbGpBek5feWpqejBOc2c?oc=5",
    "pubTime": "09-15 03:55",
@@ -83,8 +83,17 @@
    "isNew": true
   },
   {
-   "title": "卡尼如何向全球最大投资者推销加拿大",
-   "summary": "卡尼正积极向全球最大投资者推销加拿大，强调其价值远不止于美国的邻国。Brookfield与加拿大养老基金拟联手推出500亿美元投资基金。",
+   "title": "Oracle清晨邮件宣布新一轮裁员：今天是你最后工作日",
+   "summary": "Oracle通过清晨邮件宣布新一轮裁员，邮件称今天是你最后工作日。随着AI转型推进，裁员成本持续增加。",
+   "source": "San Francisco Chronicle",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM1ZvczR3VVZzWDV0LUJ5TGdXcFlhcE5IeVZIY3BEZEVCM0ZtWm9nb1Q1bm0tRzcxZnVtN0lNa0RwYm45WVQ0NWZsZ1d6dElyZE5lMThCaS0zWVk2VmtkNUdOaWF4QTBtZHRtMFdIdVhtWEJSZkRWT1psWWUxWFctaVJkRUZXaExDYnc?oc=5",
+   "pubTime": "09-15 03:51",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "Carney如何向全球最大投资者推销加拿大",
+   "summary": "在美中贸易摩擦背景下，Carney向全球投资巨头推销加拿大。Barton表示被迫协助首相Carney在首届峰会上吸引投资，涵盖管道、铁路和AI等领域。",
    "source": "BBC",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxb051Sm1ZbFN5Mk9Ga0d3RDFNRWlKU255dThwYVpMWDhEeWY4T2RSUUxPcDFrOWxEd3JHQ3NRSXJfbGpiTE5CbHpxcFp3Sy1nWTNrdWN6a2s0dw?oc=5",
    "pubTime": "09-15 03:29",
@@ -92,17 +101,17 @@
    "isNew": true
   },
   {
-   "title": "柴油价格飙升的推手是什么？两场战争引发的能源混乱",
-   "summary": "两场战争引发的能源混乱推高柴油价格。市场关注伊朗冲突的长期影响，分析人士指出石油市场已度过伊朗战争的冲刺阶段，接下来将是马拉松式的考验。",
-   "source": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb081YVVpNkZEZkJ5WWVYWGdTX0pDd1ZlNWdzREJrR2x4aU1TX2pMdHo1enZ5QmZURkFtTG8xWE5hQVgxRm9yQ3A2MEpwaTEzY3JYbzFLVGRidUFpd0pGN2VqOFg1cUdyOUgtbkpHUWNtTWxqalZ5UnpqVHRBM1E5dVdqTFpNc0xZTExsWVdZeXppWmRJemp2WjBqRFNRQ0kySEE?oc=5",
-   "pubTime": "09-15 03:09",
-   "block": "谷歌精选",
+   "title": "中国增加采购美国液化天然气",
+   "summary": "中国燃气控股有限公司与Venture Global签署协议，计划从2030年起每年进口50万吨美国液化天然气，为期20年。此举使中国燃气对该供应商的长期采购总量增至每年250万吨，显示出尽管存在关税壁垒，中国企业仍通过长期合同保障能源供应。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20260915-9676562",
+   "pubTime": "09-15 07:45",
+   "block": "联合早报",
    "isNew": true
   },
   {
    "title": "王毅：中国将尽最大努力继续搜救泥石流外方失联人员",
-   "summary": "中共中央政治局委员、外交部长王毅在与拉脱维亚外长通电话时表示，针对尼泊尔与中国西藏交界处发生的泥石流灾害，中方将尽最大努力搜救包括拉脱维亚公民在内的所有失联人员，并加强与拉方的沟通协作。",
+   "summary": "中共中央政治局委员、外交部长王毅在与拉脱维亚外长布拉泽通话时表示，中方将全力搜救在西藏吉隆县泥石流灾害中失联的包括拉脱维亚公民在内的人员。拉方对中方的搜救努力及慰问表示感谢，双方将加强沟通协作，共同处理后续事宜。",
    "source": "联合早报",
    "url": "https://www.zaobao.com/news/china/story20260915-9676546",
    "pubTime": "09-15 07:20",
@@ -111,7 +120,7 @@
   },
   {
    "title": "庄慧良：当“围蒋”成为绿营2028前哨战",
-   "summary": "台北市长蒋万安之子获公费留学补助引发绿营质疑，虽蒋万安已宣布改为自费，但此事持续发酵。绿营借此攻击蒋家权贵资源分配问题，被视为针对2028年大选的前哨战，引发台湾政坛激烈攻防。",
+   "summary": "台北市长蒋万安之子蒋得立获公费赴美交换引发绿营质疑，尽管市府强调合规，蒋万安仍宣布改为自费。此事件被视为绿营针对蒋万安的政治攻防，通过炒作权贵特权议题，将其演变为国民党在2028年大选前的政治前哨战。",
    "source": "联合早报",
    "url": "https://www.zaobao.com/news/china/story20260915-9676010",
    "pubTime": "09-15 05:00",
@@ -120,7 +129,7 @@
   },
   {
    "title": "王毅：保护主义提升不了欧洲竞争力",
-   "summary": "中国外长王毅与法国外长巴罗通电话时强调，保护主义无助于提升欧洲竞争力。他指出中国的发展是欧盟的机遇而非挑战，呼吁法方以务实理性态度推动中欧关系稳定发展，共同应对国际风险挑战。",
+   "summary": "中国外长王毅在与法国外长巴罗通话时强调，保护主义无助于提升欧洲竞争力，中国的发展是欧盟的机遇而非挑战。王毅呼吁法方以务实理性态度推动中欧关系稳定发展，并表示中方支持法国履行联合国安理会轮值主席国职责。",
    "source": "联合早报",
    "url": "https://www.zaobao.com/news/china/story20260914-9676018",
    "pubTime": "09-14 23:03",
@@ -129,7 +138,7 @@
   },
   {
    "title": "中国国务院对青岛货轮火灾事故提级调查",
-   "summary": "山东青岛一造船厂发生外籍货轮火灾，造成25人遇难、5人受伤。中国国务院已成立由应急管理部牵头的调查组，并对该起重大事故进行提级调查，多部门已召开会议部署相关工作。",
+   "summary": "山东青岛一家造船厂日前发生外籍货轮火灾，造成25人遇难、5人受伤。中国国务院对此高度重视，成立由应急管理部牵头、多部门参与的调查组进行提级调查，并已召开第一次全体会议，旨在查明事故原因并严肃追责。",
    "source": "联合早报",
    "url": "https://www.zaobao.com/news/china/story20260914-9675860",
    "pubTime": "09-14 22:03",
@@ -138,7 +147,7 @@
   },
   {
    "title": "港府周三公布施政报告 料推“组合拳”鼓励港人生育",
-   "summary": "香港特首李家超将于周三发表施政报告，预计将推出住房、扣税及公共服务等“组合拳”措施以提振生育率。学者建议，当局应优先解决住房问题，通过资助有子女家庭入住公营房屋来切实提升生育意愿。",
+   "summary": "香港特首李家超将于周三发表任内最后一份《施政报告》，预计将推出住房、扣税及公共服务等“组合拳”措施鼓励生育。学者指出，住房压力是影响港人生育意愿的核心因素，建议政府加大对有子女家庭的住房资助以提振生育率。",
    "source": "联合早报",
    "url": "https://www.zaobao.com/news/china/story20260914-9675580",
    "pubTime": "09-14 21:38",
@@ -147,7 +156,7 @@
   },
   {
    "title": "下午察：从禁飞到禁存 北京严管无人机",
-   "summary": "北京市修订无人驾驶航空器管理规定，自11月15日起，全市行政区域将全域禁飞，并禁止持有、存放及携带无人机及其核心部件。此举标志着北京对无人机管控进入“禁存”时代。",
+   "summary": "北京市修订无人驾驶航空器管理规定，自11月15日起，全市行政区域内将全面禁止无人机飞行，并禁止持有、存放及运输无人机及其核心部件。这意味着北京市民需在规定时间内处理家中无人机，该政策标志着北京对无人机管控进入极严阶段。",
    "source": "联合早报",
    "url": "https://www.zaobao.com/news/china/story20260914-9673602",
    "pubTime": "09-14 21:21",
@@ -156,7 +165,7 @@
   },
   {
    "title": "广州公安通报：番禺一男子持刀伤人落网",
-   "summary": "广州市番禺区一商场附近发生持刀伤人事件，一名35岁李姓男嫌犯已被警方抓获。目前伤者均已送医救治且无生命危险，案件正在进一步侦办中。",
+   "summary": "广州市番禺区小谷围街一商场附近发生持刀伤人事件，一名35岁李姓男子被警方当场抓获。目前伤者已送医救治，均无生命危险，案件正在进一步侦办中。网传现场有多人受伤，事发地周边高校密集，引发社会关注。",
    "source": "联合早报",
    "url": "https://www.zaobao.com/news/china/story20260914-9675665",
    "pubTime": "09-14 21:06",
@@ -165,7 +174,7 @@
   },
   {
    "title": "侯为东任福建泉州市代市长",
-   "summary": "福建省泉州市人大常委会会议决定，任命原福建省发改委副主任侯为东为泉州市副市长、代理市长。此前，陈力达已出任泉州市委书记，泉州领导班子完成调整。",
+   "summary": "福建省泉州市人大常委会决定任命侯为东为泉州市副市长、代理市长。侯为东此前担任福建省发改委副主任，拥有丰富的基层及地方工作经验。此次人事变动是在泉州市委书记陈力达履新后，当地领导班子的进一步调整。",
    "source": "联合早报",
    "url": "https://www.zaobao.com/news/china/story20260914-9675438",
    "pubTime": "09-14 20:08",
@@ -174,19 +183,10 @@
   },
   {
    "title": "习近平访美在即 中国完成逾半美国大豆采购承诺",
-   "summary": "在国家主席习近平访美前夕，中国国有贸易商近期订购了至少100万吨美国大豆，使本销售季采购总量接近1300万吨，已完成中美贸易协议中承诺采购目标的一半以上，释放出贸易关系利好信号。",
+   "summary": "在中国国家主席习近平访美前夕，中国国有贸易商近期订购至少100万吨美国大豆，使本销售季采购总量接近1300万吨，已完成中美贸易协议中截至2028年每年采购2500万吨目标的一半以上，为两国贸易关系释放积极信号。",
    "source": "联合早报",
    "url": "https://www.zaobao.com/news/china/story20260914-9675365",
    "pubTime": "09-14 19:54",
-   "block": "联合早报",
-   "isNew": false
-  },
-  {
-   "title": "特稿：中国政务新媒体花式“整活” 流量与风险难平衡？",
-   "summary": "中国政务新媒体如“海关发布”和“深圳卫健委”通过玩梗、微短剧等“整活”方式获取巨大流量。这种创新传播虽提升了政务信息的触达率，但也引发了关于内容严肃性与潜在舆论风险的讨论。",
-   "source": "联合早报",
-   "url": "https://www.zaobao.com/news/china/story20260914-9483500",
-   "pubTime": "09-14 19:22",
    "block": "联合早报",
    "isNew": false
   }
