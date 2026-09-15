@@ -4,7 +4,7 @@
 
 设计原则（2026-09-12 与用户确认的方案）：
   1. 选条是硬规则：标题去重 + 按 pubDate 倒序取前 N 条，LLM 不参与选条；
-  2. LLM 只做「译标题 + 一句话摘要」，且失败时降级保留原文标题，绝不因翻译失败空窗；
+  2. LLM 只做「译标题 + 一句话摘要」；全场只调一次，整批失败自动拆 2 批兜底，仍失败降级保留原文标题，绝不空窗；
   3. 源全部配置化（scripts/sources.json），后续新增 RSS 只改配置不改代码；
   4. 抓取失败保留上一场数据（本脚本只写当天文件，不删旧文件，latest.json 由成功场次覆盖）。
 
@@ -135,69 +135,95 @@ def fetch_source(cfg):
     raise RuntimeError(f"所有实例失败，最后一个错误：{last_err}")
 
 
-def llm_translate(items, tcfg):
-    """对 LLM 源的条目做「AI 摘要」。任一模型成功即返回；全失败降级截断摘要（不空窗）。
-    标题：英文 → 译成中文；已是中文（联合早报）→ 原样保留，不改写。
-    摘要：40~summary_max 字中文摘要（2026-09-12 用户要求；不再对早报做 desc[:80] 硬切）。"""
-    todo = [i for i in items if i.get("_llm")]
-    if not todo:
-        return "none"
-    smin = int(tcfg.get("summary_min", 40))
-    smax = int(tcfg.get("summary_max", 60))
-    sys_prompt = (
+def _sys_prompt(smin, smax):
+    return (
         "你是财经新闻编辑。输入是 JSON 数组 [{\"i\":序号,\"title\":标题,\"desc\":正文开头}]。"
         "输出同样是 JSON 数组 [{\"i\":序号,\"title\":标题,\"summary\":中文摘要}]，规则："
         "① title：若输入是英文则译成简洁中文（专有名词用通用译名）；若输入已是中文，必须一字不改原样返回；"
         f"② summary：{smin}~{smax} 字左右的中文摘要，把正文开头的核心事实整理成完整通顺的一段话；"
         "要点较多时可适当超出字数——信息完整比控制字数更重要，不逐字照抄、绝不以半句话截断结尾。"
         "只输出 JSON 数组本身，不要任何解释、不要 markdown 代码块。")
+
+
+def _call_llm_batch(batch, tcfg):
+    """对「一批」条目依次尝试各模型：成功则回填并返回 (模型名, True)；全失败返回 (None, False)。"""
+    smin = int(tcfg.get("summary_min", 40))
+    smax = int(tcfg.get("summary_max", 60))
+    sys_prompt = _sys_prompt(smin, smax)
+    tried = 0          # 真正发起过请求的模型数（用于区分"没配 Key"与"调用失败"）
     for m in tcfg.get("models", []):
         key = os.environ.get(m.get("key_env", ""))
         if not key:
             log(f"  ⏭️ 跳过 {m['name']}：环境变量 {m.get('key_env')} 未设置（Secret 未配置时属预期）")
             continue
+        tried += 1
         payload = {
             "model": m["model"],
             "messages": [
                 {"role": "system", "content": sys_prompt},
                 {"role": "user", "content": json.dumps(
                     [{"i": n, "title": i["title"], "desc": i["desc"][:400]}
-                     for n, i in enumerate(todo)], ensure_ascii=False)},
+                     for n, i in enumerate(batch)], ensure_ascii=False)},
             ],
             "temperature": 0.2,
-            "max_tokens": 4000,
+            "max_tokens": 8000,
         }
         try:
             req = urllib.request.Request(
                 m["base"].rstrip("/") + "/chat/completions",
                 data=json.dumps(payload).encode(),
                 headers={"Content-Type": "application/json", "Authorization": f"Bearer {key}"})
-            with urllib.request.urlopen(req, timeout=120) as r:
+            with urllib.request.urlopen(req, timeout=180) as r:
                 data = json.loads(r.read().decode())
             msg = data["choices"][0]["message"]
             text = (msg.get("content") or msg.get("reasoning_content") or "").strip()
             text = re.sub(r"^```(json)?|```$", "", text.strip(), flags=re.M).strip()
             arr = json.loads(text)
-            if not isinstance(arr, list) or len(arr) != len(todo):
-                raise RuntimeError(f"返回条数不符（期望 {len(todo)}，得 {len(arr) if isinstance(arr, list) else '非数组'}）")
+            if not isinstance(arr, list) or len(arr) != len(batch):
+                raise RuntimeError(f"返回条数不符（期望 {len(batch)}，得 {len(arr) if isinstance(arr, list) else '非数组'}）")
             changed_title = 0
             for row in arr:
                 i = int(row.get("i", -1))
-                if not (0 <= i < len(todo)):
+                if not (0 <= i < len(batch)):
                     continue
-                it = todo[i]
-                t = str(row.get("title", "")).strip()
+                it = batch[i]
+                ti = str(row.get("title", "")).strip()
                 s = str(row.get("summary", "")).strip()
                 # 中文标题一律保留原样（防 LLM 擅自改写事实性标题）；仅英文标题采纳译文
-                if it["_translate_title"] and t:
-                    it["title"] = t
+                if it["_translate_title"] and ti:
+                    it["title"] = ti
                     changed_title += 1
                 if s:
-                    it["summary"] = s   # 原样保留，不做截断（2026-09-12 用户指示：信息完整优先）
-            log(f"  🌐 AI 摘要完成（{m['name']} / {m['model']}，{len(todo)}条，译标题 {changed_title} 条）")
-            return m["name"]
+                    it["summary"] = s   # 原样保留，不截断（信息完整优先）
+            log(f"  🌐 AI 摘要完成（{m['name']} / {m['model']}，{len(batch)}条，译标题 {changed_title} 条）")
+            return m["name"], True, tried
         except Exception as e:
             log(f"  ⚠️ {m['name']} 失败：{type(e).__name__}: {str(e)[:120]}")
+    return None, False, tried
+
+
+def llm_translate(items, tcfg):
+    """全场「一次调用」完成译标题 + 摘要（2026-09-15 用户要求：原来是每个源各调一次＝2 次/场）。
+
+    为降低"一次失败全批降级"的风险：整批失败后自动拆成 2 批再各试一次；
+    仍失败才降级为 RSS 原文摘要（绝不空窗）。"""
+    todo = [i for i in items if i.get("_llm")]
+    if not todo:
+        return "none"
+    name, ok, tried = _call_llm_batch(todo, tcfg)
+    if ok:
+        return name
+    if tried == 0:
+        # 一个模型都没配 Key：没必要分批重试（也没必要重复打日志）
+        log("  ⬇️ 无可用模型（Key 均未配置），降级为 RSS 原文摘要（不空窗）")
+        return "none(原文)"
+    if len(todo) >= 8:
+        log("  ↻ 整批失败，拆成 2 批重试…")
+        half = (len(todo) + 1) // 2
+        n1, ok1, _ = _call_llm_batch(todo[:half], tcfg)
+        n2, ok2, _ = _call_llm_batch(todo[half:], tcfg)
+        if ok1 or ok2:
+            return n1 or n2
     log("  ⬇️ AI 摘要全部失败，降级为截断摘要（不空窗）")
     return "none(原文)"
 
@@ -252,9 +278,11 @@ def main():
             i["_llm"] = bool(src.get("translate"))
             # 标题含 CJK（联合早报）→ 保留原标题只做摘要；纯英文（谷歌）→ 标题也译
             i["_translate_title"] = not re.search(r"[\u4e00-\u9fff]", i["title"])
-        if src.get("translate"):
-            translator = llm_translate(items, tcfg)
         all_items.extend(items)
+
+    # 2026-09-15：所有源抓完后【一次性】送 LLM（原来是在源循环里每源一次）
+    if any(i.get("_llm") for i in all_items):
+        translator = llm_translate(all_items, tcfg)
 
     if not all_items:
         log("⛔ 全部源失败：不写任何文件（保留上一场数据，latest.json 不被覆盖）")
