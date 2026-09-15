@@ -3,192 +3,192 @@
  "edition": "night",
  "editionName": "夜豆浆",
  "date": "2026-09-15",
- "fetched_at": "2026-09-15 07:55",
- "translator": "gemini",
+ "fetched_at": "2026-09-15 23:44",
+ "translator": "none(原文)",
  "counts": {
   "total": 20,
-  "new": 12
+  "new": 20
  },
  "items": [
   {
-   "title": "美股周初下跌，10年期美债收益率短暂触及5%，油价上涨",
-   "summary": "美股周初普遍下跌，道指、标普500和纳指均走低，芯片股因AI担忧而下跌。10年期美债收益率短暂触及5%关口，油价同步上涨。",
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JdDYxaFIxTm84YVA5TWNJTHA5VFdNamVzM2FjNjFDTXdzWXpiWi1EajE5Yy1WQ2ZtTXpSVWtGQWVTQWxxNTZuTXozUkhDeXBfMmZCUGpOQmN2enFZSDhZZWl1c1lqZm5DdTg0Z2VNTHhaMldOWE05SNIBfkFVX3lxTFBLSUFVbWpsTFE5OEc3ODgybWlYUnJiMUsxQlE0Zkx6cFdvaDB3a3pMLVJYOHV3MWdFMTNILVRxZ2ZMSTYwY1Y3SkU5S2JCZUFaODVDOWk0eG90MWRubkgzdVloa0p1aXpxNzFRTExRM3FfaFZsR19Pc1l1eGhsQQ?oc=5",
-   "pubTime": "09-15 06:07",
+   "title": "Live Updates: Treasury Secretary Bessent Testifies Before House Panel on Economy - The New York Times",
+   "summary": "Live Updates: Treasury Secretary Bessent Testifies Before House Panel on Economy The New York Times Treasury Secretary Bessent defends Trump economic record in contentious hearing cnbc.com Live: Bessent testifies before Congress as US Treasury yields hit fresh high Reuters Bessent testifies before C",
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zZ0VnYjg4YUhxZFdOTmMweVpuZGNta2tmR200bUQ2WXI0VEtwVi10bG5lX2toWnpzU29YLUJ1RGFjVjUwTXlJdi1Sb2F5amY5V0piYWM0R3RWSlYxOHFXU1AwNWFjUVVQU0lGMzhCLUEzUQ?oc=5",
+   "pubTime": "09-15 23:22",
    "block": "谷歌精选",
    "isNew": true
   },
   {
-   "title": "美股今日：10年期美债收益率触及5%，AI警告令科技股承压",
-   "summary": "10年期美债收益率触及5%关键关口，对美国经济和市场具有重要意义。受AI担忧影响，科技股承压下跌，同时油价飙升，柴油价格创历史新高。",
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWZSbjFBdjV2Wm83NHFwYzNNVTJHWnVvYkZmd010aWZERmFNU1F2T0JNeVhXdUNlZkRHU3dYVjJWTmVLNF8tbm8xYU5RQlFxQ0lZUmN1VkpMQVZ5OHgxZnJNVVdxeVpkeTBiR0Y5eVZPd2QxeVh5UWdyNk1QdVlWeXdiTEZocGs?oc=5",
-   "pubTime": "09-15 06:04",
+   "title": "Stock Market Today: Dow Falls 200 Points at Open; 10-Year Treasury Yield at 5% — Live Updates - wsj.com",
+   "summary": "Stock Market Today: Dow Falls 200 Points at Open; 10-Year Treasury Yield at 5% — Live Updates wsj.com 10-year Treasury yield hits highest level since 2007 as traders bet a Fed rate hike is coming cnbc.com Treasury Yields Above 5.25% Change Everything Advisor Perspectives Global bond yields hit 2008 ",
+   "source": "wsj.com",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONkd6MWRHekVmaFBjWGJOWkl6QjdJWWRiTmxJQV9FMmdXcHdXaG92QUZodkp5dUIxOTY1N1ltZ2dUNmFsOFZPWl91OTdlTkFES3dud0V6bUphaE55WlE2N0N4R0NaSEJfandkZVNzQnpvaXlRUnpCNTFreG51OWZSTzlZR3gyLUU?oc=5",
+   "pubTime": "09-15 23:10",
    "block": "谷歌精选",
    "isNew": true
   },
   {
-   "title": "吉尔布兰德私下敦促民主党人推进加密货币法案",
-   "summary": "参议员吉尔布兰德私下敦促民主党同事推进加密货币监管法案。该法案即将面临参议院投票，沃伦计划在参议院批评《清晰度法案》，特朗普已同意接受民主党要求的更严格道德准则。",
+   "title": "Nike co-founder Phil Knight to donate $1.1 billion to Oregon medical center - cnbc.com",
+   "summary": "Nike co-founder Phil Knight to donate $1.1 billion to Oregon medical center cnbc.com Knight family gives $1.1 billion to Providence St. Vincent OregonLive.com Providence to receive $1.1B from Nike co-founder to build women's health hospital in Oregon GeekWire Phil and Penny Knight donate $1.1B to Po",
+   "source": "cnbc.com",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNemFuWUhGS1lzWGhxX2xOU2hvR0ZzTHZkeF9fZFIySmQ4Qi1LNG5hVEpRRXczZUVNRTNJRnIzbTJGVXRON25nVTFmeHVkU1Y2WE1CdVhNQ1JmMVNrR0dJa2RLTTcwQlRGRHFIUFowWE0tMDRYRW9ZTzVPb1lOTGpFei1sUkFpNlFnSzJfRdIBkgFBVV95cUxPY0E1bHh0akE2RUtsem9abVFIV1JiQXQ5cWRIV3dsUFlpOW9wODNBMG92Y3dYRDA2emZYNWh4eFpCbENUdGcwdmZmVXg1dU55bm0xME1kS2ZKXzZ2QWM0NUlvY2xkU1VBd2NYMXZYYVZyclFwU2lTSzgzV09PXzNqV0JBZG5ZYVpVZGRCNFF1cV82Zw?oc=5",
+   "pubTime": "09-15 23:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "Republicans pour cold water on Democratic crypto bill counteroffer - Politico",
+   "summary": "Republicans pour cold water on Democratic crypto bill counteroffer Politico This bill could reshape crypto in America — and it's sparking a major battle NPR Democrats 'Move the Goalposts' on Clarity Act Hours Before Key Senate Vote Yahoo Bitcoin Falls Ahead of Clarity Act Vote. Why Cathie Wood’s Dum",
    "source": "Politico",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGJFQjRTNDFMcmU2M21xVzBIcHEtamRvZ0doQU9YamF5MG9nbUFzQlk5U2FZcUNrWlJodEhMbThCX2RJSTZ1SFVQX2tFVXc4dTVqTDJNRzA1cXFjbWgzMTBxZG1ndnV2ZVdJZndETHdhby1lY1JOSGtHRUxJNjRkQ3hTdWlmQjZqLXBSRDlpLTFieGpDd0pac09EQXRWWGJIUUpPdzQxOXpVVlZtQjJ1U1Q2azJ3ZTc4WThkMW5n?oc=5",
-   "pubTime": "09-15 05:56",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOUN3dHdWb2I4Wmx5NllzQWUtUXJ6UXBxZnpPSy1WVGdRUldTZlFPZ2ZmS0JrWVdrWmc0NldpclV3WXllLTVodlczVV9vMHhWWHNmRkUwbjJKQUZuTG5vS3BBYmlPV2pjd1VUd05sV2s1THd6TmJfdDF0bnRCbi1PWXVsMmtvV00tUDBOWFh4MVl5N3JYRlFxM1hlY00weDNSX1FsRkNsWU9QMHhIRXhmcEZtNnFleTFZcFpjVFpTMWVfTFlVMFRya1FaY0x0Zw?oc=5",
+   "pubTime": "09-15 22:32",
    "block": "谷歌精选",
    "isNew": true
   },
   {
-   "title": "Costco近翻倍机油价格并限制购买",
-   "summary": "Costco将Kirkland品牌机油价格近翻倍至57.99美元，并限制会员购买数量。此举源于全球机油供应短缺的担忧，公司开始对机油实行配给销售。",
-   "source": "The Hill",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT2QwcDJKOURabUd2cmRKQ0dDNk9ONXAwcEo0dXVqS2tzNzh0UXRWeGlKeE1hcjBpcTJ1S2swUE9IZjFsOFB2OVNxbG1zbEtVZGNQWVd3M3hsdnFBZklMLU0yS0pjR3dfU1NpY2RWRmowb0JfUFA3QUw1ZTJtWGo0dUgxQWhLcll6aXI4bjFmdjAzSVlDZVI4aHMyUVhTMTcxTnprM3J6MzRvekxqSkFiddIBtgFBVV95cUxONzZWenBWZkdtWU13Tl8wMWlIb3M1X3JLbzc0eEk3TS1WbEVLQWlPSDNGcHQ2eWVCTk1TN1N4clV2LV9PbWxwdXVqdUY4c1NzbjIwU0dyN29MQm4zSlNGTWdEU0Z3Y3hJMHJ4dUwyZEpFZW5ESUVmT3UyVzRyaDlsZElJeXg1RTN4NWlzVUlFa2xTM3g0R0FNTVU5UHVndUNPMERkZF82aXVFb2JGOVBRRjJmblNpdw?oc=5",
-   "pubTime": "09-15 05:15",
+   "title": "OpenAI backs bipartisan House plan for third-party safety assessments - Politico",
+   "summary": "OpenAI backs bipartisan House plan for third-party safety assessments Politico OpenAI CEO Sam Altman on AI: 'We could lose control' Yahoo Finance Sam Altman reveals the 2 AI threats that scare him most Axios Greg Brockman says OpenAI has already slowed cutting-edge AI developments over safety concer",
+   "source": "Politico",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRG0wYkVaVjJNSzhkTU1VZFk5V09qZjJfN3RyS0tOUlBDXzU2OFVoWlYyMWQ1QV8zcFBZeWg5OWkxWm01WVNxcVVUZVdlTGNPTTBnMDR2WFlFelAyMngzcTU0MHl0UnF3cE5jRm1OakFJWnU2eFdibmJiS29YZ0tlT3Y4RzRyclMyeUJVVmxZaDZBYjRTNGc2dUphMDRvaEFYNVg2UlNXRnpYVlNaSmRYVUZhZFhhQ1BPSGRv?oc=5",
+   "pubTime": "09-15 21:57",
    "block": "谷歌精选",
    "isNew": true
   },
   {
-   "title": "马斯克旗下X Corp与SpaceX AI解决针对苹果的反垄断诉讼",
-   "summary": "马斯克旗下的X Corp与SpaceX AI已解决针对苹果公司的反垄断诉讼。具体和解条款尚未披露。",
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMDlqV0V1WnBGSk9WemJuZHB2WXhUMTlSMVFRYzltVmxfUjF1bzdycXZqMnVOUGFTTHJYbkxVc0JnTXB4NS1lMmllZmlYQWwzVFE5MWFLaURvcDJDNDRfMFQ4WmpwOENoX3ZXVG9oMXcycjlZN3dNc3BUNmt0R2FBNlVTSEVCZUlxaGJJaWtmLTg5RU1GMDR6SmFudlVtcHZCTGo3RG1n?oc=5",
-   "pubTime": "09-15 05:11",
-   "block": "谷歌精选",
-   "isNew": true
-  },
-  {
-   "title": "美银CEO一字引发银行股抛售",
-   "summary": "美国银行CEO因一个词引发银行股抛售。美银预计第三季度投资银行费用将下降超过10%，领跌金融服务板块股价。",
-   "source": "Barron's",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcTh3OEh1dVJfRmRuYURMX0lwOUlxeGlMcy1YVzZqeW84d2lOaVV2VzVpZVlucUtkMmd1d3ctZWRtNE1xX1BfZDZmZ3M1TmY1UzZSWU5fUFlYeDgxMENkS290RURLUjBhRFVtRHhkeVFhWHJFa29QNFJEOFljTW1Zeg?oc=5",
-   "pubTime": "09-15 04:42",
-   "block": "谷歌精选",
-   "isNew": true
-  },
-  {
-   "title": "圣保罗Summit Brewing公司面临法拍",
-   "summary": "圣保罗Summit Brewing公司面临法拍，该公司背负820万美元债务。银行已启动法拍程序，法院文件显示该公司正面临约800万美元债务问题。",
-   "source": "MPR News",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUklacWI0UmMxMm9CLUZfTEVWWWpBeE5LUjZQREN1b04yQkNSUG9LTHgzeXBBOVVMeXFQc0hHN0pOTEl4dG5GWGlxUUM0cGtjR2xndlhxaWVybVZMVU9sRHp4SWp5MTVRNUVfaDJpZ2U1dDgxTEFJSVB1UE96N3N2ZzdaT21YVHJvc3VmTVZrYlp5X0RaNlFB?oc=5",
-   "pubTime": "09-15 04:19",
-   "block": "谷歌精选",
-   "isNew": true
-  },
-  {
-   "title": "担心中东中断持续，油价上涨",
-   "summary": "受中东地区供应中断可能持续的担忧影响，油价上涨。",
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbnFxZkFyN3FYVllsTi1xa1RxYjBkM1ZKdHJabmxnVF9jUkpRSnhuYkFtT0Z3Q1B1OWhzNjN4Q2lnYVBFOGxkbExaYjdtUko4blVnZUV4M3Q4QnQtc2M4Zkd0UFpUNEZZQUhuSlZwUzNqaENmczlNcmcydklnb1lfSmttSFlxUDZGbThuaHBtYlFGS1NCbGpBek5feWpqejBOc2c?oc=5",
-   "pubTime": "09-15 03:55",
-   "block": "谷歌精选",
-   "isNew": true
-  },
-  {
-   "title": "Oracle清晨邮件宣布新一轮裁员：今天是你最后工作日",
-   "summary": "Oracle通过清晨邮件宣布新一轮裁员，邮件称今天是你最后工作日。随着AI转型推进，裁员成本持续增加。",
-   "source": "San Francisco Chronicle",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM1ZvczR3VVZzWDV0LUJ5TGdXcFlhcE5IeVZIY3BEZEVCM0ZtWm9nb1Q1bm0tRzcxZnVtN0lNa0RwYm45WVQ0NWZsZ1d6dElyZE5lMThCaS0zWVk2VmtkNUdOaWF4QTBtZHRtMFdIdVhtWEJSZkRWT1psWWUxWFctaVJkRUZXaExDYnc?oc=5",
-   "pubTime": "09-15 03:51",
-   "block": "谷歌精选",
-   "isNew": true
-  },
-  {
-   "title": "Carney如何向全球最大投资者推销加拿大",
-   "summary": "在美中贸易摩擦背景下，Carney向全球投资巨头推销加拿大。Barton表示被迫协助首相Carney在首届峰会上吸引投资，涵盖管道、铁路和AI等领域。",
+   "title": "Canada is a 'safe harbour' for global finance, Carney says - BBC",
+   "summary": "Canada is a 'safe harbour' for global finance, Carney says BBC Carney Pitches Canada as a Haven for Investors Amid a U.S. Trade War The New York Times Canadian Equities Slide as Carney Broadens Investment Write-Off Bloomberg.com Over 1,000 protesters demonstrate against Carney's investment summit in",
    "source": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxb051Sm1ZbFN5Mk9Ga0d3RDFNRWlKU255dThwYVpMWDhEeWY4T2RSUUxPcDFrOWxEd3JHQ3NRSXJfbGpiTE5CbHpxcFp3Sy1nWTNrdWN6a2s0dw?oc=5",
-   "pubTime": "09-15 03:29",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EdjY2VHRJQTRJdWFUV1N4Zy1jMnRSQ29kLXFNaV93NzljRXRZYzI4MU5WUEwtMHpvVDY5b09LUlRVQkFJRjFUUnNpQTRXMVgxdTJERV9QNml0ZDQ?oc=5",
+   "pubTime": "09-15 21:43",
    "block": "谷歌精选",
    "isNew": true
   },
   {
-   "title": "中国增加采购美国液化天然气",
-   "summary": "中国燃气控股有限公司与Venture Global签署协议，计划从2030年起每年进口50万吨美国液化天然气，为期20年。此举使中国燃气对该供应商的长期采购总量增至每年250万吨，显示出尽管存在关税壁垒，中国企业仍通过长期合同保障能源供应。",
+   "title": "You can shop early October Prime Day deals weeks before the sale — here are 31+ that are actually worth it - NBC News",
+   "summary": "You can shop early October Prime Day deals weeks before the sale — here are 31+ that are actually worth it NBC News Amazon just announced its October Prime Day 2026 dates with early deals starting now CNN Prime Big Deal Days is back October 6-7: Here’s what to expect About Amazon Amazon October Prim",
+   "source": "NBC News",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS29qSlhrajA1UEdUaDlWdXhqZjZVTS0xR2x6TjFPRGdPZXhmSXE4VkpFMnR0U1JOM29DME9QeEVxU2xOX2pQN1pRYzRGcXh3NzRsZ0MySHYyanBrb2hJODhjWmJXSWtuVHlxUTA2UGxtOTFNWmNsMEpYN0RnVGlOQUcwX3FELTZadVlmZ05B?oc=5",
+   "pubTime": "09-15 21:20",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "American Airlines Passenger Reportedly Strips and Performs Lewd Acts During Flight, FBI Investigating - TMZ",
+   "summary": "American Airlines Passenger Reportedly Strips and Performs Lewd Acts During Flight, FBI Investigating TMZ Female passenger undresses on American Airlines flight, engages in 'indecent acts,' crew reports Fox News Disruptive passenger removed from plane after reported indecent conduct USA Today Pilots",
+   "source": "TMZ",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT2J6ZVhSTGRNN2dhWktJcm05Y1pJVzM4QTVWdEx2QkZ5bXBZRDU0Q3BqZXBiamdRQ2FyWTBtXzNRa0Zvd05qQ1JZc1ZQSlR1VlUzbkhCOHdTblRfRTVESmF6UUFYdlRqbk0xU1lTcEdQaWhBTGdzZUtoX3AtQVhlWE1odWh6QkpDMExQZmJ0UkpWTmw1dXBPRW80aVc?oc=5",
+   "pubTime": "09-15 20:49",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "Barnes & Noble acquires both of Joseph-Beth Booksellers’ locations in Lexington, Cincinnati - wkyt.com",
+   "summary": "Barnes & Noble acquires both of Joseph-Beth Booksellers’ locations in Lexington, Cincinnati wkyt.com 'This decision was necessary': Barnes & Noble announces acquisition of Joseph-Beth, identity to remain WLWT Renowned Lexington book store bought by chain. What happens next? Lexington Herald Leader B",
+   "source": "wkyt.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUHdsRWphTzdTQWwxUVJhekFReU53R3kycWFGdzVyUk1GbnpXaXVRT01NZGVSMmRlNnRXenRxZHliYkRKMTVza3hWemdjQ3JCREZWdE1oeHBjOWgzaFdmSS1icjNZRzdicnZ0TjZRdHZ5cnhpTWxPcW5IaFB3cHJsSHNRRU1vRlhKcFp2eDBVRThrQ3oyby1WTUNEcXI0dFcxSEdhTEhkVlo1SVFCcGVmamFBN0o?oc=5",
+   "pubTime": "09-15 20:20",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "Potential AI slowdown is not ‘end of the world’ for data center real estate, says Digital Realty CEO - cnbc.com",
+   "summary": "Potential AI slowdown is not ‘end of the world’ for data center real estate, says Digital Realty CEO cnbc.com What happens to the economy and your investments if the AI race slows down? The Washington Post AI Slowdown Calls Won’t Halt Fundraising, AllianceBernstein Says Bloomberg.com White & Case Pa",
+   "source": "cnbc.com",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OUV9xUkVlRkNWc1lCR1NFZzl4clQ3bVBVUXhRb0IwWHhqYzM0bndSbGozd1VyOHhFTXcyOGRuUTgxWDB4b3lJVVQ3LXdQNjg0eVNpMnY4bHFqN2dsSjJram1ZQUtlWGJCVFBhVmx4QnFxNmhCekpKZNIBfkFVX3lxTE8talgzVG0xRVdXdzE2UGdSRGk1X1FOcFFlZlBCZ2tWdWlGYnBiYzBfb1hISERsTUltUUVlR25oTGFyV1lkcXJCenJ4Y0otMVlhWEZpUHlWeDVZU1ZidDlkb3AyVmdNb0FfbkpiS25fcWZXdWhrOUJzSjdZSFBtQQ?oc=5",
+   "pubTime": "09-15 20:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "中国回应AI“放缓论”倡多边主义 学者指中美AI合作需剥离战略竞争",
+   "summary": "美国科技界围绕人工智能安全和放缓发展展开讨论。中国外交部星期二（9月15日）回应，指AI发展和治理需要践行真正的多边主义。（法新社） 美国科技界、政界围绕人工智能（AI）安全管控一事持续激辩，中国外交部星期二（9月15日）对此再度回应说，AI发展和治理需要践行真正的多边主义，仅靠个别国家或企业难以形成行之有效的解决方案。中国官媒《环球时报》此前发文批评“AI放缓论”是瞄准中国的“冷战剧本”。 受访学者认为，人工智能体（AI Agent）可能成为中美科技竞争的新前沿。中国愿参与AI安全治理，但反对与“威胁叙事”相联系。中美未来在AI治理上的合作难点，是能否把“共同风险”从“战略竞争”中适当剥离出",
    "source": "联合早报",
-   "url": "https://www.zaobao.com/news/china/story20260915-9676562",
-   "pubTime": "09-15 07:45",
+   "url": "https://www.zaobao.com/news/china/story20260915-9681171",
+   "pubTime": "09-15 23:29",
    "block": "联合早报",
    "isNew": true
   },
   {
-   "title": "王毅：中国将尽最大努力继续搜救泥石流外方失联人员",
-   "summary": "中共中央政治局委员、外交部长王毅在与拉脱维亚外长布拉泽通话时表示，中方将全力搜救在西藏吉隆县泥石流灾害中失联的包括拉脱维亚公民在内的人员。拉方对中方的搜救努力及慰问表示感谢，双方将加强沟通协作，共同处理后续事宜。",
+   "title": "贝森特称本周末与何立峰会面",
+   "summary": "美国财政部长贝森特在众议院委员会听证会上说，在下周中美两国元首会晤前，他将在本周末与中国副总理何立峰会面。 据路透社报道，贝森特星期二（9月15日）在美国众议院金融服务委员会的听证会上说，美国总统特朗普和中国国家主席习近平将继续就伊朗问题，以及中国与伊朗之间的金融联系展开讨论。",
    "source": "联合早报",
-   "url": "https://www.zaobao.com/news/china/story20260915-9676546",
-   "pubTime": "09-15 07:20",
+   "url": "https://www.zaobao.com/news/china/story20260915-9681848",
+   "pubTime": "09-15 23:06",
    "block": "联合早报",
    "isNew": true
   },
   {
-   "title": "庄慧良：当“围蒋”成为绿营2028前哨战",
-   "summary": "台北市长蒋万安之子蒋得立获公费赴美交换引发绿营质疑，尽管市府强调合规，蒋万安仍宣布改为自费。此事件被视为绿营针对蒋万安的政治攻防，通过炒作权贵特权议题，将其演变为国民党在2028年大选前的政治前哨战。",
+   "title": "下午察：中小企业成了中国的“免息银行”？",
+   "summary": "面对不断膨胀的企业应收账款，中国政府加大力度解决中小企业回款难问题。图为今年9月3日，人们在日落时分走过北京的街道。（法新社） 中国政府开始重视持续多年的中小企业“回款难”问题。 中国国务院办公厅上周四（9月10日）发布《关于加强中小企业回款难问题治理有关工作的通知》，直接针对“大企业拖欠中小企业账款”，要求分行业明确合理账期，引导大型企业把对中小企业的最长付款期限限制在60日内。 本周一（14日），中国工信部、国资委、市场监管总局、证监会和央行五个部委又召开政策吹风会，从规范账期、央企带头付款、查处拖欠账款、加强信息披露和融资支持等方面，回应中小企业“回款难”问题。 中国工业和信息化部副部长",
    "source": "联合早报",
-   "url": "https://www.zaobao.com/news/china/story20260915-9676010",
-   "pubTime": "09-15 05:00",
+   "url": "https://www.zaobao.com/news/china/story20260915-9680652",
+   "pubTime": "09-15 21:36",
    "block": "联合早报",
-   "isNew": false
+   "isNew": true
   },
   {
-   "title": "王毅：保护主义提升不了欧洲竞争力",
-   "summary": "中国外长王毅在与法国外长巴罗通话时强调，保护主义无助于提升欧洲竞争力，中国的发展是欧盟的机遇而非挑战。王毅呼吁法方以务实理性态度推动中欧关系稳定发展，并表示中方支持法国履行联合国安理会轮值主席国职责。",
+   "title": "习特会前 北京与台湾展开外交攻防",
+   "summary": "台湾副总统萧美琴（右二）9月11日在意大利文托泰内岛举行的“文托泰内欧洲自由与民主论坛”发表演说。与她同台的包括欧洲议会副议长皮齐耶诺（右一）、意大利前外交部副部长维尔内蒂（左二），以及主持座谈的意大利广播电台Radio 24记者塔利亚（左一）。（取自萧美琴脸书） 中美元首“习特会”与联合国大会一般性辩论下周登场。在此前夕， 台湾副总统萧美琴访问意大利 ，北京则向欧洲和日本重申涉台红线，两岸围绕台湾国际空间的攻防升温。 受访学者认为，北京正把“一个中国”原则化为限制各国同台湾交往的要求，在峰会前为台湾议题“定锚”；台北则以“单点突破”累积交往惯例。 萧美琴上星期五（9月11日）在台湾外交部长林",
    "source": "联合早报",
-   "url": "https://www.zaobao.com/news/china/story20260914-9676018",
-   "pubTime": "09-14 23:03",
+   "url": "https://www.zaobao.com/news/china/story20260915-9680285",
+   "pubTime": "09-15 21:16",
    "block": "联合早报",
-   "isNew": false
+   "isNew": true
   },
   {
-   "title": "中国国务院对青岛货轮火灾事故提级调查",
-   "summary": "山东青岛一家造船厂日前发生外籍货轮火灾，造成25人遇难、5人受伤。中国国务院对此高度重视，成立由应急管理部牵头、多部门参与的调查组进行提级调查，并已召开第一次全体会议，旨在查明事故原因并严肃追责。",
+   "title": "已持续举办20届 东京中国电影周今年取消举办",
+   "summary": "（东京/北京综合讯）每年10月配合东京国际电影节、而持续举办了20届的“东京·中国电影周”活动，今年因中日关系恶化而宣告取消。 据日本共同社报道，“东京·中国电影周”主办方NPO法人“日中电影节实行委员会”（东京）近日宣布了这一消息。主办方称，此前持续推进了筹备和协调工作，但综合考虑所处环境等因素后，认为今年难以举办。 “东京·中国电影周”始于2006年，旨在向日本观众介绍中国电影的魅力，并通过电影促进两国文化交流与增进相互理解，去年10月迎来第20届。今年将是这一活动创办以来首次被取消。 日本首相高市早苗去年11月在国会答辩时发表“台湾有事论”后，日中关系急剧恶化，两国公务、经贸、文化、旅游",
    "source": "联合早报",
-   "url": "https://www.zaobao.com/news/china/story20260914-9675860",
-   "pubTime": "09-14 22:03",
+   "url": "https://www.zaobao.com/news/china/story20260915-9680548",
+   "pubTime": "09-15 20:57",
    "block": "联合早报",
-   "isNew": false
+   "isNew": true
   },
   {
-   "title": "港府周三公布施政报告 料推“组合拳”鼓励港人生育",
-   "summary": "香港特首李家超将于周三发表任内最后一份《施政报告》，预计将推出住房、扣税及公共服务等“组合拳”措施鼓励生育。学者指出，住房压力是影响港人生育意愿的核心因素，建议政府加大对有子女家庭的住房资助以提振生育率。",
+   "title": "中国计划到2030年算力供给能力实现大幅增长",
+   "summary": "中国电子信息制造业计划到2030年在全球产业格局中发挥“举足轻重”的作用，算力供给能力实现大幅增长。图为内蒙古和林格尔数据中心集群的工作人员9月11日在智算中心内部对设备进行检查维护。（中新社） （北京讯）中美围绕关键技术持续博弈的背景下，中国官方提出，到2030年，中国电子信息制造业在全球产业格局中要发挥“举足轻重”的作用，重点领域的关键核心技术快速突破，算力供给能力实现大幅增长。 据新华社报道，中国工信部、国家发改委星期二（9月15日）联合发布了《电子信息制造业发展“十五五（2026至2030年）”规划》（简称《规划》）。 《规划》提出，到2030年，中国电子信息制造业的“高质量发展”要取",
    "source": "联合早报",
-   "url": "https://www.zaobao.com/news/china/story20260914-9675580",
-   "pubTime": "09-14 21:38",
+   "url": "https://www.zaobao.com/news/china/story20260915-9680862",
+   "pubTime": "09-15 20:35",
    "block": "联合早报",
-   "isNew": false
+   "isNew": true
   },
   {
-   "title": "下午察：从禁飞到禁存 北京严管无人机",
-   "summary": "北京市修订无人驾驶航空器管理规定，自11月15日起，全市行政区域内将全面禁止无人机飞行，并禁止持有、存放及运输无人机及其核心部件。这意味着北京市民需在规定时间内处理家中无人机，该政策标志着北京对无人机管控进入极严阶段。",
+   "title": "官方曾指他玩物丧志 中国人保原副总裁于泽被公诉",
+   "summary": "中国官方通报，检察机关对人保原副总裁于泽涉嫌受贿案提起公诉。（互联网） 中国人民保险集团原副总裁于泽官宣被查约九个月后，官方通报于泽被公诉。官方曾指他私自携带、阅看有严重政治问题的书籍，私自扣压检举、控告材料，玩物丧志。 中国最高人民检察院星期二（9月15日）在微信公众号通报，中国人民保险集团原中共党委委员、副总裁于泽涉嫌受贿一案，由国家监察委员会调查终结，移送检察机关审查起诉。 通报称，经最高人民检察院交办，北京市人民检察院以涉嫌受贿罪对于泽作出逮捕决定。北京市人民检察院第二分院已向北京市第二中级人民法院提起公诉。 检察机关起诉指控于泽利用担任太平保险有限公司天津分公司党委书记、总经理，太平",
    "source": "联合早报",
-   "url": "https://www.zaobao.com/news/china/story20260914-9673602",
-   "pubTime": "09-14 21:21",
+   "url": "https://www.zaobao.com/news/china/story20260915-9681119",
+   "pubTime": "09-15 20:26",
    "block": "联合早报",
-   "isNew": false
+   "isNew": true
   },
   {
-   "title": "广州公安通报：番禺一男子持刀伤人落网",
-   "summary": "广州市番禺区小谷围街一商场附近发生持刀伤人事件，一名35岁李姓男子被警方当场抓获。目前伤者已送医救治，均无生命危险，案件正在进一步侦办中。网传现场有多人受伤，事发地周边高校密集，引发社会关注。",
+   "title": "中国出入境管理新规上路 相关中介机构人员备案管理",
+   "summary": "中国出入境管理新规星期二（9月15日）开始实施，多类情形被明确限制出境，从事出入境中介服务的机构人员同日开始备案管理。图为外国旅客2024年7月10日在北京首都机场边防检查站申请过境免签入境。（新华社档案图片） （北京综合讯）中国出入境管理新规星期二（9月15日）开始实施，多类情形被明确限制出境，从事出入境中介服务的机构人员同日开始被备案管理。 中国《国务院关于出境入境管理的规定》 星期二正式落地，这项备受争议的新规，涵盖了出境入境申请要求、限制措施，以及中介服务管理等内容。 在中介服务管理层面，新规提出，国家对从事出境入境政策咨询、证件代办等中介服务的机构和人员实行备案管理，相关机构与人员应",
    "source": "联合早报",
-   "url": "https://www.zaobao.com/news/china/story20260914-9675665",
-   "pubTime": "09-14 21:06",
+   "url": "https://www.zaobao.com/news/china/story20260915-9679992",
+   "pubTime": "09-15 19:14",
    "block": "联合早报",
-   "isNew": false
+   "isNew": true
   },
   {
-   "title": "侯为东任福建泉州市代市长",
-   "summary": "福建省泉州市人大常委会决定任命侯为东为泉州市副市长、代理市长。侯为东此前担任福建省发改委副主任，拥有丰富的基层及地方工作经验。此次人事变动是在泉州市委书记陈力达履新后，当地领导班子的进一步调整。",
+   "title": "【东谈西论】从BRICS到“大金砖”：在美国主导体系外打造“备胎”？",
+   "summary": "金砖国家峰会，俄罗斯总统普京（左起）、印度总理莫迪与中国国家主席习近平，在印度新德里合影。（路透社） 第十八届金砖国家（BRICS）峰会上个周末在印度新德里召开，这是该机制在2024年显著扩容后的又一次会议。 今年是 金砖国家 合作创立20周年。目前，金砖机制已由早期的巴西、俄罗斯、印度、中国和南非五国，扩大至包含埃及、沙特阿拉伯、埃塞俄比亚、伊朗、阿联酋及印度尼西亚等十余个正式成员国，并吸纳了包括哈萨克斯坦、马来西亚、泰国、越南在内的多个伙伴国。 如今，扩容后的“大金砖”占全球人口近一半、经济总量约占全球四成，贸易总额则占全球五分之一。 当前美国与伊朗在中东冲突还在升级，金砖国家会议罕见地聚",
    "source": "联合早报",
-   "url": "https://www.zaobao.com/news/china/story20260914-9675438",
-   "pubTime": "09-14 20:08",
+   "url": "https://www.zaobao.com/news/china/story20260915-9680555",
+   "pubTime": "09-15 19:09",
    "block": "联合早报",
-   "isNew": false
+   "isNew": true
   },
   {
-   "title": "习近平访美在即 中国完成逾半美国大豆采购承诺",
-   "summary": "在中国国家主席习近平访美前夕，中国国有贸易商近期订购至少100万吨美国大豆，使本销售季采购总量接近1300万吨，已完成中美贸易协议中截至2028年每年采购2500万吨目标的一半以上，为两国贸易关系释放积极信号。",
+   "title": "中国农业巨企先正达据报已秘密提交赴港上市申请",
+   "summary": "美媒报道，中国农业巨企先正达已秘密提交赴香港上市申请。图为先正达集团中国在河北省邯郸市魏县的中化现代农业技术服务中心外的标志，摄于2021年6月。（路透社档案照） 中国农业巨企先正达据报已秘密提交赴香港上市申请。 彭博社星期二（9月15日）引述知情人士称，先正达集团（Syngenta Group）已秘密提交赴香港首次公开募股（IPO）申请，推进此前因中东战事影响而推迟的股票发行计划。 知情者透露，这家中资种子与农药公司正考虑透过这次IPO募资约50亿美元（63亿新元）。若获监管机构批淮，公司瞄准明年在港上市。先正达发言人拒绝置评。 总部位于瑞士的先正达若能在香港成功上市，将成为近年来香港规模最",
    "source": "联合早报",
-   "url": "https://www.zaobao.com/news/china/story20260914-9675365",
-   "pubTime": "09-14 19:54",
+   "url": "https://www.zaobao.com/news/china/story20260915-9680077",
+   "pubTime": "09-15 18:14",
    "block": "联合早报",
-   "isNew": false
+   "isNew": true
   }
  ]
 }
