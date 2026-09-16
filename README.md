@@ -7,7 +7,7 @@
 ## 为什么独立建仓
 
 - **下午茶 / 夜豆浆双场次**：portfolio 的日报是"隔夜+今晨"语义，加"下午场"要动它的模式判定，风险大。独立抓取则一天两场天然成立。
-- **App 数据源**：老张工具箱 App（一期）读这里的 JSON 渲染新闻流，阅读统一在「老张工具箱」App 内（网页阅读页已于 2026-09-15 下线）。
+- **App 数据源**：老张工具箱 App（一期）读这里的 JSON 渲染新闻流，阅读统一在 App 内（网页阅读页已于 2026-09-15 下线）。
 - **可扩展**：后续新增 RSS 只改 `scripts/sources.json`，不改代码。
 
 ## 数据流
@@ -17,8 +17,9 @@
         ↓
 scripts/fetch_news.py --edition afternoon|night
         ├─ 抓谷歌 Business 美国区（62 条 → 去重 → 按 pubDate 倒序 → 取 10；失败换英国区）
-        ├─ 抓联合早报中港台即时（三实例兜底 → 取 10）
-        ├─ LLM 中文化谷歌词（Agnes → Gemini 链；失败降级英文原标题，绝不空窗）
+        ├─ 抓联合早报中港台即时（多实例兜底 → 去重 → 按 pubDate 倒序 → 取 10）
+        ├─ LLM 译标题 + 摘要（按语言拆 2 批：英文组译、中文组原样；三级模型兜底）
+        ├─ 按 block 分组、块内按发布时间降序（最新在前）
         └─ 写 docs/news/{日期}-{场次}.json + docs/latest.json（保留 7 天归档）
         ↓
 docs/（数据存放）→ App 经 Cloudflare 代理读 raw（Pages 已下线）
@@ -28,12 +29,12 @@ docs/（数据存放）→ App 经 Cloudflare 代理读 raw（Pages 已下线）
 
 | 规则 | 原因 |
 |---|---|
-| **必须按 pubDate 倒序后再取前 N** | 谷歌 feed 顺序是"热度混合"不按时间（实测第1条 04:54、第2条 07:54），直接取前 10 会混入旧闻 |
+| **必须按 pubDate 倒序后再取前 N** | 谷歌 feed 顺序是"热度混合"不按时间（实测第1条 04:54、第2条 07:54），直接取前 10 会混入旧闻；早报源顺序同样不可依赖，故两个源都开了 `sort_desc` |
 | **选条不用 LLM** | "最新 10 条"是硬规则要可复现；LLM 只做译标题+摘要 |
-| **翻译失败降级英文** | 翻译链（Agnes/Gemini）任一环节挂掉都不能让整场空窗 |
-| **LLM 按语言拆批**（2026-09-16） | 英文组与中文组的 prompt 规则互斥（译 vs 原样），合并调用会让模型"整批统一处理"导致漏译 |
-| **译文必须校验含中文**（2026-09-16） | 只判"字段非空"会把漏译当成功，静默输出英文且不降级 |
-| **块内按时间降序**（2026-09-16） | 两个来源各自最新在前；早报源顺序不可依赖，需显式 `sort_desc` |
+| **LLM 按语言拆批调用** | 英文组与中文组的 prompt 规则互斥（译 vs 原样），合并成一个 prompt 会让模型"整批统一处理"导致英文标题漏译 |
+| **译文必须校验含中文** | 只判"字段非空"会把漏译当成功，静默输出英文且不降级 |
+| **翻译失败降级英文** | 翻译链任一环节挂掉都不能让整场空窗 |
+| **块内按时间降序** | 两个来源各自最新在前，便于按来源顺序阅读 |
 | **抓取失败不覆盖旧数据** | 本场全失败时脚本退出码 1 且不写文件，`latest.json` 保持上一场内容 |
 | **两块独立不补位** | 谷歌挂了就是少一块，不用早报凑 20 条（与 portfolio Top20 口径一致） |
 
@@ -44,30 +45,68 @@ docs/（数据存放）→ App 经 Cloudflare 代理读 raw（Pages 已下线）
 | 🍵 下午茶 | 15:20 | `afternoon` | 谷歌最新 10 + 早报最新 10 |
 | 🥛 夜豆浆 | 22:30 | `night` | 同上（含上一场之后的增量，标「新」） |
 
-**触发方式（单通道 · 2026-09-13 起）**：GitHub 侧已**移除 schedule**，只由 Cloudflare Worker `qdii-dispatch` 定时调用（心跳每 5 分钟）：
+**触发方式（单通道 · 2026-09-13 起）**：GitHub 侧已**移除 schedule**，只由 Cloudflare Worker `qdii-dispatch` 定时调用（心跳每 5 分钟），亦可在 Actions 页面手动 Run workflow：
 
-端点与参数：
-   ```
-   POST https://api.github.com/repos/homjanon/news-feed/actions/workflows/fetch.yml/dispatches
-   Authorization: Bearer <GITHUB_TOKEN>      # 需 repo + workflow 权限
-   {"ref":"main","inputs":{"edition":"afternoon"}}   # 下午茶
-   {"ref":"main","inputs":{"edition":"night"}}       # 夜豆浆
-   ```
+```
+POST https://api.github.com/repos/homjanon/news-feed/actions/workflows/fetch.yml/dispatches
+Authorization: Bearer <GITHUB_TOKEN>      # 需 repo + workflow 权限
+{"ref":"main","inputs":{"edition":"afternoon"}}   # 下午茶
+{"ref":"main","inputs":{"edition":"night"}}       # 夜豆浆
+```
+
+## LLM 译标题 + 摘要
+
+### 调用方式：按语言拆 2 批
+
+每场**调用 2 次**（不依赖源的划分，而是按语言划分）：
+
+| 批次 | 内容 | prompt 要求 |
+|---|---|---|
+| 英文组 | 谷歌条目（纯英文） | **必须译成简洁中文**（专有名词用通用译名） |
+| 中文组 | 早报条目（纯中文） | **一字不改原样返回标题**，只产出摘要 |
+
+两组各自独立调用、独立降级，互不影响。
+
+> **为什么要拆**：2026-09-15 曾把"每源一次"改为"全场一次"，同一 prompt 内同时出现【英文→译】与【中文→原样】两条**互斥规则**。单源调用时整批同语言、这两条等于废话；合并后模型须逐条判断语言，倾向"整批统一处理"，导致英文标题漏译。9/15 夜场即因此整场退回英文原文（`translator=none(原文)`）。
+>
+> 另：原回填逻辑只判"译文字段非空"就采纳，**漏译被当作成功**，既不降级也不重试。现已加内容校验：英文条目译文**必须含中文**，否则判该批判失败；整批无任何译文产出亦判失败。
+
+### 模型链（三档，按序尝试）
+
+| 位置 | name | model | Key | Free Tier |
+|---|---|---|---|---|
+| ① | `gemini-3-flash` | `gemini-3-flash-preview` | `GEMINI_API_KEY` | ✅ 免费（1,500 RPD） |
+| ② | `agnes` | `agnes-2.0-flash` | `AGNES_API_KEY` | — |
+| ③ | `gemini-3.1-flash-lite` | `gemini-3.1-flash-lite` | `GEMINI_API_KEY` | ✅ 免费（1,000 RPD） |
+
+- Gemini 3 Flash 为主力（质量较高），agnes 为二级，Flash-Lite 兜底；任一组失败自动降级为 RSS 原文（不空窗）。
+- Gemini 3 Flash 与 3.1 Flash-Lite 是**独立配额桶**，叠加日上限 2,500 次。配额按 **project** 计（非按 key）；每场仅 2 次调用，余量充足。
+
+**⚠️ 后缀差异（2026-09-16 实测确认，勿随意改动）**：
+
+| 模型 | 正确调用名 | 实测 |
+|---|---|---|
+| Gemini 3 Flash | **`gemini-3-flash-preview`**（**必须带后缀**） | 无后缀 `gemini-3-flash` → **404 Not Found** |
+| Gemini 3.1 Flash-Lite | **`gemini-3.1-flash-lite`**（**不带后缀**） | 现网验证可用 |
+
+Google 只对部分模型做了别名兼容，**两个模型的后缀规则不同，改名前务必先触发一次验证**。
 
 ## Secrets（用户自管，与 portfolio 同名）
 
 | Secret | 用途 | 缺失时 |
 |---|---|---|
-| `AGNES_API_KEY` | 谷歌词中文化主模型 | 降级英文标题 |
-| `GEMINI_API_KEY` | 第②③层（gemini-3-flash / gemini-3.1-flash-lite 共用） | 同上 |
+| `GEMINI_API_KEY` | ①③层（gemini-3-flash / gemini-3.1-flash-lite 共用） | 降级下一档 |
+| `AGNES_API_KEY` | ②层 | 降级下一档 |
+
+> 三档全缺或全失败时降级为 RSS 原文标题（`translator=none(原文)`），绝不空窗。
 
 ## 输出格式
 
 ```json
 {
   "edition": "afternoon",        // afternoon=下午茶 / night=夜豆浆
-  "date": "2026-09-12",
-  "fetched_at": "2026-09-12 07:04",
+  "date": "2026-09-16",
+  "fetched_at": "2026-09-16 10:38",
   "translator": "gemini-3-flash(20条)",   // 模型名(处理条数)；none(原文)=未配 Key 或翻译失败
   "counts": { "total": 20, "new": 8 },
   "items": [{
@@ -76,14 +115,37 @@ docs/（数据存放）→ App 经 Cloudflare 代理读 raw（Pages 已下线）
     "source": "Reuters",
     "url": "https://news.google.com/...",
     "pubTime": "09:31",                        // 北京时间智能显示：今天=HH:MM / 昨天 / M月D日
-    "pubTs": "2026-09-16T09:31:50+08:00",      // ISO 北京时间，供 App 自行格式化
+    "pubTs": "2026-09-16T09:31:50+08:00",      // ISO 北京时间，供 App 自行格式化/二次排序
     "block": "谷歌精选",                        // 或 联合早报
     "isNew": true                              // 与上一场比对
   }]
 }
 ```
 
-> **items 顺序**：按 `block` 分组（谷歌精选 → 联合早报），**块内按发布时间降序、最新在前**。
+**`items` 顺序**：按 `block` 分组（谷歌精选 → 联合早报），**块内按发布时间降序、最新在前**。
+
+**`translator` 透明记账**：记录各模型实际处理的条数与失败组，便于判断 AI 是否真生效：
+
+```
+gemini-3-flash(20条)                                  # 全部成功
+gemini-3-flash(10条) + gemini-3.1-flash-lite(10条)    # 英文组走 3-flash、中文组走 lite
+gemini-3-flash(10条) ⚠️降级[summarize:10]             # 中文组失败降级
+none(原文)                                            # 全失败 / 未配 Key
+```
+
+## 时间显示（北京时间）
+
+`bj_pub()` 分级显示，贴合国内阅读习惯：
+
+| 距今 | 显示 |
+|---|---|
+| 今天 | `09:31` |
+| 昨天 | `昨天 23:22` |
+| 今年内 | `9月15日 23:22` |
+| 跨年 | `2025-09-15 23:22` |
+
+- 两个源的 `pubDate` 均为 GMT，统一用 `astimezone(TZ_CN)` 转为北京时间。
+- 另有 `pubTs` 字段（ISO 8601 带 `+08:00`），供 App 端自行格式化或二次排序。
 
 ## 如何新增 RSS 源
 
@@ -103,7 +165,18 @@ docs/（数据存放）→ App 经 Cloudflare 代理读 raw（Pages 已下线）
 }
 ```
 
-App 端按 `block` 自动配色（网页阅读页已下线）。
+App 端按 `block` 自动配色。中文源（如联合早报）建议配 `default_source` 补来源媒体名。
+
+## 数据读取（App 用）
+
+GitHub Pages 不再发布，改为经 Cloudflare 代理读 raw：
+
+```
+https://proxy.hellohopo.dpdns.org/?url=<encodeURIComponent(
+    https://raw.githubusercontent.com/homjanon/news-feed/main/docs/latest.json )>
+```
+
+单场文件：`.../main/docs/news/{日期}-{afternoon|night}.json`
 
 ## 本地调试
 
@@ -112,108 +185,24 @@ App 端按 `block` 自动配色（网页阅读页已下线）。
 HTTPS_PROXY=http://127.0.0.1:7890 python scripts/fetch_news.py --edition afternoon --outdir docs
 ```
 
-## 页面
+## 文件结构
 
-- 阅读：**已迁至「老张工具箱」App**（网页阅读页 `docs/index.html` 于 2026-09-15 下线）
-- 数据：`docs/latest.json`（最新一场）、`docs/news/{日期}-{场次}.json`（7 天归档）
+```
+news-feed/
+├── scripts/fetch_news.py    # 抓取 + 硬规则选条 + LLM 译摘要 + 写 JSON
+│                            #   _sys_prompt(mode)    两套提示词（translate/summarize）
+│                            #   llm_translate        按语言拆批，各组独立降级
+│                            #   group_by_block       按 block 分组、块内时间降序
+├── scripts/sources.json     # 源配置 + LLM 模型链（单一数据源）
+├── docs/latest.json         # 最新一场（App 读取）
+└── docs/news/*.json         # 7 天归档
+```
+
+## 注意事项
+
+- 本仓**只作为数据存放**，网页阅读页 `docs/index.html` 已于 2026-09-15 删除，阅读统一在「老张工具箱」App 内。
+- 抓取失败（全部源挂掉）时脚本退出码 1 且**不写任何文件**，`latest.json` 保持上一场内容。
+- 所有条目都有 `source` 字段；联合早报源在 `sources.json` 里配了 `default_source`。
+- 时区：所有对外时间均为北京时间（UTC+8）。
 
 免责声明：内容来自公开 RSS，仅供研究参考，不构成投资建议。
-
----
-
-## ⚠️ 2026-09-15 变更（请以此为准）
-
-1. **触发方式**：已**取消 GitHub Actions 定时**，只由 **Cloudflare Worker 定时调用**
-   （保留手动 Run workflow）。两个场次与参数：
-   | 时间（北京） | 场次 | inputs |
-   |---|---|---|
-   | 15:20 | 下午茶 | `{"ref":"main","inputs":{"edition":"afternoon"}}` |
-   | 22:30 | 夜豆浆 | `{"ref":"main","inputs":{"edition":"night"}}` |
-   端点：`POST /repos/homjanon/news-feed/actions/workflows/fetch.yml/dispatches`
-
-2. **网页阅读页已下线**：`docs/index.html` 已删除，本仓只作为**数据存放**（`docs/latest.json`、`docs/news/*.json`）。
-   阅读统一在「老张工具箱」App 内进行。
-
-3. **数据读取地址（App 用）**：GitHub Pages 不再发布，改为经 Cloudflare 代理读 raw：
-   ```
-   https://proxy.hellohopo.dpdns.org/?url=<encodeURIComponent(
-       https://raw.githubusercontent.com/homjanon/news-feed/main/docs/latest.json )>
-   ```
-   单场文件：`.../main/docs/news/{日期}-{afternoon|night}.json`
-
-4. **来源字段**：所有条目都有 `source`；联合早报源在 `sources.json` 里配了 `default_source: 联合早报`。
-
-5. **LLM 调用**：全场**只调一次**（合并两个源），整批失败会自动拆 2 批重试，仍失败才降级为 RSS 原文。
-
----
-
-## ⚠️ 2026-09-16 变更（请以此为准，覆盖上文第 5 条）
-
-### 1. LLM 改为「按语言拆批」调用（每场 2 次）
-
-**事故背景**：9/15 把"每源一次"改成"全场一次"后，当晚夜豆浆整场退回英文原文（`translator=none(原文)`）。
-
-**根因**：合并后同一个 prompt 内同时出现**互斥指令**——谷歌条目（英文）要求"译成中文"，早报条目（中文）要求"一字不改原样返回"。单源调用时整批同语言、这两条规则等于废话；合并后模型必须**逐条判断语言**，倾向于"整批统一处理"，导致英文标题漏译。而原回填代码只判"译文字段非空"就采纳，**漏译被当作成功**，既不降级也不重试 → 静默输出英文。
-
-> 旁证：9/15 下午茶（未报错）里，同为英文的条目 `[1]` 未译、`[2]` 已译——**同一批内行为不一致**，说明退化早已发生。
-
-**修复**：
-- `llm_translate` 按语言分组：**英文组**（译标题+摘要）、**中文组**（标题原样+摘要），各自独立调用、独立降级；
-- `_sys_prompt(smin, smax, mode)` 拆成两套提示词，**各自指令单一、无条件分支**；
-- `_call_llm_batch` 新增**内容校验**：英文条目的译文必须含中文（否则判失败）；整批无任何译文产出也判失败。**彻底杜绝"漏译当成功"**。
-
-**调用次数**：每场 **2 次**（英文组 1 次 + 中文组 1 次）。Gemini 免费层 1,500 RPD，一天 2 场共 4 次，余量充足。
-
-### 2. LLM 模型链（三档）
-
-| 位置 | name | model | Key | Free Tier |
-|---|---|---|---|---|
-| ① | `gemini-3-flash` | `gemini-3-flash-preview` | `GEMINI_API_KEY` | ✅ 免费（1,500 RPD） |
-| ② | `agnes` | `agnes-2.0-flash` | `AGNES_API_KEY` | — |
-| ③ | `gemini-3.1-flash-lite` | `gemini-3.1-flash-lite` | `GEMINI_API_KEY` | ✅ 免费（1,000 RPD） |
-
-> Gemini 3 Flash 与 3.1 Flash-Lite 是**独立配额桶**，叠加日上限 2,500 次。配额按 **project** 计（非按 key）。
-> Gemini 3 Flash 为主力（质量较高），agnes 为二级，Flash-Lite 兜底。
-
-**⚠️ 后缀差异（2026-09-16 实测确认，勿随意改动）**：
-
-| 模型 | 正确调用名 | 实测 |
-|---|---|---|
-| Gemini 3 Flash | **`gemini-3-flash-preview`**（**必须带后缀**） | 无后缀 `gemini-3-flash` → **404 Not Found** |
-| Gemini 3.1 Flash-Lite | **`gemini-3.1-flash-lite`**（**不带后缀**） | 现网验证可用 |
-
-Google 只对部分模型做了别名兼容，**两个模型的后缀规则不同，改名前务必先触发一次验证**。
-
-### 3. 时间显示：统一北京时间 + 智能相对格式
-
-`bj_pub()` 改为分级显示（贴合国内阅读习惯）：
-
-| 距今 | 显示 |
-|---|---|
-| 今天 | `09:31` |
-| 昨天 | `昨天 23:22` |
-| 今年内 | `9月15日 23:22` |
-| 跨年 | `2025-09-15 23:22` |
-
-- **时区本身无误**：两个源的 `pubDate` 均为 GMT，`astimezone(TZ_CN)` 早已正确转为北京时间，此次仅优化**展示粒度**。
-- **新增字段 `pubTs`**：ISO 8601 北京时间（如 `2026-09-16T09:31:50+08:00`），供 App 端自行格式化或二次排序。
-
-### 4. 排序：两个来源**各自按时间降序**（最新在前）
-
-- `main()` 新增 `group_by_block()`：按 `block` 分组，**块内按 `pubDate` 降序**；块顺序 = `sources.json` 声明顺序（谷歌精选 → 联合早报）；
-- 早报源 `sort_desc` 由 `false` 改为 **`true`**——原先恰好有序是巧合，现显式排序不再依赖源站顺序；
-- **不做全局混排**（保持"两块独立不补位"的设计）。
-
-### 5. `translator` 字段改为透明记账
-
-不再只写模型名，而是记录**各模型实际处理的条数与失败组**，例如：
-
-```
-gemini-3-flash(20条)                      # 全部成功
-gemini-3-flash(10条) + gemini-3.1-flash-lite(10条)   # 英文组走 3-flash、中文组走 lite
-gemini-3-flash(10条) ⚠️降级[summarize:10]            # 中文组失败降级
-none(原文)                                 # 全失败 / 未配 Key
-```
-
-便于一眼判断"AI 到底有没有真生效"。
-
