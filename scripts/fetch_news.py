@@ -2,11 +2,15 @@
 # -*- coding: utf-8 -*-
 """老张自建新闻源：RSS 抓取 → 硬规则选条 → 可选 LLM 中文化 → 静态 JSON。
 
-设计原则（2026-09-12 与用户确认的方案）：
+设计原则（2026-09-14 定型，2026-09-16 按语言拆批重构）：
   1. 选条是硬规则：标题去重 + 按 pubDate 倒序取前 N 条，LLM 不参与选条；
-  2. LLM 只做「译标题 + 一句话摘要」；全场只调一次，整批失败自动拆 2 批兜底，仍失败降级保留原文标题，绝不空窗；
+  2. LLM 只做「译标题 + 一句话摘要」，分两批独立调用：
+     英文组（谷歌）→ 译标题 + 摘要；中文组（联合早报）→ 标题一字不改 + 摘要。
+     每批按 models 链（gemini-3-flash → agnes → gemini-3.1-flash-lite）逐档降级，
+     该批全失败才退回 RSS 原文，两批互不影响，绝不空窗；
   3. 源全部配置化（scripts/sources.json），后续新增 RSS 只改配置不改代码；
-  4. 抓取失败保留上一场数据（本脚本只写当天文件，不删旧文件，latest.json 由成功场次覆盖）。
+  4. 抓取失败保留上一场数据（本脚本只写当天文件，不删旧文件，latest.json 由成功场次覆盖）；
+  5. 时间一律北京时间（TZ_CN），块内按 pubDate 降序（最新在前），块顺序同 sources.json。
 
 用法：
   python scripts/fetch_news.py --edition afternoon --outdir docs   # 下午茶 15:20
@@ -298,6 +302,7 @@ def mark_new(items, outdir, date, edition):
 
 def main():
     ap = argparse.ArgumentParser()
+    # 场次由调用方显式传入，本脚本不做时间判定（Cloudflare Worker → inputs.edition → --edition）
     ap.add_argument("--edition", required=True, choices=["afternoon", "night"])
     ap.add_argument("--outdir", default="docs")
     ap.add_argument("--config", default=os.path.join(HERE, "sources.json"))
@@ -326,7 +331,8 @@ def main():
             i["_translate_title"] = not re.search(r"[\u4e00-\u9fff]", i["title"])
         all_items.extend(items)
 
-    # 2026-09-15：所有源抓完后【一次性】送 LLM（原来是在源循环里每源一次）
+    # 2026-09-16：所有源抓完后统一送 LLM（9/15 起由"每源一次"改为"汇总一次调用"，
+    #   9/16 再改为内部按语言拆 2 批：英文组 translate / 中文组 summarize，各自独立降级）
     if any(i.get("_llm") for i in all_items):
         translator = llm_translate(all_items, tcfg)
 
@@ -388,7 +394,6 @@ def bj_pub(s):
 
       今天    → 12:34
       昨天    → 昨天 23:22
-      7 天内  → 9月15日 23:22
       今年内  → 9月15日 23:22
       跨年    → 2025-09-15 23:22
 
