@@ -3,16 +3,26 @@
  "edition": "afternoon",
  "editionName": "下午茶",
  "date": "2026-09-16",
- "fetched_at": "2026-09-16 10:32",
- "translator": "agnes(10条) + gemini-3.1-flash-lite(10条)",
+ "fetched_at": "2026-09-16 10:38",
+ "translator": "gemini-3-flash(20条)",
  "counts": {
   "total": 20,
   "new": 20
  },
  "items": [
   {
-   "title": "参议院未能推进加密货币法案，本届国会努力付诸东流",
-   "summary": "美国参议院未能推进加密货币监管法案，标志着本届国会在此领域的立法努力彻底失败。这一结果对加密货币行业构成重大打击，业界此前期待通过立法明确监管框架。",
+   "title": "Meta首席执行官扎克伯格在AI安全辩论中支持黄仁勋",
+   "summary": "Meta首席执行官扎克伯格在AI安全与放缓研发的辩论中支持英伟达CEO黄仁勋，反对强制放缓AI进程。他主张通过评估器而非行政干预来确保安全，并认为AI实验室可以自主控制进度，同时对Anthropic等公司的放缓主张提出批评。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQamJwVnJmQjRaczZCX3ZrNkktNHJ2cWtsZk13cGZsZWwwaVJPMHRhVmtiZjY1OXNkclU4RmN1OElzRFdRSm9DeWF3dHFtSjE3Q3BIMG8yX25vdkhJdXJJQUI5OTRma2pFRjViVnlfekZMMXl5X2RnRVd5VmxEY2FNbWdUaHJJMTRwTk5pSTFMOF80SjRQVVp2SG5n?oc=5",
+   "pubTime": "09:56",
+   "pubTs": "2026-09-16T09:56:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美国参议院未能推进加密货币法案，本届国会立法努力受挫",
+   "summary": "美国参议院未能通过关键的程序性投票，导致一项旨在规范加密货币行业的重大法案无法推进。这一结果对加密行业造成沉重打击，意味着在本届国会任期内，该领域的立法努力基本宣告失败，相关监管框架的建立将面临更长期的延迟。",
    "source": "The Washington Post",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUExRNEhHS01sNnAwQjhlWnhwWEVCZXZ1QllvRWdUaWdxSFZGYk5QV0I3aEZyNUc5cUowN1p4SmE1eEVPWDRTN19FQmpuS2JZeFJROXlKUkk2VHM2a21VM0cxajhWdWRoOEpHU19xaWU3NkYxZW5RQzY1TWk3amdQRDQ4bU9FVnZVR01PVE9fanhsckkzeXExRS1ydWs2Rkl4LTlacHZybllOOGo4VTZlQzUtaw?oc=5",
    "pubTime": "09:31",
@@ -21,8 +31,8 @@
    "isNew": true
   },
   {
-   "title": "特朗普与美联储在利率问题上走向正面冲突",
-   "summary": "特朗普与美联储在利率政策上矛盾日益激化。美联储主席沃什在会议后举行简报会，市场预计利率将上调，引发特朗普对央行独立性的质疑。",
+   "title": "特朗普与美联储在利率政策上陷入对峙",
+   "summary": "特朗普与美联储在利率政策上产生严重分歧。随着市场预期利率将进一步上升，美联储主席沃什在会后举行简报会。尽管亿万富翁投资者鲁宾斯坦认为目前评判沃什的沟通风格还为时过早，但双方在货币政策走向上的冲突已成为市场关注焦点。",
    "source": "NBC News",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORUx2RFdkdERoV091d1VKeFloZFNyMXVxN1RTelVMd3VzQUI0eHpDTWdaQm0zbTlxSTNNcERBZzlycXM5bmRKNWpjZEpGQ0RWVzJYWjF3M1pNRlFfUkp0Z3g0WGpndHcweWFMNUlmOVVtRWRUZThNR0ZyLWFsalVabE9zNlFZNnFSb3dncHZidlh6d05pVkVaamtn?oc=5",
    "pubTime": "09:00",
@@ -31,8 +41,8 @@
    "isNew": true
   },
   {
-   "title": "OpenAI掌门人：世界有权害怕AI，但应信任AI企业",
-   "summary": "OpenAI首席执行官表示，公众对人工智能的担忧是合理的，但仍应信任AI企业。他同时表示今年不会进行IPO，并呼吁国会推进AI和生物武器威胁相关法案。",
+   "title": "OpenAI首席执行官称世界有理由对AI感到恐惧但应信任相关企业",
+   "summary": "OpenAI首席执行官阿尔特曼表示，公众对AI感到恐惧是合理的，但应信任相关企业。OpenAI目前支持众议院关于第三方安全评估的跨党派计划，并支持国会针对AI及生物武器威胁的法案，呼吁政府与企业抓住政策窗口期共同采取行动。",
    "source": "BBC",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlMUZ1NWNqazRyUWpPazM4OTJxTHFvNWdDYzZmSjh0Q3lJb0lDa0d1S1ZISG9CVlBSeEpheUN6ZTJNTEFKaEdfN3hoc0JqM3ZOUVFqanhFanhYRkk?oc=5",
    "pubTime": "08:59",
@@ -41,8 +51,8 @@
    "isNew": true
   },
   {
-   "title": "美国原油库存上升，油价下跌，沙特供应担忧未能支撑",
-   "summary": "尽管市场对沙特供应中断存在担忧，但美国原油库存上升导致油价下跌。与此同时，美国战略石油储备已降至1982年以来最低水平。",
+   "title": "美国原油库存增加抵消沙特供应担忧，国际油价下跌",
+   "summary": "尽管市场对沙特供应感到担忧，但上周美国原油库存大幅增加710万桶，导致国际油价下跌。虽然库欣地区库存持续下降，且战略石油储备降至1982年以来最低水平，但整体库存的超预期增长依然对油价构成了明显的下行压力。",
    "source": "Reuters",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSUw2WF9wc1NsbDZJRTlsTzlIOFYzZWtQMEJUS0tNT3VPUEhJUnhIZTZBTlJTcG50M0IxOXNLYTFSQVZRb2VIWllBT2ZzNC14RnAwUkhWYW91MlJrVm5TX3BZR3RSeVU3dUtjZmJuWm1hZWNyd29LLUUyY3BIekxROHllS0xoME02UUNDWnJlakRUU3hnOFg2aUV3X0FVVWd3SUpkRkZUTjdoX3VTRm95UE5CTWQxVXk1?oc=5",
    "pubTime": "08:41",
@@ -51,8 +61,8 @@
    "isNew": true
   },
   {
-   "title": "财政部长贝森特在众议院就经济问题作证",
-   "summary": "美国财政部长贝森特在众议院小组会议上就经济状况作证，为政府经济政策辩护，并将国债收益率上升归咎于全球性因素，而非国内政策。",
+   "title": "美国财政部长贝森特就经济问题向众议院作证",
+   "summary": "美国财政部长贝森特在众议院小组委员会作证，为其任内表现辩护。他将债券收益率上升归咎于全球性问题，并对特朗普政府的经济政策表示支持。贝森特在听证会上详细阐述了财政部干预措施的合理性，并就当前经济形势回答了议员提问。",
    "source": "The New York Times",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zZ0VnYjg4YUhxZFdOTmMweVpuZGNta2tmR200bUQ2WXI0VEtwVi10bG5lX2toWnpzU29YLUJ1RGFjVjUwTXlJdi1Sb2F5amY5V0piYWM0R3RWSlYxOHFXU1AwNWFjUVVQU0lGMzhCLUEzUQ?oc=5",
    "pubTime": "08:34",
@@ -61,18 +71,8 @@
    "isNew": true
   },
   {
-   "title": "扎克伯格在AI放缓辩论中炮轰Anthropic",
-   "summary": "马克·扎克伯格在人工智能发展速度的辩论中公开批评Anthropic，支持黄仁勋关于AI安全的观点，认为AI实验室应自行决定放缓节奏而非依赖外部评估。",
-   "source": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbDdJR2JuaHlmNmNBV3BFUDN1WVh6amQzM0VnWUcwLUl5MVFzaUJDMlBSQkNEeUhSSG1ZcjIya21VSWh5TXQ4dll4X0pHRE1BeUl3V3dydTctWEtRU0ZYQmE4V3BkcVM4VHV6MzdKVy1mNWE0WUtidXRubkFLZmxIRVFKblBEZ3NwczBLQ1habw?oc=5",
-   "pubTime": "08:19",
-   "pubTs": "2026-09-16T08:19:23+08:00",
-   "block": "谷歌精选",
-   "isNew": true
-  },
-  {
-   "title": "2028款沃尔沃XC60和XC90插电混动续航大幅提升",
-   "summary": "沃尔沃宣布2028款XC60和XC90插电式混合动力车型将获得大幅电动续航提升。此举反映沃尔沃在纯电转型放缓背景下，转向长续航混动策略。",
+   "title": "2028款沃尔沃XC60与XC90插电混动版纯电续航大幅提升",
+   "summary": "沃尔沃汽车推出了2028款XC60和XC90插电式混合动力车型的长续航版本。由于全电动车型的全面普及仍需时间，沃尔沃正战略性地转向开发长续航混动车型，通过大幅提升纯电模式下的行驶里程来满足消费者对过渡期车型的需求。",
    "source": "InsideEVs",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdjdkbnRhNGZuRWx1Ui1USVVxM0xvbWNLVnRfNHVSVHVwYWk1QmxqaGM1QXdiYkM2RFVyblNjVWp1MWt2cTNXT19rQThVSE43bW03SUY5cUVwUjVNOEc1NXFackJzeVIxcDhaSlVraldzQXplRTg3dm8zT0pIYUZhZ0J3cnVLMlo5?oc=5",
    "pubTime": "07:43",
@@ -81,8 +81,8 @@
    "isNew": true
   },
   {
-   "title": "黄仁勋：不需要新法律，特朗普通话后态度强硬",
-   "summary": "英伟达CEO黄仁勋在与特朗普通话后重申，人工智能领域不需要新的立法监管。他坚持认为行业自律足以应对AI发展带来的挑战。",
+   "title": "英伟达CEO黄仁勋重申立场：无需针对AI制定新法律",
+   "summary": "在与特朗普沟通后，英伟达首席执行官黄仁勋再次重申其立场，明确表示目前不需要针对人工智能领域制定任何新法律。他坚持认为现有的法律框架足以应对技术挑战，反对通过过度监管来限制AI技术的创新与发展。",
    "source": "Politico",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUVJmUXhVNGZRSEFCdUYzVlRDZEt6QXRyb3h1dkZoRjFJeUJyVElWS29PNm10UnVUY1I2T0pKTmxtaXpuYlpsbmZpdUsxaUlQN0NjaUtSeEtpdlBMVVZoRDhlUzA5dlFCdXhJbjlWTjFHcTRBTXpCRDhhMmZON3hMTmtjcTJ1QQ?oc=5",
    "pubTime": "07:08",
@@ -91,8 +91,8 @@
    "isNew": true
   },
   {
-   "title": "加州谷歌员工被指对女客户手机实施不当行为",
-   "summary": "一名谷歌员工在加州被指控在安装网络服务期间，窃取女客户手机中的私密视频并发送给他人。橙县警方已对此案展开调查。",
+   "title": "加州谷歌员工涉嫌在安装网络时盗取女客户私密视频被捕",
+   "summary": "加州一名谷歌光纤安装工在为客户提供上门服务时，涉嫌非法获取女客户手机中的私密视频并发送给自己。该男子目前已被警方逮捕，并面临相关刑事指控。此事件引发了公众对技术服务人员入户安全及个人隐私保护的严重担忧。",
    "source": "New York Post",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT2RDdHJRTnBJU0loRUREVTFQUGV2TFM5M2tqYl90ejdOdUZsYk4wY01nVDJya3pKWmlmRFFnMFdPZW52MXYtR2tLVmFIM0UyS0JKQ1hrR1FNeDVkMTV1LTVoWFJ6OU9IWGhjMGNYb2RMeGI4ejJnYUszcEpsNmdOM0VYdDZYV2JwRGVfNTRWMXo3UXpiRXZubG9sY2t6UmRMM0FzZkZRcTdaVVU2OE5F?oc=5",
    "pubTime": "06:55",
@@ -101,8 +101,8 @@
    "isNew": true
   },
   {
-   "title": "油价飙升、美债收益率突破5%，华尔街收跌",
-   "summary": "美国股市收跌，油价大幅上涨，10年期美债收益率突破5%创下19年新高。能源价格与债券市场双重压力令投资者情绪转弱，美股连续第二日下挫。",
+   "title": "美债收益率突破5%且油价飙升，美股三大股指全线收跌",
+   "summary": "受油价大幅上涨和10年期美债收益率突破5%关口的影响，华尔街股市集体收跌。能源价格上涨带来的通胀压力与债市收益率高企令投资者情绪受挫，道琼斯指数明显下滑，市场对高利率环境持续的担忧进一步加剧。",
    "source": "Reuters",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM1BPdzlzdEkxaTg2MURwV0psdFNmbUZ0ZnZreDZEZkFfT0JXSGUxcU9lZ0JGc09LMkRZYTMxYVNwU2hVYjdfcnl1UzhnS0M5eHF1bVdwWFh2Rmp6SmlZMUo2MjlaODdFRHBBVGQ2OHVtcjBQVTFIekZjdkdKbkh5dVhTRUVtOEE1cjRwM21UVXNlV25LUzhiMFNEeWd4a3hGMExiczlZNC1pN2tpQmhPTFJn?oc=5",
    "pubTime": "06:49",
@@ -112,7 +112,7 @@
   },
   {
    "title": "携程上架太空旅行船票 售价510万元人民币",
-   "summary": "携程近日上架2027年维珍银河太空旅行船票，单张售价510万元，系国内公开渠道最贵太空游产品。平台回应称页面显示的销量为全球累计订单与鸿鹄已接收预定，目前预定需缴纳15万美元定金且不可退还。",
+   "summary": "携程近日上架2027年维珍银河太空旅行船票，单张售价510万元人民币，成为国内公开渠道最贵的太空游产品。针对销量变动，携程解释称页面显示的681份为全球累计订单量，预订需缴纳15万美元定金且不可退还。",
    "source": "联合早报",
    "url": "https://www.zaobao.com/news/china/story20260916-9683018",
    "pubTime": "10:18",
@@ -122,7 +122,7 @@
   },
   {
    "title": "董军香山论坛发言未提台湾 呼吁警惕历史修正主义变异",
-   "summary": "中国国防部长董军在北京香山论坛发表讲话，呼吁以多边主义维护全球安全，并强调应对霸权主义、军国主义及历史修正主义变异保持高度警惕。此次演讲基调温和，未点名任何国家，也未提及台湾问题。",
+   "summary": "中国国防部长董军在香山论坛发表演讲，呼吁以多边主义维护全球稳定，保障各国平等参与安全治理。他在阐述安全治理观时基调温和，未点名批评特定国家或提及台湾问题，但强调要高度警惕霸权主义及历史修正主义的变异。",
    "source": "联合早报",
    "url": "https://www.zaobao.com/news/china/story20260916-9683031",
    "pubTime": "10:18",
@@ -132,7 +132,7 @@
   },
   {
    "title": "台媒：陆委会再拒上海台办副主任入台 双城论坛蒙阴影",
-   "summary": "据台媒报道，台湾陆委会再次拒绝上海台办副主任李骁东赴台，仅准许处长及相关局处层级入台。此举引发外界对双城论坛筹办工作的担忧，此前上海代表团也曾因类似原因未能赴台见证交流活动。",
+   "summary": "据台媒报道，台湾陆委会再次拒绝上海市台办副主任李骁东赴台参加双城论坛筹办行程，仅准许处长级及相关局处官员入境。此举为双城论坛的举办增添了不确定性，有消息称目前台北市政府申请陆方官员入台需经多部门层层审批。",
    "source": "联合早报",
    "url": "https://www.zaobao.com/news/china/story20260916-9682928",
    "pubTime": "10:04",
@@ -142,7 +142,7 @@
   },
   {
    "title": "习近平：破除“圈子文化”和“学阀”做派",
-   "summary": "《求是》刊发习近平在加强基础研究座谈会上的讲话，强调要净化科研生态，破除“圈子文化”和“学阀”做派。他提出要营造开放包容的创新环境，鼓励科研人员潜心钻研，以推动中国成为世界科技强国。",
+   "summary": "中国国家主席习近平在加强基础研究座谈会上强调，要净化科研生态，推动科技界正学风转作风，坚决破除“圈子文化”和“学阀”做派。他提出要优化基础研究布局并壮大人才队伍，营造开放包容、宽容失败的创新环境。",
    "source": "联合早报",
    "url": "https://www.zaobao.com/news/china/story20260916-9682927",
    "pubTime": "09:56",
@@ -152,7 +152,7 @@
   },
   {
    "title": "谌贻琴：支持高校毕业生等青年到雄安就业创业",
-   "summary": "中国国务委员谌贻琴在雄安新区调研时表示，雄安新区为各类劳动者提供了广阔舞台，国家将大力支持高校毕业生等青年群体到雄安就业创业，并实地考察了当地就业公共服务及在建项目吸纳就业情况。",
+   "summary": "中国国务委员谌贻琴在河北雄安新区调研时表示，雄安新区为各类劳动者提供了广阔舞台，将支持高校毕业生等青年群体到此就业创业。她实地考察了基层就业服务与在建项目吸纳就业情况，强调雄安建设是党中央作出的重大决策。",
    "source": "联合早报",
    "url": "https://www.zaobao.com/news/china/story20260916-9682770",
    "pubTime": "09:30",
@@ -162,7 +162,7 @@
   },
   {
    "title": "中美据悉正讨论削减农业和能源商品关税 贸易休战有望延长",
-   "summary": "消息人士透露，中美双方正讨论大幅下调能源、农产品及部分工业原料关税。此举有望纳入双方此前商定的互降关税框架，释放出“习特会”后两国贸易休战可能进一步延长的积极信号。",
+   "summary": "知情人士透露，中美两国正讨论大幅下调能源、农产品及部分工业原料的关税，释放出贸易休战可能延长的积极信号。相关降税措施预计将纳入双方此前商定的互降关税框架，旨在落实两国元首会晤共识，推动双边贸易关系缓和。",
    "source": "联合早报",
    "url": "https://www.zaobao.com/news/china/story20260916-9682737",
    "pubTime": "09:18",
@@ -172,7 +172,7 @@
   },
   {
    "title": "《人民日报》：人工智能不是大国的专利",
-   "summary": "针对美国指责中国AI企业开展“工业化规模”蒸馏，《人民日报》发表评论文章称，人工智能非大国专利，美方将正常技术问题政治化是推行科技霸权、搞算力垄断的陈旧套路，中方对此坚决反对。",
+   "summary": "针对美国指责中国人工智能企业开展“工业化规模”蒸馏，《人民日报》发表评论文章称，人工智能并非大国专利，坚决反对美国推行科技霸权。文章指出，美方指控本质是将正常的技术问题政治化，暴露了其搞算力垄断的意图。",
    "source": "联合早报",
    "url": "https://www.zaobao.com/news/china/story20260916-9682621",
    "pubTime": "09:00",
@@ -182,7 +182,7 @@
   },
   {
    "title": "小红书禁恶意唱衰、非法荐股 半年处置违规笔记百万篇",
-   "summary": "小红书发布首份《社区金融生态公约》，明确禁止恶意唱衰、非法荐股等八类行为。平台自年初启动专项治理以来，半年内已处置违规笔记超过101万篇，旨在规范金融营销行为并净化社区金融生态。",
+   "summary": "小红书发布首份《社区金融生态公约》，明确禁止恶意唱衰、非法荐股及非法金融活动等八类行为。平台表示，自年初启动金融生态专项治理以来，半年内已处置超过101万篇违规笔记，旨在规范金融营销行为并鼓励专业科普。",
    "source": "联合早报",
    "url": "https://www.zaobao.com/news/china/story20260916-9682613",
    "pubTime": "08:51",
@@ -192,7 +192,7 @@
   },
   {
    "title": "郑栅洁主持民营企业座谈会：越是转型关口越要坚定信心",
-   "summary": "发改委主任郑栅洁主持民营企业座谈会，听取电气、算力、文旅等领域企业负责人的意见。会议强调，在转型关口应坚定信心，官方将继续支持民企参与重大工程，通过优化环境和拓展投资空间促进企业发展。",
+   "summary": "国家发展改革委主任郑栅洁主持召开民营企业座谈会，听取电气设备、算力及商业航天等领域五家企业负责人的意见建议。郑栅洁强调，在转型关键期要坚定发展信心，官方将继续优化发展环境，支持民营企业参与重大工程建设。",
    "source": "联合早报",
    "url": "https://www.zaobao.com/news/china/story20260916-9682597",
    "pubTime": "08:36",
@@ -202,7 +202,7 @@
   },
   {
    "title": "韩正出席香山论坛欢迎晚宴 强调反对复活军国主义图谋",
-   "summary": "中国国家副主席韩正在香山论坛欢迎晚宴上致辞，强调应坚持多边主义与联合国宪章原则，反对干涉内政及动辄使用武力，并明确表示反对一切复活军国主义、危害地区安全稳定的图谋和行径。",
+   "summary": "中国国家副主席韩正在香山论坛欢迎晚宴上致辞，强调坚决反对一切复活军国主义、危害地区稳定的图谋。他提出维护联合国宪章、坚持多边主义等四点建议，呼吁各国尊重自主选择的发展道路，防止世界退回弱肉强食的丛林法则。",
    "source": "联合早报",
    "url": "https://www.zaobao.com/news/china/story20260916-9682530",
    "pubTime": "08:20",
