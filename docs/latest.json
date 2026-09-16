@@ -1,29 +1,19 @@
 {
  "version": 1,
- "edition": "night",
- "editionName": "夜豆浆",
+ "edition": "afternoon",
+ "editionName": "下午茶",
  "date": "2026-09-16",
- "fetched_at": "2026-09-16 14:46",
- "translator": "agnes(10条) + gemini-3-flash(10条)",
+ "fetched_at": "2026-09-16 15:21",
+ "translator": "gemini-3-flash(20条)",
  "counts": {
   "total": 20,
-  "new": 9
+  "new": 12
  },
  "items": [
   {
-   "title": "美联储会议实时更新：市场预期美联储将时隔3年首次加息",
-   "summary": "美联储预计将在本周会议上加息，这是三年来首次加息。尽管面临特朗普要求降息的施压，美联储仍被期望维持独立决策。多位顶级经济学家也支持美联储应顶住政治压力加息。",
-   "source": "Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdmZ6ZWVGendWVHM4dm1raHp1ckZOaGpHd2Y3SmNVYXRIUzhlMEI3b1lKNFhuTU5EMWVEc3dDb2FpTWU0SlJjSTJ1RTFmR29wdzJ4bGgtMW9xVkxtNnpoX0Z2TjNic0R4SXF5ZXZtc2RYMXktNFFGWEQtY1ZhQkpDY2pneWNKWURHRm84MFBnVF9qZmNMSktfRm1aUUZjbmk3bEh4SVdMNElkWHRlWHlRdHpwY3E4VGxSTFE?oc=5",
-   "pubTime": "13:50",
-   "pubTs": "2026-09-16T13:50:00+08:00",
-   "block": "谷歌精选",
-   "isNew": true
-  },
-  {
-   "title": "顶级经济学家称美联储应顶住特朗普压力加息",
-   "summary": "多位顶级经济学家表示，美联储应坚持独立决策，顶住特朗普要求降息的施压，按计划加息，维护央行自主性。",
-   "source": "Financial Times",
+   "title": "顶级经济学家呼吁美联储顶住特朗普压力坚持加息",
+   "summary": "多位顶级经济学家建议美联储应无视特朗普的政治压力，通过加息来维持其独立性。目前债券市场正密切关注美联储的利率决议，甚至有观点认为加息50个基点将是强有力的政策表态，此次会议被视为市场的关键时刻。",
+   "source": "ft.com",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYVdob3AzUDBiZzZLRzFyQnZSZVhuTUxaT0ptay10LWtILU10RVkwTFZpa3dpRlQ1SUxzTm9GX0w5R1JHTkJXQ0MyYWlRUG5rRlc4Q3I1VGlocVhfU2RWQ0Z5TUFSM3J6ZjJ1SXRDM1dBWVBZOXQ3YnlBUkFaUTZzRlNFUTQ?oc=5",
    "pubTime": "12:01",
    "pubTs": "2026-09-16T12:01:48+08:00",
@@ -31,18 +21,28 @@
    "isNew": true
   },
   {
-   "title": "OpenAI考虑以1.5万亿美元估值进行新一轮融资",
-   "summary": "OpenAI正在考虑新一轮融资，估值可能达到1.5万亿美元，高于此前报道的1.2万亿美元。此举或使其价值超过Anthropic，为IPO做准备。",
+   "title": "OpenAI拟以1.5万亿美元估值进行新一轮融资",
+   "summary": "据多家媒体报道，OpenAI正考虑开启新一轮融资，其估值预计在1.2万亿至1.5万亿美元之间。这一惊人的估值水平反映了市场对人工智能前景的高度看好，若融资成功，OpenAI将进一步巩固其在生成式AI领域的全球领先地位。",
    "source": "The New York Times",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYjV5VWtDWkRfOXhoRV9IX3ktTl80WGZGR2w5enR5QmZUS0tYLU5qM0VkLTZ0MUtBNC1tWktUXzFOTl9hQVVtaVk5SE15VFVIdnc4ZlhVTTU4bGtiUGVLMlVyU0NSTFZ0a3YtM1NLRGJ6QUhfVXhaUmNub200SGs1VFpvOFo0Y2lNS2c?oc=5",
    "pubTime": "12:01",
    "pubTs": "2026-09-16T12:01:30+08:00",
    "block": "谷歌精选",
-   "isNew": false
+   "isNew": true
   },
   {
-   "title": "扎克伯格称AI实验室有足够动力安全开发",
-   "summary": "Meta CEO马克·扎克伯格表示，AI实验室已有足够激励来安全开发人工智能，并在此问题上与英伟达黄仁勋立场一致，反对过度协调放缓AI发展。",
+   "title": "美国财政部长贝森特就经济问题向众议院作证",
+   "summary": "美国财政部长贝森特在众议院小组会议上就经济现状作证。他为其任内的政策记录辩护，并将近期债券收益率上升归咎于全球性因素。此外，贝森特还就财政干预措施以及特朗普政府的经济政策背景向议员们进行了详细说明。",
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zZ0VnYjg4YUhxZFdOTmMweVpuZGNta2tmR200bUQ2WXI0VEtwVi10bG5lX2toWnpzU29YLUJ1RGFjVjUwTXlJdi1Sb2F5amY5V0piYWM0R3RWSlYxOHFXU1AwNWFjUVVQU0lGMzhCLUEzUQ?oc=5",
+   "pubTime": "10:37",
+   "pubTs": "2026-09-16T10:37:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "扎克伯格称AI实验室有足够动力确保技术安全",
+   "summary": "Meta首席执行官扎克伯格表示，AI实验室已有足够的动力在确保安全的前提下进行开发，无需刻意放缓进度。他在此次关于AI安全与放缓发展的辩论中支持英伟达CEO黄仁勋的观点，并对Anthropic等公司主张的限制性做法提出批评。",
    "source": "Reuters",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUXpkV0dHb2JQWkgtUHFvUXBEU3ZVejJfSS1UeFVkYjRob1YzUGtBUVc2Y3dvRl83eU1nSHI0emU0c25lMzF0LUpXSTllVFJ4RlljaG9KX2lqTlppZ2VUM2Qyd3QtS3NaaWdRT3BFNVBQbktpbjRtUnlfWUhnazRMSGs5RzB2REhEVXA4YVFfRzBMY1Y3N0tRZVp5aUd5eG9XVHZSZUN4S0hER2pxRlE?oc=5",
    "pubTime": "10:25",
@@ -51,18 +51,18 @@
    "isNew": true
   },
   {
-   "title": "美联储决议前亚洲市场谨慎上涨，油价下滑",
-   "summary": "亚洲股市在美联储利率决议前小幅上涨，投资者持观望态度。油价同期下滑，市场等待美联储政策信号。",
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1EZTFQYXAzY01LTC1UX2J5X2FjVEgta19TLV9QZF9LNXFQYm9CTjNkOV9YOFJ6aXJpQzFqYUc4c2JzVHpzUlFzYjBNbEthX0kxcDJWazgxR3R5TjNUQl9xcXY5ano5Wl9ETEw2VDJZOFpndVBVMFY1VElhZw?oc=5",
-   "pubTime": "09:23",
-   "pubTs": "2026-09-16T09:23:00+08:00",
+   "title": "美国参议院未能通过加密货币法案，本届国会立法努力受挫",
+   "summary": "美国参议院未能推进一项关键的加密货币法案，这意味着该立法努力在本届国会任期内基本宣告失败。这对加密行业造成了重大打击，受此消息及美联储加息预期影响，比特币等加密资产价格正面临新的下行压力。",
+   "source": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUExRNEhHS01sNnAwQjhlWnhwWEVCZXZ1QllvRWdUaWdxSFZGYk5QV0I3aEZyNUc5cUowN1p4SmE1eEVPWDRTN19FQmpuS2JZeFJROXlKUkk2VHM2a21VM0cxajhWdWRoOEpHU19xaWU3NkYxZW5RQzY1TWk3amdQRDQ4bU9FVnZVR01PVE9fanhsckkzeXExRS1ydWs2Rkl4LTlacHZybllOOGo4VTZlQzUtaw?oc=5",
+   "pubTime": "10:05",
+   "pubTs": "2026-09-16T10:05:09+08:00",
    "block": "谷歌精选",
    "isNew": true
   },
   {
-   "title": "特朗普与美联储在利率问题上走向对抗",
-   "summary": "特朗普与美联储在利率政策上出现分歧，双方立场渐趋对立。美联储主席凯文·沃什在会议后举行简报会，市场预计利率将上调。",
+   "title": "特朗普与美联储在利率政策上陷入对峙",
+   "summary": "特朗普与美联储在利率走向问题上产生严重分歧。市场普遍预期美联储将加息，而美联储主席沃什可能更倾向于顺应金融市场的逻辑而非特朗普的政治诉求。投资者正密切关注双方在货币政策独立性上的博弈及其对市场的后续影响。",
    "source": "NBC News",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORUx2RFdkdERoV091d1VKeFloZFNyMXVxN1RTelVMd3VzQUI0eHpDTWdaQm0zbTlxSTNNcERBZzlycXM5bmRKNWpjZEpGQ0RWVzJYWjF3M1pNRlFfUkp0Z3g0WGpndHcweWFMNUlmOVVtRWRUZThNR0ZyLWFsalVabE9zNlFZNnFSb3dncHZidlh6d05pVkVaamtn?oc=5",
    "pubTime": "09:00",
@@ -71,8 +71,8 @@
    "isNew": true
   },
   {
-   "title": "OpenAI掌门人称世界有权恐惧但应信任AI企业",
-   "summary": "OpenAI首席执行官山姆·阿尔特曼表示，世界对AI的担忧是合理的，但应该信任AI企业。OpenAI还支持两党众议院关于第三方安全评估的提案。",
+   "title": "奥特曼称世界有理由对AI感到恐惧但应信任相关企业",
+   "summary": "OpenAI首席执行官萨姆·奥特曼表示，公众对AI技术的担忧是合理的，但应给予AI公司信任。OpenAI目前正支持一项由众议院提出的两党计划，旨在引入第三方安全评估。同时，奥特曼强调现在是制定AI政策的关键窗口期，需要各方采取行动。",
    "source": "BBC",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlMUZ1NWNqazRyUWpPazM4OTJxTHFvNWdDYzZmSjh0Q3lJb0lDa0d1S1ZISG9CVlBSeEpheUN6ZTJNTEFKaEdfN3hoc0JqM3ZOUVFqanhFanhYRkk?oc=5",
    "pubTime": "08:59",
@@ -81,8 +81,8 @@
    "isNew": true
   },
   {
-   "title": "土耳其政府称民众枕下藏金习惯损害经济",
-   "summary": "土耳其政府希望将家庭黄金纳入金融体系。土耳其人常将黄金作为通胀对冲工具，但这可能损害国家经济前景。",
+   "title": "土耳其政府称民众囤积黄金习惯损害国家经济",
+   "summary": "土耳其政府指出，民众习惯将黄金藏于家中（“枕头下”）以抵御通胀，这种做法正损害国家经济。政府正努力引导家庭持有的实物黄金进入金融体系，以增强经济流动性。尽管黄金是当地传统的避险资产，但政府认为这限制了国家的未来发展。",
    "source": "NPR",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwbkVibFM2bFh2eG9lY1EyRlJKbGYyb2xsOFFnY3lnaXU1SXEzWG5fQVUyazJMT19PbE5MdHRYYVlYYUt5dTRuYUYtNGlDa0huQ1oxdFVtRmdYRUhtYnp4V3E1UklkWTRVeEJHZFBHUQ?oc=5",
    "pubTime": "08:55",
@@ -91,28 +91,48 @@
    "isNew": true
   },
   {
-   "title": "2027款福特F-150首发，基础引擎更大且提供更多V8选项",
-   "summary": "福特发布2027款F-150皮卡，基础引擎升级，V8发动机选择增加，性能价格降低。新车还支持双手脱离驾驶功能。",
-   "source": "Motor1.com",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUkFQMDN3SGdhN1RqeW1GNjNOZ3RKUFRKaGx5WFlma0l2NFJzUEU4S3c2b1VBZjhaQ2VFeXNpLU1DZ0ZjdzF4dU9PTXhzUllOT2JiZkRiLS00WXpad3NXOTIwS3FmMVdxQ2xSa3Jha3o2ZTZKNGJGT281ZGdNNWw1MXJEeVhiX2d6?oc=5",
-   "pubTime": "08:27",
-   "pubTs": "2026-09-16T08:27:53+08:00",
+   "title": "美国原油库存增加导致油价下跌，中东局势限制跌幅",
+   "summary": "受美国原油库存意外增加影响，国际油价出现回落。尽管库欣地区库存有所下降，但整体供应增加令市场承压。与此同时，沙特管道关闭等中东地区的供应中断风险限制了油价的进一步下跌，交易员正在权衡供需两端的矛盾信号。",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSUw2WF9wc1NsbDZJRTlsTzlIOFYzZWtQMEJUS0tNT3VPUEhJUnhIZTZBTlJTcG50M0IxOXNLYTFSQVZRb2VIWllBT2ZzNC14RnAwUkhWYW91MlJrVm5TX3BZR3RSeVU3dUtjZmJuWm1hZWNyd29LLUUyY3BIekxROHllS0xoME02UUNDWnJlakRUU3hnOFg2aUV3X0FVVWd3SUpkRkZUTjdoX3VTRm95UE5CTWQxVXk1?oc=5",
+   "pubTime": "08:41",
+   "pubTs": "2026-09-16T08:41:00+08:00",
    "block": "谷歌精选",
    "isNew": true
   },
   {
-   "title": "日银预计加息25个基点至三十年新高",
-   "summary": "CNBC调查显示，日本央行预计将加息25个基点，利率将达到31年来的最高水平。日本长期宽松货币政策的制定者正在转变思路。",
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rOHVJT2VNbHNDeHBHNmdsUGJ2SFdVWGpXTllKMk4tVUJZQkpHUWJaWDZvUWJCRzNyZmlrS3Byb2pLNEpXMTE2OFNXV0tHbWh6dG9CNmNXQkNZUjRlcUFFc29heFZWQWVGMENlVzhJbjjSAXZBVV95cUxORExXVlBYaGtvemt6OHpJNFYzb3gtRHJ4cWt1a051eFNzZ1llNEx1aF92bTMzN0ZxbjlWQWQ1b09ZTjZ0TXY1aXlMLWk2WkFaSGRqb1g1WlRPR0FKOVA3Y2pER3FxSi14SUxZT2N3RkRWOGhQUUtB?oc=5",
-   "pubTime": "08:22",
-   "pubTs": "2026-09-16T08:22:00+08:00",
+   "title": "亚利桑那州男子因欠缴不足千元物业费失去47.5万美元房产",
+   "summary": "美国亚利桑那州一名男子因欠缴仅977美元的业主协会（HOA）费用，导致其价值47.5万美元的房产被强制拍卖。这起极端案例引发了公众对HOA权力的广泛讨论，受害夫妇称该协会在他们患病期间强行启动了丧失抵押品赎回权的程序。",
+   "source": "Fox News",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ3VMb0kwLWs3YWZ4cTgzeFZUTm1wc1dvQWphZHJ6YjI2OHVWWjA1OGJ0QUdHQkJPdFJPSDRiUWI1NnNXZ3h6MVZJeEFublhpQTdWMGF6UzNZRWh4MlR1c2pYaTZFU21WTXZ5OTBGMVBldDBVTGNvaTZaUTlrMjEyZTRoZHA1VjlHcUZBZUhwdHRGZ3FOaUHSAZsBQVVfeXFMUGswcmFFWTRRX1RFTkpoa1llWm5yNDdZMDJ1M1VoeWVxLUhSRlQyT1AyVDB1MW1FV2d5WlEtZ2doQi1iUXRKNElXWHZoZGNGMnVRRWNXZElLeVRzM3RQcGZvalNvVjY5NkI4M2FnNzZDWE5JdFF4RFNWdVhzWjRvWFNZMnIwOTdKeWtreGt3eU5sZjc2djgxd292Z28?oc=5",
+   "pubTime": "08:39",
+   "pubTs": "2026-09-16T08:39:13+08:00",
    "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "新加坡籍妇人在台中遭巴士辗压 抢救后恢复生命迹象",
+   "summary": "9月16日上午，一名60多岁的新加坡籍妇人在台中市过马路时，遭一辆右转的国光客运巴士撞倒并卷入车底。该妇人一度失去生命迹象，经送医抢救后已恢复。据调查，事发时她疑似为追赶已过马路的家人而跑步横穿。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20260916-9684723",
+   "pubTime": "14:57",
+   "pubTs": "2026-09-16T14:57:41+08:00",
+   "block": "联合早报",
+   "isNew": true
+  },
+  {
+   "title": "香港施政报告加码催生",
+   "summary": "香港特首李家超于9月16日公布施政报告，推出11项措施鼓励生育。其中，新生婴儿2万元奖励金将为期三年，且即日起出生的第二名及以后子女奖励金提高至3万元，相关免税额也由14万元增至16万元，以应对严峻的少子化趋势。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20260916-9684664",
+   "pubTime": "14:56",
+   "pubTs": "2026-09-16T14:56:47+08:00",
+   "block": "联合早报",
    "isNew": true
   },
   {
    "title": "中国学者：冲绳换知事后反美军基地民意不会消失",
-   "summary": "日本冲绳县知事选举由支持美军基地扩建的保守派新人古谢玄太胜出。中国学者卢昊分析称，尽管保守势力渗透导致民意格局渐变，但冲绳反美军基地的民意基础并不会因此消失，地方自治力量与东京政府的博弈仍将持续。",
+   "summary": "日本冲绳县知事选举由支持美军基地扩建的保守派新人古谢玄太胜出。中国学者卢昊对此分析称，尽管保守势力持续渗透导致冲绳民意格局发生渐变，但当地反美军基地的民意基础并不会消失，古谢胜选反映了民众希望减少与中央政府对抗的心理。",
    "source": "联合早报",
    "url": "https://www.zaobao.com/news/china/story20260916-9684471",
    "pubTime": "14:19",
@@ -122,7 +142,7 @@
   },
   {
    "title": "南方医科大学被曝一八年制本博连读学生坠亡 警方称正跟进处理",
-   "summary": "网传南方医科大学一名临床医学八年制本博连读学生从宿舍楼坠亡，引发社会关注。广州警方表示案件正在调查中，不便透露细节。有传言称该学生因家事请假未获导师支持，校方目前尚未对此作出正面回应。",
+   "summary": "网传南方医科大学广州校区一名临床医学八年制本博连读学生于9月15日凌晨从宿舍楼坠亡。广州警方证实事件正在跟进处理中，但未透露具体案情。有传言称该学生因家中有急事请假未获导师支持，目前校方尚未对此作出正式回应。",
    "source": "联合早报",
    "url": "https://www.zaobao.com/news/china/story20260916-9684424",
    "pubTime": "14:06",
@@ -132,7 +152,7 @@
   },
   {
    "title": "五月天主唱被介绍“来自中国” 国台办：艺人认同是“真情流露”",
-   "summary": "台湾乐队五月天主唱阿信在出席苹果公司活动时被介绍为“来自中国”，引发两岸舆论讨论。中国国台办发言人朱凤莲对此回应称，台湾演艺人员表达对“两岸一家亲”的认同是自然而然的真情流露，并强调两岸同属一个中国。",
+   "summary": "台湾乐队五月天主唱阿信在出席苹果公司活动时被介绍为“来自中国”，引发网络热议。中国大陆国台办发言人朱凤莲对此回应称，两岸同属一个中国，台湾演艺人员表达对“两岸一家亲”的认同是自然而然的真情流露，无需进行政治表态。",
    "source": "联合早报",
    "url": "https://www.zaobao.com/news/china/story20260916-9684301",
    "pubTime": "13:44",
@@ -142,7 +162,7 @@
   },
   {
    "title": "澳洲联邦众议长将访华五天",
-   "summary": "应中国全国人大常委会委员长赵乐际邀请，澳大利亚联邦众议长迪克将于9月18日起率团访华五天。此次访问正值中澳高层互动频繁、双边关系持续缓和之际，旨在进一步加强沟通并妥善处理分歧，促进经贸与文化合作。",
+   "summary": "应中国全国人大常委会委员长赵乐际邀请，澳大利亚联邦众议长迪克将于9月18日起率团访华五天。此次访问正值中澳高层互动频繁、双边关系持续缓和之际。此前，中国驻澳大使刘劲松已履新并表示中澳经济互补，合作前景广阔。",
    "source": "联合早报",
    "url": "https://www.zaobao.com/news/china/story20260916-9684282",
    "pubTime": "13:40",
@@ -152,7 +172,7 @@
   },
   {
    "title": "韩国分配国际航线运营权 重点加码中国航线",
-   "summary": "随着中韩旅客需求大增，韩国国土交通部宣布将25条国际航线运营权分配给10家本土航空公司，重点加码中国航线。仁川至北京、上海、南京等多个城市的航班频次将有所增加，旨在提升两国间的航空运力。",
+   "summary": "韩国国土交通部9月16日宣布，已将25条国际航线运营权分配给10家本土航空公司，重点加码中国航线。仁川至北京、上海、广州等地的航班次数均有所增加，旨在应对中韩间大增的旅客需求，涉及帕拉塔航空、易斯达航空等多家企业。",
    "source": "联合早报",
    "url": "https://www.zaobao.com/news/china/story20260916-9684244",
    "pubTime": "13:34",
@@ -162,7 +182,7 @@
   },
   {
    "title": "引力一号海上发射 创中国火箭单次海上发射载荷重量新高",
-   "summary": "中国在东海海域成功使用引力一号遥三运载火箭，将九颗卫星送入预定轨道。此次任务创下中国单次海上发射载荷重量和轨道高度的新高，净载荷重量超过3吨，入轨高度约800公里，标志着海上发射能力的显著提升。",
+   "summary": "9月16日，中国引力一号遥三运载火箭在东海海域成功发射，将九颗卫星送入预定轨道。此次任务净载荷重量超过3吨，入轨高度约800公里，刷新了中国单次海上发射的载荷重量和轨道高度纪录，标志着中国商业航天海上发射能力的提升。",
    "source": "联合早报",
    "url": "https://www.zaobao.com/news/china/story20260916-9682961",
    "pubTime": "13:01",
@@ -172,7 +192,7 @@
   },
   {
    "title": "王毅：中国将亚细安作为周边外交优先方向",
-   "summary": "中国外长王毅在北京会见亚细安秘书长高金洪时表示，中国始终将亚细安作为周边外交的优先方向。王毅强调，中国将继续支持亚细安共同体建设，维护南中国海的和平稳定，并秉持亲诚惠容理念深化双方的战略伙伴关系。",
+   "summary": "中国外长王毅9月15日在北京会见亚细安秘书长高金洪时表示，中国始终将亚细安作为周边外交的优先方向，保持政策的连续性与稳定性。王毅强调，中国将继续支持亚细安共同体建设及其在区域架构中的中心地位，共同维护南海和平稳定。",
    "source": "联合早报",
    "url": "https://www.zaobao.com/news/china/story20260916-9682799",
    "pubTime": "12:35",
@@ -182,31 +202,11 @@
   },
   {
    "title": "赖清德：期盼打造台湾成为AI岛",
-   "summary": "台湾总统赖清德表示，政府正积极推动“人工智能新十大建设”，目标在2040年前培养50万名AI应用人才，致力于将台湾打造为“AI岛”。他同时提到台湾近年经济增长强劲，预估明年有望进入世界前20大经济体。",
+   "summary": "台湾总统赖清德近日表示，政府正积极推动“人工智能新十大建设”，目标在2040年前培养50万名AI人才，将台湾打造为“AI岛”。他称台湾经济成长势头强劲，预估全年表现将创下多年来新高，并期盼台湾明年能顺利进入世界前20大经济体。",
    "source": "联合早报",
    "url": "https://www.zaobao.com/news/china/story20260916-9683358",
    "pubTime": "12:06",
    "pubTs": "2026-09-16T12:06:00+08:00",
-   "block": "联合早报",
-   "isNew": false
-  },
-  {
-   "title": "宏福苑维修工程顾问公司被颁令清盘",
-   "summary": "针对去年造成重大伤亡的香港大埔宏福苑五级大火案，高等法院裁定担任该屋苑维修工程顾问的鸿毅建筑师有限公司清盘。该公司此前已因涉嫌误杀、串谋诈骗及逃税等多项罪名被起诉，且在清盘聆讯中未派代表出庭。",
-   "source": "联合早报",
-   "url": "https://www.zaobao.com/news/china/story20260916-9683719",
-   "pubTime": "12:05",
-   "pubTs": "2026-09-16T12:05:02+08:00",
-   "block": "联合早报",
-   "isNew": false
-  },
-  {
-   "title": "香港发布首个五年规划 推进“四中心一高地”建设",
-   "summary": "香港特区行政长官李家超发表首个“五年规划”，主动对接国家“十五五”规划。该规划重点推进“四中心一高地”建设，涵盖金融、航运等领域，并提出加快北部都会区建设及深化粤港澳大湾区合作，以提升香港的国际竞争力。",
-   "source": "联合早报",
-   "url": "https://www.zaobao.com/news/china/story20260916-9683644",
-   "pubTime": "11:54",
-   "pubTs": "2026-09-16T11:54:00+08:00",
    "block": "联合早报",
    "isNew": false
   }
