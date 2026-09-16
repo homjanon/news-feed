@@ -168,12 +168,21 @@ HTTPS_PROXY=http://127.0.0.1:7890 python scripts/fetch_news.py --edition afterno
 
 | 位置 | name | model | Key | Free Tier |
 |---|---|---|---|---|
-| ① | `gemini-3-flash` | `gemini-3-flash` | `GEMINI_API_KEY` | ✅ 免费（1,500 RPD） |
+| ① | `gemini-3-flash` | `gemini-3-flash-preview` | `GEMINI_API_KEY` | ✅ 免费（1,500 RPD） |
 | ② | `agnes` | `agnes-2.0-flash` | `AGNES_API_KEY` | — |
 | ③ | `gemini-3.1-flash-lite` | `gemini-3.1-flash-lite` | `GEMINI_API_KEY` | ✅ 免费（1,000 RPD） |
 
 > Gemini 3 Flash 与 3.1 Flash-Lite 是**独立配额桶**，叠加日上限 2,500 次。配额按 **project** 计（非按 key）。
-> 两个 Gemini 模型均**不带 `-preview` 后缀**。Gemini 3 Flash 为主力（质量较高），agnes 为二级，Flash-Lite 兜底。
+> Gemini 3 Flash 为主力（质量较高），agnes 为二级，Flash-Lite 兜底。
+
+**⚠️ 后缀差异（2026-09-16 实测确认，勿随意改动）**：
+
+| 模型 | 正确调用名 | 实测 |
+|---|---|---|
+| Gemini 3 Flash | **`gemini-3-flash-preview`**（**必须带后缀**） | 无后缀 `gemini-3-flash` → **404 Not Found** |
+| Gemini 3.1 Flash-Lite | **`gemini-3.1-flash-lite`**（**不带后缀**） | 现网验证可用 |
+
+Google 只对部分模型做了别名兼容，**两个模型的后缀规则不同，改名前务必先触发一次验证**。
 
 ### 3. 时间显示：统一北京时间 + 智能相对格式
 
