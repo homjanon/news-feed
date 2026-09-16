@@ -169,11 +169,11 @@ HTTPS_PROXY=http://127.0.0.1:7890 python scripts/fetch_news.py --edition afterno
 | 位置 | name | model | Key | Free Tier |
 |---|---|---|---|---|
 | ① | `agnes` | `agnes-2.0-flash` | `AGNES_API_KEY` | — |
-| ② | `gemini-3-flash` | `gemini-3-flash-preview` | `GEMINI_API_KEY` | ✅ 免费（1,500 RPD） |
+| ② | `gemini-3-flash` | `gemini-3-flash` | `GEMINI_API_KEY` | ✅ 免费（1,500 RPD） |
 | ③ | `gemini-3.1-flash-lite` | `gemini-3.1-flash-lite` | `GEMINI_API_KEY` | ✅ 免费（1,000 RPD） |
 
 > Gemini 3 Flash 与 3.1 Flash-Lite 是**独立配额桶**，叠加日上限 2,500 次。配额按 **project** 计（非按 key）。
-> `gemini-3.1-flash-lite` 沿用无 `-preview` 后缀的调用名（现网已验证可用，**勿改**）；新增的 3 Flash 用官方 `-preview` id。
+> 两个 Gemini 模型均**不带 `-preview` 后缀**（与现网已验证可用的 flash-lite 写法保持一致）。
 
 ### 3. 时间显示：统一北京时间 + 智能相对格式
 
