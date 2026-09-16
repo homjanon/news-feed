@@ -35,6 +35,7 @@ docs/（数据存放）→ App 经 Cloudflare 代理读 raw（Pages 已下线）
 | **译文必须校验含中文** | 只判"字段非空"会把漏译当成功，静默输出英文且不降级 |
 | **翻译失败降级英文** | 翻译链任一环节挂掉都不能让整场空窗 |
 | **块内按时间降序** | 两个来源各自最新在前，便于按来源顺序阅读 |
+| **场次由外部显式传入** | 脚本不做时间判定，`--edition` 是唯一依据；漏传 `inputs` 会静默落回 `afternoon` 覆盖当天下午茶 |
 | **抓取失败不覆盖旧数据** | 本场全失败时脚本退出码 1 且不写文件，`latest.json` 保持上一场内容 |
 | **两块独立不补位** | 谷歌挂了就是少一块，不用早报凑 20 条（与 portfolio Top20 口径一致） |
 
@@ -53,6 +54,20 @@ Authorization: Bearer <GITHUB_TOKEN>      # 需 repo + workflow 权限
 {"ref":"main","inputs":{"edition":"afternoon"}}   # 下午茶
 {"ref":"main","inputs":{"edition":"night"}}       # 夜豆浆
 ```
+
+### ⚠️ 场次判定：脚本不做时间判断，全靠外部传入
+
+**`fetch_news.py` 内没有任何"几点钟就该是哪一场"的逻辑**，它拿到什么 `--edition` 就当场次是什么。完整链路：
+
+```
+Cloudflare Worker / Actions 手动 Run
+   ↓  {"ref":"main","inputs":{"edition":"night"}}
+workflow_dispatch.inputs.edition   ← 定义在 fetch.yml（type: choice, default: afternoon）
+   ↓  echo "edition=${{ inputs.edition }}" >> "$GITHUB_OUTPUT"
+fetch_news.py --edition <值>
+```
+
+**必须显式传 `inputs.edition`**——若触发时不传或传空，GitHub 会落回 workflow 里定义的 `default: afternoon`。后果是：**22:30 那一场也会被当成下午茶，写出 `{日期}-afternoon.json` 覆盖当天下午茶那份，夜豆浆永远不出现**，且不报错、不告警，只静默覆盖。排查时优先检查 Worker 的 payload 是否带 `inputs` 字段。
 
 ## LLM 译标题 + 摘要
 
@@ -193,7 +208,9 @@ news-feed/
 │                            #   _sys_prompt(mode)    两套提示词（translate/summarize）
 │                            #   llm_translate        按语言拆批，各组独立降级
 │                            #   group_by_block       按 block 分组、块内时间降序
+│                            #   bj_pub / bj_iso      北京时间智能显示 / ISO 输出
 ├── scripts/sources.json     # 源配置 + LLM 模型链（单一数据源）
+├── .github/workflows/fetch.yml  # 只接受 workflow_dispatch，透传 inputs.edition
 ├── docs/latest.json         # 最新一场（App 读取）
 └── docs/news/*.json         # 7 天归档
 ```
