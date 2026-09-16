@@ -5,16 +5,16 @@
   "summary_max": 60,
   "models": [
    {
-    "name": "agnes",
-    "base": "https://apihub.agnes-ai.com/v1",
-    "model": "agnes-2.0-flash",
-    "key_env": "AGNES_API_KEY"
-   },
-   {
     "name": "gemini-3-flash",
     "base": "https://generativelanguage.googleapis.com/v1beta/openai",
     "model": "gemini-3-flash",
     "key_env": "GEMINI_API_KEY"
+   },
+   {
+    "name": "agnes",
+    "base": "https://apihub.agnes-ai.com/v1",
+    "model": "agnes-2.0-flash",
+    "key_env": "AGNES_API_KEY"
    },
    {
     "name": "gemini-3.1-flash-lite",
