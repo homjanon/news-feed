@@ -135,21 +135,41 @@ def fetch_source(cfg):
     raise RuntimeError(f"所有实例失败，最后一个错误：{last_err}")
 
 
-def _sys_prompt(smin, smax):
-    return (
-        "你是财经新闻编辑。输入是 JSON 数组 [{\"i\":序号,\"title\":标题,\"desc\":正文开头}]。"
-        "输出同样是 JSON 数组 [{\"i\":序号,\"title\":标题,\"summary\":中文摘要}]，规则："
-        "① title：若输入是英文则译成简洁中文（专有名词用通用译名）；若输入已是中文，必须一字不改原样返回；"
+def _sys_prompt(smin, smax, mode="translate"):
+    """两套独立提示词：translate=英文组（译标题+摘要）/ summarize=中文组（仅摘要、标题原样）。
+
+    2026-09-16 改造：原先单一提示词含"英文就译、中文就原样"的条件规则。单源调用时
+    整批同语言、等于废话；合并为一次调用后同一个 prompt 里同时存在【译】与【不译】
+    两种互斥指令，模型倾向于"整批统一处理"，导致英文标题漏译（9/15 夜场整场退回
+    原文）。现按语言拆批、每批指令单一，从根上消除歧义。
+    """
+    base = (
         f"② summary：{smin}~{smax} 字左右的中文摘要，把正文开头的核心事实整理成完整通顺的一段话；"
         "要点较多时可适当超出字数——信息完整比控制字数更重要，不逐字照抄、绝不以半句话截断结尾。"
         "只输出 JSON 数组本身，不要任何解释、不要 markdown 代码块。")
+    if mode == "translate":
+        return (
+            "你是财经新闻编辑。输入是 JSON 数组 [{\"i\":序号,\"title\":英文标题,\"desc\":正文开头}]。"
+            "**本批全部条目均为英文。**"
+            "输出 JSON 数组 [{\"i\":序号,\"title\":中文标题,\"summary\":中文摘要}]，规则："
+            "① title：**必须译成简洁中文**（专有名词用通用译名），不得原样保留英文、不得留英文残句；"
+            + base)
+    return (
+        "你是财经新闻编辑。输入是 JSON 数组 [{\"i\":序号,\"title\":中文标题,\"desc\":正文开头}]。"
+        "**本批全部条目均为中文。**"
+        "输出 JSON 数组 [{\"i\":序号,\"title\":标题,\"summary\":中文摘要}]，规则："
+        "① title：**必须一字不改原样返回输入标题**，不要改写、不要润色、不要增删字词；"
+        + base)
 
 
-def _call_llm_batch(batch, tcfg):
-    """对「一批」条目依次尝试各模型：成功则回填并返回 (模型名, True)；全失败返回 (None, False)。"""
+def _call_llm_batch(batch, tcfg, mode="translate"):
+    """对「一批」条目依次尝试各模型：成功则回填并返回 (模型名, True, 尝试数)；全失败 (None, False, 尝试数)。
+
+    mode：translate=英文组（需校验译文确为中文）/ summarize=中文组（标题原样，无需译）。
+    """
     smin = int(tcfg.get("summary_min", 40))
     smax = int(tcfg.get("summary_max", 60))
-    sys_prompt = _sys_prompt(smin, smax)
+    sys_prompt = _sys_prompt(smin, smax, mode)
     tried = 0          # 真正发起过请求的模型数（用于区分"没配 Key"与"调用失败"）
     for m in tcfg.get("models", []):
         key = os.environ.get(m.get("key_env", ""))
@@ -191,10 +211,18 @@ def _call_llm_batch(batch, tcfg):
                 s = str(row.get("summary", "")).strip()
                 # 中文标题一律保留原样（防 LLM 擅自改写事实性标题）；仅英文标题采纳译文
                 if it["_translate_title"] and ti:
+                    # ★ 2026-09-16：译文必须含中文，否则判失败。原先只判"ti 非空"就采纳，
+                    #   模型若把英文标题原样回吐，会被当作成功 → 静默漏译、不降级、不重试。
+                    if not re.search(r"[\u4e00-\u9fff]", ti):
+                        raise RuntimeError(
+                            f"第 {i} 条英文标题未译成中文（疑似原样返回）：{ti[:60]}")
                     it["title"] = ti
                     changed_title += 1
                 if s:
                     it["summary"] = s   # 原样保留，不截断（信息完整优先）
+            # ★ 2026-09-16：translate 模式下整批必须有译文产出，否则整批判失败触发降级
+            if mode == "translate" and changed_title == 0:
+                raise RuntimeError(f"整批 {len(batch)} 条无任何标题被翻译，判定失败")
             log(f"  🌐 AI 摘要完成（{m['name']} / {m['model']}，{len(batch)}条，译标题 {changed_title} 条）")
             return m["name"], True, tried
         except Exception as e:
@@ -203,29 +231,47 @@ def _call_llm_batch(batch, tcfg):
 
 
 def llm_translate(items, tcfg):
-    """全场「一次调用」完成译标题 + 摘要（2026-09-15 用户要求：原来是每个源各调一次＝2 次/场）。
+    """按语言拆批调用：英文组译标题+摘要，中文组只做摘要（标题原样）。
 
-    为降低"一次失败全批降级"的风险：整批失败后自动拆成 2 批再各试一次；
-    仍失败才降级为 RSS 原文摘要（绝不空窗）。"""
+    2026-09-16 改造（根因修复）：9/15 改为"全场一次调用"后，同一 prompt 内同时存在
+    【英文→译】与【中文→原样】两条互斥规则，模型倾向整批统一处理，导致英文标题漏译；
+    且原回填逻辑只判"译文字段非空"，漏译被当作成功 → 静默输出英文原文（9/15 夜场
+    整场 translator=none(原文)，下游只看到英文）。
+
+    现按语言分组、每组内部指令单一，彻底消除歧义（回到"每源一次调用"之所以稳定的
+    本质原因，但不依赖源的划分，而是按语言划分，更稳）。
+
+    每组失败后该组自动降级为 RSS 原文；两组互不影响，绝不空窗。
+    """
     todo = [i for i in items if i.get("_llm")]
     if not todo:
         return "none"
-    name, ok, tried = _call_llm_batch(todo, tcfg)
-    if ok:
-        return name
-    if tried == 0:
-        # 一个模型都没配 Key：没必要分批重试（也没必要重复打日志）
-        log("  ⬇️ 无可用模型（Key 均未配置），降级为 RSS 原文摘要（不空窗）")
+    en = [i for i in todo if i.get("_translate_title")]       # 英文：译标题 + 摘要
+    cn = [i for i in todo if not i.get("_translate_title")]   # 中文：标题原样 + 摘要
+
+    done = {}          # 模型名 -> 该模型成功处理的条数
+    failed = []        # [(mode, 条数)]
+    for grp, mode in ((en, "translate"), (cn, "summarize")):
+        if not grp:
+            continue
+        name, ok, tried = _call_llm_batch(grp, tcfg, mode=mode)
+        if ok:
+            done[name] = done.get(name, 0) + len(grp)
+        else:
+            if tried == 0:
+                log(f"  ⏭️ {mode} 组（{len(grp)}条）无可用模型：Key 均未配置")
+            else:
+                log(f"  ⬇️ {mode} 组（{len(grp)}条）全部失败，降级为 RSS 原文")
+            failed.append(f"{mode}:{len(grp)}")
+
+    if not done:
         return "none(原文)"
-    if len(todo) >= 8:
-        log("  ↻ 整批失败，拆成 2 批重试…")
-        half = (len(todo) + 1) // 2
-        n1, ok1, _ = _call_llm_batch(todo[:half], tcfg)
-        n2, ok2, _ = _call_llm_batch(todo[half:], tcfg)
-        if ok1 or ok2:
-            return n1 or n2
-    log("  ⬇️ AI 摘要全部失败，降级为截断摘要（不空窗）")
-    return "none(原文)"
+    # 透明记账：写明哪个模型处理了多少条，失败组一并标出（便于看板判断 AI 是否真生效）
+    parts = [f"{n}({c}条)" for n, c in done.items()]
+    out = " + ".join(parts)
+    if failed:
+        out += f" ⚠️降级[{','.join(failed)}]"
+    return out
 
 
 def mark_new(items, outdir, date, edition):
@@ -288,6 +334,10 @@ def main():
         log("⛔ 全部源失败：不写任何文件（保留上一场数据，latest.json 不被覆盖）")
         sys.exit(1)
 
+    # 2026-09-16：按 block 分组、块内按发布时间降序（最新在前）；块顺序同 sources.json
+    block_order = [s["block"] for s in cfg.get("sources", [])]
+    all_items = group_by_block(all_items, block_order)
+
     mark_new(all_items, a.outdir, date, a.edition)
 
     doc = {
@@ -306,7 +356,8 @@ def main():
             "summary": i.get("summary") or i["desc"],   # AI 失败时降级用 RSS 原文开头，不截断
             "source": i["source"],
             "url": i["url"],
-            "pubTime": bj_pub(i["pubDate"]),
+            "pubTime": bj_pub(i["pubDate"]),   # 北京时间智能显示（今天=HH:MM / 昨天 / M月D日）
+            "pubTs": bj_iso(i["pubDate"]),     # ISO 北京时间（带 +08:00），供 App 自行格式化
             "block": i["block"],
             "isNew": i["isNew"],
         } for i in all_items],
@@ -333,8 +384,62 @@ def main():
 
 
 def bj_pub(s):
+    """北京时间智能相对显示（2026-09-16 起，贴合国内阅读习惯）。
+
+      今天    → 12:34
+      昨天    → 昨天 23:22
+      7 天内  → 9月15日 23:22
+      今年内  → 9月15日 23:22
+      跨年    → 2025-09-15 23:22
+
+    注意：不用 %#m/%#d 去前导零（Windows 专有，Linux/Actions 会报错），
+    改为手工拼 f"{月}月{日}日"，跨平台安全。
+    """
     d = pub_dt(s)
-    return d.astimezone(TZ_CN).strftime("%m-%d %H:%M") if d else ""
+    if not d:
+        return ""
+    t = d.astimezone(TZ_CN)
+    now = datetime.datetime.now(TZ_CN)
+    today = now.date()
+    if t.date() == today:
+        return t.strftime("%H:%M")
+    if t.date() == today - datetime.timedelta(days=1):
+        return t.strftime("昨天 %H:%M")
+    if t.year == now.year:
+        return f"{t.month}月{t.day}日 {t.strftime('%H:%M')}"
+    return t.strftime("%Y-%m-%d %H:%M")
+
+
+def bj_iso(s):
+    """ISO 8601 北京时间（带 +08:00 时区），供 App 端自行格式化/二次排序。"""
+    d = pub_dt(s)
+    return d.astimezone(TZ_CN).isoformat() if d else ""
+
+
+def sort_desc_by_time(items):
+    """按 pubDate 降序（最新在前）；无时间的排到最后。"""
+    _EPOCH = datetime.datetime(1970, 1, 1, tzinfo=datetime.timezone.utc)
+    return sorted(items, key=lambda x: pub_dt(x["pubDate"]) or _EPOCH, reverse=True)
+
+
+def group_by_block(items, block_order):
+    """按 block 分组，块内按时间降序；块顺序按 sources.json 的声明顺序。
+
+    2026-09-16 用户要求：两个来源【各自】按时间排序、最新在前（不做全局混排）。
+    """
+    grouped = {}
+    for i in items:
+        grouped.setdefault(i["block"], []).append(i)
+    ordered = []
+    seen = set()
+    for blk in block_order:                 # 先按配置顺序输出已知块
+        if blk in grouped:
+            ordered.extend(sort_desc_by_time(grouped[blk]))
+            seen.add(blk)
+    for blk, arr in grouped.items():        # 兜底：配置外的块追加在后
+        if blk not in seen:
+            ordered.extend(sort_desc_by_time(arr))
+    return ordered
 
 
 if __name__ == "__main__":

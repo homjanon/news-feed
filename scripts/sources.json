@@ -11,7 +11,13 @@
     "key_env": "AGNES_API_KEY"
    },
    {
-    "name": "gemini",
+    "name": "gemini-3-flash",
+    "base": "https://generativelanguage.googleapis.com/v1beta/openai",
+    "model": "gemini-3-flash-preview",
+    "key_env": "GEMINI_API_KEY"
+   },
+   {
+    "name": "gemini-3.1-flash-lite",
     "base": "https://generativelanguage.googleapis.com/v1beta/openai",
     "model": "gemini-3.1-flash-lite",
     "key_env": "GEMINI_API_KEY"
@@ -37,7 +43,7 @@
    "block": "联合早报",
    "take": 10,
    "dedupe": true,
-   "sort_desc": false,
+   "sort_desc": true,
    "fresh_check": true,
    "translate": true,
    "urls": [
