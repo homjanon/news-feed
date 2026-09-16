@@ -9,6 +9,10 @@ name: fetch-news
 #    {"ref":"main","inputs":{"edition":"afternoon"}}   ← 15:20（Token 需 repo + workflow 权限）
 #    {"ref":"main","inputs":{"edition":"night"}}       ← 22:30
 #    也可在 Actions 页面手动 Run workflow（可在界面上选场次）。
+#
+# ⚠️ 场次只会来自 inputs.edition，脚本侧不做时间判定：
+#    调用方【必须显式传 inputs.edition】。若漏传或传空，GitHub 会落回下方 default: afternoon，
+#    导致 22:30 那场也写成 {日期}-afternoon.json 覆盖当天下午茶，且不报错（静默覆盖）。
 on:
   workflow_dispatch:
     inputs:
