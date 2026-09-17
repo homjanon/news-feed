@@ -1,5 +1,5 @@
 {
- "note": "老张自建新闻源 · 源配置（单一数据源）。新增 RSS 只需在 sources 数组加一个对象，不改代码。字段说明：urls=按顺序兜底的实例列表；take=选取条数；dedupe=标题归一化去重；sort_desc=true 表示 feed 顺序不可信、必须按 pubDate 倒序重排后再取前 take 条（谷歌系必须开，实测 feed 顺序是热度混合排序）；fresh_check=至少一条为北京昨天/今天，拦旧缓存镜像；title_suffix_source=从『标题 - 来源』后缀拆出来源媒体；default_source=该源条目若无来源则补此固定值（联合早报用）；translate=走 LLM 中文化（失败自动保留原文，绝不空窗）。",
+ "note": "老张自建新闻源 · 源配置（单一数据源）。新增 RSS 只需在 sources 数组加一个对象，不改代码。字段说明：urls=按顺序兜底的实例列表；take=选取条数；dedupe=标题归一化去重；sort_desc=true 表示 feed 顺序不可信、必须按 pubDate 倒序重排后再取前 take 条（谷歌系必须开，实测 feed 顺序是热度混合排序）；fresh_check=至少一条为北京昨天/今天，拦旧缓存镜像；title_suffix_source=从『标题 - 来源』后缀拆出来源媒体；default_source=该源条目若无来源则补此固定值（联合早报用）；translate=走 LLM 中文化（失败自动保留原文，绝不空窗）。 模型链（2026-09-18 更新）：① gemini-3-flash-preview 主力（免费 20 RPD，够 4 次/天） ② agnes-3.0-flash 备用（免费无限、512K、252 tok/s） ③ gemini-3.5-flash-lite 兜底（免费 500 RPD）。换模型前请先跑 scripts/probe_models.py 验证（Actions → probe-models 手动触发）。",
  "translate": {
   "summary_min": 40,
   "summary_max": 60,
@@ -11,15 +11,15 @@
     "key_env": "GEMINI_API_KEY"
    },
    {
-    "name": "agnes",
+    "name": "agnes-3.0-flash",
     "base": "https://apihub.agnes-ai.com/v1",
-    "model": "agnes-2.5-flash",
+    "model": "agnes-3.0-flash",
     "key_env": "AGNES_API_KEY"
    },
    {
-    "name": "gemini-3.1-flash-lite",
+    "name": "gemini-3.5-flash-lite",
     "base": "https://generativelanguage.googleapis.com/v1beta/openai",
-    "model": "gemini-3.1-flash-lite",
+    "model": "gemini-3.5-flash-lite",
     "key_env": "GEMINI_API_KEY"
    }
   ]

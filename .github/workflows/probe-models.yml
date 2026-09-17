@@ -1,0 +1,27 @@
+name: probe-models
+
+# 模型连通性探测 —— 手动触发，只读。
+# 用途：换 LLM 模型前先验证「模型名对不对 / 参数能不能带 / Key 是否有效」，
+#       避免出现"改完 sources.json 才发现 404 或 400"。
+# 本 workflow 【不写任何文件、不提交、不碰 docs/】，跑完看日志结论即可。
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+
+      - name: 探测模型连通性（当前链 + 候选）
+        env:
+          AGNES_API_KEY: ${{ secrets.AGNES_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/probe_models.py

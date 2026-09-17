@@ -91,8 +91,8 @@ fetch_news.py --edition <值>
 | 位置 | name | model | Key | Free Tier |
 |---|---|---|---|---|
 | ① | `gemini-3-flash` | `gemini-3-flash-preview` | `GEMINI_API_KEY` | ✅ 免费（1,500 RPD） |
-| ② | `agnes` | `agnes-2.5-flash` | `AGNES_API_KEY` | ✅ 免费（现价 $0/1M tokens） |
-| ③ | `gemini-3.1-flash-lite` | `gemini-3.1-flash-lite` | `GEMINI_API_KEY` | ✅ 免费（1,000 RPD） |
+| ② | `agnes-3.0-flash` | `agnes-3.0-flash` | `AGNES_API_KEY` | ✅ 免费（输入/输出/缓存均 $0） |
+| ③ | `gemini-3.5-flash-lite` | `gemini-3.5-flash-lite` | `GEMINI_API_KEY` | ✅ 免费（500 RPD） |
 
 - Gemini 3 Flash 为主力（质量较高），agnes 为二级，Flash-Lite 兜底；任一组失败自动降级为 RSS 原文（不空窗）。
 - Gemini 3 Flash 与 3.1 Flash-Lite 是**独立配额桶**，叠加日上限 2,500 次。配额按 **project** 计（非按 key）；每场仅 2 次调用，余量充足。
@@ -215,6 +215,8 @@ news-feed/
 │                            #   group_by_block       按 block 分组、块内时间降序
 │                            #   bj_pub / bj_iso      北京时间智能显示 / ISO 输出
 ├── scripts/sources.json     # 源配置 + LLM 模型链（单一数据源）
+├── scripts/probe_models.py  # 模型连通性探测（换模型前先验：名字/参数/Key）
+│                            #   跑法：Actions → probe-models 手动触发，或本地直接运行
 ├── .github/workflows/fetch.yml  # 只接受 workflow_dispatch，透传 inputs.edition
 ├── docs/latest.json         # 最新一场（App 读取）
 └── docs/news/*.json         # 7 天归档
@@ -228,3 +230,19 @@ news-feed/
 - 时区：所有对外时间均为北京时间（UTC+8）。
 
 免责声明：内容来自公开 RSS，仅供研究参考，不构成投资建议。
+
+## 模型链变更（2026-09-18）
+
+| 层 | 变更 | 说明 |
+|---|---|---|
+| ① 主力 | 不变（`gemini-3-flash-preview`） | 保持已验证的稳定主力；换 3.8 需先跑探测确认参数兼容性 |
+| ② 备用 | `agnes-2.5-flash` → **`agnes-3.0-flash`** | 9/11 上线，免费（$0）；实测同一 prompt 下 **2.1s** 出结果、摘要字数更贴合 40–60 设定、无冗余思考链（2.5 有 500–700 字 reasoning 且摘要偏长） |
+| ③ 兜底 | `gemini-3.1-flash-lite` → **`gemini-3.5-flash-lite`** | 同为 500 RPD，版本更新 |
+
+**换模型前请先跑 `probe-models`（Actions 手动触发）**——它会对每个候选：
+① 验模型名是否存在（404＝名字错，含「3 Flash 要带 `-preview`、3.8 不带」这类差异）；
+② 分别用「带/不带 `temperature`」各发一次（新版模型对采样参数的兼容性可能不同）；
+③ 报告 Key 是否有效（401）。
+本 workflow **只读、不写任何文件**。
+
+> 已核实（2026-09-18）免费额度：Gemini `3.8/3.7/3.6/3.5 Flash` 均 20 RPD，`3.5/3.1 Flash-Lite` 500 RPD，Gemini 3 Pro 免费为 0；配额按 **project** 计（同项目多加 Key 不叠加）。本项目每场 2 次调用 × 2 场 = **4 次/天**，20 RPD 够用。
