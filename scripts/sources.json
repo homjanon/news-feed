@@ -13,7 +13,7 @@
    {
     "name": "agnes",
     "base": "https://apihub.agnes-ai.com/v1",
-    "model": "agnes-2.0-flash",
+    "model": "agnes-2.5-flash",
     "key_env": "AGNES_API_KEY"
    },
    {

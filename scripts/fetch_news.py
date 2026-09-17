@@ -6,7 +6,7 @@
   1. 选条是硬规则：标题去重 + 按 pubDate 倒序取前 N 条，LLM 不参与选条；
   2. LLM 只做「译标题 + 一句话摘要」，分两批独立调用：
      英文组（谷歌）→ 译标题 + 摘要；中文组（联合早报）→ 标题一字不改 + 摘要。
-     每批按 models 链（gemini-3-flash → agnes → gemini-3.1-flash-lite）逐档降级，
+     每批按 models 链（gemini-3-flash → agnes-2.5-flash → gemini-3.1-flash-lite）逐档降级，
      该批全失败才退回 RSS 原文，两批互不影响，绝不空窗；
   3. 源全部配置化（scripts/sources.json），后续新增 RSS 只改配置不改代码；
   4. 抓取失败保留上一场数据（本脚本只写当天文件，不删旧文件，latest.json 由成功场次覆盖）；

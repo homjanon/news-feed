@@ -91,11 +91,15 @@ fetch_news.py --edition <值>
 | 位置 | name | model | Key | Free Tier |
 |---|---|---|---|---|
 | ① | `gemini-3-flash` | `gemini-3-flash-preview` | `GEMINI_API_KEY` | ✅ 免费（1,500 RPD） |
-| ② | `agnes` | `agnes-2.0-flash` | `AGNES_API_KEY` | — |
+| ② | `agnes` | `agnes-2.5-flash` | `AGNES_API_KEY` | ✅ 免费（现价 $0/1M tokens） |
 | ③ | `gemini-3.1-flash-lite` | `gemini-3.1-flash-lite` | `GEMINI_API_KEY` | ✅ 免费（1,000 RPD） |
 
 - Gemini 3 Flash 为主力（质量较高），agnes 为二级，Flash-Lite 兜底；任一组失败自动降级为 RSS 原文（不空窗）。
 - Gemini 3 Flash 与 3.1 Flash-Lite 是**独立配额桶**，叠加日上限 2,500 次。配额按 **project** 计（非按 key）；每场仅 2 次调用，余量充足。
+
+> **模型变更记录（2026-09-17）**：② 层由 `agnes-2.0-flash` **升级为 `agnes-2.5-flash`**。动因：Agnes 官方已将 `agnes-2.0-flash` 标记为「**已废弃**」（官方原文：「已废弃，不再建议用于新的 API 接入」「请勿继续将已废弃的 agnes-2.0-flash 作为兼容回退」），建议迁移至 `agnes-2.5-flash`。
+> 2.5 与 2.0 **接入参数完全兼容**（Base URL / endpoint / 请求头 / messages 格式 / 流式响应全部不变），**迁移只需替换 `sources.json` 里的 `model` 值**。能力规格：上下文 512K、最大输出 65.5K，现价输入/输出均 `$0 / 1M tokens`。
+> 本仓的 `name` 字段（`"agnes"`）是**日志显示与 `translator` 记账用的短标识**，代码中无任何按值精确匹配，故**无需同步修改**（与 portfolio 仓的 `_MODEL_CHAIN` 双处匹配机制不同）。
 
 **⚠️ 后缀差异（2026-09-16 实测确认，勿随意改动）**：
 
@@ -103,6 +107,7 @@ fetch_news.py --edition <值>
 |---|---|---|
 | Gemini 3 Flash | **`gemini-3-flash-preview`**（**必须带后缀**） | 无后缀 `gemini-3-flash` → **404 Not Found** |
 | Gemini 3.1 Flash-Lite | **`gemini-3.1-flash-lite`**（**不带后缀**） | 现网验证可用 |
+| Agnes 2.5 Flash | **`agnes-2.5-flash`**（不带后缀） | 与 2.0 同名格式，仅版本号变更 |
 
 Google 只对部分模型做了别名兼容，**两个模型的后缀规则不同，改名前务必先触发一次验证**。
 
