@@ -1,5 +1,5 @@
 {
- "note": "老张自建新闻源 · 源配置（单一数据源）。新增 RSS 只需在 sources 数组加一个对象，不改代码。字段说明：urls=按顺序兜底的实例列表；take=选取条数；dedupe=标题归一化去重；sort_desc=true 表示 feed 顺序不可信、必须按 pubDate 倒序重排后再取前 take 条（谷歌系必须开）；fresh_check=至少一条为北京昨天/今天，拦旧缓存镜像；title_suffix_source=从『标题 - 来源』后缀拆出来源媒体；default_source=该源条目若无来源则补此固定值；translate=走 LLM（必填 true，否则连摘要都不会有）；editions=限定场次（不填=两场都跑；afternoon=下午茶 15:20 / night=夜豆浆 22:30）。  ★ 2026-10-05 改版：按场次错开内容 —— 下午茶含『中国视野』(联合早报-中港台)，夜豆浆含『国际视野』(联合早报-国际)，财新两场都跑；原『联合早报-中港台』整体块改名『中国视野』。  ★ 实例池顺序（全项目统一）：hub.slarker.me → rsshub.rssforever.com → rsshub.umzzz.com → rsshub.isrss.com → rsshub.ktachibana.party → rsshub-balancer.virworks.moe；仅『财新』（纯境内媒体）额外最先试 rss.injahow.cn。  ★ 模型链：① gemini-3-flash-preview 主力 ② agnes-3.0-flash 备用 ③ gemini-3.5-flash-lite 兜底。LLM 分组规则：按『标题是否含中文』分两组 —— 英文组译标题+摘要、中文组标题原样只产摘要。",
+ "note": "老张自建新闻源 · 源配置（单一数据源）。新增 RSS 只需在 sources 数组加一个对象，不改代码。字段说明：urls=按顺序兜底的实例列表；take=选取条数；dedupe=标题归一化去重；sort_desc=true 表示 feed 顺序不可信、必须按 pubDate 倒序重排后再取前 take 条（谷歌系必须开）；fresh_check=至少一条为北京昨天/今天，拦旧缓存镜像；title_suffix_source=从『标题 - 来源』后缀拆出来源媒体；default_source=该源条目若无来源则补此固定值；translate=走 LLM（必填 true，否则连摘要都不会有）；editions=限定场次（不填=两场都跑；afternoon=下午茶 15:20 / night=夜豆浆 22:30）。  ★ 2026-10-05 改版：按场次错开内容 —— 下午茶含『中国视野』(联合早报-中港台)，夜豆浆含『国际视野』(联合早报-国际)，财经深度两场都跑；原『联合早报-中港台』整体块改名『中国视野』。  ★ 2026-10-05 二次改版：『财经深度』由财新(caixin/latest) 换为 财联社(/cls/depth/1000)。原因：财新 caixin/latest 不分频道会混入文化/体育/时政，且原文付费墙导致跳转不完整；财联社为中文财经媒体、RSS 正文即完整开头（无付费墙）、跳转 cls.cn/detail/xxx 可读原文。实测 /cls/depth/1000 本质是『头条』流（频道名『财联社-头条』），前7条约6/7为纯财经，夹带少量非财经属路由固有限制（已确认接受）。  ★ 实例池顺序（全项目统一）：hub.slarker.me → rsshub.rssforever.com → rsshub.umzzz.com → rsshub.isrss.com → rsshub.ktachibana.party → rsshub-balancer.virworks.moe。  ★ 财联社专用池（2026-10-05 实测）：isrss / ktachibana / virworks 三个实例返回 200 且可解析，故排最前；rss.injahow.cn 实测 503（路由报错）、slarker/umzzz 连接失败、rssforever 503，均降为兜底。  ★ 模型链：① gemini-3-flash-preview 主力 ② agnes-3.0-flash 备用 ③ gemini-3.5-flash-lite 兜底。LLM 分组规则：按『标题是否含中文』分两组 —— 英文组译标题+摘要、中文组标题原样只产摘要。",
  "translate": {
   "summary_min": 40,
   "summary_max": 60,
@@ -81,7 +81,7 @@
    "default_source": "联合早报"
   },
   {
-   "id": "caixin-latest",
+   "id": "cls-depth",
    "block": "财经深度",
    "take": 7,
    "dedupe": true,
@@ -89,15 +89,15 @@
    "fresh_check": true,
    "translate": true,
    "urls": [
-    "https://rss.injahow.cn/caixin/latest",
-    "https://hub.slarker.me/caixin/latest",
-    "https://rsshub.rssforever.com/caixin/latest",
-    "https://rsshub.umzzz.com/caixin/latest",
-    "https://rsshub.isrss.com/caixin/latest",
-    "https://rsshub.ktachibana.party/caixin/latest",
-    "https://rsshub-balancer.virworks.moe/caixin/latest"
+    "https://rsshub.isrss.com/cls/depth/1000",
+    "https://rsshub.ktachibana.party/cls/depth/1000",
+    "https://rsshub-balancer.virworks.moe/cls/depth/1000",
+    "https://rss.injahow.cn/cls/depth/1000",
+    "https://hub.slarker.me/cls/depth/1000",
+    "https://rsshub.rssforever.com/cls/depth/1000",
+    "https://rsshub.umzzz.com/cls/depth/1000"
    ],
-   "default_source": "财新"
+   "default_source": "财联社"
   }
  ]
 }
