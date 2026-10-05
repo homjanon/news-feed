@@ -318,6 +318,12 @@ def main():
     all_items = []
     translator = "none"
     for src in cfg.get("sources", []):
+        # 2026-10-05：支持按场次配源 —— 源的 editions 不填 = 两场都跑；
+        #   填了则只在该场次跑（如联合早报-中港台只在下午茶、国际只在夜豆浆）。
+        eds = src.get("editions")
+        if eds and a.edition not in eds:
+            log(f"[{src['id']}] {src['block']} ⏭️ 本场不跑（仅 {'/'.join(eds)}）")
+            continue
         log(f"[{src['id']}] {src['block']}")
         try:
             items, host = fetch_source(src)

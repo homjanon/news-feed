@@ -1,5 +1,5 @@
 {
- "note": "老张自建新闻源 · 源配置（单一数据源）。新增 RSS 只需在 sources 数组加一个对象，不改代码。字段说明：urls=按顺序兜底的实例列表；take=选取条数；dedupe=标题归一化去重；sort_desc=true 表示 feed 顺序不可信、必须按 pubDate 倒序重排后再取前 take 条（谷歌系必须开，实测 feed 顺序是热度混合排序）；fresh_check=至少一条为北京昨天/今天，拦旧缓存镜像；title_suffix_source=从『标题 - 来源』后缀拆出来源媒体；default_source=该源条目若无来源则补此固定值（联合早报用）；translate=走 LLM 中文化（失败自动保留原文，绝不空窗）。 模型链（2026-09-18 更新）：① gemini-3-flash-preview 主力（免费 20 RPD，够 4 次/天） ② agnes-3.0-flash 备用（免费无限、512K、252 tok/s） ③ gemini-3.5-flash-lite 兜底（免费 500 RPD）。换模型前请先跑 scripts/probe_models.py 验证（Actions → probe-models 手动触发）。",
+ "note": "老张自建新闻源 · 源配置（单一数据源）。新增 RSS 只需在 sources 数组加一个对象，不改代码。字段说明：urls=按顺序兜底的实例列表；take=选取条数；dedupe=标题归一化去重；sort_desc=true 表示 feed 顺序不可信、必须按 pubDate 倒序重排后再取前 take 条（谷歌系必须开）；fresh_check=至少一条为北京昨天/今天，拦旧缓存镜像；title_suffix_source=从『标题 - 来源』后缀拆出来源媒体；default_source=该源条目若无来源则补此固定值；translate=走 LLM（必填 true，否则连摘要都不会有）；editions=限定场次（不填=两场都跑；afternoon=下午茶 15:20 / night=夜豆浆 22:30）。  ★ 2026-10-05 改版：按场次错开内容 —— 下午茶含『中国视野』(联合早报-中港台)，夜豆浆含『国际视野』(联合早报-国际)，财新两场都跑；原『联合早报-中港台』整体块改名『中国视野』。  ★ 实例池顺序（全项目统一）：hub.slarker.me → rsshub.rssforever.com → rsshub.umzzz.com → rsshub.isrss.com → rsshub.ktachibana.party → rsshub-balancer.virworks.moe；仅『财新』（纯境内媒体）额外最先试 rss.injahow.cn。  ★ 模型链：① gemini-3-flash-preview 主力 ② agnes-3.0-flash 备用 ③ gemini-3.5-flash-lite 兜底。LLM 分组规则：按『标题是否含中文』分两组 —— 英文组译标题+摘要、中文组标题原样只产摘要。",
  "translate": {
   "summary_min": 40,
   "summary_max": 60,
@@ -28,7 +28,7 @@
   {
    "id": "google-business-us",
    "block": "谷歌精选",
-   "take": 10,
+   "take": 7,
    "dedupe": true,
    "sort_desc": true,
    "title_suffix_source": true,
@@ -39,22 +39,65 @@
    ]
   },
   {
-   "id": "zaobao-realtime-china",
-   "block": "联合早报",
-   "take": 10,
+   "id": "zaobao-china",
+   "block": "中国视野",
+   "editions": [
+    "afternoon"
+   ],
+   "take": 7,
    "dedupe": true,
    "sort_desc": true,
    "fresh_check": true,
    "translate": true,
    "urls": [
+    "https://hub.slarker.me/zaobao/realtime/china",
+    "https://rsshub.rssforever.com/zaobao/realtime/china",
     "https://rsshub.umzzz.com/zaobao/realtime/china",
     "https://rsshub.isrss.com/zaobao/realtime/china",
-    "https://rsshub-balancer.virworks.moe/zaobao/realtime/china",
     "https://rsshub.ktachibana.party/zaobao/realtime/china",
-    "https://rsshub.rssforever.com/zaobao/realtime/china",
-    "https://rsshub.cups.moe/zaobao/realtime/china"
+    "https://rsshub-balancer.virworks.moe/zaobao/realtime/china"
    ],
    "default_source": "联合早报"
+  },
+  {
+   "id": "zaobao-world",
+   "block": "国际视野",
+   "editions": [
+    "night"
+   ],
+   "take": 7,
+   "dedupe": true,
+   "sort_desc": true,
+   "fresh_check": true,
+   "translate": true,
+   "urls": [
+    "https://hub.slarker.me/zaobao/realtime/world",
+    "https://rsshub.rssforever.com/zaobao/realtime/world",
+    "https://rsshub.umzzz.com/zaobao/realtime/world",
+    "https://rsshub.isrss.com/zaobao/realtime/world",
+    "https://rsshub.ktachibana.party/zaobao/realtime/world",
+    "https://rsshub-balancer.virworks.moe/zaobao/realtime/world"
+   ],
+   "default_source": "联合早报"
+  },
+  {
+   "id": "caixin-latest",
+   "block": "财经深度",
+   "take": 7,
+   "dedupe": true,
+   "sort_desc": true,
+   "fresh_check": true,
+   "translate": true,
+   "urls": [
+    "https://rss.injahow.cn/caixin/latest",
+    "https://hub.slarker.me/caixin/latest",
+    "https://rsshub.rssforever.com/caixin/latest",
+    "https://rsshub.umzzz.com/caixin/latest",
+    "https://rsshub.isrss.com/caixin/latest",
+    "https://rsshub.ktachibana.party/caixin/latest",
+    "https://rsshub-balancer.virworks.moe/caixin/latest"
+   ],
+   "default_source": "财新"
   }
  ]
 }
