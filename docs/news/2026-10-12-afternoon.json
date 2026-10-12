@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "afternoon",
+ "editionName": "下午茶",
+ "date": "2026-10-12",
+ "fetched_at": "2026-10-12 15:21",
+ "translator": "agnes-3.0-flash(7条) + gemini-3-flash(14条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "标普500期货走高，大型银行即将开启财报季",
+   "summary": "标普500期货在盘前交易中上涨。主要银行即将启动财报季，伦纳和联合健康集团领涨，其中联合健康股价大幅飙升约13%。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56cnRXR0YyTHF0YWUtQkZHYlZZb0lBTXVJVjQ5a20zSVZzU2Q0T2ZNNkdJSWQ2QWlxdWpUd21SZFhLeTdMVHhFaWVMRWhTYk1mR2FDMnNsVWhTSlVyQ3J0QVVlSWQ0Q0pWY0xEY0JpUVoyMDBQWUdr?oc=5",
+   "pubTime": "15:04",
+   "pubTs": "2026-10-12T15:04:47+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "雪铁龙2CV回归，变身超低价城市电动车",
+   "summary": "雪铁龙宣布复活经典车型2CV，将其改造为适应电动时代的超低价城市汽车。这一举措被视为斯泰兰蒂斯在巴黎车展上押注小型平价电动车、以期在欧洲市场实现复苏的关键布局。",
+   "source": "Motor1.com",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wTDhkQ2JPMWlCSVVTcGZRTUdmTUJ2ZDFWVF9nZEZlbVY5cVRrMjBOcjJSblRBTFIwenNCTHdiVi1ZZGdOY29ySW5OeDRXZzdnaV9sdHp6RWZNS0VrR0tTYUZiQ0YtUk1fVU5pWVFncE5jYUYyRzdKN3pFYTU4VFU?oc=5",
+   "pubTime": "13:01",
+   "pubTs": "2026-10-12T13:01:30+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "特朗普中期选举前压低油价的努力效果不佳",
+   "summary": "特朗普试图在中期选举前降低油价的行动效果不佳。十年来首次，10年期国债收益率与柴油价格的相关性超过原油，他与普京达成的燃油协议可能力有不逮、为时已晚。",
+   "source": "Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZVRCRVlPdXByalpjMUVheHY0MVVvRTVWVEFuWUc1UkVrZEdRLV9PcVZKMTV0SWdMeHI4QnJkX05jQjJKaC1XV2lvSVF4Y2t4cjZuWS1sTk4xRUYyREJGZVV5ZFZCaWlTVy0yTi03MmhHd1RzUVowYVpEVkxidGozZk8tVV9RMUJEczRqNlpuZzNCNGNfNGpmUTZrMmdYWFZZSmNvRzNR?oc=5",
+   "pubTime": "12:22",
+   "pubTs": "2026-10-12T12:22:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "新型抵押贷款助力久被忽视社区复兴",
+   "summary": "一种新型抵押贷款产品正在发挥作用，为那些长期被忽视甚至荒废的社区注入活力。这种金融创新手段正逐步改变这些地区的房地产状况，带动社区的复兴与更新。",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VS2JtS2VvbkRXa1ZKdENMeWU2YVJ0dVJMNWM3RllSdmRIZG00aHdqS2RYZk1kamhzYXF6YVJJWjh3dG9YTFZUd3VjbVpBbGd5c3lwZWpRVVhuOGJ2UC1iUWtJc3NpSmtncGVoSHc2c2s?oc=5",
+   "pubTime": "09:00",
+   "pubTs": "2026-10-12T09:00:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "中国黄金进口量创纪录，金价面临影响",
+   "summary": "中国黄金进口量创下纪录。央行在9月增持21吨黄金，为三年来单月最大买入量。全球央行延续夏季购金热潮，这一强劲需求对黄金价格走势产生重要影响。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QcHRBWVhFbGkxSy1BdGNNaGktNUZMaEx2TFB1Sm54RkJZbWhxYkJhTl9BeEJ1RC1RaDRMYlN2X25BdGZNN3F2QjlmYmFPR0VjaFlsUXJScnVpcU5VaVZQZmFfMjZ6QVJlamJ4NW41cWYwanJmeG9nMQ?oc=5",
+   "pubTime": "08:51",
+   "pubTs": "2026-10-12T08:51:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "财报季临近，亚洲股市波动，油价回落",
+   "summary": "随着财报季临近，亚洲股市走势震荡，油价小幅回落。继华尔街上涨后，亚洲市场表现分化。未来一周将迎来密集的财报发布期，市场波动性可能加剧。",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4VndfYlhKMjFvd01KYndaSHVGZ3dlckMtTUtucy1jQjk0aE9JcHRpdEFuSE1SZGFWZzV1TW1MVFFabU9oNEhfajl6MVVIbzFVVF85VUZaWTFMRmx1WDFPRHItbWhuVWpoUzRxcXBPc0V4Tmo1UUU3QjRfbw?oc=5",
+   "pubTime": "08:42",
+   "pubTs": "2026-10-12T08:42:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "亚马逊婴幼儿浴盆因溺水隐患被召回",
+   "summary": "亚马逊销售的某品牌婴幼儿浴盆因存在严重的溺水风险及致伤隐患，发布自愿召回通知。家长需立即检查家中同款产品，以确保宝宝洗浴安全，防止意外发生。",
+   "source": "Fox Business",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVlJlOUNrMUZ1RnBvcFg4LUpiNnFpRl96WFdGeFdOb25FMFhQTXI5M0lCXzVYMHR4eHNvbkNSU1ZHOUVHWUc5cFNmdTAzSzEtb3Z5N1RiaUVHRjZQS09XYl8xVXJzMGc2NmdDcjNOZG9hdUFZelFvT2ZsUnQ0NkZVZmk2QWg5aHFWX2xYZk5SZUJfV3VqVFVBZklOcUxFMDc2WlHSAacBQVVfeXFMTm15RGFtNG5lQVZfN3piMldTRmdMSTNWZERmZjBjZ3JuX0JsbGVmVGthcmtxQ1lIVnFwdEstZG5RbjlYMFdVOHNleDB6QlhZci0xQkJmZzRmT291RjZHS1ZzbjJnSFU2T0dFYU5yMG5FaHlqUWJKSFlsQ3FSZTVSSGoyTmozamVHTWJOb0ZOVFFMUTFKdkNnTktKMlFMcUVKdng3d2ItTEE?oc=5",
+   "pubTime": "08:00",
+   "pubTs": "2026-10-12T08:00:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "贵州茅台重新成为A股市值最高股票",
+   "summary": "10月12日，贵州茅台股价上涨1.83%，超越当日大跌的联讯仪器，重夺A股市值最高企业宝座。近期中国股市出现资金风格切换，半导体、芯片等科技股遭到抛售，而白酒、煤炭及银行等板块表现相对强势。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261012-9823128",
+   "pubTime": "15:09",
+   "pubTs": "2026-10-12T15:09:07+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "被指黑公关频陷争议 中国大V理记宣称将全面退网",
+   "summary": "拥有逾500万粉丝的争议大V“理记”宣布，将在20至40天内退出包括微博在内的全部自媒体平台。他自称厌倦了网络争斗与负面环境，强调退网是其主动选择，并否认了被封号或受人逼迫的传闻。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261012-9822961",
+   "pubTime": "14:47",
+   "pubTs": "2026-10-12T14:47:12+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "广东岸外渔船起火遭严重烧毁 八船员全获救无伤亡",
+   "summary": "10月9日晚，广东汕尾马宫港附近海域一艘渔船突发大火，船体几乎被吞噬并严重烧毁。尽管事发时风浪较大且救援环境复杂，但在海警局远程协调下，被困的八名船员最终被附近渔船安全救出，未造成人员伤亡。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261012-9822889",
+   "pubTime": "14:34",
+   "pubTs": "2026-10-12T14:34:56+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "中国据报向欧洲输出混动车从去年30.2万辆增至35万辆",
+   "summary": "欧盟计划将中国混动汽车年进口量限制在35万辆。中国商务部对此回应称，中欧双方正本着平等协商原则，就混动及电动汽车贸易进行密集磋商，旨在平衡处理经贸分歧，维护稳定、平衡的双边关键贸易伙伴关系。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261012-9822749",
+   "pubTime": "14:13",
+   "pubTs": "2026-10-12T14:13:36+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "中国汽车国内销量连续12个月同比下降 9月跌幅最大",
+   "summary": "9月中国乘用车零售量同比下降28%，创今年以来最大跌幅，且已连续12个月下滑。乘联分会指出，中秋假期变动、去年同期高基数以及高油价对燃油车消费的抑制，是导致当月车市“旺季不旺”的主要原因。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261012-9822685",
+   "pubTime": "13:59",
+   "pubTs": "2026-10-12T13:59:48+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "厦金大桥厦门段有望今年底通车",
+   "summary": "厦金大桥厦门段关键工程观音山沙滩桥顺利完成钢箱梁整体横移施工，为后续工程创造了有利条件。该项目全长约17.34公里，厦门段有望于今年底通车，并为2026年底实现海上主线桥通车奠定了坚实基础。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261012-9822320",
+   "pubTime": "13:31",
+   "pubTs": "2026-10-12T13:31:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "港媒：莫言反思越战言论因蔡康永风波被牵出 遭批“反动文人”",
+   "summary": "受艺人蔡康永政治风波牵连，诺贝尔文学奖得主莫言多年前在节目中反思中越战争的言论被网民翻出。相关反战观点在社交媒体引发激烈争议，莫言因此遭到部分网民围攻，并被指责为“反动文人”。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261012-9822096",
+   "pubTime": "13:01",
+   "pubTs": "2026-10-12T13:01:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "贵州茅台，重登A股“股王”",
+   "summary": "10月12日，贵州茅台股价震荡走高，成功反超近期持续回调的联讯仪器，重回A股“股王”宝座。与此同时，源杰科技等高价科技股近期跌幅显著，反映出市场资金正从高位科技股向白酒等传统权重板块切换。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2501996",
+   "pubTime": "14:55",
+   "pubTs": "2026-10-12T14:55:48+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "独家|多地中小银行近期收提示：压降债券久期 控制金融投资增速",
+   "summary": "多地中小银行近期收到监管提示，要求金融投资增速不得高于贷款增速，且新增债券久期需控制在存量久期之内。此举旨在引导地方银行加大对实体经济的信贷投放，并预防金融机构在四季度集中入场买债。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2502077",
+   "pubTime": "14:30",
+   "pubTs": "2026-10-12T14:30:48+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "奇瑞汽车致歉",
+   "summary": "奇瑞汽车就马来西亚OMODA 5车辆后桥焊接缺陷问题公开致歉，并宣布召回受影响的8878辆汽车。公司目前已启动国内及相关市场同批次车型的风险专项排查，以消除极端情况下可能存在的焊缝撕裂安全隐患。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2502068",
+   "pubTime": "14:19",
+   "pubTs": "2026-10-12T14:19:39+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "美股科技股Q3财报日历出炉：人工智能能否继续给出惊喜？",
+   "summary": "美股三季度财报季拉开帷幕，人工智能仍是市场关注核心。尽管科技板块预计将贡献主要盈利增长，但投资者已不再满足于AI叙事，转而要求企业提供稳定的利润增长证据，否则相关股价将面临较大的下行压力。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2502033",
+   "pubTime": "14:03",
+   "pubTs": "2026-10-12T14:03:38+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "港交所Q3盈利或面临近两年首降 机构称主要受交投回落拖累",
+   "summary": "高盛预测，受海外高利率及人工智能行情降温影响，香港交易所第三季度每股盈利或同比下滑3%，面临两年来首次单季盈利下降。数据显示，当季港股平均每日成交额及南向港股通成交额均出现明显回落。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2502037",
+   "pubTime": "13:54",
+   "pubTs": "2026-10-12T13:54:19+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "资管周报：公募基金运作办法时隔12年迎来修订；最高年化收益率 61.31%！年内私行专属理财大爆发",
+   "summary": "公募基金运作管理办法时隔12年迎来系统性修订，通过降低权益基金成立门槛、支持逆周期布局等举措，强化管理人与投资者利益绑定。此外，年内私行专属理财产品表现亮眼，部分产品最高年化收益率超60%。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2501927",
+   "pubTime": "13:19",
+   "pubTs": "2026-10-12T13:19:42+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "苏州信托被罚100万元，涉内部人员违规汇集他人资金购买信托产品",
+   "summary": "苏州信托因内部人员违规汇集他人资金购买信托产品、信托业务管理不审慎等违法违规行为，被苏州金融监管分局处以100万元罚款。同时，两名相关责任人被予以警告，并累计被处以14万元罚款。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2502006",
+   "pubTime": "13:19",
+   "pubTs": "2026-10-12T13:19:29+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
