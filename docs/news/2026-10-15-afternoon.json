@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "afternoon",
+ "editionName": "下午茶",
+ "date": "2026-10-15",
+ "fetched_at": "2026-10-15 15:21",
+ "translator": "gemini-3-flash(21条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "台积电利润连续六个季度创纪录，AI热潮推动业绩超预期",
+   "summary": "受人工智能订单激增推动，台积电连续第六个季度创下利润纪录，业绩表现超出市场预期。公司同时上调了第四季度的营收预测，显示出AI需求对半导体行业的强劲拉动作用。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Ma2pzMWkya2t5N2Jvbk96dlBYZWtzMlpnSlpDdWFpbldxVEdFcjFkdWV6TGxpa09HU3dXSGNWVU5uZF9xdWJNZmlKTWNKQjNCeEFDQVE5aVI5V0VaWFIwS194VHp1N1pUZHVSNW8ySjJCT1R3OHNjQXJEemUtUdIBgwFBVV95cUxPeVg2MXNaS1g3NzQxQXV5WjFWazhxdXlTYm1IQWtVSUhLUDdDaG1xemFrdUZ6bF9LazJwSThpcGwwbEROWEVhZEkyZ0lGY1dabkJhRjVzSTd2XzB3Q05JQVFQSjdOWF9rUEtWa2s2MG1ueVdFMTdwVHpJVjJyenJDT3d2MA?oc=5",
+   "pubTime": "13:37",
+   "pubTs": "2026-10-15T13:37:31+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "Anthropic上市前营收激增，第三季度收入达168亿美元",
+   "summary": "人工智能初创公司Anthropic在首次公开募股前向投资者披露，其第三季度营收已飙升至168亿美元。这一显著的业绩增长凸显了AI领域的吸金能力，但也引发了市场对行业估值的讨论。",
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTUHRCTEVSeENpRVNzbEZTb1IyNEw4aHpsTFFWTnFBY3RxNngzVFRJZEhNelQ1NnZJcG9QanVId2FPX3Znem55WEJ6N0hJNVJlZFpEVFBkYW0xYmM?oc=5",
+   "pubTime": "12:19",
+   "pubTs": "2026-10-15T12:19:17+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "OpenAI工程师涉嫌植入窃听器并为沙特提供咨询，已潜逃出境",
+   "summary": "一名被指控在办公室内植入窃听器的OpenAI工程师被曝曾为沙特阿拉伯提供咨询服务。该员工在事发后购买了前往沙特的单程机票，目前AI公司正面临日益严峻的商业间谍和技术泄密威胁。",
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeDNlZmdxUUtpdjRlWUlycEJKMFdvYk4xUkxiLTNnT2xrLTZPdkRkUU44aVBfU3NleVcxc2tMRTBvd2tQU01MRWJwSnhKelJ4d3ltc0JoUnhza3FqbjhVcndVaGY5ajhfOXhyVXl5dHZmZkY2dUNLek1pdHRuTVRnWVd3Z3ZjSjNpcGtkRUFHemZTWjhScTVGZjhUdmFKUQ?oc=5",
+   "pubTime": "10:26",
+   "pubTs": "2026-10-15T10:26:38+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美国银行因反洗钱监管不力被罚12亿美元，三季度利润下滑",
+   "summary": "美国银行因反洗钱监管存在漏洞被监管机构罚款12亿美元。受此处罚及交易收入下降影响，该行第三季度利润同比下滑17%，营收表现未达预期，导致其股价在财报公布后出现下跌。",
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWlJWZy1rVmtlUnF0TkUwd3VBUWtETTQ1MllYdmQxMUZqdkszNE84TTY1Zm5sU3pkYzFyZXFxeTJ0T2FCWkEyVTcwZXFwN0MyZXRFT1Z3VmNMNEFDczQteVItaWxZeDdEUEtBRE1MaXdHWGI5cklUbDM2elp2ZENjVndhTDV6aU9udm5xRk9Ldw?oc=5",
+   "pubTime": "09:54",
+   "pubTs": "2026-10-15T09:54:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "韩国股市暴跌8%，投资者因AI风险敞口抛售导致芯片股重挫",
+   "summary": "随着全球芯片股抛售潮加剧，韩国股市大跌8%，投资者纷纷削减人工智能相关的风险敞口。受美国通胀数据超预期及市场情绪转向影响，以三星和SK海力士为首的科技股面临沉重压力。",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS1ZmX19fclBFd1I3bEdCWVk5NEpfRmJGWE1VbjhDRThlVUFFeFBqYzYzTXpTR2wzeHNUcWtNN1VFV2ltaC1WNnc1S1ZsOFMxalVER01yS0otb2VjbTQ1cHJjZERsa05rMHNabDVyenp5MUlLNmpZQzdERzVzbElnTlgtQ0ljV1hsOGJNTEMwNEFPUmMtSXdjUzE3b0REWmR0ZDNfQzh0RU5UalY1dWg3b1pwVQ?oc=5",
+   "pubTime": "08:08",
+   "pubTs": "2026-10-15T08:08:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "纳指受通胀数据影响大幅收跌，加息担忧再度笼罩市场",
+   "summary": "由于上月美国通胀率升至3.7%，超出市场预期，引发了投资者对美联储可能再次加息的担忧。纳斯达克指数受此影响大幅收跌，标普500指数期货及亚洲主要股市也随之出现不同程度的下滑。",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDkzb0Zhb0ExSzhlSnR6c25HbzdpY2g1djVFZ1R4eVktaWtCZ2gya1lEdHpzcHlEM1VITE1Pdlc1MmlDclhQQmxOWC13NXdXZjhPOEYtUnc3bm80eThIZ0lEam8tN0hXV3kxNnhob3g5OHFxNHd5VzJsTks4SzlJR0JRVE5LZ2JMbXhYNFhvOC1yTUJ5bWFEN0JWTFdpaFkxN2c?oc=5",
+   "pubTime": "07:33",
+   "pubTs": "2026-10-15T07:33:39+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "达美航空升级Delta One商务舱，提供和牛汉堡及保时捷接送",
+   "summary": "达美航空对其Delta One商务舱进行了全面豪华升级，新增了和牛汉堡、高端葡萄酒等餐饮选择，并提供保时捷机场接送服务。此次翻新还包括全新的座椅设计，旨在进一步提升高端旅客的飞行体验。",
+   "source": "Fox Business",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcEpLbm9jRWxEcGNrcFhxeWEzcjFnOWF3aHowemkzYVJTazZoWEYtc2FNUlQtTng2cElSS3dHd3hyYS1yUU14cjk4QVVJNzVPUWNGb296SzNIRmdfNjFucS1JdFkzTkRWT0Y2MHl6bHMzc053OWtrWnMtSksxbzkzQjI4SzkzV1EwN1M5YS1SVU5yNHZzMTFPemhyTjJjZ2wxQzNzOWNnSzBWclVDdWhEZnhDTTRGUdIBuwFBVV95cUxOTFJ6MS1SX210TFZ4R0YtV0pKS2lrQnVoYi1RRDNrdUZxd1cwUDRhcEViRFByMEZ0a0NNTUpyMkFEVFJXSzIwUlNtX2pWYzJxYml5OXFrcWxiMG10WUwtemtQd3NUbWwwSTRFZDJIRnBCVmpsUGN4TmhUVHhzNHFrMnN0Q2dCSUdFTzZXSjNSa1o2Q3UyTzdIM1NiOVh4SUhFNzd0V0pjUkc0cXhzU0cwMTNscGhUX2t4TU1N?oc=5",
+   "pubTime": "07:19",
+   "pubTs": "2026-10-15T07:19:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "百度无人驾驶汽车下周香港开放首次公众试乘",
+   "summary": "百度旗下无人驾驶汽车“萝卜快跑”将于10月21日起在香港东涌举办为期两周的公众免费试乘活动，预计邀请逾千人参与。目前车辆仍处于测试阶段，限速50公里并配备后备操作员，旨在通过收集反馈为技术优化提供参考。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261015-9841459",
+   "pubTime": "15:16",
+   "pubTs": "2026-10-15T15:16:03+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "李强将在下周访问俄罗斯",
+   "summary": "中国外交部于10月15日宣布，国务院总理李强将于下周对俄罗斯进行正式访问。此次出访旨在进一步加强中俄双边关系，深化两国在各领域的务实合作，是近期中俄高层交往的重要组成部分。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261015-9841457",
+   "pubTime": "15:15",
+   "pubTs": "2026-10-15T15:15:52+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "深圳APEC会议期间 倡企业灵活安排员工上班",
+   "summary": "为保障下月在深圳举行的APEC领导人会议期间交通顺畅与城市运行，当地官方倡导企业在11月16日至20日期间实行灵活工作安排，包括居家办公、错峰上下班及休带薪年假等方式，以缓解城市交通压力。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261015-9841401",
+   "pubTime": "15:09",
+   "pubTs": "2026-10-15T15:09:45+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "DeepSeek服务一度中断近5小时",
+   "summary": "中国人工智能平台DeepSeek于10月15日遭遇服务异常，网页及API接口部分中断近5小时。故障始于早间8时许，经排查修复后于13时04分恢复正常，受影响范围涵盖普通用户对话功能及开发者接口。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261015-9841383",
+   "pubTime": "15:08",
+   "pubTs": "2026-10-15T15:08:04+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "港媒：黄奇帆深圳机场被带走 传家人涉案",
+   "summary": "重庆市原市长黄奇帆因涉嫌严重违纪违法被查。港媒报道称，其于10月10日在深圳机场被带走，其子亦涉案受查。重庆市政府随后召开会议，表态坚决拥护中央决定，并强调要严管身边人及净化社交圈。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261015-9841359",
+   "pubTime": "15:06",
+   "pubTs": "2026-10-15T15:06:08+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "深圳宣布有序推进现房销售",
+   "summary": "深圳市住建局等部门发布意见，宣布将有序推进商品住房现房销售。自8月28日后新公告出让的土地项目将优先选择现房销售模式，并明确了开发企业在取得主体结构施工许可后可收取不超过总价3%的定金。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261015-9841220",
+   "pubTime": "14:53",
+   "pubTs": "2026-10-15T14:53:22+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "欧盟峰会聚焦中国出口激增等问题",
+   "summary": "欧盟领导人在布鲁塞尔峰会上重点商讨应对中国商品出口激增及贸易逆差扩大等挑战。欧盟计划在运用现有贸易防御措施的同时，开发新政策工具，并要求委员会继续与中方对话，下一轮会谈定于明年3月举行。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261015-9841141",
+   "pubTime": "14:37",
+   "pubTs": "2026-10-15T14:37:55+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "港股评级汇总：中信证券国际维持金蝶国际买入评级",
+   "summary": "港股最新评级显示，中信证券国际因金蝶国际订阅服务增长强劲及AI产品创收，维持其“买入”评级；国元国际证券则因首钢资源上半年盈利大幅增长且派息丰厚，维持其“买入”评级并上调目标价至3.5港元。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2505626",
+   "pubTime": "15:08",
+   "pubTs": "2026-10-15T15:08:19+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "债市与AIC投资成关键变量，上市银行三季报营收利润增速有望回升",
+   "summary": "随着上市银行三季报披露临近，业内预计在债市表现及AIC投资等非息收入带动下，银行前三季度营收与利润增速有望边际回升。尽管息差企稳，但信贷需求平淡及资产质量压力仍是银行业绩修复面临的挑战。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2505606",
+   "pubTime": "15:03",
+   "pubTs": "2026-10-15T15:03:18+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "沪深300ETF易方达成交超150亿元 创近9个月新高",
+   "summary": "10月15日，沪深300ETF易方达（510310）全天成交额突破150亿元人民币，创下近9个月以来的新高。其中尾盘半小时成交异常活跃，贡献了超过120亿元的成交量，显示出资金在盘末阶段的大规模流入。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2505608",
+   "pubTime": "14:54",
+   "pubTs": "2026-10-15T14:54:23+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "亚洲AI资产重挫调整 调查显示投资人预期过高存风险落差",
+   "summary": "受美联储加息预期及成本走高等利空影响，亚洲AI相关资产近期大幅回调，SK海力士等巨头跌幅约10%。调查显示，在经历两年牛市后，亚洲投资者的收益预期与风险承受能力出现明显落差，市场情绪趋于脆弱。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2505597",
+   "pubTime": "14:49",
+   "pubTs": "2026-10-15T14:49:30+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "特朗普考虑介入对胡塞打击，胡塞威胁把在中东美国人纳入攻击目标",
+   "summary": "特朗普表示鉴于胡塞武装威胁全球能源供应，正考虑介入打击行动。胡塞武装随即发出威胁，称若遭打击将攻击全中东的美国人员与利益。目前胡塞已对沙特首都发动新一轮袭击，地区局势面临进一步升级风险。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2505549",
+   "pubTime": "14:49",
+   "pubTs": "2026-10-15T14:49:01+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "本月第二次！AI领域上演“砸塌美债收益率”式大跌",
+   "summary": "过去一周内，AI领域接连引发市场震荡，打破了“通胀超预期导致债息上涨”的传统逻辑。当AI板块遭遇实质性冲击大跌时，避险情绪或特定交易逻辑导致美债收益率不升反降，呈现出罕见的“股债双杀”逆向联动。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2505522",
+   "pubTime": "14:33",
+   "pubTs": "2026-10-15T14:33:55+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "腾讯Q3财报前瞻：主业基本盘依然稳健 AI重投入铺路中长期红利",
+   "summary": "腾讯将于11月18日披露三季报。机构预测其主营业务稳健，营收增速约7%至9%。尽管AI研发投入增加导致短期利润端温和调整，但高质量增长逻辑并未动摇，瑞银等机构均维持对腾讯的“买入”评级。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2505509",
+   "pubTime": "13:48",
+   "pubTs": "2026-10-15T13:48:01+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
