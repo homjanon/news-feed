@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "afternoon",
+ "editionName": "下午茶",
+ "date": "2026-10-16",
+ "fetched_at": "2026-10-16 15:21",
+ "translator": "gemini-3-flash(21条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "纳斯达克指数期货走低，AI支出与美联储利率担忧施压",
+   "summary": "纳斯达克指数期货小幅下跌，主要受AI领域支出过高及美联储利率前景担忧影响。英伟达、AMD和戴尔等科技巨头在这一轮全球抛售潮中纷纷下挫，市场开始对AI投资回报产生质疑，半导体行业面临潜在崩盘风险。",
+   "source": "Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ0ZOeFhSUTFRYmo1VjU2Ym5WV0xqQU5hNjI5WkhJRHE4ZjRiX3hqZ0tyV0tQMm41dHhLa2pZS3VUTUNnVldSZTNKcGU5cU1xT1VOZE1hd2IyZndFWktuMERIQ056SnljSDRNX1hlUDBQR3d6UndoSFpOcHpDbTluWXpsVEVlbUZoaTM5UFNpZUEzM3BpX2FtMUR6R1JWVTJsQ180eTBrTHFYc1RmQzBLUG1mbHVXSDlYM2VycDhB?oc=5",
+   "pubTime": "15:04",
+   "pubTs": "2026-10-16T15:04:52+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美联储沃什未释放利率信号，称赞全球紧缩政策无“搭便车者”",
+   "summary": "美联储官员沃什在最新表态中未就未来利率走势给出明确信号。他赞扬了近期全球范围内的货币紧缩政策，并强调在应对通胀的过程中不应存在“搭便车”现象，呼吁各国央行共同承担责任以维持金融稳定。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbGxzSlg5TFdlNlE5TkVoRWVLNFVqbXJuamxaRHRfd0tZbnp0aDRXREgtMHg0aDFVWC16V1BuRXJHODltRlJfWHpaRkFPV0ZMZy14OU5JVGNRaXZ3clJfYUdZdDVnaE5wblItNmRWbUotWFpORWMxNk5Kd1h6NlY2VHNRSTdsSkhaYUhIVURTcFJ6Uk5sdExn0gGcAUFVX3lxTE5fZ0p3aTI2eFQyanZ4TmtGV2hkM29JS21sTlBXZkRfdGZjbFE5aGRJcVVBOXI5d2FlRURrMDFZbVEzY19rRFQ4alJwR0JXbk1fN1dSanpLRG00WGRIWnZZUnpCR19WRnMtUmpkNUZJb1VVRFF1QzRFM3p6ZGcwUWlKaUE1elFxRWlNNl9TTEZWZkR6UWlqa0xxdlNOYg?oc=5",
+   "pubTime": "12:08",
+   "pubTs": "2026-10-16T12:08:27+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "中国富豪急于退出离岸信托，税务稽查压力下套现离场",
+   "summary": "随着中国税务部门加大稽查力度，国内超级富豪正加速退出离岸信托并套现。此次税务严打不仅导致富人抛售股票，还对奢侈品消费产生冲击，LVMH等品牌面临压力。纳税人正面临更严格的合规要求和补税压力。",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOHZKVXFtWXVoS3pva1hPOW80M3lVOE9qemFVMTBEMTU2WkVWTGRkZTVEcTZLZDFNSGRRRGh3V1FJVm5WUVdDMXRnSTRCaWNYYTUwVTZjaW5pNE5Vb01DREFiVmpnZF9vNVZFMnBfUkNFcDhQX0FFbFdBRWJ6M3RfdVU5UHZwVC1MNVRMNmhOM2VUTGRMQUlLejNTU3lzcUt3TzNvMzJUemo2UGpsVFp0WXA4a2phWGxjMEdNMWw3WVZ2QlhJNWpZ?oc=5",
+   "pubTime": "12:06",
+   "pubTs": "2026-10-16T12:06:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "亚洲股市随芯片股反弹，印尼股市暴跌11%跌势加剧",
+   "summary": "随着芯片制造商股价回升，亚洲股市普遍反弹，市场在经历CoreWeave冲击后趋于平静。然而，印尼股市因面临市场评级下调风险而暴跌11%，跌势进一步加剧。韩国综合指数领涨，投资者目前正密切关注美联储官员的表态。",
+   "source": "Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWlhReFJSYk1VOGtVUkVPRm04a0d1YTVGOHhWQzZnT1hIUnlEOUFETEdYWXhDTFEzdVdXMFl4Q2diUnZwU01ucXdpSTRqa1hlYWpKZ2QyOW00SmJqVDlucHBhQkRJV2R3ZmFNVWktZlJXZEZhbV9ySE96czFnVzhuYUtOT2ZoNXZZS1M5cEtBa2xZYW10NEVLRGFNWG0yR0JwRjhTNlB0U0h6M0VubUpsMzM1V0pXV1JrdWE3ZjAzNDdRUU9EbFE?oc=5",
+   "pubTime": "11:57",
+   "pubTs": "2026-10-16T11:57:49+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "特斯拉飞行汽车？新款Roadster百公里加速不足一秒",
+   "summary": "特斯拉发布了备受瞩目的新款Roadster，宣称其具备“飞行”能力，能在不到一秒的时间内加速至60英里/小时。尽管这一消息引发了社交媒体的热议和模因传播，但外界对其真实性能和飞行概念仍持有一定的怀疑态度。",
+   "source": "WIRED",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkYmZoSHM1Q200YTZ3TUo2RWtsX0p1NXlHMmxlRHp2a1FQenlnV3c3R2d3aEFSdXp4VWU1MF85Z3N1a0RiVUcxc09raWlnR0owbVVMUElhaE5LbjVOTkE?oc=5",
+   "pubTime": "11:18",
+   "pubTs": "2026-10-16T11:18:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "柴油价格飙升冲击俄克拉荷马州牧场主及当地企业",
+   "summary": "柴油价格的持续上涨正对美国俄克拉荷马州的牧场主造成沉重打击，并导致当地企业的运营成本翻倍。能源成本的激增已开始传导至其他商品价格，田纳西州的伐木工人等依赖重型机械的行业也深受其害，面临严峻经营挑战。",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRThicEVCT1lkQ1BTVi03MEZ2aGlIYXlNakFIc1BkRVhJS1lKXzVUU0w0Ykkyc0xrT1dVekVGbVNuNV9GUVdocklKbUcwUk9jUW5yNF9xVTg0RVp0RzdSNHlsRVJpUFJlOERsa3Q0Tm5qc3hqcUM4MFVnUEJhMkdtOFA3NVVLTy0tYmNmVWQzSzZuUWVwZGdtOXo5RFI1SnPSAaQBQVVfeXFMT1RlaHo2NnZ5VVNwNDB4bzVvcnU0QTQxNnY3TDhIcDlqa3RZMWlNcW8yclBGZDZaTVM2cFh6dU14TGFVMVpTSnpickRLQTk1UzA1UHNySDZqRkxPWmlyeDNfT1RuSTJBZFZvWk5vOHMzNE9vdmFCYjAtZ05QekdYb0VwRnp2d05RQjFjWEd6NTFTbnpnX1lRODFhRVVDNkIzbkFuX2o?oc=5",
+   "pubTime": "10:03",
+   "pubTs": "2026-10-16T10:03:29+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美国西南航空宣布常旅客计划重大变革，新增精英等级",
+   "summary": "美国西南航空宣布对其“Rapid Rewards”常旅客计划进行重大调整，包括引入新的精英会员等级和全面改革奖励机制。此外，公司还首次展示了全新的机场贵宾休息室，旨在通过提升服务质量和忠诚度计划的吸引力来增强市场竞争力。",
+   "source": "The Points Guy",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5aNXFhaFgxSVd6ZUpCUFZGNnhvQWx6dXFxQ1FWQ3FoM2dWTG1pQktTOVN1b09LcWdody1PUy1VVnVWTDZ5bVgxVWlSTGZ3Y0RDeVUtQkFlLTRhTmVBWk9udlVqelZFT2kxTUc5QVp3WC1rNWJYQWhHdUpqRlg?oc=5",
+   "pubTime": "08:15",
+   "pubTs": "2026-10-16T08:15:35+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "中国国安部长会见当代台海谍战剧《交锋》主创",
+   "summary": "中国国家安全部部长陈一新会见谍战剧《交锋》主创团队，对该剧成绩表示祝贺。国安部表示将持续支持此类题材创作，并称该剧是基于当前国家安全形势的战略性考量，旨在通过影视作品进一步积累国安题材的创作经验。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261016-9847692",
+   "pubTime": "15:07",
+   "pubTs": "2026-10-16T15:07:26+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "中国超级富豪据报终止离岸信托、筹资应对追税",
+   "summary": "随着境外收入申报期限临近，中国税务机关正加强收集富豪资料并追缴税款。受离岸信托收益须缴纳20%税款等规定影响，部分超级富豪正通过终止信托、出售股票或更换国籍等方式筹集资金，以应对10月22日的申报截止日期。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261016-9847672",
+   "pubTime": "15:05",
+   "pubTs": "2026-10-16T15:05:25+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "上海深化数据出境负面清单管理 便利数据跨境流动",
+   "summary": "上海市发布促进数据跨境流动便利化的若干举措，提出深化数据出境负面清单管理模式，并拓展适用行业。文件强调统筹国家安全要求与地方便利化措施，通过健全跨部门协同机制，指导企业合法依规、高效开展数据跨境活动。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261016-9847610",
+   "pubTime": "14:56",
+   "pubTs": "2026-10-16T14:56:56+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "四川雷波教师与“耻辱”合影事件 县长等领导被调离",
+   "summary": "四川凉山雷波县通报“教师与耻辱合影”事件调查结果。因在教育行政会上安排成绩较低的教师与“耻辱”背景合影，严重伤害教师尊严，涉事的雷波县县长及教育体育局长已被调离岗位。官方承认该做法系片面理解“知耻而后勇”的错误行为。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261016-9847399",
+   "pubTime": "14:34",
+   "pubTs": "2026-10-16T14:34:54+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "多只宽基ETF昨午后放量 中国“国家队”疑出手托市",
+   "summary": "A股多只宽基ETF于10月15日午后大幅放量，其中易方达沪深300ETF录得188亿元资金净流入。业内分析认为，在全球科技股走弱波及A股之际，“国家队”资金疑似入市托底，释放出官方致力于稳定市场运行的积极信号。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261016-9847278",
+   "pubTime": "14:17",
+   "pubTs": "2026-10-16T14:17:45+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "丁祖耀成为中国大陆最年轻主教",
+   "summary": "天主教神父丁祖耀在江苏南通获祝圣为海门教区主教，成为中国大陆最年轻的主教。其候选人资格在圣座与中国临时协议框架下获得批准，并由教宗任命。此次祝圣典礼由中国天主教主教团主席沈斌主教主礼。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261016-9847266",
+   "pubTime": "14:17",
+   "pubTs": "2026-10-16T14:17:18+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "韩星户外广告亮相中国大城市 是否传递限韩令松绑信号？",
+   "summary": "韩国艺人权志龙（G-DRAGON）的大型户外广告近期亮相北京、上海等中国主要城市，引发外界对“限韩令”是否松绑的关注。此次活动系麦当劳中国与权志龙潮流品牌开展的跨界联动，涉及全国8000多家餐厅及限定周边产品。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261016-9847220",
+   "pubTime": "14:01",
+   "pubTs": "2026-10-16T14:01:29+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "避险逻辑已占上风？金价硬顶加息预期反弹 港股黄金股全线走强",
+   "summary": "受隔夜国际金价强劲反弹带动，港股黄金股全线走强，灵宝黄金等个股大幅领涨。尽管美国通胀数据超预期引发加息担忧，但市场避险需求占据上风，金价逐步收复失地。分析提醒，地缘扰动与通胀逻辑虽有支撑，但短期波动加剧需谨慎追高。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2506724",
+   "pubTime": "14:41",
+   "pubTs": "2026-10-16T14:41:25+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "平陆运河通航满月记：过货量超95万吨、客运量超3万｜活力中国调研行",
+   "summary": "平陆运河通航满一个月，截至10月15日总过货量已突破95万吨，客运量超3万人次。调研显示，运河通行船舶数量日益增长，已从最初的日均3至4闸提升至近期7至8闸，通江达海的航运效率显著提升，整体运行趋势乐观。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2506687",
+   "pubTime": "14:03",
+   "pubTs": "2026-10-16T14:03:08+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "腾讯云发布DeepSeek异常的补偿方案",
+   "summary": "针对此前DeepSeek模型服务异常，腾讯云发布补偿公告：将对受影响用户全额返还10月8日至14日期间消耗的积分，并向国内版全量用户额外赠送500积分。此前DeepSeek官方已就系统故障致歉，并承诺以赠金形式返还相关消耗金额。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2506686",
+   "pubTime": "14:02",
+   "pubTs": "2026-10-16T14:02:59+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "可灵AI发布Kling 4.0 快手盘中一度涨超6%",
+   "summary": "快手旗下可灵AI发布新一代视频生成大模型Kling 4.0，受此利好催化，快手股价盘中一度涨超6%。该模型在生成能力上实现突破，支持最长30秒视频生成及4K分辨率输出，并推出“全能参考”功能，旨在解决AI视频稳定性与可控性不足的痛点。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2506683",
+   "pubTime": "13:59",
+   "pubTs": "2026-10-16T13:59:54+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "癌症疫苗第一股又创新高，市场在期待什么？",
+   "summary": "“癌症疫苗第一股”莫德纳股价创2022年以来新高，市值一度站上960亿美元。除被纳入纳斯达克100指数引发机构被动配置外，市场核心关注点在于其与默沙东联合研发的mRNA癌症疫苗取得的进展，带动了投资者对医药板块的避险与增长预期。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2506622",
+   "pubTime": "13:32",
+   "pubTs": "2026-10-16T13:32:27+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "红海成“风暴眼”：胡塞武装施压美国沙特 欧盟增派军舰护航运输",
+   "summary": "鉴于胡塞武装持续袭击商船，欧盟已敦促成员国向红海增派军舰，以加强护航任务并保障全球贸易。受地区安全局势恶化影响，原定于沙特举行的欧盟与海湾合作委员会联合峰会已宣布推迟。欧盟正寻求在地区安全事务中发挥更大作用。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2506617",
+   "pubTime": "13:15",
+   "pubTs": "2026-10-16T13:15:01+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "告别百事时代！美国肯德基全面转售可口可乐，四十年合作落幕",
+   "summary": "美国肯德基宣布将境内3718家门店的饮品供应商由百事可乐更换为可口可乐，标志着双方长达40年的合作关系即将终结。转换工作计划于2027年1月启动，并在当年春季前完成。此前肯德基自1986年被百事收购后一直供应百事系列饮品。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2506636",
+   "pubTime": "13:14",
+   "pubTs": "2026-10-16T13:14:47+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
