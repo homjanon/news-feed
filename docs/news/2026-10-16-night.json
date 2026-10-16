@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "night",
+ "editionName": "夜豆浆",
+ "date": "2026-10-16",
+ "fetched_at": "2026-10-16 22:31",
+ "translator": "agnes-3.0-flash(7条) + gemini-3-flash(14条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "道指涨150点，纳指下跌：投资者持续减持AI股票",
+   "summary": "因芯片股疲软拖累，标普和道指本周可能收跌。投资者持续轮动减持AI股票，导致道琼斯指数上涨，而纳斯达克指数下跌。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93d3pqaDdoN1RiVVZKZnIyYl9SZ05PdXNGc3JIMjFqbmF4Um96Z1prZVJVcHBrV3g1YmR6X1ZJNEhINUUtRm5ESXVtTTFMdGUwbUs4N3BjUjNZQzhDX3pjRmhmMlY1YzVjbkFtM2RkWUZZQzhtYURJ0gF8QVVfeXFMTWxnYjlydmY0c2ZnQkdLcHo2NFZVcFpEWUNvcGUxOUZXSVhzSVE5UDJGMUc0ZGttWF95YVFTTmJZeGJpUXYyV2NicmtfdTIyTDRXdjdxemNCaDdtZlRVRzNWU18tWlVDNjdOTU5pTlNPOTZmdWJTRGUwRmE4RA?oc=5",
+   "pubTime": "22:20",
+   "pubTs": "2026-10-16T22:20:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "沃什誓言遏制通胀，称AI对经济带来“冲击”",
+   "summary": "美联储主席候选人沃什表示将致力于遏制通胀，他指出人工智能正在对经济产生巨大“冲击”，需要采取相应措施应对。",
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92Rk9VSzVNVHNBSmk1b3BzMTQyemFQdHNiSWVQYU1uVVJ1cEd4Y1lJTVlqZUU2TVNkb2drcEg5X1FxN2E1RWdKMjN6QmZwOTR4U0ZGay1yNXBxa1BaemN2ZXh3QkQ5UlV3MnFDSVBLS2k3REJqelluUnNB?oc=5",
+   "pubTime": "21:35",
+   "pubTs": "2026-10-16T21:35:08+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "CoreWeave债券暴跌，考验市场对AI建设成本认知",
+   "summary": "CoreWeave债券市场遭遇抛售，其信用违约互换触及预警水平。这一动荡揭示了市场对AI基础设施融资的分歧，考验投资者对AI建设逻辑的判断。",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdm5VTll1VmRrVEdWNm9HMmh4dUtxaDN2alV3YnJxUmtZdVJjZV9obW5Kc2tOYTNEQVdQNE1XMnFNbk1PaFBTTHZqcWxFZklDOVRtYm9IOWhnMjRuZTYyM2U0NVA1WmY0a3ZGQTFJbFp5cU1ha3h2WXBwLVFBSmtjRnVmZm8xdUtCMWlaX1YyUkpCSDhZamRzRG9UV3paVU9MalVpa0FFbzRBZw?oc=5",
+   "pubTime": "21:29",
+   "pubTs": "2026-10-16T21:29:14+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "西南航空推新奖励计划，为常客提供额外福利",
+   "summary": "西南航空对其常旅客计划进行重大改革，推出新的会员福利以吸引乘客。此次调整旨在提升会员忠诚度，并在与联合航空等竞争者中保持优势。",
+   "source": "Fox Business",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMnotQnp0UzRrWEV0WWpNZ2NVMmdCZWV6aDhXOTh4X05HVlhaSDBhSnNZdncyT29IQ1o4RHdPRVdsY0h3WEhIZ3dqUlVnWW9oV0ZMWEVlREhRa3JxUGNpVmZfcUJ6UHJ6d2luakZCY0lvWXlEU3lORzE5bU8tNTZDaFNlMFEwUjJHb0g3N1l0ZC1qeUN2alZDbEVWNkZSZ9IBowFBVV95cUxOZXd6QmpDa0RhdWpYdWNKLXZBMFhsTkRmMi1KTTdnS3N4THgtaXNrVk9JYjQ5R2NuLTFzd0RZQ1J2Yjdtc0ZTZlIwcGxRRTN5MEs3RnEwZWgwRFFfeVdoWnhvSUdLOWpDVFFPaVBOZi0yYV9GdTlNWWF0dFlUTmtJYzQ3WUNSdGlqdHNKYTMySHdwUnlQR09KMnBMbXVxY0FiZ2lV?oc=5",
+   "pubTime": "21:11",
+   "pubTs": "2026-10-16T21:11:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "马斯克在特斯拉活动上展示“全球首款飞行汽车”",
+   "summary": "马斯克在特斯拉发布会上展示新款Roadster，该车配备SpaceX推进器，被称作“飞行汽车”，但预计2028年才会上市，且主要在地面行驶。",
+   "source": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR2xWSFlLS3BZODlsX0pWVGlNNnB4cDdDSjY3dzkzUWFyRUdtZnVfWGlrc3kxSzRIMk1DeUsyZ0EtM2hnOFNzellrdFlNdlVhYnhwWHd2aW9sWVd2UThuTzRqa216c1d3cHJ0M1N6dkNuYWxLZlh4TlhvRlA5bjdWVEpIS1ZZWVdjc3ZaVFFWYmd5cnlEalVoNlZLV1RSYWtH?oc=5",
+   "pubTime": "19:53",
+   "pubTs": "2026-10-16T19:53:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "耐克扩建印度园区，押注长期增长以扭转局面",
+   "summary": "面对中国市场需求压力，耐克计划扩建其在印度的办公园区。此举被视为其在业务转型期间，押注印度市场长期增长潜力的重要战略举措。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WWERBMnItNVN3a2piN0pid3dkSWpLQkxwdThORXRMcWYxS0c2LTE5bG51ZG1hSjdwZTQ0WHE4MHZ3eWJvR0EwUVY3VkhzMmIySGJOeUVST2p0WjM5Q2NnSllXNlNJZ1dEY1JQMUR5MmtnZWJL0gF6QVVfeXFMUFVmSXhIRVQ0bENnMlVlTUFLMlZiZnRGbV9SSHdPVldneTZlSEQwbGVwRnRVeUhzYm5ReEZraVoyeTlaY0o0LURhRU14TEVFV2JQdkdhZkVyZmVUdGNqVjdNZUVZZm9GalJ1RVhicEVxN1JrNzBrelIyZFE?oc=5",
+   "pubTime": "19:00",
+   "pubTs": "2026-10-16T19:00:01+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "NPR调查：以色列护肤品牌商场专柜涉嫌大规模欺诈",
+   "summary": "美国全国公共广播电台调查发现，一家以色列护肤品牌在商场设立的专柜存在大规模欺诈行为。该事件已引发消费者投诉、诉讼及联邦调查。",
+   "source": "The Forward",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWjVFT3NBWUF2UGt1bDR1TWtoTGg2NlBLbzk0TEJsTTlfX21JbUp5TXdrdGk2azZsS2szNk5SVlkwcnVBUkNWNUIxdGpGYWFxblF2MDBVVTBfUW02Tm5ldFlRSmNQVTktMkEwYWdwaVd2ZnRLVUFQMElVUWUwVW1LcjZyMUlFXzRaLU1KZw?oc=5",
+   "pubTime": "18:58",
+   "pubTs": "2026-10-16T18:58:12+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "联合国：数百万乌克兰人冬天或再次逃离家园",
+   "summary": "联合国警告称，由于俄罗斯持续袭击乌克兰能源基础设施，数百万曾返回家园的乌克兰人今冬面临再次流离失所的风险。目前乌境内仍有约360万人流离失所，生活条件日益恶化，未来数月或将成为开战以来最艰难时期。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261016-9850587",
+   "pubTime": "22:24",
+   "pubTs": "2026-10-16T22:24:24+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "尽管面临美国封锁 伊朗仍出口部分燃油",
+   "summary": "航运情报显示，伊朗自7月以来通过在阿曼附近海域进行频繁的“船对船”转运，成功绕过美国封锁出口液化石油气和航空燃油。尽管美军拦截了大部分油轮，但仍有至少八艘气体运输船及部分燃油轮顺利抵达目的地。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261016-9849675",
+   "pubTime": "21:52",
+   "pubTs": "2026-10-16T21:52:41+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "针对朝鲜质疑 韩国反驳称新款高超音速飞行器耐热出色",
+   "summary": "针对朝鲜以试射照片无“焦黑”痕迹为由对韩国新款高超音速滑翔飞行器提出的质疑，韩国国防部予以反驳。韩方表示，该飞行器采用自主研发的国产耐热材料，在极高温飞行环境下仍能保持外观完好，验证了其出色的防热功能。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261016-9849426",
+   "pubTime": "21:49",
+   "pubTs": "2026-10-16T21:49:11+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "特朗普不排除中期选举后出手打伊朗 声言或动用炸弹之母",
+   "summary": "美国总统特朗普表示，打击伊朗无需动用核武器，但不排除使用威力巨大的“炸弹之母”空爆弹。他明确表示不会在中期选举前采取行动，且不会派遣地面部队，但选后可能针对伊朗地下隧道等目标发动攻击。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261016-9850070",
+   "pubTime": "21:32",
+   "pubTs": "2026-10-16T21:32:30+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "美国超级智能军团首次开会 探讨应对网络攻击生物安全等风险",
+   "summary": "美国总统特朗普的“超级智能军团”召开首次会议，重点探讨应对网络攻击、生物安全及模型控制等风险。会议决定委托专家评估风险并建立实验室预警机制，同时计划成立执法协调委员会，目前尚未讨论制定新法律。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261016-9850099",
+   "pubTime": "20:57",
+   "pubTs": "2026-10-16T20:57:54+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "美国多州官员收到含不明物质的可疑信件 当局展开调查",
+   "summary": "美国联邦调查局与邮政署正调查一系列寄往多州选举官员及国会议员办公室的可疑信件。部分信件含有不明白色粉末，引发安全担忧。此时正值中期选举前夕，当局正严密监控邮寄选票处理过程中的潜在风险。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261016-9848161",
+   "pubTime": "19:53",
+   "pubTs": "2026-10-16T19:53:09+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "伊朗战争推高油轮需求 二手船比新船更抢手",
+   "summary": "受伊朗战争影响，全球造船产能持续紧张，新船交付周期已排至2030年后。由于现货紧缺，二手油轮价格大幅飙升，15年船龄的旧船价格已比新船高出约20%。日本及中国造船厂的手持订单量均处于历史高位。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261016-9848722",
+   "pubTime": "19:20",
+   "pubTs": "2026-10-16T19:20:04+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "长安汽车管理层大调整：集团与上市公司权责厘清 押注全球化突围|速读公告",
+   "summary": "中国长安汽车迎来重大管理层调整，朱华荣辞去上市公司董事长职务，专任集团董事长以强化战略引领。赵非接任上市公司董事长，叶沛出任总裁。此举旨在厘清集团与子公司权责，推动长安汽车向市场化与全球化运营转型。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2507278",
+   "pubTime": "22:27",
+   "pubTs": "2026-10-16T22:27:24+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "零跑B10欧洲量产、吉利奇瑞布局本土化合规 加速出海下中国车企“入场”方式生变",
+   "summary": "零跑汽车首台欧洲量产车型B10在西班牙工厂正式下线，标志着其从产品出口转向本地化制造。零跑还在当地建立了中国车企在海外的首座独立电池工厂。随着国际环境变化，中国车企正通过本土化生产加速合规出海。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2507269",
+   "pubTime": "22:18",
+   "pubTs": "2026-10-16T22:18:09+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "操纵市场及内幕交易罚单密集落地，合计罚没5.74亿元",
+   "summary": "监管部门近期密集开出多张针对操纵市场及内幕交易的行政处罚罚单，合计罚没金额达5.74亿元。其中，周吉锋等人因操纵证券市场被罚没3.28亿元，陈秋航因内幕交易被罚没1.82亿元，显示出高压监管态势。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2507267",
+   "pubTime": "22:15",
+   "pubTs": "2026-10-16T22:15:54+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "特斯拉“起飞”了，中国飞行汽车飞到哪了？",
+   "summary": "特斯拉第二代Roadster在SpaceX试验场完成全球首秀，展示了利用气流稳住姿态的“飞行”能力，引发资本市场热议。此举不仅缓解了特斯拉的叙事焦虑，也带动了中国A股低空经济概念股集体走强，引发对飞行汽车产业的关注。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2507265",
+   "pubTime": "22:14",
+   "pubTs": "2026-10-16T22:14:23+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "IMF总裁：AI的发展如同F1赛车在没有护栏的赛道上飞驰",
+   "summary": "国际货币基金组织总裁格奥尔基耶娃在曼谷年会上对AI风险发出警告，将其比作没有护栏的F1赛车。她呼吁建立伦理基础，并将行业自律与政府监管相结合，以确保AI在提振经济的同时，不会因缺乏保障措施而造成负面冲击。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2507254",
+   "pubTime": "22:00",
+   "pubTs": "2026-10-16T22:00:35+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "订货需等近两月！iPhone Duo预售秒售罄",
+   "summary": "苹果首款折叠屏手机iPhone Duo正式开启预购，起售价1.59万元，顶配版高达2.64万元。尽管定价创下新高，但预售开启后迅速售罄，目前全系列发货周期已延长至7至8周，显示出极高的市场尝鲜热度。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2507262",
+   "pubTime": "21:58",
+   "pubTs": "2026-10-16T21:58:52+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "圣农发展Q3扣非净利创2021年来单季新高 行业低迷期营收同比微增|财报解读",
+   "summary": "白羽肉鸡龙头圣农发展发布三季报，第三季度扣非净利润创下2021年以来单季新高，同比增长约30%。尽管营收受行业低迷影响仅同比微增2.44%，但公司盈利能力显著提升，前三季度整体业绩表现稳健。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2507248",
+   "pubTime": "21:57",
+   "pubTs": "2026-10-16T21:57:52+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
