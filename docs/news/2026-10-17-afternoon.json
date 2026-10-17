@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "afternoon",
+ "editionName": "下午茶",
+ "date": "2026-10-17",
+ "fetched_at": "2026-10-17 15:20",
+ "translator": "agnes-3.0-flash(7条) + gemini-3-flash(14条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "马斯克发布会宣布特斯拉Roadster具备飞行能力",
+   "summary": "马斯克在特斯拉活动上展示全球首款飞行汽车。新款Roadster飞行版加速性能卓越，一小时内即可达到60英里时速，标志着特斯拉在自动驾驶汽车之外开拓了全新领域。",
+   "source": "Axios",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMjBmLVRhZVNzRjA1WXZxYnJXNEtSMFUxMGg3QXFnenVpaTE5eTY5dnM5MzBXa2RtYXlTUjB1bWR0eXlXVHZqQ21MNnFlem1USk5uRHJpTXFfRkh4cVExOEN4ZUJJa0VDcW1IVUhaeVJpZ0h3bGp0NG1kdjByRl9iNw?oc=5",
+   "pubTime": "11:33",
+   "pubTs": "2026-10-17T11:33:49+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "伯克希尔哈撒韦向Bending Spoons投资3.3亿美元",
+   "summary": "巴菲特旗下伯克希尔哈撒韦宣布向意大利科技集团Bending Spoons追加投资3.3亿美元。这笔投资推动了Bending Spoons股价大涨，显示了该巨头对科技与消费领域的新战略重心。",
+   "source": "TheStreet",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTlEzYzBoQU0yQnliNW9KTWdrdzlnaC1NdUhscDV3dF95N3dXLW9WMkxPSXRiSWh4T19BSktmYmVaQVRybTF2eTFaUTVnblpqOTQwMmtSaHgtOGg2eVZoQjdHdjVPUVJ2Rmx4REFhbkE5RTBuZDVha2J6YUJjUWlobklaVUVsWmszRExOVnFqRXFOLWtyTGZ6WGM1UkFfLUZERWc?oc=5",
+   "pubTime": "07:33",
+   "pubTs": "2026-10-17T07:33:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "面临裁员与高管离职 奈飞加速重塑公司叙事",
+   "summary": "自2022年以来，奈飞启动最大规模裁员，裁撤约1000个职位，同时高管团队发生变动。公司正通过一系列大胆举措，包括重塑战略方向，以确立流媒体巨头的新阶段发展叙事。",
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPanZ5YVAxYnBGOGlsZW1jVnhWbkhHU0JnR211RGctX3JHM2Y0QXZHVC1NR3pCR3prc0pudTd4WXZBNnhGZXdiTFlvV2ZDNjVDVzNMeFZTelV0cGVzOElKS1QyV01jbmZibV8tRFkwMXdSU3NMUkZfY3I2eEEyc1djekV0LTg2MmpORmVJ?oc=5",
+   "pubTime": "07:22",
+   "pubTs": "2026-10-17T07:22:21+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "彼得·赖斯上任或引发奈飞电影内容战略之争",
+   "summary": "彼得·赖斯被任命为奈飞新内容主管，接替贝拉·巴贾里亚。这一任命可能在公司内部引发关于电影未来定位的深层文化冲突，影响流媒体巨头的内容战略走向。",
+   "source": "Variety",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdlJYVTFIX2llRjNqWUoweV84WTlSRk5hdzJaZjhwT0FmYW16NGI3ajJjc29qYUxhWG5lVkppWFdaZkdnZ0hySGJpREhXSXdzSEFJRWxlYXdpV2ljOVBqS24wYUFjaEpuSGVVckVCT0R3eHBCd1ZRTWQ5bFRoV3pzRVVnaU1zTU9uX2NLdUlPMGRwbS1u?oc=5",
+   "pubTime": "07:18",
+   "pubTs": "2026-10-17T07:18:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美国大型银行集体禁止AI代理执行资金转账",
+   "summary": "在Muse等AI支付工具推出后，包括摩根大通、花旗在内的多家美国银行宣布禁止外部AI代理访问其账户，以阻止其代替客户执行资金转账。",
+   "source": "Gizmodo",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONU0zV2oySGQyVkRnVWtVc1YxZlptcUg4NXowX1pzNUxhQVhUa2tUbGF2dWtEaHBYRVJ6YzZZT0VkVDhRc3p5RHVvam1wcWh2dlZ1bWtRUV81aUdPWVFMRGNKNl83b0t2ZTNZb1E4THBpZnJqaG4wek40ZlR5dWJsSjJmZ2pSelM1eGgwSzY2TzFLQkJrUFNOVTQ3YzMzeTk3Y1ZxcjVR?oc=5",
+   "pubTime": "07:15",
+   "pubTs": "2026-10-17T07:15:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "中国警告欧盟勿幻想以贸易壁垒施压",
+   "summary": "在欧盟提出“杀死开关”威胁后，中方警告欧盟不应幻想通过贸易壁垒来对抗中国。中方强调，欧洲无法仅依靠贸易壁垒作为战略选择，反对单边保护主义做法。",
+   "source": "South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYkpQVjY4YVNpVERCWjB5QU9Fd3JtcEVyZHZ3Mzl6NnNua3dkNWlkdURXRkJ1Qk9mMmpTN3BIUUplMGJnZ19zT0RGVzAxcVFjU1A2Ul9meWE3bGJPLXdEeFd2S19xUmlPWDIwWFFqRmxGRGRVQ012Slo0bFBrWk43VVR4eFFmNUxPWk5JRldGNlVkMEE4dE92Y3BnNG5CbXVVWTJ1TENjdVRRLTBHSGNlM3BfVzltQmJtWmVIT0dQbnRVQl8xQlctNnZUSC1hdkV60gHQAUFVX3lxTE5Jc2x5LUdmRzBsV1RuMVRLRTZOLVJ4ci1pcS1ycTNSSlAxd3dvZ3dXS0g4RkR5V3Z0X1IwMUZvSmhwVDB2ZDFNLUprMDZ5bjZOdkp4YS0wcUczNV9nWXZVZEowemRvWHRfSlVXdER0YjRpOVZ1bDRvUDFTc1FtaUUybXhTX0RhWVE2ckMtNHNwdFZOaDZxLW1NTVBZT0NwMlVaY194YTNrQmRPSHhOeDlzbThQaXBNY2J1bHRha1JUOGdiUEJmeDl4UnZYd3FMcWI?oc=5",
+   "pubTime": "06:30",
+   "pubTs": "2026-10-17T06:30:02+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "受网络安全事件影响 Stop and Shop周末提供九折优惠",
+   "summary": "因遭受网络安全事件，Stop and Shop的在线服务目前仍处瘫痪状态。为安抚顾客，公司宣布本周末提供10%的特别折扣，其母公司Ahold的网站和应用也持续离线。",
+   "source": "WJAR",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUE1GSDVJWm81VjBidmpYbUJoWERnTGlfSGdMQTl0Mkw0VXlYUFNPOVlZczE5SDlsNFNDQXd3X2diWmpHS19Lcm14UjJ2VWZkUklzbVcxbzV4dGV3eE1IcG5uQUdURjlpS04zcmotQUZUcm50UmhYRGZIQjZPQnFzUnh3TE10cy0yaVRoSGtMaFRJSURSbloySlFrWWVudVRrUnlTZHhzUTN1VHhWbzh1MmdWczZnTTRZOGJKUEMtZ0tMQVVQVkZpXzVPSUE?oc=5",
+   "pubTime": "06:24",
+   "pubTs": "2026-10-17T06:24:38+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "两名顶尖生物学家离开美国高校 加入中国民办西湖大学",
+   "summary": "国际顶尖生物学家吴军近日全职加入中国民办西湖大学，担任生命科学学院讲席教授。此前他任职于美国得克萨斯大学西南医学中心，并刚晋升终身教授。吴军表示，中国在相关领域的不断集聚是他决定回国的重要因素。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261017-9852364",
+   "pubTime": "15:00",
+   "pubTs": "2026-10-17T15:00:54+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "新西兰退休法官区诺德获荐任 港终院海外法官增至六人",
+   "summary": "香港特首李家超接纳建议，拟委任新西兰退休法官区诺德为终审法院海外非常任法官。区诺德曾任新西兰最高法院常任法官，声誉卓著。此次任命获立法会同意后，香港终审法院的海外法官人数将增至六人。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261017-9852224",
+   "pubTime": "14:37",
+   "pubTs": "2026-10-17T14:37:17+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "媒体：中国多地政府暂停低空经济财政补贴",
+   "summary": "杭州、广州、深圳等多地政府近期先后废止或暂停对低空经济产业的财政补贴政策。据悉，此举主要受国家层面公平竞争审查尺度收紧影响。业内分析认为，政策调整并不等同于停止扶持，而是为了符合国家合规性要求。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261017-9852163",
+   "pubTime": "14:14",
+   "pubTs": "2026-10-17T14:14:47+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "深港新皇岗口岸平均每日逾8万人次出入境",
+   "summary": "香港保安局长邓炳强透露，新皇岗口岸开通后通关顺畅，首个工作周平均每日出入境人次达8万，周五峰值突破9.2万，较以往增长逾1.5倍。旅客平均等候时间缩短至5分钟内，预计重阳节假期日均客流将超过10万人次。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261017-9851872",
+   "pubTime": "14:00",
+   "pubTs": "2026-10-17T14:00:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "广东汕头致12死火灾调查结果：使用蚊香不慎引发",
+   "summary": "广东省公布汕头“12·9”重大火灾事故调查报告，认定起火原因为使用蚊香不慎，事故造成12人死亡。报告指出，涉事店铺安全管理缺失，消防检测机构报告严重失真，且当地住建及消防部门存在监管不力和执法缺位等问题。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261017-9851950",
+   "pubTime": "13:11",
+   "pubTs": "2026-10-17T13:11:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "中国官方鼓励电影院用空闲时段开展重大体育赛事直播",
+   "summary": "中国国家电影局与体育总局联合发文，鼓励电影院利用空闲时段开展重大体育赛事直播，打造观赛“第二现场”。官方旨在通过设立活动专区、推出观影健身优惠套餐等举措，促进电影与体育消费的有机联动，实现双向赋能。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261017-9851655",
+   "pubTime": "12:53",
+   "pubTs": "2026-10-17T12:53:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "中纪委监委发文：只要搞了腐败，就没有所谓平安着陆",
+   "summary": "中纪委国家监委网站刊文强调，反腐败斗争将持续保持高压态势。文章指出，无论职务高低、贡献大小或是否退休，只要涉及腐败均无退路，不存在“平安着陆”。近期多名原中管干部被查，再次释放了反腐无禁区、零容忍的强烈信号。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261017-9851959",
+   "pubTime": "12:23",
+   "pubTs": "2026-10-17T12:23:37+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "“AI缺钱”风暴席卷市场！Meta财报打头阵，产业巨额投资迎“信心大考”",
+   "summary": "随着市场对AI巨额投资可持续性的质疑升温，美股科技股近期出现波动。Meta将于10月21日率先发布财报，接受市场对其AI资本开支成效的审视。投资者将重点关注超大规模云服务商的盈利增速能否覆盖持续攀升的投资成本。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2507445",
+   "pubTime": "15:10",
+   "pubTs": "2026-10-17T15:10:17+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "扎卡里亚，被解雇后发声",
+   "summary": "上任不足一周的白宫发言人扎卡里亚因首秀表现不佳及虚报律师资格背景被解雇。离职后她在社交媒体发文感谢特朗普，称能为其工作是莫大荣幸。此前特朗普曾直言其表现不理想，建议其离开，扎卡里亚随后官宣离任。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2507444",
+   "pubTime": "15:09",
+   "pubTs": "2026-10-17T15:09:58+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "韩国生物医药史上最大并购落地在即",
+   "summary": "韩国三星生物对瑞士多肽CDMO巨头Polypeptide的要约收购取得突破性进展。初步结果显示，应约股份占比已达87.88%，远超交易成立所需的最低门槛。这笔交易作为韩国生物医药史上最大规模并购，目前已接近正式落地。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2506356",
+   "pubTime": "11:33",
+   "pubTs": "2026-10-17T11:33:40+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "倒计时1天|数智化浪潮下，AI如何赋能财富管理？中金财富1018发布会明日揭晓",
+   "summary": "中金财富将于10月18日在深圳举办发布会，集中展示其买方投顾转型与数智化战略成果。届时，三大“50生态”新服务模式将正式亮相，重点展示人工智能如何重塑财富管理，包括四大智能体群系统及APP全链路AI优化等核心内容。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2507417",
+   "pubTime": "11:33",
+   "pubTs": "2026-10-17T11:33:24+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "Anthropic秘密游说国会 推动制定前沿AI监管法案",
+   "summary": "AI巨头Anthropic近期私下向美国国会议员提交了一份监管前沿人工智能安全的法案草案。该草案旨在针对存在“可预见且迫在眉睫风险”的模型建立监管机制。公司表示，此举是为推动联邦层面采纳其关于高级人工智能框架的政策建议。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2507401",
+   "pubTime": "09:52",
+   "pubTs": "2026-10-17T09:52:30+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "股票回购增持贷款将满两周年，贷款金额与笔数缘何大幅下滑？",
+   "summary": "股票回购增持再贷款政策实施近两年，数据显示第二年申请贷款的笔数与金额较首年均大幅下滑约五成。尽管贷款热度回落，但A股上市公司回购热情不减，回购总额同比增长13.8%，而主要股东的增持金额则出现了明显收缩。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2507398",
+   "pubTime": "09:36",
+   "pubTs": "2026-10-17T09:36:45+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "财联社汽车早报【10月17日】",
+   "summary": "工信部等四部门联合约谈30余家重点车企，要求加强产品研发测试管理，坚决抵制非理性价格战以守牢安全底线。此外，商务部就欧盟峰会提出的对华“双轨”思路作出回应，强调中欧应在遵守世贸规则及事实基础上解决经贸摩擦。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2507399",
+   "pubTime": "09:34",
+   "pubTs": "2026-10-17T09:34:57+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
