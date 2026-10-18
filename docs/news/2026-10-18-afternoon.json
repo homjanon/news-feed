@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "afternoon",
+ "editionName": "下午茶",
+ "date": "2026-10-18",
+ "fetched_at": "2026-10-18 15:20",
+ "translator": "gemini-3-flash(21条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "法国深陷债务危机边缘，面临关键转折点",
+   "summary": "法国正处于债务危机的关键时刻，借贷成本上升已向财政部发出警报信号。受债务担忧情绪影响，法国股市遭遇自2010年以来最严重的表现下滑，市场正密切关注未来几天决定局势走向的关键时刻。",
+   "source": "Fortune",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOE01YlRabmNwdDVqTkkzcUk3Y0pLdjZDbjhXTDZ2Tmh0dnVEWklnUU4tNm41bk5JOTdJMWRvM05jNmg5RHBtWXg1N3p1UUFCZmREMkt4bGx6YnZMOGlmMzBfNFZBUzQ1MjJVTVVUUS02VFN5ajJpbGE1QW1RclB5UDFrczdJbS1GUlNJcDFORkloTXdhMTM5ZWxXWjI2U2NF?oc=5",
+   "pubTime": "07:28",
+   "pubTs": "2026-10-18T07:28:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "明尼苏达州企业因拒绝部落身份证件被指控歧视",
+   "summary": "美国明尼苏达州双子城的体育酒吧和信用社因拒绝接受有效的部落身份证件，被指控歧视原住民客户。当地调查发现，这些企业的行为违反了州法律，剥夺了持有合法证件者的服务权利。",
+   "source": "Bring Me The News",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcjlEZkxoSFlneTdNRlBoMWZMTUY0ZU40anN1aVZ0UGl3TUxYV3l3SnlTa1ZxWnVrcUE1M01GaU9zZnlkdDZtRkZ1ZGZrZXh0UFdlcWZKRUVrRFBBNnlYQktaYl9UcVJQamFZcTJxcXk5Z3BQdGQ5TnJHdDVGVFdtajRmTTZvOXVsaVV1aTUzbkV2THdkLU9CVFRYenpYNlRJX2dDdTFnNGJUVlJnN0o4aWY2aVVHZFI1Wk9reURqZjBQNEdidERQcXF4bGFCajRCWDNmdTdDcXdrQzlVQnBn?oc=5",
+   "pubTime": "07:01",
+   "pubTs": "2026-10-18T07:01:34+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "普林斯顿大学博士投递2300份简历仍未获聘",
+   "summary": "据《华尔街日报》报道，一名拥有普林斯顿大学博士学位的求职者在投递了2300多份工作申请后，依然未能获得任何录用通知。这一案例凸显了当前就业市场的严峻挑战，引发了对高端人才供需现状的讨论。",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM0JDd2NOS2ZBN0lLR0pjbTNFb3B5bEtFM1d4VDBXa2R4c1hVVElQOGU3aDFpWU5CUU1LZF9GRlBCU2c0ek9BTVdBVnF0T25uWWZ4MWdGYzNFYjJpQ0pqTkpKZDRoenIta1VRc0VZM055MmlPdk4tLV8wZWlPbkFyODdMa3J3UQ?oc=5",
+   "pubTime": "07:00",
+   "pubTs": "2026-10-18T07:00:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "坦帕“脱衣舞俱乐部之王”乔·雷德纳去世，享年86岁",
+   "summary": "坦帕市著名的脱衣舞俱乐部创始人及医用大麻倡导者乔·雷德纳去世，享年86岁。雷德纳以其在当地娱乐业的影响力以及对法律权利的长期争取而闻名，其家人已证实了这一消息。",
+   "source": "Tampa Bay Times",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYWRvV0xjemVfSmtKRHBNNWExZFhzS3ZnckQ4bGNQbDBwdEwtQ0RsUXo1azRkVlhtX2tsdG5iY3pLRi12LVc2bTYyMTZ1ZzBydWNPeVp4Ri1iNGZoQlIyekMxbGxMTFNuTVlybVhGMmR0dlJvZ3dvLW9WWmxjeUtYdFFaR0Nyd2dUY1ZPVU0xN0k1UQ?oc=5",
+   "pubTime": "06:33",
+   "pubTs": "2026-10-18T06:33:48+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "加州一偏远加油站油价飙升至每加仑10美元以上",
+   "summary": "据《纽约时报》报道，加利福尼亚州一个偏远地区的加油站油价已飙升至每加仑10美元以上。这一极端价格反映了特定地理位置及供应链因素对当地能源成本的显著影响，远超全美平均水平。",
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNFBHeUZlVExkUlBTR1ZkQ2NxVmFGTzdMTlJuZ0gxUk04bkc2aXFHeUlXVkR1VGEwNTZRd2xPNVJ5cER0MlBTZTJMTktjU3dDTXpFdkwwaVZuRXcwdDlNYTVrUTc4TFA1Mlp2aXBUcHo2QQ?oc=5",
+   "pubTime": "04:39",
+   "pubTs": "2026-10-18T04:39:55+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "梅赛德斯-AMG发布纯电GT SUV：动力达1153马力",
+   "summary": "梅赛德斯-AMG正式发布其首款独立研发的纯电SUV。该车拥有1153马力的惊人动力，支持710千瓦超快充，百公里加速性能超越科尔维特，标志着AMG在高性能电动车领域的重大突破。",
+   "source": "Electrek",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ1RUdmsyb1VWMzNTblJCRTNCdnlsN0JZLUFYUUdCZ0VQckYzc3lGNjM2UlNjSlRCYVcwMURxTlhqODVWTTBEUGhfYmhsMnhIME5yT2pEWnlrRkNHRFlwOFNta2QzSW9LS3BjZVBwLXliRkZfc0MtLUxDR2JhVThPd0tOblhnUnpuMlI1NQ?oc=5",
+   "pubTime": "04:37",
+   "pubTs": "2026-10-18T04:37:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美国运输安全管理局撤回部分机场旅客便利措施",
+   "summary": "美国运输安全管理局（TSA）在宣布一项便利措施仅数周后，便悄然撤回了该政策。该计划原允许无票访客进入部分机场登机口，目前丹佛国际机场等地的相关福利已被取消，引发旅客关注。",
+   "source": "The Independent",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX1huMm5WSGtpYUpHa2JlMDBvZ29JZ1dvZ2RrblgzOXZseFluZWZNTFA1Sm1XdmphdEJLZTN2S2FqMzhvLVR6RjI1YzBZd1J4M3JpbnVfMmIzVktaXy1DaWVMajZtOE9GclBBZHY2Y05LOHVtVi1tTVlWSkxpMFp1ZGlnRm1ON05PNU00ZkMxTFBtbERMQ0dncGROTm5Fel9hOWhv?oc=5",
+   "pubTime": "03:29",
+   "pubTs": "2026-10-18T03:29:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "全球传统医学联盟在中国成立",
+   "summary": "2026世界传统医药大会在北京举行，全球传统医学联盟正式成立。该联盟是首个覆盖全球多元传统医学体系的国际科技组织，秘书处设在北京，旨在通过交流合作与传承创新，促进传统医学与现代医学融合，造福人类健康。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261018-9855506",
+   "pubTime": "15:07",
+   "pubTs": "2026-10-18T15:07:20+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "港官员：再有10至20家企业将落户香港 包括行业龙头",
+   "summary": "香港引进重点企业办公室主任任景信透露，本周四将公布新一轮重点企业名单，预计有10至20家企业落户，包括多家市值超千亿港元的行业龙头。引进办成立至今已累计吸引124家企业，预计带来730亿港元投资。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261018-9855157",
+   "pubTime": "14:01",
+   "pubTs": "2026-10-18T14:01:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "李强：中医讲究系统施治固本培元 与治理经济相似",
+   "summary": "中国国务院总理李强出席2026世界传统医药大会并致辞。他指出，中医药强调的整体观、系统施治与固本培元理念，与经济治理及全球治理高度相似。他呼吁各国应秉持包容调和的智慧，加强同舟共济的担当，共同应对世界难题。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261018-9855064",
+   "pubTime": "13:27",
+   "pubTs": "2026-10-18T13:27:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "台媒：卢秀燕将任蒋万安竞总主委",
+   "summary": "台北市长蒋万安竞选总部将于本月26日成立，台中市长卢秀燕据悉将出任竞总主委。蒋万安此次打破惯例邀请卢秀燕坐镇，旨在利用其温和稳健的形象和跨越蓝绿的号召力，争取中间选民支持，为选情固本拓票。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261018-9855205",
+   "pubTime": "13:15",
+   "pubTs": "2026-10-18T13:15:41+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "中国驻日使馆：强烈谴责日方涉靖国神社消极动向",
+   "summary": "针对日本首相高市早苗向靖国神社供奉祭品及部分内阁官员参拜一事，中国驻日使馆表示强烈谴责。使馆发言人指出，此举是对历史正义和国际秩序的挑衅，日方应正确对待历史，停止为战犯翻案及掩盖战争罪责。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261018-9854803",
+   "pubTime": "12:55",
+   "pubTs": "2026-10-18T12:55:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "台北市长辩论市民更看好沈伯洋占上风",
+   "summary": "台北市长电视辩论在即，TVBS最新民调显示，41%的受访市民看好民进党籍对手沈伯洋的表现，领先国民党籍市长蒋万安11个百分点。在中立选民中，沈伯洋的支持度也明显占优，而多数受访者仍持观望态度。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261018-9854736",
+   "pubTime": "12:18",
+   "pubTs": "2026-10-18T12:18:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "朝鲜江原道派出友好代表团访问江苏",
+   "summary": "朝鲜江原道人民委员会委员长黄万福率友好代表团赴中国江苏省访问。近期朝中关系持续释放回暖信号，连接丹东与新义州的新鸭绿江大桥已正式开通，此次地方政府间的友好访问进一步体现了双方交流的加强。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261018-9854874",
+   "pubTime": "12:00",
+   "pubTs": "2026-10-18T12:00:18+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "大额融资频现，一批“造芯新势力”接连浮出水面",
+   "summary": "物理AI芯片公司新芯航途近日完成由雷诺、奇瑞等参投的战略融资，累计融资额达50亿元。与此同时，曦望、蓝芯算力等一批“造芯新势力”也相继获得大额融资，显示出AI研发需求正推动具备产业背景的团队加速走向市场。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2507602",
+   "pubTime": "14:21",
+   "pubTs": "2026-10-18T14:21:09+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "强厄尔尼诺冲击糖供应 全球第二大产糖国出手：叫停糖基乙醇采购",
+   "summary": "受强厄尔尼诺现象导致的干旱影响，全球第二大产糖国印度下令国有燃料零售商停止采购以食糖及甘蔗为原料生产的乙醇。该禁令旨在通过限制工业用途来稳定国内食糖供应，抑制因产量缩减引发的全球糖价飙升。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2507597",
+   "pubTime": "14:16",
+   "pubTs": "2026-10-18T14:16:21+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "微信公告：集体下架",
+   "summary": "微信发布违规微短剧处置公告，根据监管要求，平台近期对存在内容低质、剧情夸张、价值观导向不良及侵权行为的微短剧进行了集体下架处理。微信表示将持续加强巡查审核，规范创作标准，以保障用户权益和生态健康。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2507600",
+   "pubTime": "14:13",
+   "pubTs": "2026-10-18T14:13:47+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "证券业文化建设未来五年规划制定中，重点看七大举措，对精准赋能实体经济业务实施激励",
+   "summary": "中证协已起草证券行业文化建设五年规划征求意见稿，这是首份对标“十五五”规划的顶层设计文件。文件提出20条举措，明确了分阶段推进的时间表，重点包括强化风险防控、提升监管效能及对赋能实体经济业务实施激励。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2507593",
+   "pubTime": "13:26",
+   "pubTs": "2026-10-18T13:26:21+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "公募出海动作多，又一头部香港布局，25家已境外设立子公司",
+   "summary": "广发基金获准在香港设立国际控股公司，注册资本1.3亿港元，并将整合现有境外子公司股权。今年以来公募基金出海动作频频，目前已有25家公司设立境外子公司，广发、易方达等头部机构正加速在港澳地区的业务布局。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2507592",
+   "pubTime": "12:57",
+   "pubTs": "2026-10-18T12:57:42+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "卖方研究进入\"半价时代\"，行业正有哪些新突围？",
+   "summary": "随着公募费率改革推进，券商研究业务进入战略调整期。中证协报告显示，行业正面临人员规模由增转降、收入结构多元化及合规挑战加剧等变化。卖方研究正从单纯的产量竞争转向价值竞争，合规管理成为行业关注的重中之重。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2507591",
+   "pubTime": "12:56",
+   "pubTs": "2026-10-18T12:56:42+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "公募运作办法大修，券商财富与机构业务要重算哪几笔账？",
+   "summary": "证监会就公募基金运作管理办法修订征求意见，这是该办法自2014年以来的首次大修。修订涵盖募集、投资及治理等维度，将通过改变产品结构和管理人行为，深刻影响券商的公募代销、分仓佣金及交易单元等核心业务模式。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2507588",
+   "pubTime": "12:38",
+   "pubTs": "2026-10-18T12:38:33+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
