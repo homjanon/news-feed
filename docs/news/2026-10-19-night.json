@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "night",
+ "editionName": "夜豆浆",
+ "date": "2026-10-19",
+ "fetched_at": "2026-10-19 22:30",
+ "translator": "agnes-3.0-flash(7条) + gemini-3-flash(14条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "特朗普豁免俄罗斯制裁，油价下跌2%",
+   "summary": "特朗普总统豁免对俄罗斯的制裁后，油价下跌2%。尽管霍尔木兹海峡中断的风险仍存，但布伦特原油价格已升至107美元上方。",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTDJ2Qjl2WFNBTjRjQzBPZ3NvaVFXOFctRlZqQzBVZDhDTkR4eEZ6NzZadGhJZHdwSzVuVExwYmxtUFVucTdBRVFzS1BfT3dVeVpNYmJzUzNnTVlzZng0dUZzNTlLOERkZl8wbXRjZS1QVlRDbnhBejVWU2k1UnF5U1BhZzNiUGd6TEFvWmkxajJmUzdiSVBOWnIzaHBmWE9Td1FMMUZtNEMxcEtzOXltQmhsNzNvRTNNX3VhYm8yX2xzU0diYTNNZkp1M0Q5LTJoZGxTaWg0MG1VTlR1Smc?oc=5",
+   "pubTime": "21:56",
+   "pubTs": "2026-10-19T21:56:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "AI股反弹，标普500与纳斯达克期货高开",
+   "summary": "在财报季开启之际，人工智能相关股票出现反弹，推动投资者买入回调机会，标普500和纳斯达克股指期货周二开盘走高。",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX21SVVhfUjZRQ255YlFzVWVEZ3BFMmt3aWlDdkVPVENFOExuRE9KOXZ6WjNqbzdHelUwdzZudy02TjlyNkxVZWcxQmFzZF9NaUE0SFZYaWI3dmxlYTBVdjdULWhLMkNQNnlMUXFaM1J5T1dPMEo3ajhkb0RQLUM3M0pkYlFqbHNKQ1U1c3k5WlUtdjR1UkNCV0JkdjJZTzdIa2c?oc=5",
+   "pubTime": "21:35",
+   "pubTs": "2026-10-19T21:35:35+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "优步胜诉，法院驳回约2.5亿英镑伦敦出租车诉讼",
+   "summary": "优步（Uber）在针对其的一项集体诉讼中获胜，英国法院驳回了约2.5亿英镑的索赔，该索赔由伦敦黑色出租车司机提起。",
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1X3pSc21yal9VQWpIUGVWcWg4NDdJUktDb0ZjUmU2bzZVcWpNQnVKUWt3QlBCVHNidmZrU09iVnBtdElzcXQ5SGpWbDhSbWtIdm13d0JjcWc2ODQ?oc=5",
+   "pubTime": "20:58",
+   "pubTs": "2026-10-19T20:58:39+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "SpaceX意外公布10月20日发布财报",
+   "summary": "SpaceX 意外宣布将于10月20日发布财报，这被视为一个惊喜。此日期将成为市场评估埃隆·马斯克旗下公司AI支出野心的一个重要节点。",
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOalV1UGEzMkNJNkFZVDJLTy1SZmswM1VCQW1XMy1NRUdJZ043YWdSTnRqemptU3lqTm9sS2daVEtrOFhkTl85QUM4VlVvcW5fcEtrUGlKdEItanJ3WGZrdVRMTWdZcW9xZTNCTWNRZE1fTHpWSGxTOENOYkU3ekpiVUVmZFlhMGNoY1A5S2kwV1ljVmh6SFctYUMzNWtvdU1Md1Q3TUxKV3pGaC1EMzdmQTJmWUdabzBDUDZMakk2Qktaajg?oc=5",
+   "pubTime": "20:30",
+   "pubTs": "2026-10-19T20:30:59+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "AI出口拉动，中国三季度经济增长超预期",
+   "summary": "受人工智能热潮带动出口强劲增长，中国第三季度经济增速超过市场预测，出口数据成为稳定经济增长的重要因素。",
+   "source": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObjdWVVIyRU9UZ0V3aG1MMnRLM1hzQXRWZFZQeUxqbm1Ea0dhbUh5bVZrLWotbWZVOFlDVnZhRXRZY3dZQVkyR2JIZnlDaUxUcTJWaGpTbzhjanoyOXRIR1QxNE1udnY1ZnhNYUMzRDB0LUM2NDdRQ2dmSF9BcFZMS0cxYWhMa3p1RmxrMFlXYkZ3LVEwZGhrN0hKNGt1OEpweHVKdU8zb3pndjE4d1ItZjVsbXhoUEk?oc=5",
+   "pubTime": "20:21",
+   "pubTs": "2026-10-19T20:21:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "马斯克承诺将为每个美国儿童送一份SpaceX股份",
+   "summary": "埃隆·马斯克表示，他计划明年为美国的每个儿童赠送一份SpaceX的股份，此举再次展现了其公开分享财富的承诺。",
+   "source": "Axios",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81UlloWk5HZXliZ1dGY2VMWUo2bTdtdWt3c2ZySGwtVEt6a2NIOUFsTFdheHhOcmtzckVwTVFYX1NjYXNzSVJveXprazlkMWxsQ1FSMUVHMGpKS3U3WlhEM1FHdVVobkw2UDJBR2xR?oc=5",
+   "pubTime": "20:18",
+   "pubTs": "2026-10-19T20:18:59+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "民主党参议员要求五角大楼披露伊朗战争“真实成本”",
+   "summary": "美国多名民主党参议员要求五角大楼向公众披露参与伊朗战争行动所产生的“真实成本”，引发了新的关注和讨论。",
+   "source": "USA Today",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPczIxY0diYnRqWGtGN1RSbzIteTVaS18yY05JTkhlWHItMGNRVEN1UjJXaDEtSExJTGpRRk5EUGVseTl1VXZacVhkbXEzV3duckpPbm9GUHEyUkdzNXR4N1JWc3pkOU51c1FRV0VXdnFjM240Qnl0V1JNdzNGQW1abUppY3p1SGpGZDV5TEoxQjdrSWM1V05pSmNtcW5qOFBzVWc?oc=5",
+   "pubTime": "20:08",
+   "pubTs": "2026-10-19T20:08:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "胡塞武装袭击也门政府军营地 超50人死亡",
+   "summary": "10月19日，也门胡塞武装向舍卜沃省一处政府军营地发射三枚弹道导弹，造成53名以上新兵死亡，另有200多人受伤。由于当地医疗资源紧张，重伤员已被转移至邻近城市救治。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261019-9862048",
+   "pubTime": "22:12",
+   "pubTs": "2026-10-19T22:12:46+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "高市为“积极财政”辩护 否认日元贬值由她造成",
+   "summary": "日本首相高市早苗在执政一周年之际，为其推行的积极财政政策辩护。面对市场关于该政策导致日元贬值及利率上升的质疑，高市在国会予以反驳，并强调将继续推进削减消费税等利民措施。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261019-9862154",
+   "pubTime": "21:44",
+   "pubTs": "2026-10-19T21:44:07+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "普京提议举行美中俄峰会 讨论结束乌克兰战争",
+   "summary": "俄罗斯总统普京提议于11月深圳APEC峰会期间，与美中两国领导人举行三方会晤，共同讨论结束俄乌战争的方案。乌克兰对此表示批评，认为缺乏其参与的峰会只会助长俄方延长战争的企图。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261019-9862000",
+   "pubTime": "20:44",
+   "pubTs": "2026-10-19T20:44:48+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "法国总理呼吁在周末骚乱后实施局部宵禁",
+   "summary": "鉴于上周末法国多地爆发暴力抗议活动，总理勒科尔尼要求地方当局从即日起实施局部宵禁，以恢复公共秩序。他强调宵禁将针对特定区域而非全巴黎，并表示必要时可能宣布进入紧急状态。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261019-9862011",
+   "pubTime": "20:24",
+   "pubTs": "2026-10-19T20:24:19+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "金与正：朝鲜考虑增加部署武器 并进行对韩广播",
+   "summary": "朝鲜劳动党副部长金与正发表声明称，针对韩国军方的挑衅行为，朝鲜正考虑在边境增加部署战术武器并恢复扩音器广播。目前朝韩边境局势因地雷埋设及越境事件频发而陷入高度不稳定状态。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261019-9861969",
+   "pubTime": "20:15",
+   "pubTs": "2026-10-19T20:15:43+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "李在明：韩国有能力拿回战时作战指挥权",
+   "summary": "韩国总统李在明表示，韩国完全有能力从驻韩美军手中收回战时作战指挥权，且相关谈判进展顺利。他强调韩国已建立起足以应对朝鲜的强大军力，并认为核武器应被视为最终的防卫手段。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261019-9861787",
+   "pubTime": "20:10",
+   "pubTs": "2026-10-19T20:10:16+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "澳洲新型无人潜艇长“利齿” 可部署水雷与无人机提升作战能力",
+   "summary": "澳大利亚计划为其自主研发的“幽灵鲨”超大型水下无人潜航器配备水雷和空中无人机，以显著提升水下作战与监视能力。该项目总价值达18亿澳元，旨在通过先进的无人装备加强远海防御。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261019-9860584",
+   "pubTime": "20:04",
+   "pubTs": "2026-10-19T20:04:42+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "金融支持三大国际科创中心建设意见出炉：三地差异化布局 贷款、股权、债券、跨境多工具发力",
+   "summary": "中国人民银行等多部门联合印发指导意见，通过贷款、债券、跨境金融等多种工具，支持京津冀、长三角及粤港澳大湾区建设国际科技创新中心。政策重点包括将高研发民企纳入再贷款支持范围等。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2509011",
+   "pubTime": "22:29",
+   "pubTs": "2026-10-19T22:29:29+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "全球武器需求激增推高钨价 CME计划推出钨期货合约",
+   "summary": "随着全球再军事化进程加速导致钨价大幅飙升，芝商所（CME）宣布计划于2027年推出钨期货合约。此举旨在为这一关键矿产提供价格风险管理工具，满足市场对对冲钨价波动日益增长的需求。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2508992",
+   "pubTime": "22:17",
+   "pubTs": "2026-10-19T22:17:35+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "深市已有116家三季报预增，占已披露八成，业绩高增主线明确",
+   "summary": "截至10月19日，深市已有151家上市公司披露三季报或业绩预告，其中近八成公司实现净利润预增。神火股份、科大讯飞等行业龙头业绩表现亮眼，显示出AI算力与资源类行业增长势头强劲。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2508984",
+   "pubTime": "22:14",
+   "pubTs": "2026-10-19T22:14:02+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "主动ETF闪电战！闭门会连夜开，一张海报懂所有，Slogan见巧思",
+   "summary": "在首批主动ETF正式获批后，18家基金公司迅速展开宣传攻势，通过海报、推文及闭门会议等形式抢占市场先机。各家公司围绕产品策略与风格各出奇招，旨在向投资者普及主动ETF的投资价值。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2508971",
+   "pubTime": "21:47",
+   "pubTs": "2026-10-19T21:47:33+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "12英寸硅片需求持续放量 西安奕材前三季度净利1.51亿元 同比扭亏为盈",
+   "summary": "西安奕材发布2026年三季报，受益于12英寸硅片销量增长及产品结构改善，公司前三季度实现营收26.51亿元，归母净利润1.51亿元，成功实现扭亏为盈。此外，对外投资收益也对利润增长起到了推动作用。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2508959",
+   "pubTime": "21:22",
+   "pubTs": "2026-10-19T21:22:28+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "外交部提醒：赴法国中国公民加强安全防范",
+   "summary": "鉴于法国巴黎、马赛等多个城市近期爆发大规模游行示威并伴随暴力事件，外交部及中国驻法使领馆发布安全提醒，呼吁在法中国公民加强安全防范，避开示威区域，并在紧急情况下及时寻求领事协助。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2508952",
+   "pubTime": "21:13",
+   "pubTs": "2026-10-19T21:13:49+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "直击长鑫科技股东会：前三季度归母净利超1310亿元 对DRAM行业保持长期信心",
+   "summary": "长鑫科技在股东会上披露，预计2026年前三季度实现归母净利润超1310亿元，同比大幅扭亏为盈。公司表示，目前合肥与北京两地晶圆厂产能利用率保持高位，订单饱满，对DRAM行业长期发展充满信心。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2508918",
+   "pubTime": "21:05",
+   "pubTs": "2026-10-19T21:05:57+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
