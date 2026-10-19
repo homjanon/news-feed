@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "afternoon",
+ "editionName": "下午茶",
+ "date": "2026-10-19",
+ "fetched_at": "2026-10-19 15:20",
+ "translator": "gemini-3-flash(21条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "美股指期货在繁忙财报周前走高",
+   "summary": "随着市场进入繁忙的财报发布周，美国股指期货在周一早盘交易中走高。投资者正密切关注各大企业的业绩表现，以寻找关于经济健康状况和未来利率路径的更多线索，市场整体呈现审慎乐观的情绪。",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR0MwWG9IMlN3MDVva0xabG5QbzNhX09jY3JnaVVTSHJvYXFMSmtHaDhFZ2RTSHVFLUVKYU9za2MxTXA4UGZDN0E3YVk4dEF6QmtIc2Z5YnR5TXB4V2h1QWR6MllZYXRUcGsyOExYMEloYll2RDhHVklKRno4TGhCaGV3RC1OMFJ3c04wWUVCblVFUkdB?oc=5",
+   "pubTime": "13:55",
+   "pubTs": "2026-10-19T13:55:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "人工智能初创公司Anthropic承诺将5%股份投入公益基金",
+   "summary": "人工智能初创公司Anthropic宣布，将把公司5%的股份分配给一个新设立的“公益基金”。此举旨在通过投资公共利益项目，确保人工智能的发展能够惠及全人类，并履行其作为公益性企业的社会责任。",
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96d1pfMGRCUGNicWlMXzlMckdGTGlnMGJyM1ZwR3lxb2xoRG5BR19QaWNDVDBPVXFXRVhQd2lDM0RfTXNNMGE1WFgwNVR3R3MxQV9rV2lseGRSZ28?oc=5",
+   "pubTime": "12:30",
+   "pubTs": "2026-10-19T12:30:59+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "中国第三季度经济增长4.5%，出口表现强劲",
+   "summary": "受出口激增的推动，中国第三季度国内生产总值同比增长4.5%。尽管国内消费者支出仍显疲软，但强劲的海外需求支撑了整体经济增长。与此同时，欧洲市场的动荡也让全球投资者对宏观经济形势保持高度关注。",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbTdTLWVJN0c0aUdlWG1hTlR4WEtoalRXTmt3RzZHREYtaGt6ZlZzbGs1ekNROER5ekhBWUI2UWNpLXBubFRhc3dSXzdkemR5RXZpOVd0YTV3Tld5b3d5Q1dhV1BDSWJ2eWlIQ0FGWV9vY3lMcktNcVlkS193R1F1Y0NVTThEdVlGSzRxSjlYRGRfcEkyeVJ0VVk1OEUyVDVtbUE?oc=5",
+   "pubTime": "12:03",
+   "pubTs": "2026-10-19T12:03:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "AI交易动摇令债市大规模做空头寸面临考验",
+   "summary": "随着人工智能相关股票的交易出现波动，债券市场的大规模空头头寸正面临挑战。投资者开始重新评估市场风险，AI热潮的降温促使部分资金流向避险资产，导致此前押注利率将持续上升的空头头寸受到冲击。",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLWFfUWVYbDM3OXlSc2Zfcjg5THNXeDlYS21oVFF5MTJKMXhuemNtU3J0aVRPMVNtMEczeG5KdE5sbTNZdUFkZEF4eDNuNGFFc0huTmtuNWlFZ2JXN3BKd2lMRmJTMGMyREE4ODhXT3gzQmF1U1h5RWI4eWVmT3I1Z2lfZVhyS1JwTXRXZWRXUzl5Q1BJME1VWWlOV2dPQXl6RUY3dEhiNlROdU14SmwwZ2JHUE8zQQ?oc=5",
+   "pubTime": "11:20",
+   "pubTs": "2026-10-19T11:20:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "因担忧MSCI下调评级，印尼股市跌至六年低点",
+   "summary": "由于市场担忧MSCI可能下调印尼的指数权重或将其剔除，印尼股市遭遇恐慌性抛售，跌至六年来的最低水平。此次抛售波及股票和债券市场，反映出投资者对该国在全球主要指数中地位不保的极度担忧。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUGRNYzFac0U4QWVBazdNRlczbS1uOHNqcVpQUkkzV1RGUnhrNmlkX3J2SkNaWUpTRmU4MjdDTF9Jd0owRnk2Q3ZHa1h0c3BLRGh5ZTN2UFlMd2N1LWhsdjhlSzRIZkRQRmJKbkRfb2xpdExEMFJ1RGMzNl9LUHdlZkRwSzB0dkZi0gGOAUFVX3lxTE1xTG4tdFlySzNwQ2pwNzlEeWgzVkVqT3VuOFBLbW5yU2hsb0V2UC0zQVVseXo5bHFvR05QblhWTVRuaUotSWduVmZkX1pTTWowNTVfM0pyTWV1ZDhLampmcFNCYTRBdVhGcmo3Uy1fNkdFQ25qNGxYajlXZ2kycV8xelNDVXVmS3NXTkpQTFE?oc=5",
+   "pubTime": "11:00",
+   "pubTs": "2026-10-19T11:00:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "北卡罗来纳州汽油价格全美最低，但居民仍嫌贵",
+   "summary": "尽管北卡罗来纳州的汽油价格目前处于全美最低水平，但当地居民仍认为油价过高。在实施燃油税减免政策一周后，相关部门已收到数百起关于油价的投诉，反映出在通胀压力下，民众对生活成本的变动依然高度敏感。",
+   "source": "WRAL",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNajJiZWtlUGN0bmdjVk5zcTNNdjA5T09HX1FiT2czUWxZaUZDWDhmRkhITUJaT3M0SnQwbXg5dW82VGlKZFVoMEVNOHNvRV9jdkxZWml2X2NQbnFwem1MX2IwX1poRzI5cmhZdVNhZFJIalhuTjN0MGtFRF9kRVdOd2c1Mm5FcktfcERJXzctYXJwblo3eFdmNXg5X2lFT0dpYldPRVJsZWF3TXNfOVZR?oc=5",
+   "pubTime": "10:30",
+   "pubTs": "2026-10-19T10:30:24+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "万圣节糖果价格调查：沃尔玛与塔吉特等零售商价格普涨",
+   "summary": "随着万圣节临近，各大零售商的糖果价格显著上涨。调查显示，沃尔玛、塔吉特等超市的糖果售价均高于往年。尽管价格昂贵，但预计今年万圣节的总支出仍将创下新高，消费者正在高价压力下寻求省钱之道。",
+   "source": "TheStreet",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZnAtdzFpNjNHU3BGbld2REx1WC1CWC05aVNpamlnQk9CMVN4MnU4Q1Z5UF9BT2tZcktxcTFoeXpYWk9BVUlrSTdCbVhpQ0RkbDJaN05pX09Xdmt6b2YzbllLdGNXWW45Y21JdlpuUEVEeTF6WWVmd0xjcC1IT1lKOUVJVFZZSjEzbUZpdjR2VTlUR0tSS2c?oc=5",
+   "pubTime": "09:23",
+   "pubTs": "2026-10-19T09:23:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "豆包发言人指“一半算力用于视频和短剧”不实",
+   "summary": "豆包发言人回应称，关于“中国一半算力用于短剧和视频”的数据不实，实际仅约10%用于视频生成。此前有报告称国内55%的AI Token消耗来自短剧，引发舆论对算力“不务正业”的批评。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261019-9859777",
+   "pubTime": "15:03",
+   "pubTs": "2026-10-19T15:03:40+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "菲外交部召见中国驻菲大使 抗议他“威胁动武”",
+   "summary": "菲律宾外交部召见中国驻菲大使井泉，对其上周发表的所谓“威胁动武”言论表达强烈抗议。井泉此前在马尼拉出席活动时，曾斥责菲方称中国为“麻烦制造者”的说法是无稽之谈，并批评菲方煽动仇恨。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261019-9859661",
+   "pubTime": "14:46",
+   "pubTs": "2026-10-19T14:46:52+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "武汉抗疫电影《白衣逆行者》积压六年 下星期将上映",
+   "summary": "由邱礼涛执导、刘德华领衔主演的武汉抗疫题材电影《白衣逆行者》定档11月6日上映。该片于2020年底杀青，讲述了医务人员与居民共同抗疫的故事。面对积压六年的影片定档，网民反馈不一，部分人表示不愿回忆。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261019-9859624",
+   "pubTime": "14:41",
+   "pubTs": "2026-10-19T14:41:33+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "吴钊燮：台欧要并肩作战对抗中国大陆",
+   "summary": "台湾国安会秘书长吴钊燮上周出访欧洲，在柏林举行的台湾论坛上发表专题演说。他在社交平台发文强调，台欧应并肩作战对抗中国大陆，并与欧洲议会安全暨防卫委员会主席等人士进行了对谈。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261019-9859396",
+   "pubTime": "14:06",
+   "pubTs": "2026-10-19T14:06:11+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "中国官媒透露长征核潜艇已经发展到第三代并成功试射",
+   "summary": "新华社发文透露，中国“长征”系列核潜艇已发展至第三代，并成功组织潜射战略导弹试射。军事专家据此推断，这可能意味着095型攻击核潜艇或096型战略核潜艇已完成相关测试，引发外界广泛关注。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261019-9859368",
+   "pubTime": "14:03",
+   "pubTs": "2026-10-19T14:03:19+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "中国国产卫星互联网实现南北极青藏高原三极联网",
+   "summary": "中国国产卫星互联网首次成功实现北极、南极与青藏高原的“三极”联网通信。正在执行北冰洋考察任务的“极地”号完成了相关测试，验证了在极端环境下语音通话、大数据传输等全场景通信能力，改善了信息孤岛现状。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261019-9859108",
+   "pubTime": "14:01",
+   "pubTs": "2026-10-19T14:01:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "港深新皇岗口岸重阳节出入境人次达15.2万 为开通以来最多",
+   "summary": "香港官方数据显示，新皇岗口岸在重阳节假期录得15.2万出入境人次，创下开通以来新高。当天香港各口岸总出入境人次达132.2万，皇岗口岸在中午时分出现显著的北上人潮高峰，一度造成挤塞。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261019-9859251",
+   "pubTime": "13:44",
+   "pubTs": "2026-10-19T13:44:52+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "港股评级汇总：西部证券维持香港交易所买入评级",
+   "summary": "机构发布最新港股评级：西部证券因T+1结算利好维持香港交易所“买入”评级；招银国际因临床数据亮眼上调信达生物至“买入”评级，目标价138.63港元；华源证券则维持对361度的“买入”评级。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2508367",
+   "pubTime": "15:14",
+   "pubTs": "2026-10-19T15:14:55+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "高盛展望Q3财报季：美股牛市盛宴继续，但龙头股恐暗藏回调风险",
+   "summary": "高盛发布研报指出，受企业盈利支撑，美股牛市行情有望持续，但警告当前市场高度集中，龙头股存在回调风险。高盛建议投资者关注前期跑输大盘的消费板块，预计明年居民购买力改善将带动该板块修复。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2508225",
+   "pubTime": "14:31",
+   "pubTs": "2026-10-19T14:31:32+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "三一重能林志刚：聚焦主业提升产品竞争力 争取海外市场保持快速增长|财专访",
+   "summary": "三一重能副总经理林志刚在专访中表示，公司将继续聚焦风电主业，通过产品创新和服务提升竞争力。未来目标是保持海外市场快速增长，同时改善国内经营质量并布局后市场，在多元化发展方面则持审慎态度。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2508199",
+   "pubTime": "14:29",
+   "pubTs": "2026-10-19T14:29:34+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "“存储双雄”血崩之际：韩国养老基金“亏惨了”！",
+   "summary": "韩国最大养老基金国民年金公团（NPS）因三星电子和SK海力士等持仓股票价格下跌，下半年损失约182万亿韩元。截至10月中旬，其在主要上市公司的持股总估值较6月底大幅缩水，为2024年以来首次季度下滑。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2508216",
+   "pubTime": "14:14",
+   "pubTs": "2026-10-19T14:14:14+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "思沃先进杨家兵：AI时代先进封装站上“C位” 把“贴膜”做成决定良率的核心工序",
+   "summary": "思沃先进副总裁杨家兵指出，先进封装已成为后摩尔时代提升芯片性能的核心出路。公司专注于图形转移制程中的高精度贴膜撕膜技术，旨在解决先进封装中的良率问题，为PCB、半导体及IC载板提供专业解决方案。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2508179",
+   "pubTime": "13:54",
+   "pubTs": "2026-10-19T13:54:54+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "即将启动！2026全球数商大会以“数智共生 链接世界”打造国际数据要素交流平台",
+   "summary": "2026全球数商大会将于10月30日至31日在上海举办。本届大会以“数智共生 链接世界”为主题，将深化与世界数据组织合作，并邀请哈萨克斯坦作为特邀伙伴，旨在打造全球数据要素领域的交流与产业对接平台。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2508156",
+   "pubTime": "13:41",
+   "pubTs": "2026-10-19T13:41:59+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "成份股调整预测：机构称紫金黄金国际等有望纳入恒指 欢创科技等有望入通",
+   "summary": "恒生指数公司将于11月20日公布指数调整结果。中金公司研报预测，紫金黄金国际、建滔积层板、太古地产、康方生物及小鹏集团等公司，基于市值顺位和行业代表性，位列潜在纳入恒指的候选名单前列。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2508147",
+   "pubTime": "13:29",
+   "pubTs": "2026-10-19T13:29:17+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
