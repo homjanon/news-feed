@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "night",
+ "editionName": "夜豆浆",
+ "date": "2026-10-21",
+ "fetched_at": "2026-10-21 22:30",
+ "translator": "gemini-3-flash(21条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "奈飞第四季度营收指引不及预期，华尔街下调目标价导致股价大跌",
+   "summary": "奈飞股价因第四季度营收预测不及预期而大幅下跌，触及两年低点，促使华尔街分析师纷纷下调其目标价。尽管联席首席执行官萨兰多斯表示竞争压力并非来自YouTube，但市场仍对如何恢复营收增长持怀疑态度。",
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNEJkYUJaMXNVbEhiRTVINEhQZEptTkdWWFpkQkhDc2hDMkREQVRteGxITEZGVlYwcnZzSUdmd1ltclFkM2hBTnp2OGVWSVJEaWlub29QdHVMVC15eTRISWRPUGZLT3NaS2FiZHhwNGxtOExtUDBQUUpHejhDOFRmQ2pFQXhKRUNuN1JnM3RiR281VjlfT1ZvS1IxX2FWZ0tZQ3VjMTAzRERHQnowczhMNGJRUU1YeUFPdGNxVDNOWFFrZ0FOckdkNDdZNDFwaXhtaF81VXhJSzRLb1hVVW5JVks2Q09vVVViQ3dVN21n?oc=5",
+   "pubTime": "21:39",
+   "pubTs": "2026-10-21T21:39:19+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美股动态：纳指高开，SpaceX受特斯拉合并传闻推动股价大涨",
+   "summary": "纳斯达克指数受科技股反弹推动高开。马斯克旗下的SpaceX因营收增长161%以及与特斯拉潜在交易的传闻，股价大涨8%。这一消息重新点燃了投资者的热情，带动特斯拉及相关科技板块集体走高。",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQmtVSC1FUS1RTWFJU2t1bmFXenNxZHRsM0ZlRklRb3Fuajh2eXFDLWItTmpKTzZaU25lNzJ3dFZyR01BaXVIY01fbFNXVUVySHZOU0NYelhRSzQtSDlTOF9SWVQ1aUFxUGJKT0lzUExaOW9nNkZFYXpjcFNqT2c4QjE3SXRPdGs?oc=5",
+   "pubTime": "21:34",
+   "pubTs": "2026-10-21T21:34:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "AT&T无线用户增长不及预期，上调利润展望仍难阻股价下跌",
+   "summary": "AT&T公布的第三季度财报显示，尽管盈利超出预期并上调了全年利润展望，但由于无线用户增长不及预期，股价依然走低。市场正关注其后续表现，以及是否会引发针对iPhone 18的市场份额争夺战。",
+   "source": "Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY2tmVXBIMjFza1JXOUJkNFlkemtsY1dTY01kdXZYUGJTb1NZQUlMY1J5ZHI4VnNfXzJFbThRX2dwRG4yZkd3dU9WbnJKQzI5MGgxSXdmZDRFb04xZFRTX3ZleVB3dlpTXzFUcHhSWkpXa0FRanhZQWMwWlRZTldWNXk4a0dFbEI3XzBhdEhMTXJvWTdZM3FzNQ?oc=5",
+   "pubTime": "20:34",
+   "pubTs": "2026-10-21T20:34:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "超微电脑上调营收预测，股价因AI需求强劲而大幅飙升",
+   "summary": "服务器制造商超微电脑（Supermicro）股价大幅跳升，此前该公司上调了营收预测，初步销售数据超出了市场指导预期。这一乐观前景反映了人工智能需求的持续强劲，为近期承压的AI板块带来了市场信心。",
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMmwtbENuVjVFanNCTDdzRDdfck9yOHlXT1NCekd2eGtQSVhUYjNCelM2SDNMZjVfckY3U3FMa2pybzJlRjlZckRjekJBTE40cEF2RThVcmVVRXJxQUcyRnk4c3pWQ0hGeVhtZzk5V21ubFMzNnlhRURXalQ1endVZ0R0dzJkT1A5QnpNYnc5ZlBnaDFCbDJRbzE3UFN5LW5ua3VST0xRN0VjUExXazBMWTE1X2p3aDdXTUE?oc=5",
+   "pubTime": "20:24",
+   "pubTs": "2026-10-21T20:24:08+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "波音最大型737 MAX客机获FAA认证，1555架订单交付障碍扫除",
+   "summary": "波音公司最大型号的737 Max 10客机在经历多年延迟后，终于获得了美国联邦航空管理局（FAA）的认证。此举为该型号已积压的1555架订单扫清了交付障碍，标志着波音在恢复产能和市场信心方面取得重要进展。",
+   "source": "Fox Business",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU180V093NHc5SlF6Wnl4U0huRGVyeWxlWU92MWZTZzNUUFBSOVNQOUhPY0NNa2o0UDJqUnQyeHB6dGFFSGZrei1LcVdFZlFsVUdPSEp3LVFCSGd5Q1JJSVhnQzZTakxxeGRabzF6MlQ4Qjh6bTFBWU1veU5xRmZFdDhHVk5tNlRlMkVqSGFqMkl3WmdEM3RocXgyWTBDNTdSeHgxa3dIZmRaejFoeTE3N3JLNkpYTmM4T25OZmxGc0o1dW4zNXVjZ9IBzgFBVV95cUxPczlIZ3hCZTFxRTFiUGFpbVU0T1Q3VV85QkMyUXJfM09XMXJpc3VfUU5mNEJlQnZVSkNIQ0hONkRNMUZiN0t2THU0T2sxNHU1US1tdW16cVdQWVoxTHFuaWRLOGNiWkVycXMwTG5HM1lrV25tQm9zamlqdzBRTGlwT1RYbDkwQmxIQVVxN1NSMnlqd0h3UHpock5NMkNzcGlrUWVhZVh4TTF5SnZNOGtaZVdXY3ZiVVAyekFxRWpTdFY1RE9OUHhPQ0txMXFUUQ?oc=5",
+   "pubTime": "20:16",
+   "pubTs": "2026-10-21T20:16:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "联合航空斥资26亿美元改造休斯顿枢纽，将启用最大机场贵宾室",
+   "summary": "作为休斯顿枢纽26亿美元整体改造计划的一部分，联合航空宣布将在乔治·布什洲际机场启用其面积最大的贵宾休息室。该休息室占地5.4万平方英尺，旨在提升旅客体验，并配合B航站楼的全面升级转型。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZU5GTlFxbmFERE5fNXUzVjY0ZmI3R2g1NE8xMEFVZU9TUm5Fa1RYTXc4X0ZOM2JlSW9MVnNnOWNaNlltWXhoUlFRdWMxdEVCMkk5S0VodDNRRFNwMVd4YmpzUXBDVlhEYzloaUx0R2JNd19GMEhSZXJQVTkySXFwUnBseGMzSFNZVkdv0gGQAUFVX3lxTFBMbWxTOWlla2tCdWF5eEREUlpPVEtZaHJRZHV5MHptYmlhdDBPVW8tNjZpQ2l0SzVhRktYc2h2dHd5a1JKRkRHRF80ZzlzRE53VFNEVFpmTm5Ub3M5Nml0STQ5ZFFjOTFiZHVUVTg0MXVhM0dILTRPZFVYZ3h2b1lMT3RnRXlVdk9fd0Nhd3VnYQ?oc=5",
+   "pubTime": "20:09",
+   "pubTs": "2026-10-21T20:09:51+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "OpenAI将AI模型引入谷歌云，进一步拓展微软以外的合作版图",
+   "summary": "OpenAI宣布将其顶尖AI模型引入谷歌云平台，这是该公司在与微软深度合作之外的又一重大扩张。此举将为谷歌云客户提供更多模型选择和灵活性，同时也标志着OpenAI在企业级市场进一步推行多元化分发策略。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNXhvUlpRaDlhdjFIa3BDYy12MFBILU1vZFNfa0ZKUlV6cERUd1lVUWtEbEFVcTAxRlVuaGJFTENlYUtyOFloTlhRZ1QwTW5zOUd2UXFwT1pjS0FhX2NfT0R4MUJpNVZ6Z3ItZ05WRklZN2tSX2NUdkhsckYyM1FHbjM4Mi1WeTNvdUI5MkR0LXphNWs5UHFUZGxENXE4NWliZkdQeXR5eW7SAa4BQVVfeXFMTUhXVUF3ZHRsOGJpRnlGR2dKT2FWdk5oaW5zTzVJN1E5aEt5eGM4Wmtyei00T2F4dFBMSm5CWGR1WjYzU3BpVWpKUjdNZkltS3VzdkYyMDNMZWtCbnQwZHUtMVV5dTdmZF9tcVpnVW52aGlqNGJzNlJvaDJyZXRMR19QN293Tzk2NnV0NXVwUmxBUUx6TTA2aDMzaUlTc20zWFg2UkhfdnhCUnpnMm9R?oc=5",
+   "pubTime": "20:00",
+   "pubTs": "2026-10-21T20:00:02+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "厄尔尼诺今年底或达空前强度 全球5000万人恐挨饿",
+   "summary": "世界气象组织警告，本轮厄尔尼诺现象可能在年底达到极强程度，导致太平洋部分海域温度创纪录上升并引发全球极端天气。联合国官员指出，这可能使约5000万人面临严重饥饿风险，预计现象将在12月左右达到峰值。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261021-9874109",
+   "pubTime": "22:22",
+   "pubTs": "2026-10-21T22:22:20+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "国际能源署：全球能源市场恐至2027年仍难恢复正常",
+   "summary": "国际能源署署长比罗尔警告，受中东局势动荡及能源供应链受阻影响，全球能源市场在2027年前恐难恢复正常。他特别担心霍尔木兹海峡的关闭风险，近期该海域已发生多起油轮触雷爆炸事件，进一步加剧了市场担忧。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261021-9872688",
+   "pubTime": "22:08",
+   "pubTs": "2026-10-21T22:08:54+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "法国骚乱冲击旅游业 业者忧局势持续恶化",
+   "summary": "法国多地爆发的暴力骚乱导致警民冲突与商店遭抢，严重冲击当地旅游业。巴黎等主要城市的酒店预订已出现放缓迹象，旅游机构担心若局势持续恶化，将对法国旅游形象及经济造成长期的灾难性影响。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261021-9873902",
+   "pubTime": "21:43",
+   "pubTs": "2026-10-21T21:43:24+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "美特使与普京商讨重启俄乌和谈 泽连斯基支持三方会晤",
+   "summary": "乌克兰总统泽连斯基表示支持美俄乌三方领导人直接谈判，强调讨论不能排除乌方。他透露与美国特使的会谈富有成果，并期待美俄接触能推动停火及外交谈判，以达成包含安全保障的协议，防止再次被入侵。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261021-9873722",
+   "pubTime": "21:11",
+   "pubTs": "2026-10-21T21:11:30+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "韩国釜山鲨鱼受困运河逾一个月 终获救重返大海",
+   "summary": "一条长约三米的濒危灰色真鲨在韩国釜山港口运河受困一个多月后，于周三成功获救并重返大海。该鲨鱼因出现在市中心水道吸引了超过160万人次围观，此前曾经历两次救援失败，最终在官方引导下脱困。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261021-9873526",
+   "pubTime": "20:14",
+   "pubTs": "2026-10-21T20:14:11+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "117岁阿尔巴尼亚老妇 或比健力士最长寿女性还年长两天",
+   "summary": "阿尔巴尼亚117岁老妇玛拉的家人向健力士记录提交了多份官方文件，显示其出生于1909年8月19日。若记录属实，她将比目前全球最长寿女性还年长两天。尽管年事已高，她仍能亲自打扫庭院并照顾家禽。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261021-9873450",
+   "pubTime": "20:02",
+   "pubTs": "2026-10-21T20:02:22+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "北约东翼遭多起无人机袭击 联盟向黑海增加部署",
+   "summary": "针对近期黑海海域民用船只频遭袭击的严峻形势，北约宣布向该地区增派海上巡逻机、无人机及雷达系统。此举旨在提升联盟的态势感知能力，加强数据共享，以应对针对保加利亚和罗马尼亚附近海域的威胁。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261021-9872968",
+   "pubTime": "19:25",
+   "pubTs": "2026-10-21T19:25:38+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "OpenAI将ChatGPT广告业务扩展至26个新国家",
+   "summary": "OpenAI宣布将ChatGPT广告业务扩展至包括阿根廷、乌克兰在内的26个新国家，使覆盖范围达到89个国家和地区。公司旨在通过扩大广告规模增加收入，为未来可能的IPO做准备，将其打造为新的业务支柱。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2511489",
+   "pubTime": "22:05",
+   "pubTs": "2026-10-21T22:05:55+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "政策利率\"换锚\"点燃短端，1年期同业存单盘中下破1.40%",
+   "summary": "受央行研究将主要政策利率切换为隔夜回购的消息影响，同业存单市场反应强烈。1年期国股行品种二级市场收益率一度跌破1.40%，短端多头情绪集中释放，存单二级市场交投活跃，收益率曲线全线下移。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2511464",
+   "pubTime": "21:30",
+   "pubTs": "2026-10-21T21:30:39+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "马斯克、黄仁勋接力托举 科技题材携手走高 | 今夜看点",
+   "summary": "随着SpaceX业绩超预期及英伟达CEO黄仁勋柏林演讲获得积极反馈，市场对人工智能的需求信心大增。受此提振，美股科技股反弹氛围浓厚，纳指期货盘前走高，缓解了此前市场对“AI交易”的焦虑情绪。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2511452",
+   "pubTime": "21:09",
+   "pubTs": "2026-10-21T21:09:25+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "港股公告精选｜安踏主品牌三季度零售额同比负增长 宁德时代斥资8亿元回购A股",
+   "summary": "港股最新公告显示，安踏体育三季度主品牌及FILA产品零售额均出现同比负增长，而其他品牌则保持高速增长。此外，中国建筑国际前三季度利润同比下降，宁德时代则斥资8亿元回购A股股份。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2511443",
+   "pubTime": "21:03",
+   "pubTs": "2026-10-21T21:03:23+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "百亿红包落地，17家券商中期派发113亿",
+   "summary": "截至10月20日，已有17家券商披露中期分红方案，合计派现金额达112.86亿元。其中，国泰海通以42.02亿元的分红总额位居榜首。头部四家券商分红额占总额近八成，显示出行业分红向头部集中的趋势。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2511448",
+   "pubTime": "20:57",
+   "pubTs": "2026-10-21T20:57:17+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "Q3净利同比增超200%！500亿光模块概念股发布三季报|盘后公告集锦",
+   "summary": "仕佳光子发布三季报，第三季度净利润同比增长226.19%，营收增长超116%。业绩大增主要得益于AI算力需求驱动下数通市场的快速增长。公司产品竞争优势凸显，订单量较去年同期显著增加，盈利能力大幅提升。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2511447",
+   "pubTime": "20:55",
+   "pubTs": "2026-10-21T20:55:50+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "科创板晚报|仕佳光子Q3净利同比增长226% 微芯生物签订NW001合作开发协议",
+   "summary": "今日科创板要闻包括：两办发文全面实施“人工智能+”行动，推动产业深度融合；英伟达携手伙伴扩产加速AI基建；小米预计未来五年在硬核科技领域投资超2000亿元。此外，仕佳光子三季度净利实现翻倍增长。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2511445",
+   "pubTime": "20:55",
+   "pubTs": "2026-10-21T20:55:05+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
