@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "afternoon",
+ "editionName": "下午茶",
+ "date": "2026-10-22",
+ "fetched_at": "2026-10-22 15:20",
+ "translator": "gemini-3-flash(7条) + agnes-3.0-flash(14条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "美股期货走低，科技股财报带动的涨势消退",
+   "summary": "随着投资者开始消化Meta和特斯拉等科技巨头的最新财报，美股期货出现下跌。尽管此前市场受科技股带动走强，但周四开盘前投资者情绪趋于谨慎，正密切关注即将公布的更多企业业绩及市场动态。",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeTBrLWVPck50dERfQ3N3cFhBMFpUN3lfZFFOeXZLM0lDR0lOSFp2Vnd0OHFaWU5JQ092UHg4XzlXQlEtN2JQNG1oWnpFYWFKSUFoYmZkT1FqTHR1bXR5b010d3ZvSENDZ0phTk04R1k5aUg4Z2ZTb1p2MmQ2LW53Ulk5NktSU0prZWwtMkFIZFo1SDll?oc=5",
+   "pubTime": "13:58",
+   "pubTs": "2026-10-22T13:58:59+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "马斯克称特斯拉需求超过产量，Cybercab即将在达拉斯发布",
+   "summary": "特斯拉首席执行官埃隆·马斯克表示，目前公司车辆需求已超过产量。尽管汽车业务营收有所下滑，但特斯拉最新财报在利润和销售额方面均超出预期。马斯克目前正将公司未来重点转向人工智能和机器人领域。",
+   "source": "Fox Business",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbC1fQUlpLTBJc1l6SXppY3ZZLXVpclhSMmpMTktnUjE2djA0UlVoRXlFT1ptMHhWQlFHSS13b3lzOWZmVThHbXhndmVzRGpyRWlob0lJRGpyOXFHOE5TeDF0d2VuOW5XcGNNeE43SDVaWlNXV1pMRlNEdVl3VzVpMTBCb0FadkdieGJsaFRJSGNxdUN3dDBLUHpSQkg5NXh6MVVyU1pxTXloM1VVZ2x5RGM2Yk1DRmZpN3lJQ19VYXdXZ9IBxwFBVV95cUxQcmtObEV1cWVsclhVNzItRW5WQmtrai1uXzRBTTJ1U2pPdmFmYVYxTHdwY0JuSTZVM2xOcG55RFU1RHN6eDBQckhneldEREtWemJqYTFOWW53OWpLNXFOd1IzWjhxSklTaGFCNHVRUkxHXzU0TXV0QkpTMkxQYUFtWTNieGR4emd6LTFQS3RaT3pCb2pFc1ZycVFHMFNLZW5Vd2xTSjR0WHdGakFRSGQwMDdwYVhtUi1MSjQ2WHZtTzJyckdjX2VZ?oc=5",
+   "pubTime": "12:38",
+   "pubTs": "2026-10-22T12:38:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "独家：马斯克公开支持SpaceX与特斯拉合并或令谈判受阻",
+   "summary": "埃隆·马斯克公开表态支持SpaceX与特斯拉的潜在合并交易，这一举动可能给双方的谈判进程带来变数。分析认为，合并后的实体在处理中国市场问题上将面临挑战，且该合并构想已引发部分SpaceX股东的强烈担忧。",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMElybkJjbnJVcng0S3ZMdGFraU9qazdTRS1sU05ScEU3YWpHTlJYRS1TTVVRa0FvR3Q5aFNjeG1TRWJPQU00clFvbmtSYlVMMEhrcE1MRUxXcG5Uamo4emRadjI5LTU1eENCX1Z4MnRPd2ZJYlJPVzZNSnNzQ1lLRGJiaUxxbVRucWNjdXUxWTlmcDEtM0VMazROblJvLXJGTXZmcG01RkxRaXRuUEVHdlBVOEJMMndJYVE?oc=5",
+   "pubTime": "12:24",
+   "pubTs": "2026-10-22T12:24:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "黑客在补丁发布前已利用PHP关键漏洞",
+   "summary": "安全研究发现，黑客在PHP官方发布补丁的数日前就已开始利用相关漏洞。AI工具揭示了影响全球约70%互联网服务器的关键远程代码执行漏洞，美国国家安全局及亚马逊已发布安全建议，敦促用户尽快完成修复。",
+   "source": "WIRED",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRHBCSV9jVXNQRUVUankxMEdROWJyZUxVazhZSElHVm9rc1lPZUFwSHBjR0I1dXRsMWVSWXVUZ05QSlZCNEctQ01hYnJwUGVJOUN0YTJwQm9PODdLMExVeEFsLXpJRFFBX3FiOHh3blJ4cjEtS2J1MHNFZktmN1YtNk0ycUN3dTRYY1FSMGotZFRGNWU1NGNIdmZDLWctYThUdmc?oc=5",
+   "pubTime": "10:24",
+   "pubTs": "2026-10-22T10:24:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "特斯拉股价冲高回落，机器人与芯片业务前景引发担忧",
+   "summary": "尽管特斯拉第三季度财报表现亮眼，但由于马斯克在机器人和芯片制造领域的谨慎表态，股价在盘后交易中由涨转跌。投资者认为马斯克的发言未能提供足够的前瞻信息，且飞行汽车首秀后的市场反应也令股价承压。",
+   "source": "Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTjFIV1EyQkFCbm9KV2ptaTR6Vk9uQ2haanhaUGZNUDU2YWhuNEw4LUF0M0x6am0yRDh0aHRIZWNSTlp3eG5lYkJla0lBMnd2bURCVVFKbi1sNGplaFBFRGtyTmJFaHNWTmhQN0hxMWVRVjloLThaUFNRMF9udEdjT2Y3TDlscTB5N0d2bEtEdkJVNnUxSkJpLUhfX1Q1Ung1S3hHR1NSV0RIRXZKYUJQVEQtamoxQkgtNm5BdjRmWmo?oc=5",
+   "pubTime": "10:18",
+   "pubTs": "2026-10-22T10:18:03+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "中国AI初创公司深度求索融资150亿美元，挑战美国顶尖实验室",
+   "summary": "中国人工智能初创公司深度求索（DeepSeek）成功筹集150亿美元资金，旨在向美国顶尖的AI实验室发起挑战。这笔巨额融资反映了中国在生成式人工智能领域的雄心，力求在全球AI技术竞赛中占据领先地位。",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbV8yRlI5QUgtclQ1Y25PbklMNW5ITlNyUm9udEYwQkFaRmoxZ3R4bVdKOEItVVpLX3lXejBfSzllSVZUTFZuRDVSckkzcHJrUnZwRVhCamxrMzh6cjVPYk04N0thbjRlenFlLXZpT0E3TUtsSzFlS1VBY2NHRTh2Rk5NNDhXRVVoYnJHMWFPbFVPbzZoQm5VMzBpREs5b183eE9PQTZ1SGgySkVxTFE?oc=5",
+   "pubTime": "10:17",
+   "pubTs": "2026-10-22T10:17:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "亚洲股市跌至三个月低点，受科技股忧虑与海湾局势拖累",
+   "summary": "受科技股抛售压力及海湾地区局势紧张影响，亚洲股市跌至三个月来的最低水平。尽管美股此前曾有反弹，但美股期货的走弱和地缘政治风险令亚洲市场情绪受挫，投资者纷纷撤出风险资产以规避不确定性。",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNmlzbXFUNWNXc3U3RHRac2lYVEhXNjZmZGw0Q19yNVRORUEtak91QlJnTEVqcGhWT2xuT2RmOHdTVHlyN1JmSHRVZEpfMzgtNEVMT1RCWk1VNGswaVFYTXI4WlFpUE95aEJid1NxNVNBdzBGX0pzOUQwMnZnQ25kOVNXQQ?oc=5",
+   "pubTime": "10:15",
+   "pubTs": "2026-10-22T10:15:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "中国工信部预警PHP超危漏洞 吁立即升级防范攻击",
+   "summary": "中国工信部预警PHP存在两项超危远程代码执行漏洞，黑客可未经身份验证控制服务器、泄露敏感信息并致业务中断。通报指出受影响版本包括8.5系列低于8.5.12、8.4系列低于8.4.27等，呼吁相关机构及用户立即排查并升级系统。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261022-9877030",
+   "pubTime": "15:06",
+   "pubTs": "2026-10-22T15:06:20+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "中使馆建议中国公民暂勿乘飞机在沙特旅行",
+   "summary": "受也门胡塞武装持续袭击影响，沙特达曼机场遭袭致一死八伤。中国驻沙特使馆建议公民暂勿乘飞机在沙特旅行，并提醒在沙中资机构及公民提高安全防范意识，减少非必要外出，远离机场及重要设施区域。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261022-9876856",
+   "pubTime": "14:52",
+   "pubTs": "2026-10-22T14:52:37+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "美光桃园厂员工发动24小时罢工 要求提高利润分红",
+   "summary": "美光科技台湾桃园厂因利润分红未与资方达成共识，于10月22日发动24小时罢工。尽管台中厂已签署劳资协议，桃园厂工会仍不满公司未提出具体方案。双方将于23日继续谈判，罢工预计持续至23日上午9时。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261022-9876814",
+   "pubTime": "14:37",
+   "pubTs": "2026-10-22T14:37:26+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "台国安局长：松山机场迁建要纳入国安考量",
+   "summary": "针对台北市长蒋万安提出迁建松山机场，台国安局长蔡明彦表示该机场是国安特勤维安重要据点，周边难寻替代机场。他呼吁在讨论迁建时纳入国安考量，以保障总统专机及备援直升机的整备和起降需求。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261022-9876682",
+   "pubTime": "14:12",
+   "pubTs": "2026-10-22T14:12:42+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "香港宏福苑火灾独立委员会提交报告 港媒：四部门被点名",
+   "summary": "香港大埔宏福苑火灾独立委员会向特首李家超提交报告，点名四个政府部门失职，其中房屋局独立审查组责任最大。李家超表示政府将就楼宇维修、消防等范畴进行全面改革，并研究追究责任，公开报告时需考虑刑事审讯影响。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261022-9876621",
+   "pubTime": "14:08",
+   "pubTs": "2026-10-22T14:08:45+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "中国创业板指失守2600点 较6月高点跌超40%",
+   "summary": "中国创业板指10月22日午后失守2600点，较6月历史高点跌幅超40%。受刺激措施期待减弱、企业盈利平淡及AI交易担忧影响，投资者情绪承压，市场恐进入技术性熊市。沪深300指数盘中一度跌1.6%，累计跌幅约20%。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261022-9876486",
+   "pubTime": "13:41",
+   "pubTs": "2026-10-22T13:41:49+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "广西国营农场起诉地方政府 市长出庭应诉",
+   "summary": "广西钦州中院开庭审理国营农场起诉地方政府林地权属案，市长李玉成作为被诉机关负责人出庭应诉。双方就历史遗留的林地权属纠纷表达调解意愿，法院将组织后续调解，坚持在法治轨道上统筹解决争议。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261022-9875910",
+   "pubTime": "13:37",
+   "pubTs": "2026-10-22T13:37:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "ST海泰前三季度净利大涨928% 距离“摘帽”还有多远？",
+   "summary": "ST海泰披露2026年三季报，前三季度营收5.54亿元，净利2491.05万元，同比增长928.5%，扭亏为盈。但因历史年报虚假记载被实施其他风险警示，业绩回升后能否顺利摘帽及跨过监管门槛成为市场焦点。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2512138",
+   "pubTime": "14:56",
+   "pubTs": "2026-10-22T14:56:23+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "全球七成网站面临威胁！PHP致命漏洞肆虐 多国企业连夜“下线”",
+   "summary": "全球约70%网站依赖的开源语言PHP曝出名为PHP2Shell的致命漏洞。为阻断威胁，美国国家安全局、欧盟等机构紧急示警，亚洲多国政府与企业连夜排查加固，部分政府门户网站已主动下线以防范网络攻击。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2512099",
+   "pubTime": "14:39",
+   "pubTs": "2026-10-22T14:39:21+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "以防长：伊朗若袭击以色列将灭了伊朗",
+   "summary": "以色列国防部长卡茨表示，安全部门发现伊朗正企图袭击以色列，或影响选举结果。他指出伊朗政权处于“最薄弱时刻”，警告若伊朗发动袭击必将遭到毁灭，并重申以军将保持高度戒备，在必要区域采取行动捍卫国家安全。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2512075",
+   "pubTime": "13:56",
+   "pubTs": "2026-10-22T13:56:01+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "港股网易大跌近7% 野村下调目标价并称三季度业绩相对平淡",
+   "summary": "受野村证券下调目标价及业绩预期影响，网易港股大幅走弱跌近7%。报告指出核心游戏业务短期增长乏力，预计三季度营收296.34亿元，增速放缓，主要受主力端游及手游表现制约，主业扩张步伐有所减缓。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2512063",
+   "pubTime": "13:45",
+   "pubTs": "2026-10-22T13:45:51+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "韩国央行：芯片热潮持续提振经济 芯片价格有望进一步增长",
+   "summary": "韩国央行10月维持基准利率3.00%不变，并上调本国经济增长预期。作为芯片生产大国，央行报告指出半导体上行周期延续，芯片行业提振经济，预计芯片价格未来有望进一步上涨，增长红利向其他产业传导。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2511976",
+   "pubTime": "12:59",
+   "pubTs": "2026-10-22T12:59:13+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "物理AI进入爆发前夜？王兴兴、黄仁勋齐发声",
+   "summary": "宇树科技王兴兴在2026世界物理AI大会上表示，随着GPT-6发布，物理AI已现被击穿苗头，未来1-3年将迎来爆发。核心挑战在于AI模型与真实机器人对齐，基础模型跃升将带动机器人自进化循环效能同步提升。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2511957",
+   "pubTime": "12:24",
+   "pubTs": "2026-10-22T12:24:39+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "【午报】创业板指震荡走低跌近3%，人形机器人概念逆势走强，算力硬件股持续调整",
+   "summary": "市场早盘集体走弱，创业板指跌2.77%，近4000只个股下跌。人形机器人概念逆势走强，大业股份等涨停；军工板块异动拉升。算力硬件股集体调整，新易盛跌超10%。沪深两市半日成交额9193亿，较上日缩量200亿。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2511964",
+   "pubTime": "12:08",
+   "pubTs": "2026-10-22T12:08:05+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
