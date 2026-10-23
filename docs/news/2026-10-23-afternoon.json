@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "afternoon",
+ "editionName": "下午茶",
+ "date": "2026-10-23",
+ "fetched_at": "2026-10-23 15:20",
+ "translator": "gemini-3-flash(21条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "金融市场“寒冬”降临：美债收益率跌破5%关键水平",
+   "summary": "随着避险情绪回归，10年期美债收益率跌破5%至近一个月低点。受人工智能相关交易波动影响，投资者纷纷转向国债寻求避险，此前大规模做空债券的头寸面临挑战，市场整体呈现降温趋势。",
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTEJWZGJ1WVdnazh5Nkg0dm9JakcxQmFZbWZDQW0yTnMxbExpaE4xVmFGcFotSlJPa3lUdGFyQS0wcmFweHRkYUNiSWFoMVJaNi1nR2hRMF9nUHZKdUMzeFVTQWRxSG9tTnBvVVh1YUVsZmhJRXEwMC1FdFJFNERwZWpCek8?oc=5",
+   "pubTime": "13:31",
+   "pubTs": "2026-10-23T13:31:03+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "PHP漏洞危及全球七成网站，日本将模拟网络攻击应对",
+   "summary": "人工智能发现名为PHP2Shell的关键远程代码执行漏洞，波及全球约70%的网站。针对这一严峻形势，日本计划进行网络攻击模拟演练。亚马逊威胁情报部门也已识别出相关风险，多家网站因安全隐患被迫关闭。",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT19TUUQ4aFFTY0ZlcnIwcTJ6OWpqY0pyOTBIdXd3LXJUUkxPSE5JM29VVHBSM25STGFqQ09HVGNVYVUyTXNRVHdlN0FHZ1U0TFdkNWs5RllxTVdUeDVQdmhHT01ybzkyQ3VkWW5Ec1pWSEZyaUhzX2xJMlg3SF9BdVlNbzVfcGgwbGQtd2NaZklHWXRNdEQyNHJ1WC1GWVhnd3dOSkw0NVBWbVFFSE0wWVVvM3R4dXc1?oc=5",
+   "pubTime": "13:15",
+   "pubTs": "2026-10-23T13:15:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "科技股重挫拖累亚股走低，避险情绪推动债市反弹",
+   "summary": "受科技股抛售潮及人工智能前景担忧影响，亚洲股市普遍下跌。与此同时，避险资金涌入债市推动债券价格反弹。此外，英国9月零售销售因消费者削减开支而下滑，全球市场情绪在多重压力下出现波动。",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZGVVVVZBVjRRcTNYSXJlNS0tV0E5MkEwOVlGcTh3anZ1eC16ZEdSYmp5ODRIcUo1T3BkU01vNkpTTmJxOUFELVFUUG9SS0o2SDNSWHQ5bE9PVGp3a29vLUROenZwc2FBTnhMQ3VOR1B4SVJiZjFvaDV6TjMwUlg3dUlQcmlkdUJXZU5PbXE2YWtrZXN1?oc=5",
+   "pubTime": "13:02",
+   "pubTs": "2026-10-23T13:02:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "联合健康与Humana取消部分医保计划，波及百万用户",
+   "summary": "美国两大医疗保险巨头联合健康和Humana宣布取消部分联邦医保优惠计划（Medicare Advantage）。此举预计将影响约100万名投保人，受影响的参保者将面临保险选择减少并需重新寻找医疗保障方案。",
+   "source": "NewsNation",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVlVvNFNKT1lYUmpYaXVBUEV4dlJCY2R1OEhCcnFIazlRYTdUT2t0RE9qTDNNaFFSUUVXSjZibFFXdGRTYzlQRU1sOHBITC1Db00zeUY5UnVKakhnUWhZckxhYmVUSnJpdXJjSG5BbHhNd25RRzFPWTFweWdfVGdVOHVreXUzWTlBSXp2MWd1ckJ1SEpKUmxSYlhn0gGfAUFVX3lxTE1YNkd2NDI4Q01YWUxvcU05OEZicnQ3S0JzNFBTN2JMZXRGQjhCU3VCUmVlNWw5THF4VDdOdTRZeGFaWWhObWVDbnZtY055ZzVlaEUyRUludUJaZVBfT0E2Q0pGMF83QkFyY3FYX2lvM0tjNHkzV0RGajB2R2cxdmxscW5jdWo5QktMRXM5NFYtSC1ZYXJ5V3FCQnhyQ2lLVQ?oc=5",
+   "pubTime": "13:00",
+   "pubTs": "2026-10-23T13:00:12+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "科技股抛售引发避险潮，亚洲股市震荡且加息预期降温",
+   "summary": "科技股的大规模抛售引发了全球市场的避险情绪，投资者转向债券，导致加息预期降温。亚洲股市受此拖累出现震荡，人工智能相关股票的暴跌抵消了市场信心，同时国际油价的上涨也为市场增添了不确定性。",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMG5uTk9BQ2lzbUtHT1k4Nlp4RlRCcXFvVXR5YUhCamhubGQ1SlB0c2FYczVLdl9ESzJBRzdkNmVuYU1ISVc2MndXWnBZTzBDNFdzeHBEQTNPTGU2SGhBTmtKM3Z1SWUxR2szN20yYWIySGIzUXlZcXVhdGNtTlJNMGN1WQ?oc=5",
+   "pubTime": "09:50",
+   "pubTs": "2026-10-23T09:50:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "SK海力士取消子公司Solidigm上市计划，股价反弹逾4%",
+   "summary": "韩国芯片巨头SK海力士宣布取消其美国子公司Solidigm的IPO计划，此前该计划因股东担忧及韩国监管机构的关注而受阻。受此消息提振，SK海力士股价在早盘走低后迅速反弹，涨幅一度超过4%。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KdzNWdWhnSURIVm1od1FoWG5sa05neWxtbHp3T1Myd19NNS13R0ZxdFJ4SWhFYkdWa0hJN0QxSnhKd05NUmlNYVB1bUtrUlVlT1BYeXYtd0cwRVl3MmpIVUo5aFpXVVhqUVdJ0gFwQVVfeXFMTnpSVllodEFiTU9IZThoRkY0ODVOYWo2Z3B6Y3gzaFJtdmJjR2E1anUyWnZMNFprOVBLYUI1U0R3T1oyVExleGliU09VVzZlT2huRTVSZWwzRU4tQmhNTjJRVzQ2OF9MUVBaUmRBdDFSdQ?oc=5",
+   "pubTime": "08:53",
+   "pubTs": "2026-10-23T08:53:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "扎克伯格拟定创意方案，应对加州富豪税并保留Meta控制权",
+   "summary": "为应对加州拟议的亿万富翁税，马克·扎克伯格制定了一项创意方案，旨在缴纳税款的同时不丧失对Meta的控制权。目前扎克伯格持有Meta 13%的股份但拥有61%的投票权，Meta已达成协议以确保其留在加州。",
+   "source": "TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONnhPc3Noa0hZdmVYU1l4aGZ0bTZlSlVsZHRoSG9LNFJNbnVvVnFiYlBWelRnSzRDTUtxTzVZcl95ZmV4eHdrNllsVzNKVHBReEduWjNibXNleHYyLXB4elExVDFGcjBuMnFmMFNMeE85cWtOakM5YUFDZDNIYVlDWjJlT0tBWlJoMGZDWjQ0TXFVb1B2dWVLd0NPMEVjT2IxY2QtS2llUU00QUFqd3ZQYTlKQjZ6Rlp6T09tcXdpc2Q4eXB5X1czYjFMOWJSYVlTREJNa2VLRQ?oc=5",
+   "pubTime": "07:50",
+   "pubTs": "2026-10-23T07:50:41+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "日外交官：高市并非得低头屈膝与中国高层见面",
+   "summary": "日本首相高市早苗因“台湾有事论”导致中日高层对话停滞。日媒引述外交官称，高市不会撤回相关答辩，且下月访华并非必须向中方低头，显示东京已做好与北京长期僵持的准备。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261023-9883228",
+   "pubTime": "14:40",
+   "pubTs": "2026-10-23T14:40:47+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "专家解读：西藏7级地震为一次拉张型破裂",
+   "summary": "西藏那曲巴青县发生7级地震并造成伤亡。专家分析称，此次地震为羌塘地块内部的一次拉张型破裂能量释放。截至23日已记录余震23次，预计原震区及附近近期仍有发生有感地震的可能。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261023-9883164",
+   "pubTime": "14:31",
+   "pubTs": "2026-10-23T14:31:30+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "中共政治局会议：更高标准抓好全面从严治党各项工作",
+   "summary": "中共中央政治局10月23日召开会议，审议中央第七轮巡视综合报告。会议要求以更高标准抓好全面从严治党，保持惩治腐败高压态势，并督促被巡视党组织严肃解决巡视中发现的问题。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261023-9882865",
+   "pubTime": "13:41",
+   "pubTs": "2026-10-23T13:41:02+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "中国足协：米利西奇不再担任中国女足主帅",
+   "summary": "中国足协宣布，因个人家庭原因，安特·米利西奇不再担任中国女足主教练，外教团队同步离任。足协感谢其付出，并将研究确定新一阶段教练组安排，推进新周期建设及奥运会预选赛备战。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261023-9882600",
+   "pubTime": "13:35",
+   "pubTs": "2026-10-23T13:35:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "中国官方拨出8000万人民币支持西藏地震救灾重建",
+   "summary": "针对西藏那曲巴青县7级地震，中国财政部、应急管理部等部门紧急拨付8000万元人民币，支持开展应急抢险、受灾群众救助及倒损民房修复等工作，以最大限度减少灾害损失。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261023-9882417",
+   "pubTime": "13:08",
+   "pubTs": "2026-10-23T13:08:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "爱马仕销售额不及预期 未能逃脱中国消费者收紧开支影响",
+   "summary": "爱马仕第三季度除日本外的亚太地区收入持平，逊于市场预期。受中国消费者收紧开支影响，该品牌最大市场增长乏力，导致其股价在巴黎早盘一度大跌9%，或创下上市以来最差年度表现。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261023-9882493",
+   "pubTime": "12:34",
+   "pubTs": "2026-10-23T12:34:44+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "特朗普政府拟以国安为由 限制美国投资中国生物技术企业",
+   "summary": "美国财政部建议将生物技术列入敏感科技清单，拟限制美国对中国生物技术及脑机接口公司的投资。此举以国家安全为由，要求特定交易需向政府申报或直接禁止，恐使两国金融关系复杂化。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261023-9882299",
+   "pubTime": "12:10",
+   "pubTs": "2026-10-23T12:10:28+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "创业板指探底回升涨超4% 机器人概念股集体爆发",
+   "summary": "10月23日A股三大指数集体探底回升，创业板指大涨超4%，全市场超4500只个股上涨。机器人概念股集体爆发，多只个股涨停；两市成交额达1.96万亿元，较前一交易日显著放量。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2513429",
+   "pubTime": "15:01",
+   "pubTs": "2026-10-23T15:01:38+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "马斯克为中期选举慷慨解囊 向共和党选战捐款超4.45亿美元！",
+   "summary": "最新文件显示，特斯拉CEO马斯克在11月中期选举前已向共和党相关政治活动捐赠超过4.45亿美元。其惊人的捐赠规模使其跻身美国史上最慷慨的“超级政治行动委员会”捐赠者行列。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2513412",
+   "pubTime": "14:54",
+   "pubTs": "2026-10-23T14:54:12+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "商务部就美国防部公布所谓科研安全审查结果事答记者问",
+   "summary": "针对美国防部公布科研安全审查结果并导致美高校终止与中国机构合作，中国商务部回应称，坚决反对美方泛化国家安全概念、将科研合作政治化，认为此举是在胁迫美方机构“选边站队”。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2513414",
+   "pubTime": "14:51",
+   "pubTs": "2026-10-23T14:51:27+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "最新债券托管数据透视：非银驱动债市走牛，广义基金月增持超1.2万亿，中小行大幅减持",
+   "summary": "9月债券托管数据显示，广义基金等非银资金增持超1.2万亿元，驱动长端利率走低，而中小银行则大幅减持。业内提醒，当前非银机构债券久期处于高位，需警惕市场拥挤度调整及估值回调风险。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2513343",
+   "pubTime": "14:34",
+   "pubTs": "2026-10-23T14:34:03+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "上游订单火热、终端“爆款”难寻 AI玩具的“下半场”怎么打？",
+   "summary": "在近期举行的中国玩协展会上，AI玩具呈现场景垂直化趋势，售价多在150至500元间。尽管上游订单火热且厂商积极推出新品，但终端市场仍缺乏“爆款”，行业正探索如何将AI深度融入不同场景。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2513366",
+   "pubTime": "14:29",
+   "pubTs": "2026-10-23T14:29:12+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "互联网泡沫惨痛回忆！AI动荡“拷问”美联储：今年还敢加息吗？",
+   "summary": "受AI领域动荡及美债收益率单日大幅下挫影响，市场对美联储加息的预期发生剧烈转向。目前联邦基金期货市场预计今年不再加息的概率升至24%，针对下周议息会议的加息押注已降至本月新低。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2513351",
+   "pubTime": "14:28",
+   "pubTs": "2026-10-23T14:28:07+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "宇树科技20cm涨停，市值重返2500亿",
+   "summary": "受具身智能及物理AI产业利好催化，人形机器人龙头宇树科技23日收获20CM涨停，市值重返2500亿元。商务部数据显示前三季度相关机器人销售额增长显著，公司创始人表示物理AI正迎来突破时刻。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2513370",
+   "pubTime": "14:21",
+   "pubTs": "2026-10-23T14:21:17+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
