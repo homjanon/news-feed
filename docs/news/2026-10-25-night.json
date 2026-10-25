@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "night",
+ "editionName": "夜豆浆",
+ "date": "2026-10-25",
+ "fetched_at": "2026-10-25 22:30",
+ "translator": "agnes-3.0-flash(7条) + gemini-3-flash(14条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "电信崩盘老手驾驭AI热潮",
+   "summary": "华尔街日报报道，一位经历过电信业泡沫破裂的资深人士，正在利用其经验应对当前的人工智能行业热潮，探索新的商业机遇。",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN3JKcms5UjVjeV93TWhFU29SaHUzU2pRUVdvOTFWVnhqYjBJenBUY1BKWlM5RnlJbFF6TkZnM3BhUnZ6alVhY1dPbWtoN1AzVUpRSC1pWDBuTF9OWXh4dVFBYlpMcl92SGZSN0JjWTMxXzdtSHhOeTl3Q3dtMDNQV1diTEJ0SWNnb2ZvMHR2RldHa0J6SEdn?oc=5",
+   "pubTime": "21:46",
+   "pubTs": "2026-10-25T21:46:01+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "连锁反应威胁释放全球新风险",
+   "summary": "Axios指出，当前局势中的连锁反应式混乱正威胁向世界释放新的系统性风险，警告这种动荡可能产生超出预期的负面后果。",
+   "source": "Axios",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmRDRQcmt5V2R0eUIwUkkxRkVKV3NaZlZNOTl6LVNKbUxpcnRGTmtzWE96ODBnZzVZV2JDS1ozbC1HdUV0Sm5Uak85em5TQk1xblZiU3BHbkpPOVdGMWREcTFES0FpLWY1ZnIwNEdQUjZZWXlSRG1UaQ?oc=5",
+   "pubTime": "21:11",
+   "pubTs": "2026-10-25T21:11:59+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "卖家降价助买家在停滞市场成交",
+   "summary": "美联社报道，在房地产市场停滞不前之际，房屋卖家通过主动降价并协助买家完成交易，以促进市场流动性和成交率。",
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOTNTNTg5NlBaRGZXQ1RtUjltdlpvYkFjMmxBRkZTLWhZVnVZSUFvM3pjTE9PQzE0MGRLbW9zODlwQ00zbWlkb1VObTRPQ2hPa1d2WWtaTVk0QXBhZVJabTVreEI2VW5oYW1ObjVCVmJaMW9lUGN4aXY3Z0tDWl9zVURsS0Frcl9TWTF6ZmhGejBBU2paU2NWSzRPSE9vSjFLY19qYTRSeV9VNlc0Mzk4?oc=5",
+   "pubTime": "20:59",
+   "pubTs": "2026-10-25T20:59:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "特朗普任期通胀率仅为拜登一半",
+   "summary": "雅虎财经称，特朗普任期内的通胀率仅约为拜登时期的一半，但选民对经济的不满情绪依然高涨，关税被指为通胀主要推手。",
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdnBPejdqejdJRVZfSFhLa2thLXF5dFdTYTRyY2E5SEcwV0R3QnI4ZHFqeGFvcUZudkh5ejZBV2RfSEhxTTFreG9Ic21ydHdQQWFJXzU2SXJ5bkgwbU5lUjFoNmhYSU5EaUNGamVHcFZvMTJmLW5KeEF6Mll6b0RDV3BoNGItdUhyR2I3Nm83RVVMX0w5djJfMnl2NUxMcjhHWXRXMzVBaVhXVnloaGpza0I0Y2NHNVNxR0FpcUs1bF9ickNWU3dXOC1YUWFjTnAwSTRpODNfN0lyejBqdmpoZnVsNlh6WERPRVE?oc=5",
+   "pubTime": "20:00",
+   "pubTs": "2026-10-25T20:00:43+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "巨头财报周：Alphabet、微软等即将发布",
+   "summary": "CNBC分析显示，标普500超三分之一公司将于本周发布财报，包括Alphabet、微软和亚马逊等科技巨头，市场信心面临考验。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb0l5dnFfdUxybkFnYjFMWUtiZFRVWVNieXI2bEJhSi1ZUDhfQmJSa3lDekl5bkQwcDRZTWdhQUF4cnIxc2U5aERBcmk3OTgyMUwtOWxYVTZ0TjhfcllPalFSLV9zTUVueTlhLUZPYThDdzlaeTVhR2QxQkNtOXJ6REpB?oc=5",
+   "pubTime": "19:54",
+   "pubTs": "2026-10-25T19:54:08+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "乐事推出感恩节主题限时口味薯片",
+   "summary": "乐事品牌推出一系列受感恩节菜肴启发的限时口味薯片，如“霍利乐事”系列，旨在通过节日营销提升消费者购买兴趣。",
+   "source": "USA Today",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVUgxcnN6TlEycEI5dkE5RW5qOWxfYjFwZnpZbzB3MXNyMzZ5T3BZaWFwSkZaRFZ5MlhtU0VKTGdHdlF3Uk1EMURvd2FyRHBIQ0t1aWp2aG9uaEVjWVlrR0hadlVNZWxQeDNQRmFMdXdaVFNyeTJwaGVZSGZSWFc3YW13ZE5GQkc5TGdRa3V0eW53NWZWT0lIWndqYmgtWjN2MFVyR2ZlS0F0WXYxbnJPUjFQOTh0dFVJ?oc=5",
+   "pubTime": "19:04",
+   "pubTs": "2026-10-25T19:04:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "专栏：不离婚是否意味着自我放弃",
+   "summary": "华盛顿邮报专栏作家Eric回答读者提问，探讨在不离开妻子的情况下，是否等同于在精神上放弃自我，分析婚姻中的自我认同问题。",
+   "source": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbmdLX0JMRWk3ZjZxWjhOWkc0UTlCLTRMY3ZNTFdiVHlsaUZxSndjMUZ3R3FDaXRNbVJDWnlWekNCNFRoQmExZTRyMjlMVlRVakl6cXhHOGlXMWZEZUQxRDVOOTFmMDdfZ0ptZHlDc25wc1c2WUM0a3RKa0hpRG82TU5GQTBXaXRQOGRUSURFVk5ybGcySWRrb2UwbktaQTZNYUlpMDI2QWpHV3M?oc=5",
+   "pubTime": "19:00",
+   "pubTs": "2026-10-25T19:00:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "英国首相不排除与欧盟恢复人员自由流动",
+   "summary": "英国首相伯纳姆暗示愿意考虑恢复与欧盟的人员自由流动制度，并呼吁就脱欧后的移民政策展开坦诚讨论。他指出脱欧后移民格局已改变，承诺在下个月的英欧峰会前后提出改善双边关系的方案。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261025-9893420",
+   "pubTime": "21:43",
+   "pubTs": "2026-10-25T21:43:29+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "日本推首款物理AI保险 为智能机器人承保",
+   "summary": "日本东京海上控股宣布将于11月发售国内首款专为“物理人工智能”机器人打造的保险产品。该保险旨在为工厂、养老院等场所的自主评估环境并行动的机器人提供保障，以抢占快速增长的全球物理AI市场先机。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261025-9892405",
+   "pubTime": "21:23",
+   "pubTs": "2026-10-25T21:23:11+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "葡萄牙警方再清拆住房抗议营地 31人被捕",
+   "summary": "针对葡萄牙房价飙升引发的抗议，警方于10月25日再次清拆示威者搭建的帐篷营地，逮捕31人并拆除171处帐篷。行动导致11人受伤，示威者指责警方执法过当，并批评政府未能有效应对住房危机。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261025-9893223",
+   "pubTime": "21:03",
+   "pubTs": "2026-10-25T21:03:06+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "避免卷入政治纷争 中期选举前美联储料按兵不动",
+   "summary": "美国联邦储备局即将召开议息会议，尽管通胀高企且市场预期仍有加息可能，但分析员普遍预测美联储此次将维持利率不变。此举旨在避免在即将到来的中期选举敏感时刻卷入政治纷争，确保货币政策的独立性。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261025-9893059",
+   "pubTime": "20:57",
+   "pubTs": "2026-10-25T20:57:40+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "巴西总统选举第二轮投票开始",
+   "summary": "巴西2026年总统选举第二轮投票于10月25日正式开始。首轮领先的自由党候选人弗拉维奥·博索纳罗与现任总统卢拉展开对决，计票结果预计当天揭晓。目前多项民调显示两人支持率持续胶着，选情十分激烈。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261025-9893127",
+   "pubTime": "20:45",
+   "pubTs": "2026-10-25T20:45:30+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "以色列大选日将全面关闭西岸口岸 禁巴勒斯坦人出入",
+   "summary": "以色列军方宣布在议会选举日全面关闭约旦河西岸陆路口岸，并禁止巴勒斯坦人出入，以应对近期发生的士兵遇袭事件并打击哈马斯势力。此次大选被视为对总理内坦亚胡执政表现的信任公投，安保形势严峻。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261025-9892430",
+   "pubTime": "20:29",
+   "pubTs": "2026-10-25T20:29:32+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "迫于美方施压与抗衡中国 日本探讨途径涨军费",
+   "summary": "面对美国要求将防卫费提高至GDP 3.5%的压力，日本正探讨将基础设施、网络安全等纳入“综合防卫开支”以实现达标。日媒警告，在抗衡中国军费扩张的同时，防卫预算翻倍将给日本财政带来沉重负担。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261025-9889553",
+   "pubTime": "19:16",
+   "pubTs": "2026-10-25T19:16:32+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "多赛道龙头研判产业新动向：光伏迈入结构调整期 新材料、工业AI多点发力",
+   "summary": "2026年第四季度，硬科技领域呈现结构性增长。光伏产业进入提质升级的调整期，装机规模已历史性超过煤电；同时，新材料应用场景持续拓展，工业AI等新方向加速落地，多赛道共同支撑产业上行。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2514474",
+   "pubTime": "21:07",
+   "pubTs": "2026-10-25T21:07:04+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "多家医药龙头研判：创新药跨越“仿转创”临界点 本土与全球化双轮驱动",
+   "summary": "2026年第四季度，A股生物医药板块在政策红利与出海交易催化下持续修复。随着政策体系完善和全球合作拓展，中国创新药产业正跨越“仿转创”临界点，行业目标到2030年规模超过3.5万亿元。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2514473",
+   "pubTime": "21:03",
+   "pubTs": "2026-10-25T21:03:26+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "泰胜风能Q3净利润环比盈转亏 新增订单约36亿元|速读公告",
+   "summary": "受2026年风电装机量整体回落影响，泰胜风能业绩承压，第三季度净利润环比由盈转亏。公司前三季度实现营收26.48亿元，同比下降28.48%；归母净利润仅约1001万元，同比大幅下降95.38%。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2514476",
+   "pubTime": "21:01",
+   "pubTs": "2026-10-25T21:01:47+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "AI算力与本土替代共振 硬科技多赛道龙头集中研判：半导体设备、光芯片、存储仍处上行周期",
+   "summary": "2026年第四季度，在AI驱动的需求扩张与本土替代双重逻辑下，半导体设备、光芯片及存储等赛道仍处于上行周期。AI产业链需求持续超预期，本土厂商正迎来确定性的扩容窗口期，助力硬科技价值重估。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2514472",
+   "pubTime": "20:54",
+   "pubTs": "2026-10-25T20:54:53+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "首部AI院线电影《三星堆·未来往事》遇冷，上映3天收获115万票房",
+   "summary": "国内首部获公映许可证的AI全流程院线长片《三星堆·未来往事》上映三天票房仅为115.2万元，市场表现遇冷。尽管该片在制作技术上引发关注，但极低的上座率与映前资本市场的热烈追捧形成了鲜明反差。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2514471",
+   "pubTime": "20:48",
+   "pubTs": "2026-10-25T20:48:17+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "华瓷股份Q3净利润同比下降逾四成 江西金环并表新增商誉5278万元|财报解读",
+   "summary": "华瓷股份前三季度营收与净利润双双下滑，其中第三季度归母净利润同比下降43.60%至3902.36万元。尽管近期股价多次涨停，但公司业绩表现疲软，且因并购江西金环并表新增了5278万元商誉。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2514462",
+   "pubTime": "20:30",
+   "pubTs": "2026-10-25T20:30:20+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "陕西、内蒙古等十二地联合发布“双十一”提示",
+   "summary": "随着“双十一”临近，陕西、内蒙古等十二地消费者组织联合发布网购消费提示。建议消费者在面对各类促销活动时保持理性，坚持按需购买原则，警惕营销话术，防范消费陷阱并依法高效维护自身权益。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2514461",
+   "pubTime": "19:56",
+   "pubTs": "2026-10-25T19:56:10+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
