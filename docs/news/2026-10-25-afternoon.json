@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "afternoon",
+ "editionName": "下午茶",
+ "date": "2026-10-25",
+ "fetched_at": "2026-10-25 15:20",
+ "translator": "agnes-3.0-flash(7条) + gemini-3-flash(14条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "奥迪将在乔治亚州建厂，特朗普宣布计划",
+   "summary": "特朗普在乔治亚州竞选集会上宣布，奥迪将投资40亿美元在该州建设其美国首座汽车工厂，此举被视为关税政策生效背景下的战略调整，旨在深化本土化生产布局。",
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUzRuM0NZODNTYlVUeWRIY3pkY2s2d1k1Y3F4TTlXUEpiazNfbHpWa3BwUTRENzdmZUFUS0ZFNDVHMG5FLWhkcGF5WjlOUlc3eVJ5ZFhfemNJVVVWVjFNN3htQUpNWWwxUFdyTWxWd0dYenN2Mm9ubGdmRTdRS010dA?oc=5",
+   "pubTime": "10:17",
+   "pubTs": "2026-10-25T10:17:33+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "盈利下滑令中国3.5万亿美元股市暴跌成陷阱",
+   "summary": "尽管中国科技行业表现强劲，但企业利润下滑导致股市陷入低迷，投资者担忧AI热潮难以支撑整体市场估值，形成结构性投资陷阱，部分资金已开始撤离科技股。",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObEthY2hVTFl0LTd4dlNRQjJWTF9OdnNWb2NCQUNFTE4xNkR2d0NPUUROdFRRSEREMXBiMUd5aDRlNVY0SWZRUm5OTXdCV3JYNnA2OGdBTGxIRTZCcFV5OUoyUEV4SUNlREh0SHNCQ3hudGZaUDZ4aGNSaC1wd2lDcjlGR0hjVWNWVU9nX21QSVZQSGlXZVBqZHRMV3NUTGF4dTkteWloRmdkd2JRWUUyaUJFWQ?oc=5",
+   "pubTime": "08:00",
+   "pubTs": "2026-10-25T08:00:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "网络安全紧急行动中一人成为互联网无名英雄",
+   "summary": "在应对PHP重大安全漏洞的紧急行动中，某位个人开发者因及时修复关键缺陷而成为互联网安全领域的无名英雄，其贡献凸显了开源社区在应对突发网络安全威胁时的关键作用。",
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LdS1LRWVpT2JkYXRKYUhhRF9OZGdzTEJSWUllclhPek1Wd2ZqUU5GeTR4b29TckJkVndpQzIyLU9IT1BfOVVFRnI0VXlEeVVGV0FaZFcyMUdBVEU?oc=5",
+   "pubTime": "07:05",
+   "pubTs": "2026-10-25T07:05:06+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "诉讼指控日本公司忽视警告致储罐爆炸",
+   "summary": "两名在华盛顿州朗格维化学储罐倒塌事故中遇难者的家属提起诉讼，指控Nippon Dynawave公司此前无视安全警告，导致储罐爆炸并造成11名工人死亡，事故暴露了当地工厂化学风险管理的严重缺陷。",
+   "source": "OregonLive.com",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYTlwZFk4YnlsY2dtV1pYRHN4VWtqazhNZVpqa196LVBHaWVIMGtlcHM0Q3pCdzRWSVJmaGJ1Mlcwa1dKY1UyelY5OWRZdFI3YkFRemRDVng3Z3VTc1B1UUViT09iLTZMbExzTURPX3B0ZV90V3dSMERnOXhSWFYxN1d3Zk45blpla3NEcXJvbjhwcEcyN0FJcmx0WXh0eHhrcXNBenltRTNhVWduTkl0SnIyOFJJdmZHWk01NS1DLTNMS2V5MlhIZjJpaXZySU1zRlFneWlUUHFoUUppb0oxMVk0ZXNKVFNUMEYtM3g1SW5RZXM?oc=5",
+   "pubTime": "06:15",
+   "pubTs": "2026-10-25T06:15:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "知名经济学家指出AI看多论点存在核心经济缺陷",
+   "summary": "随着股票和债券交易走势分化，知名经济学家指出AI看涨论点存在核心经济缺陷，认为除科技板块外AI尚未带来显著收益，其财务可持续性存疑，市场过度乐观可能掩盖潜在风险。",
+   "source": "Fortune",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdy1qR2xLV0pnTElaT0xKS1k3Mk1SWFpfbmtpWlZJTWhxcHV4OTZrTHdpcDRFSXFEejR6NGhBWkNTRTk5YWRrNlE2UEVnaFNHVVBJSTNnNlF6U2t0RVdFQ1hlSXc5MXpJNjVHR3JITTQ3ZUhaWW4zcHpuaHAwRzdvZ1BfR2RhTGFOcjc2SWV5OHpxN2FEa1lFU2RhWmtpaXlIbE1rU2ZDUUljV09YLXlVOHlna0lpZw?oc=5",
+   "pubTime": "03:39",
+   "pubTs": "2026-10-25T03:39:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "高油价背景下电动汽车的理性选择指南",
+   "summary": "在汽油价格昂贵的背景下，读者讨论了电动汽车的取舍。数据显示，家用充电的电动车在燃料成本上优于燃油车，但混合动力车型在整体持有成本上仍具优势，消费者需权衡综合经济性。",
+   "source": "Jalopnik",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOREFodFJjc282OW5DQUtfM0UtaEQ3MV9LWl9HN3NCNF9XdFhBcW5VU0pnYTBJVWdjNWtXdEExTFhocU15UkdGZ29uMWtnVmZFNFEtRXNjcUdVeC1xU0tWVF9WWkZJTGpmOGVFT2NoRF9hZUpvZnY0M3hVVTI1NVBEVUpzVmV6dXdhd0tWR1hmMFV0RV9pRXFlSXNiWV84N2FiRFU4YmZtc0hQaU1ENFdn?oc=5",
+   "pubTime": "03:05",
+   "pubTs": "2026-10-25T03:05:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "数千名乘客预订巴哈马邮轮却抵加拿大",
+   "summary": "数千名乘客预订了前往热带巴哈马的邮轮，但皇家加勒比邮轮因故将航线更改至寒冷的加拿大，导致游客在冬季体验了意外旅程，引发关于邮轮公司运营决策与乘客预期的广泛讨论。",
+   "source": "Fox News",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT3NSekJGdVlCamgwRzVVbENfd05Ka2pVUU8ybDdDUklWbFBMOG5NQzVIYVNEOTUtMVdBMDgxcWIxMV9TYXFub1BWS0QwbmRoMEFJY1BLZWVfTG5BYi1kNlJITmdBQjcyOTZKM0hIU3NaM1FPUEhxRG50ZU9LMlpSYTdsd2tNREdqREY1Y2NLem8xcGs4MkFhSnJ3MzMtN1ptZVkw0gGoAUFVX3lxTE1XWjlJX2I4TnRBMVltVTdxbTlYRllSLXJqaWNFSmpxQTNZaFRFZGRxa0pKVENwdWNvbF9rSWJqTk1fMEQxLXJKbHNDZnk4cWxhV2QxdU9tb1o2QWFIWFViUlJDbWhGaVZTUDlTakFvN2l1bUtGMTVnd05BTXo2LVJ0TGw3aFFLdU1GZV9DVEpzMENUVl9qdGVJX09RSGJFdFFxNmNLd3FqdA?oc=5",
+   "pubTime": "03:03",
+   "pubTs": "2026-10-25T03:03:32+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "庄兆林履新江西省委三把手 刘金波填补省组织部长",
+   "summary": "中共江西省委常委庄兆林升任省委副书记，其留下的省委组织部部长及省委党校校长空缺由中投公司执行董事刘金波接任。此次人事调整由中央批准，庄兆林此前曾长期在江苏省内任职。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261025-9891861",
+   "pubTime": "15:01",
+   "pubTs": "2026-10-25T15:01:24+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "洪秀柱：光复不容扭曲 和平更须守护",
+   "summary": "国民党前主席洪秀柱在福州参加台湾光复纪念研讨会时强调，抗战历史不容遗忘与扭曲，和平必须守护。她回顾了1945年台湾受降典礼的历史时刻，并呼吁警惕“皇民化”遗毒导致少数人迷失方向。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261025-9891920",
+   "pubTime": "14:57",
+   "pubTs": "2026-10-25T14:57:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "金价下跌 深圳水贝市场走道挤满人群",
+   "summary": "受国际金价下跌影响，国内多家品牌足金饰品价格下调，每克跌幅在6元至12元之间。中国最大黄金珠宝集散地深圳水贝市场迎来大量人流，部分走道拥挤不堪。分析指出，金饰价格在一个月内已下跌约100元。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261025-9891640",
+   "pubTime": "13:58",
+   "pubTs": "2026-10-25T13:58:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "辽宁舰联手两栖攻击舰训练 中国军事专家：或涉夺岛登陆作战",
+   "summary": "中国海军辽宁舰编队赴西太平洋开展今年第二次远海实战化训练。此次训练中，航母编队与075型两栖攻击舰“安徽舰”协同配合。军事专家分析认为，这种体系融合训练可能与岛屿夺占及登陆作战任务密切相关。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261025-9891560",
+   "pubTime": "13:43",
+   "pubTs": "2026-10-25T13:43:11+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "张雪在家乡湖南怀化任文旅推广大使",
+   "summary": "张雪机车创办人张雪获聘为家乡湖南怀化的文旅推广大使。怀化市委书记韦朝晖在会见张雪团队时，鼓励其利用国际影响力推介当地旅游资源、长寿之乡及地标产品，并希望其励志精神能激励青年学子。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261025-9891230",
+   "pubTime": "12:47",
+   "pubTs": "2026-10-25T12:47:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "中国发射“一箭六星” 用于防灾减灾等领域",
+   "summary": "中国在酒泉卫星发射中心使用长征四号乙运载火箭，成功以“一箭六星”方式将六颗遥感卫星送入预定轨道。该批卫星主要用于国土资源普查、农产品估产及防灾减灾等领域，将为相关工作提供高分辨率数据支撑。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261025-9891386",
+   "pubTime": "12:42",
+   "pubTs": "2026-10-25T12:42:58+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "光复81周年 大陆官媒发布台湾多个地标景观卫星画面",
+   "summary": "在台湾光复81周年之际，大陆官媒央视发布由“吉林一号”卫星拍摄的台湾地标视频。画面涵盖台北港、中正纪念堂及日月潭等景观，清晰度极高。报道强调两岸同源的联结，以此纪念光复历史并表达对团圆的期盼。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261025-9891029",
+   "pubTime": "12:07",
+   "pubTs": "2026-10-25T12:07:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "市场过度恐慌？野村：存储短缺将延续至2028年，AI资本开支韧性仍强",
+   "summary": "针对近期全球AI科技股及存储巨头股价的剧烈波动，野村证券表示市场对人工智能投资前景的担忧属于“反应过度”。野村认为存储芯片短缺局面将持续至2028年，当前存储板块估值已被严重低估。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2514356",
+   "pubTime": "15:03",
+   "pubTs": "2026-10-25T15:03:15+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "港股IPO周报：机器人概念股科大智能递表 远信储能等多家公司通过聆讯",
+   "summary": "本周港股IPO市场动态显示，机器人概念股科大智能正式向港交所主板递交上市申请。该公司核心业务涵盖配用电设备、储能系统及工业机器人，多项产品市场占有率居前。此外，远信储能等5家公司已于本周通过聆讯。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2514340",
+   "pubTime": "14:02",
+   "pubTs": "2026-10-25T14:02:54+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "万只私募产品前三季度业绩竞赛，CTA领跑，主观多头过半未收红",
+   "summary": "2026年前三季度私募证券基金业绩出炉，期货及衍生品策略以6.39%的整体收益率领跑五大策略。相比之下，股票策略表现平平，收益率仅为1.92%，且其中主观多头产品有近半数未能实现正收益。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2514349",
+   "pubTime": "13:44",
+   "pubTs": "2026-10-25T13:44:49+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "谁能在三季度跨过百亿门槛？17家私募新晋百亿，9家重返",
+   "summary": "尽管三季度A股市场出现明显回调，但私募行业仍有26家机构管理规模突破百亿元大关，其中17家为首次晋升。在新晋及重返百亿阵营的私募中，股票策略机构占比接近七成，显示出头部机构在震荡市中的扩张韧性。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2514348",
+   "pubTime": "13:43",
+   "pubTs": "2026-10-25T13:43:41+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "特朗普称随时可能再打伊朗 也可能达成协议",
+   "summary": "美国总统特朗普在参加中期选举投票时表示，美国随时可能再次对伊朗发动袭击，但也存在达成协议的可能性。他强调必须与伊朗达成永久性协议以防止其制造核弹，并透露曾考虑使用B-2轰炸机解决问题。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2514344",
+   "pubTime": "13:28",
+   "pubTs": "2026-10-25T13:28:44+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "海南封关首年如何打开免税增长新空间？｜活力中国调研行",
+   "summary": "在海南自贸港全岛封关运作首年，离岛免税市场呈现良好增长态势。2026年前8个月，海南离岛免税店总销售额同比增长16.2%。调研发现，三亚国际免税城不仅吸引了大量外籍游客，国货精品也成为消费新亮点。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2514336",
+   "pubTime": "12:44",
+   "pubTs": "2026-10-25T12:44:06+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "张雪，刷新吉尼斯纪录",
+   "summary": "张雪机车创始人张雪在故乡湖南麻阳，驾驶改装摩托车MX450成功刷新“改装摩托车在开阔水域行驶最远距离”吉尼斯世界纪录。此次圆梦不仅弥补了其17年前挑战失败的遗憾，也旨在提升家乡的国际知名度。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2514330",
+   "pubTime": "12:38",
+   "pubTs": "2026-10-25T12:38:46+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
