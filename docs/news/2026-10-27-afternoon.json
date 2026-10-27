@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "afternoon",
+ "editionName": "下午茶",
+ "date": "2026-10-27",
+ "fetched_at": "2026-10-27 15:20",
+ "translator": "gemini-3-flash(21条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "亚股受Anthropic申请IPO提振走高",
+   "summary": "亚洲股市在人工智能初创公司Anthropic申请IPO的利好消息带动下走高。市场情绪受到提振，投资者正密切关注即将公布的企业财报及各国央行动态。美股期货与亚股同步上涨，反映出市场对AI驱动增长的乐观预期。",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYTFLZTJNckNaRFN0TG9fLXJTY3h3VkVRSnZfMDJfLVkxOTNsU01IbWtXbDZQUTFIOXJXWENhY2NIX0ZuLUdLSHJMemcyUkNEZklQdUQxZlpHUWNwaVE3WFp1dk1meVZwejRrSUF1dEhFdDBjNUp3WVdqVnNBamJfQjFrN2g5b3QwZFBUMHZjYVU2aGhK?oc=5",
+   "pubTime": "15:10",
+   "pubTs": "2026-10-27T15:10:33+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美股期货在周一收涨后波动不大",
+   "summary": "在华尔街本周开局走强后，美股期货目前变动不大。受人工智能相关股票波动及油价下跌影响，标普500和纳斯达克指数此前均收高。投资者正处于财报季的高峰期，市场整体呈现谨慎乐观的态势。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01a2Ywbm5HbkhhaXZtYlM2S1pUVnJOZHphMFNEQUZTS2lQQURWbzdWTDRmYi1INFVtVExqNUV1S3JVblo2Q2hOalpnUW83Xzk4cGJrZnYyYzl0ZUxrT2s5eEoyX0VxVmwxZjVyalBzcXBKYXhaTGtB0gF8QVVfeXFMTTdtcmVVc3VlM04tY1dHN1c1SXRaRnFXM2c1SVpEaE14UW1ScTRRYWZsR1I1ZDNmM3RJNXhkcFV0eGU1dXItUDEwNWZHZlpZTE5pQWI1Rzd2UElyQ0J6N21CbHZ5WnRrZHFYWEl5aWZtUW9jZjhnY0pPbVpQZA?oc=5",
+   "pubTime": "14:36",
+   "pubTs": "2026-10-27T14:36:46+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美国FTC及20个州起诉Dollar General涉嫌价格欺诈",
+   "summary": "美国联邦贸易委员会（FTC）联手20个州对折扣零售商Dollar General提起诉讼，指控其存在虚假定价行为。调查显示，该公司在结账时向数百万客户收取的费用高于货架标价，涉嫌长期误导消费者并获取不当利益。",
+   "source": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HekFtdlJKQVk4dF9XSHhWWTVLay1oWnFEOUx4Qkc1dW9od1h4N1hMcHN5cHdyUkRBaWswMUd6TzNCQzBWWXNnSEYwRWdfOFR0QV82RklfUHNDZDFvWVZjZC1jSkR4NUZ1Z0RQT0szRjg4dVYwMUxDUUtxYU4yS0U?oc=5",
+   "pubTime": "11:58",
+   "pubTs": "2026-10-27T11:58:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "社交媒体平台难以识别AI生成的虚假网红",
+   "summary": "随着人工智能技术的普及，社交媒体平台上出现了大量“不存在的网红”。这些由AI生成的虚拟形象真假难辨，给平台监管带来了巨大挑战。目前各大社交媒体正努力开发新技术，以识别并标注这些AI生成的虚假个人资料。",
+   "source": "WRAL",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRF9IQTNoNnFlUVRUaGlQN0FyUFd3NGFGTEVYVFN2aEd4ZXp1Q3N2QlpIQk1WQjFXS3A4SDBFeXV1cXBtYmxncGVTR1pORmdLU0RubF9SaExTYl9UZ0dreVp4NmttWTBBRmk1TDdhd3Qzal9rc085N1lSRDNmdTlBcUJ2dHVVdXBBbFZDMUtkWlUybXVFemhPZW9XV091WFdjc0EyVno1QmhWSW9IME1QQlhOUTh6TnlDN2VtT3dVbnBCS1p5NWc?oc=5",
+   "pubTime": "11:36",
+   "pubTs": "2026-10-27T11:36:37+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "贝莱德高管里德抢购AI相关债券",
+   "summary": "贝莱德首席投资官里克·里德近期忙于在AI债务热潮中寻找机会。他认为高质量债券市场正出现“历史性”机遇。随着企业信贷收益率超过降息预期，贝莱德正积极布局固定收益市场，以捕捉AI产业扩张带来的投资红利。",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYVJoVHlSX2EzYWtGbG44ZzhWSTdjUnc5ZWxpWmFmdzdGTzNQTVhZS3VwQjF6QWdpeGhRZDlySng4UERmbEhxbXBpM1BYdFhuVEJndmtGS1MtZnIxMkVILVBENDZDY1FBaEY4NmlLMmxHTmlaOXltR0FaMG1nODRod1JYNVhxRE9VeVFJZ0lMa0xYU2ptbVNiTVcxeFpla212aXhNUkVLUmxlTEVvRW15NGpxUkNYQQ?oc=5",
+   "pubTime": "10:00",
+   "pubTs": "2026-10-27T10:00:41+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "市场预计日本央行本周将维持利率不变但立场偏鹰",
+   "summary": "调查显示，日本央行预计在本周会议上维持利率不变，但将保持鹰派立场。由于日本核心通胀指标已升至3%以上，市场普遍预期这为12月加息留下了空间。通胀回升的趋势为日本央行进一步收紧货币政策提供了支撑。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VUUdYT3Q2d2tjanR2Y3I3d3VsWDFmVzItU3IxVUhiR196a1hxVmhqQXBqYjB0WU92eEw4Nk9TN0hITXdZbERSUlZIb1lReXprTHhob2ZLMlQzTGp5NTZfQUFlclZhRjI4eGpDbDZkSU5TX202R3E2Sm53MFdad9IBgwFBVV95cUxQQ3NXMS1aeTdJQ01XbEZzNFRLcktKaDhuUDZQRVR4SXk3MUFZNGhWeE8zaVluT29Ua1NGa1VjbkxaWXhFU2prLXpkUjNqT0FKVEVXUExPcVJ1ajdKQ2o0RF9adEpkTFUtRjUtNi1RSWUtZ1NKb2JydFhiVFJVRlBkbHZPOA?oc=5",
+   "pubTime": "07:51",
+   "pubTs": "2026-10-27T07:51:07+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美国万圣节糖果价格大幅飙升",
+   "summary": "今年美国万圣节糖果价格涨幅惊人，甚至超过了整体通胀水平。受原材料成本上涨影响，消费者面临更高的节日支出压力。尽管价格昂贵，美国人仍计划在万圣节必备品上花费数十亿美元，但高昂的售价已导致销售开局缓慢。",
+   "source": "Chron",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MdE1CeWkzTFlUaDNuTGo0ME5PXzkwaE9IWExVUDlkR0xWRHRhQjdRbWd0d2FIaVhFQXJzQW9zY2hvbnNzTHdZNGtBS1Y3T2ZMbGdnVmNyaWpzQjFPQnRmVUlsYmU0dXRBVzNteXc5WWJEUk9JUTh0OGNR?oc=5",
+   "pubTime": "07:49",
+   "pubTs": "2026-10-27T07:49:55+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "中国宣布派武官出席在菲举行的亚细安防长扩大会",
+   "summary": "中国国防部宣布，驻菲律宾使馆国防武官将于10月29日出席在菲举行的亚细安防长扩大会。中方将就对话协商、增进互信等议题与各方交换意见，并重申支持亚细安在区域架构中的中心地位，维护地区和平稳定。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261027-9902061",
+   "pubTime": "15:14",
+   "pubTs": "2026-10-27T15:14:37+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "姆巴佩涉华言论引争议 央视叫停相关赛事及广告播出",
+   "summary": "因法国球星姆巴佩涉及中共领袖毛泽东的言论引发争议，央视已全面叫停西甲及涉及姆巴佩的赛事播出，并下架相关广告。同时，蒙牛、东鹏饮料等多家中国企业也宣布终止与其全部合作，强调对伤害中国人民感情的言行零容忍。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261027-9901824",
+   "pubTime": "14:47",
+   "pubTs": "2026-10-27T14:47:21+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "中国印尼举行反恐训练开训仪式",
+   "summary": "中国与印度尼西亚“利刃-2026”陆军反恐联合训练于10月27日在广州开训。双方官兵将围绕反恐行动技战术展开专业分训、战术协同及综合演练，旨在提升两军实战化训练水平，深化两国传统友谊与军事交流合作。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261027-9901682",
+   "pubTime": "14:30",
+   "pubTs": "2026-10-27T14:30:33+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "胡锡进指蔡康永没为他的行为道歉 沈伯洋：评论和干预是两件事",
+   "summary": "针对蔡康永澄清未支持台独并致歉一事，胡锡进指其未就行为道歉。民进党台北市长候选人沈伯洋回应称，评论台湾政治是自由，但若涉及经济利益伤害则属于干预红线。蔡康永此前因现身沈伯洋竞选活动在两岸引发争议。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261027-9901505",
+   "pubTime": "14:02",
+   "pubTs": "2026-10-27T14:02:26+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "民调：近四成台湾民众看好民进党拿下至少11县市",
+   "summary": "台湾九合一选举临近，最新民调显示38.1%的受访者看好民进党能拿下至少11个县市，高于国民党的28.7%。此外，逾四成民众认为由民进党执政更令人安心。目前国民党在22个县市中占据15席，民进党仅占5席。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261027-9901373",
+   "pubTime": "13:35",
+   "pubTs": "2026-10-27T13:35:28+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "姆巴佩发言被批伤害“中国人民感情” 多家中企终止合作",
+   "summary": "法国球星姆巴佩因在受访时称涉及中国领袖的表情包令其发笑，引发中国舆论强烈不满。东鹏饮料、蒙牛乳业及妙可蓝多等多家中国企业随即发表声明，宣布终止与姆巴佩的所有合作，并清理社交平台上相关的宣传内容。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261027-9901172",
+   "pubTime": "12:52",
+   "pubTs": "2026-10-27T12:52:21+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "台防长斥北京借台湾光复纪念活动发动认知作战",
+   "summary": "在台湾光复81周年前夕，大陆官媒发布由卫星拍摄的台湾地标视频，解放军东部战区也发布相关海报。台湾国防部长顾立雄对此指责北京借纪念活动发动认知作战，并表示台军将采取预警和应对措施，以确保作战安全。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261027-9901117",
+   "pubTime": "12:38",
+   "pubTs": "2026-10-27T12:38:09+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "华尔街多家大行联合筹办SPV 为Anthropic采购博通芯片提供桥梁",
+   "summary": "美国银行、黑石、花旗及摩根士丹利等华尔街大行将提供630亿美元融资，通过设立特殊目的实体（SPV）为AI公司Anthropic采购博通芯片。该SPV将硬件长期租赁给Anthropic，利用租金偿还债务，成为AI基建的重要融资桥梁。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2516431",
+   "pubTime": "15:12",
+   "pubTs": "2026-10-27T15:12:30+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "软件业尤其高危？3000亿美元“债务危墙”压顶 私募股权开始自救！",
+   "summary": "为应对2028年起陆续到期的3000亿美元债务，美国私募股权公司正紧急开展贷款展期谈判。由于利率上升增加再融资成本，且软件行业面临被AI取代的风险，若无法及时完成展期，相关企业可能面临被债权人接管的风险。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2516413",
+   "pubTime": "15:12",
+   "pubTs": "2026-10-27T15:12:17+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "港股评级汇总：交银国际维持凯莱英买入评级",
+   "summary": "交银国际维持凯莱英“买入”评级，看好其小分子与新兴业务双轮驱动及在手订单增长。招商证券维持周大福“强烈推荐”评级，预计其上半财年净利润将同比增长90%至100%，主要受黄金借贷转正及核心市场销售改善驱动。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2516432",
+   "pubTime": "15:09",
+   "pubTs": "2026-10-27T15:09:48+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "红果短剧：治理批量 “换皮”“刻意渲染矛盾”“跨剧撞脸”等问题",
+   "summary": "红果短剧发布公告，宣布将加大力度治理低质和同质化内容。重点整治刻意渲染家庭或职场矛盾、剧情结构高度相似的“换皮”剧集，以及跨账号批量套用模板等违规行为，旨在维护平台多元、可持续的创作环境。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2516412",
+   "pubTime": "14:58",
+   "pubTs": "2026-10-27T14:58:06+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "汇丰控股大跌近6%创近半年新低 三季报低于预期拟启动10亿美元回购",
+   "summary": "汇丰控股第三季度实现营收186亿美元，除税前利润96亿美元，均低于市场预期，导致其股价大跌近6%并创半年新低。尽管利润受净利息收入增长和信贷损失拨备减少推动有所改善，但业绩表现仍未达标，公司拟启动10亿美元回购。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2516385",
+   "pubTime": "14:43",
+   "pubTs": "2026-10-27T14:43:18+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "A股千元股，只剩茅台了",
+   "summary": "随着联讯仪器股价震荡下挫跌破千元大关，A股市场目前的千元股仅剩贵州茅台一只。此前寒武纪、源杰科技已先后退出千元股行列。联讯仪器表示，目前公司生产经营及订单交付正常，下游客户需求旺盛，业务增长仍有支撑。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2516348",
+   "pubTime": "14:31",
+   "pubTs": "2026-10-27T14:31:43+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "“自购潮”开启，百亿私募集体发声",
+   "summary": "面对市场震荡，上海衍合、汉和资本等多家私募机构近期密集宣布自购，今年以来已有33家私募累计自购超16亿元。多家百亿私募集体发声，认为当前A股估值具备高性价比，看好国内制造业及AI等领域的全球竞争力。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2516263",
+   "pubTime": "13:24",
+   "pubTs": "2026-10-27T13:24:06+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
