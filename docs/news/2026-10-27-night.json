@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "night",
+ "editionName": "夜豆浆",
+ "date": "2026-10-27",
+ "fetched_at": "2026-10-27 22:30",
+ "translator": "gemini-3-flash(21条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "波音财报亏损超预期但显示进展，市场关注737 Max产能",
+   "summary": "波音第三季度财报显示亏损额度收窄，主要得益于国防业务销售额增长。尽管整体亏损超出预期且交付进度停滞，但公司在缩减亏损方面有所进展。目前市场焦点仍集中在737 Max机型的产能恢复情况。",
+   "source": "Barron's",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqTDlic1FKMVhoYkNvVEtMRXp2RXdPT2sxdWRHdzZBMUlEMzlwSDFweGFBVVVWaGtOa0JuTml0b2VsamV0Yi1xVXhuM205SHRQWWVVXzBNenRRUngtZWk1bk9CZmJBM2phOGdoYmE4TWpkeDlobnZwUg?oc=5",
+   "pubTime": "22:08",
+   "pubTs": "2026-10-27T22:08:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "标普500指数随芯片股走高，油价受伊朗言论影响回落",
+   "summary": "美股三大指数集体高开，标普500指数在芯片股连续两日上涨的带动下走高。与此同时，受伊朗相关言论影响，国际原油价格出现回落，缓解了市场压力。投资者正密切关注市场动态及后续经济数据。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01a2Ywbm5HbkhhaXZtYlM2S1pUVnJOZHphMFNEQUZTS2lQQURWbzdWTDRmYi1INFVtVExqNUV1S3JVblo2Q2hOalpnUW83Xzk4cGJrZnYyYzl0ZUxrT2s5eEoyX0VxVmwxZjVyalBzcXBKYXhaTGtB0gF8QVVfeXFMTTdtcmVVc3VlM04tY1dHN1c1SXRaRnFXM2c1SVpEaE14UW1ScTRRYWZsR1I1ZDNmM3RJNXhkcFV0eGU1dXItUDEwNWZHZlpZTE5pQWI1Rzd2UElyQ0J6N21CbHZ5WnRrZHFYWEl5aWZtUW9jZjhnY0pPbVpQZA?oc=5",
+   "pubTime": "22:07",
+   "pubTs": "2026-10-27T22:07:38+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "SpaceX洽谈接入8万个基站，或为电信运营商带来利好",
+   "summary": "埃隆·马斯克旗下的SpaceX正与电信运营商洽谈，计划接入约8万个基站以构建新网络。此举可能为威瑞森和AT&T等传统电信巨头带来合作机遇，但也引发了市场对行业格局变动的关注和股价波动。",
+   "source": "Barron's",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVTRIdXk2Mjh1QUYyM2NKNENnbHlBVmVqbklGVHlmamJoMmtrMGJqZzlvMHNmRkFVY0Z1cFpqZlRzR1BpZzNxVXUwWW1PZnh6RzdiMDJpMnJSWkt1ZVlPOVdNLXlfX1hCeGlRZXdhcDJyMHF6aGlNNjBhRTRFWnd1SnAxU3lUaHNkWXB2STRtVXg?oc=5",
+   "pubTime": "21:52",
+   "pubTs": "2026-10-27T21:52:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "SoFi季度业绩创纪录且上调指引，股价受利好提振大涨",
+   "summary": "金融科技公司SoFi发布了表现强劲的第三季度财报，净营收达14亿美元，净利润为2.41亿美元，均创下历史新高。基于业务的卓越表现，公司上调了全年业绩指引，推动其股价在二级市场大幅飙升。",
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWHZTeGNpUEZvNUM4RjZWODBVVENwYUNyVW04WE94RmQydVNSLVFZUE5KT1lsSzc4YlVsbE51OFI1TTNYcVhzMDBCNE9NQ1gtcDAtMHB0dmVkeHpRMU93M0VfZ0tyeDlvRG1PcF9vbUNOOUpUenNoSnpNYUNSajBZN2QwdlAwX3IxOWx0YTEzQ1BoNXVhdW1MVU9PdktVM3FXNHZqRTkxaHFQVUlhcW5mMnVNYy1kRHZTLXJKZG8tWjRhdVJYVVVQT3BVU3lteW84WHhGcA?oc=5",
+   "pubTime": "21:51",
+   "pubTs": "2026-10-27T21:51:55+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "标普500与纳指高开，市场在美联储决议前关注油价回落",
+   "summary": "随着原油价格回落，标普500指数和纳斯达克指数在今日开盘走高。投资者目前正处于观望状态，等待美联储即将公布的利率决议，油价的波动为市场在重大政策出炉前提供了一定的缓冲空间。",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR21qQWZsLUZqbWRjR2YtQ3FGakpEWWVjSUVFNjVDSi01MnRiWmV3Z2pPQUsyVGhJR3UxQ1o4RjRVa2tCLXNXbnJjNE9fbE5KVzlKTEZtNHpZb3lPR0hXcFFSVGVydlpnR3RQdVM5bDE3aVI3aVowN0NqY3NHb3VDN3hlaXpLTmxkeFc3NE13dUNqYUtIMHNxRFR5M3VYZmpKUDRzVE5WLUdwRHJCeEpQM1pKaw?oc=5",
+   "pubTime": "21:34",
+   "pubTs": "2026-10-27T21:34:22+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "中国车企将墨西哥视为北美据点，美国消费者暂难触及",
+   "summary": "墨西哥正成为中国汽车制造商进入北美的首个重要据点，当地驾驶环境正发生深刻变化。然而，受政策和市场限制，这些车型目前对美国消费者而言仍不可及。这一趋势反映了中美车企在北美市场竞争格局的演变。",
+   "source": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb09JUU9JSGRGV2RnYWJNQVI0TC1jM20xNE9SaTJqTDdDN09QbmxJYWtQa19fTTAyNU5TR3ZGdC1JLTBXa01KbTMzc29FekozTHdCSWFDRUthRlhpNlBHS3hENFJuQlI5UFZPVjRZTWRDTWlJTjhjdFY5d1BrMEQxMllKRldFNzlUTDRiZVJCeV9jVzh4eHNYUVlZZmdCamViaVhXRm96Q1NfOW9oSlVPNXdLRU01QQ?oc=5",
+   "pubTime": "21:32",
+   "pubTs": "2026-10-27T21:32:22+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "通用汽车将转板至纳斯达克，旨在强化技术与AI转型形象",
+   "summary": "通用汽车宣布将其股票上市地点从纽约证券交易所变更至纳斯达克，成为首家在该交易所上市的传统汽车制造商。此举旨在配合公司加速人工智能转型及技术驱动的战略调整，预计将于11月17日正式生效。",
+   "source": "Fox Business",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOE1zc0k5Z1hMenVsb0EzMG5kX1h5dFI0RzlCRlRDRkRQTHZFTUUwZ2d1Qkp1cmN5QnNKYzhsaVFZMkQxYktJWWw3UElhRHpWbl9ValVyZUFjX2R6VUFraDFKejkwbDJ5bVVXNVlGdmxIMTZTNUJQSm84Z1ZjRFhoS1Y3RzNTN3ZsanNwd2ZCLXAtSWtXVFJsaW5Mcmc4STAwekhDa1BhU0lLZ9IBrwFBVV95cUxPMDJDRVV3dGpZUnRKYjRnNEF4S01UcEhiU3NwR2pIWV9sT3YzeXMtSXR0eEhHWmtvUXF3TUtvVUZXcHJocGxoLWRqNzRPdnUzNzZaVjh3RWJJQkMtQ1pwVUJPYk5QMDVGQ3VFYS1rU2VUTk4zTmtJUUt1LWpCam9kc19BTzNnRTdJTS12cFk1YWJ6SEoyZGdCakR3NkVkVTItQldGQ2VMcnZtM1RhMWRR?oc=5",
+   "pubTime": "21:26",
+   "pubTs": "2026-10-27T21:26:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "巴西大选结果尘埃落定 弗拉维奥放弃挑战股市大跌",
+   "summary": "巴西总统选举结果揭晓，卢拉成功翻盘胜出。对手弗拉维奥·博索纳罗因得票差距过大放弃挑战计票结果，转而计划组织国会反对力量并起诉卢拉滥用职权，此举引发股市大跌。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261027-9904563",
+   "pubTime": "22:12",
+   "pubTs": "2026-10-27T22:12:53+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "去年温室气体浓度再创新高 气候影响料延续数百年",
+   "summary": "世界气象组织报告称，去年二氧化碳等三种主要温室气体浓度创历史新高，将导致全球气温长期上升。由于二氧化碳在大气中存留时间极长，其对气候的负面影响预计将持续数百年。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261027-9904853",
+   "pubTime": "22:08",
+   "pubTs": "2026-10-27T22:08:55+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "日本企业频遭黑客攻击 逾千万个资外泄",
+   "summary": "日本GMO互联网旗下外汇交易服务遭黑客入侵，攻击者勒索100万美元并威胁公开大量个人信息。目前已有五家外汇交易商报告客户受损，GMO公司明确表示拒绝支付赎金，个资外泄风险严峻。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261027-9904618",
+   "pubTime": "21:55",
+   "pubTs": "2026-10-27T21:55:54+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "韩国首尔江南区发生大火 暂无人员伤亡",
+   "summary": "韩国首尔江南区九龙村发生大火，火势在强风作用下迅速蔓延至多个区域，现场传出爆炸声。目前已有39名居民紧急疏散，暂无人员伤亡报告，当地消防部门已投入数百名人员和直升机开展灭火。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261027-9904770",
+   "pubTime": "21:47",
+   "pubTs": "2026-10-27T21:47:04+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "拒对华脱钩 减对美依赖 默茨吁欧亚深化经贸与前沿科技合作",
+   "summary": "德国总理默茨在新加坡演讲时呼吁欧盟与亚细安深化经贸合作，支持达成区域自由贸易协定以应对大国博弈。他主张通过加强欧亚联系来化解贸易壁垒及供应链风险，减少对单一市场的依赖。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261027-9904044",
+   "pubTime": "21:34",
+   "pubTs": "2026-10-27T21:34:36+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "俄称三艘载柴油油轮正驶往美国",
+   "summary": "俄罗斯副总理透露，根据俄美达成的放宽制裁换取能源供应协议，目前已有三艘载有俄罗斯柴油的油轮驶往美国。俄方承诺将向全球市场供应大量柴油，首批货物已从普里莫尔斯克码头启航。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261027-9904666",
+   "pubTime": "21:30",
+   "pubTs": "2026-10-27T21:30:05+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "【东谈西论】金正恩“三无访华”背后的大国平衡术",
+   "summary": "朝鲜领导人金正恩日前突然访问中国丹东，由王沪宁等高层迎接。此次行程未会晤习近平且未过夜，被称为“三无访华”。此举不仅打破了其病逝谣言，也展现出朝鲜在大国博弈中的平衡策略。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261027-9900713",
+   "pubTime": "21:30",
+   "pubTs": "2026-10-27T21:30:00+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "福莱蒽特Q3净利润同比增长355% 染料行业回暖带动盈利提高｜财报解读",
+   "summary": "受染料行业回暖影响，福莱蒽特第三季度实现归母净利润约4328万元，同比大增355%。业绩增长主要得益于主营产品销量增加、分散染料及滤饼销售均价上行以及产品毛利率的显著提升。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2516978",
+   "pubTime": "21:31",
+   "pubTs": "2026-10-27T21:31:49+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "票息超 3%，为何赚不到钱？外币理财被汇率改写收益账，41只产品中仅澳元实现正收益，最高超4%",
+   "summary": "汇率波动正深刻影响外币理财收益。统计显示，在41只公募非美元外币理财产品中，折算回人民币后仅澳元产品实现正收益。尽管部分产品票息较高，但受汇率变动拖累，多数币种理财实际收益欠佳。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2516264",
+   "pubTime": "21:14",
+   "pubTs": "2026-10-27T21:14:00+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "REITs市场悄悄回暖，一个多月以来最多上涨7%，资产比价优势明显|公募REITs面面观",
+   "summary": "公募REITs市场自9月中旬触底后开启温和修复行情，中证REITs全收益指数反弹明显。在已上市项目中，超七成实现上涨，其中保障房、产业园及仓储物流等板块领涨，最高涨幅超过7%。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2516790",
+   "pubTime": "21:13",
+   "pubTs": "2026-10-27T21:13:27+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "泡泡玛特三季度收入同比降45%-50%",
+   "summary": "泡泡玛特第三季度整体收入同比大幅下降45%至50%，其中中国区域市场及线上渠道跌幅显著。公司表示，业绩下滑主因是去年同期基数较高，且热门IP热潮有所降温，市场关注其增长能否企稳。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2516943",
+   "pubTime": "21:10",
+   "pubTs": "2026-10-27T21:10:20+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "AI融资冷热分化：股票投资者热情升温 债券投资者趋谨慎",
+   "summary": "随着AI基础设施建设资金需求激增，融资市场出现分化。股票投资者看好长期前景，积极支持科技企业的融资计划；而债券投资者因担忧回报周期及庞大开支，对AI领域的融资需求表现得愈发谨慎。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2516946",
+   "pubTime": "21:10",
+   "pubTs": "2026-10-27T21:10:04+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "AI概念股有望延续反弹 红利龙头业绩强劲 | 今夜看点",
+   "summary": "受中东局势缓和及油价回落提振，美股三大股指期货盘前走高。科技板块领衔反弹，美光科技、英特尔及AMD等AI题材股集体上涨，市场预期费城半导体指数将延续昨日的强劲反弹势头。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2516945",
+   "pubTime": "21:06",
+   "pubTs": "2026-10-27T21:06:04+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "港股公告精选｜华勤技术年内营收超1600亿元 中国交建前三季新签合同额同比降逾一成",
+   "summary": "港股多家公司披露业绩，华勤技术前三季度营收超1600亿元，净利增长近四成；万洲国际收入微增但净利下滑；中国外运营收净利双降。此外，均胜电子及复星医药等公司也发布了最新经营数据。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2516936",
+   "pubTime": "20:59",
+   "pubTs": "2026-10-27T20:59:47+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
