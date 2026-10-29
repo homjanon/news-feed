@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "afternoon",
+ "editionName": "下午茶",
+ "date": "2026-10-29",
+ "fetched_at": "2026-10-29 15:20",
+ "translator": "gemini-3-flash(7条) + agnes-3.0-flash(14条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "美国一邮轮因燃料成本过高暂停环球航行，200名乘客滞留",
+   "summary": "一艘美国邮轮因燃料成本飙升，在亚洲航行期间被迫暂停其环球航行计划，导致约200名乘客滞留。该邮轮公司的首席执行官表示，由于运营成本压力巨大，这项被称为“无尽”的环球之旅不得不宣告中断。",
+   "source": "NPR",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CR2hlUV9wSTJLZGR0ZEdBaTZQQVpHV0VlUXhFdUNXNWZEOTNYdktmT3daUTZRV3pjaVdxQmsxNjg4bGFfNFJRZnFYczk4Mk5OOWctUjRLeWozY1ExY3ZiQ0RMazI5alBQR2MyY0NvMk9TODRBS21Nc2lR?oc=5",
+   "pubTime": "14:12",
+   "pubTs": "2026-10-29T14:12:38+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美联储维持利率不变，理事库克投下反对票",
+   "summary": "美联储在最近的会议上决定维持利率不变，但内部出现了分歧，理事丽莎·库克投下了反对票。尽管美联储强调了经济的强劲表现，但此次分裂投票也让国债市场的前景变得模糊。相关人士否认了政治因素对决策的影响。",
+   "source": "Axios",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wSnZBWVpLV3lueUc5bmN2VEZPVzZ2WlN1LWxFaFg3LTV6M3pLTHozaVcxRTAxS3lFak82MHB1R0VoYmY4cUk3cnFzbWJuSHllTk9zcFZwQVlKeXRSbFBXQk54M3Q2Wk9abkg0WkdSMA?oc=5",
+   "pubTime": "13:51",
+   "pubTs": "2026-10-29T13:51:20+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "谷歌与三星业绩不及预期，科技股反弹势头受阻",
+   "summary": "受谷歌母公司Alphabet和三星电子业绩令人失望的影响，科技股的反弹势头陷入停滞。市场资金出现轮动，加之油价上涨和中东局势紧张，道指大跌500点，卖压从科技板块蔓延至更广泛的市场领域。",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd1B6V3JFX19tOWhyZHVKZzFGZ1k0aXcyNERXb0JrMFNjQVpEaFZMeVMxU1FUVnJpWmFrM3JQbjJ5cXRsU0NBekRsOUM2WEQ2Zlh3MWluWUU2c0poWTk1ZDBGMC13SUtxX1lVdjEtQW1PbWdXRE95ZFJqZ2JmZEwxeW5VbVVORWlzMlJTVHdnZ2NkaWR3?oc=5",
+   "pubTime": "13:36",
+   "pubTs": "2026-10-29T13:36:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "三星电子股价下跌，因投资者回报细节披露不足",
+   "summary": "尽管三星电子第三季度利润创下纪录，但由于未能提供关于投资者回报的详细计划，其股价依然出现下跌。此外，虽然人工智能需求带来了希望，但三星的芯片业务利润仍低于市场预期，引发了投资者的担忧。",
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbTBCdmlaTXFKLTZPUHlhTElHQUN0d0t0OWhzb056YXZQdWdhM1RnTENzT2NGcGdTQ3dxZkF2Y2s5SWFmUW1UaWJaam1GV29VVHRaQ0R3cjFoTW9IQWlBQVdGYWZwQWZsdnpnX0pFZU9VbTU1RXE1Ym1UdWxoN2dwYWthUWI?oc=5",
+   "pubTime": "13:06",
+   "pubTs": "2026-10-29T13:06:49+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "马维尔科技拟巨资收购Lumentum，旨在发力人工智能领域",
+   "summary": "据知情人士透露，芯片制造商马维尔科技正接近达成一项收购光学元件供应商Lumentum的巨额交易。此举被视为该公司在人工智能领域的重要布局。受此消息提振，Lumentum股价大幅跳升，而马维尔科技股价则出现波动。",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTGdUMkpHa2JOcFhCMTFQU0tLaTJkTU54TmQ2aGJnVVVMR2VzeGdzLS1ONXd0U3hqQ0xPZUlEeTgyOWVXMHRQQ0hIeW5aX21JRkpNY3FlRUdNM1ZJMS1ZX3JwMWUteGVLdFFaVlNZMjZXUWtSSXNVRlEwdnRvbU9iQVBnNS1ycUgxMU5LTGtQQ0hSTWNOTkhBZ3FNRC1HaEZXZG9UMUd1QlBfeG1qZ044cTQtTk9Ydw?oc=5",
+   "pubTime": "13:04",
+   "pubTs": "2026-10-29T13:04:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "独家：知名律所威嘉律师事务所聘请顾问负责清算工作",
+   "summary": "曾经的法律界巨头威嘉律师事务所计划解散，并已聘请AlixPartners咨询公司负责引导其清算进程。这家华尔街老牌律所的倒闭引发了业界对企业忠诚度缺失的讨论，其内部混乱最终导致了这一辉煌时代的终结。",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONFUyQVI3VGZ3WF9abnJQX01sMVB6djByZDBvZzlETVhXWWlWbDNrWDVMeDZYUXlWd1BNbG00aTM0N0ZBbzQ4TWlsQ05BSWx4Z0NBbWVtN1hiQlNzZGVPbTUwT29zSWZjbnBtNGQ3dUtTMjFUVmZTZHV1TzJTRjJCUGVOdlFnSmhzVXgtRnZPYll6R20ta24yQQ?oc=5",
+   "pubTime": "11:25",
+   "pubTs": "2026-10-29T11:25:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美国卫生部长小肯尼迪拟扩大未获批多肽药物的使用范围",
+   "summary": "美国卫生与公众服务部部长小罗伯特·肯尼迪计划扩大公众获取未获批准的多肽药物的渠道。特朗普政府将允许药房配制这些流行的多肽注射剂，此举旨在通过简化程序让更多人能够使用这些药物，但也引发了安全讨论。",
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XVURqTDEzYXh6NjFMLWNKTXRFYkhldlNQTnFPekgtQzhWeU53LVF0b1BQNUFWLUVzWC1YRW16WUlLQlhjbVFKM2xKMFBQWWo4WWo1WE9lMS1JaHc?oc=5",
+   "pubTime": "11:09",
+   "pubTs": "2026-10-29T11:09:10+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "瑞士冀加强与中国研发合作 两国将签科学数据交换协议",
+   "summary": "瑞士联邦政府批准与中国签署科学数据跨境管理协议，联邦主席帕姆兰访华期间将签署该协议。此举旨在应对中国相关法规影响，加强两国在联合研发活动中的合作与数据交换。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261029-9914559",
+   "pubTime": "15:13",
+   "pubTs": "2026-10-29T15:13:57+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "宏福苑大火问责 香港房屋局局长何永贤请辞",
+   "summary": "大埔宏福苑大火调查报告公布，香港特首李家超致歉并接受房屋局局长何永贤的辞职。虽未认定其个人不当行为，但其须为火灾承担政治责任，由财政司副司长黄伟纶接手工作。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261029-9914517",
+   "pubTime": "15:03",
+   "pubTs": "2026-10-29T15:03:22+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "三丽鸥在日本官网发布道歉信 此前被中国官媒批“特供道歉”",
+   "summary": "三丽鸥因日剧联名争议先后在中国微博及日本官网致歉并取消合作。此前其仅在中国市场道歉被官媒批为“特供”，缺乏诚意，随后三丽鸥在日本官网正式发布取消活动通知以回应争议。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261029-9914439",
+   "pubTime": "14:54",
+   "pubTs": "2026-10-29T14:54:43+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "抖音高管再发声为短剧辩护：和传统影视剧没有本质区别",
+   "summary": "字节跳动副总裁李亮再发声辩护短剧，称其与影视剧无本质区别，核心在于内容质量。面对媒体关于字节应重视社会价值的批评，李亮强调短剧形态发展较晚，不应被过度审视。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261029-9914201",
+   "pubTime": "14:19",
+   "pubTs": "2026-10-29T14:19:36+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "美企防务主管：AI竞争或增强北京攻台动机",
+   "summary": "美国Palantir防务主管加拉格尔警告，若北京认为美国在AI领域优势过大，可能因台积电的关键地位而增强攻台动机。通过控制或停摆台积电，中方意图阻断美国技术进展。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261029-9913796",
+   "pubTime": "14:12",
+   "pubTs": "2026-10-29T14:12:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "上海拟有序推动自动驾驶技术在出租汽车行业安全应用",
+   "summary": "《上海市出租汽车条例（草案）》提出有序推动自动驾驶技术在出租车行业的安全应用，并由交通、公安部门加强指导。同时利用大数据、AI等技术提升数字化水平，推进行业绿色低碳转型。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261029-9913770",
+   "pubTime": "13:53",
+   "pubTs": "2026-10-29T13:53:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "美国禁三家中企产品进口 中方回应“不知悔改” 背离两国元首共识",
+   "summary": "美以涉疆强迫劳动为由将三家深圳华大相关企业列入实体清单。中国商务部回应称此举不知悔改，背离元首共识，严重破坏经贸关系，要求美方立即停止对企业的无理打压。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261029-9913926",
+   "pubTime": "13:30",
+   "pubTs": "2026-10-29T13:30:20+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "港股评级汇总：兴业证券维持汇丰控股买入评级",
+   "summary": "多家机构发布港股评级：兴业证券与华泰证券均维持汇丰控股买入评级，看好其利润增长及股东回报；招银国际维持三生制药买入评级。研报指出汇丰三季度业绩稳健，信贷成本下降。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2519100",
+   "pubTime": "15:19",
+   "pubTs": "2026-10-29T15:19:30+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "商务部：如欧方对中国产品采取歧视性限制措施，中方必将采取一切必要措施",
+   "summary": "针对欧盟拟延伸混合车贸易安排，商务部发言人指出人为设限违反世贸规则，将推高欧盟通胀。中方强调中欧贸易磋商取得进展，愿加强合作，若欧方采取歧视性限制，中方将采取必要措施反制。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2519096",
+   "pubTime": "15:13",
+   "pubTs": "2026-10-29T15:13:33+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "国家发改委：10月29日国家再次实施调控 成品油价格适当调整",
+   "summary": "因中东局势致国际油价上涨，国家再次调控成品油价格。自10月29日24时起，国内汽、柴油价格每吨实际上调345元、335元。中石油等需保障供应，相关部门将严厉查处不执行价格政策行为。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2519063",
+   "pubTime": "15:00",
+   "pubTs": "2026-10-29T15:00:19+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "三星电子财报会实录：存储紧缺料延续至2028年",
+   "summary": "三星电子Q3业绩创新高，营业利润首破100万亿韩元。受AI浪潮拉动，HBM4放量显著。公司上调资本开支加码AI产能，预计存储供需偏紧格局将延续至2028年。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2518995",
+   "pubTime": "14:32",
+   "pubTs": "2026-10-29T14:32:32+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "欧盟石油进口账单飙升！二季度月均多花近100亿欧元",
+   "summary": "受中东局势影响，2026年二季度欧盟石油进口月均支出276亿欧元，较2025年增长55.8%，月均多花约99亿欧元。进口量仅微增1.2%，成本激增主要因原油价格重回2022年峰值水平。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2518981",
+   "pubTime": "14:23",
+   "pubTs": "2026-10-29T14:23:39+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "美国将中国企业列入所谓涉疆法案实体清单，商务部回应",
+   "summary": "美国国土安全部将3家中国实体增列至“维吾尔强迫劳动预防法”实体清单。商务部回应称中方坚决反对，指责美方操弄人权议题，行单边保护主义之实，中方已提出严正交涉并予以反制。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2518916",
+   "pubTime": "13:06",
+   "pubTs": "2026-10-29T13:06:29+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "AI巨头面临全新评价体系：现金流才是当前最关键指标",
+   "summary": "AI巨头面临新评价标准，投资者更关注企业能否通过自有资金承担扩张压力。微软、甲骨文因现金流稳健股价上涨，而Alphabet因自由现金流转负大跌，凸显现金流在AI竞争中的关键地位。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2518866",
+   "pubTime": "12:57",
+   "pubTs": "2026-10-29T12:57:17+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
