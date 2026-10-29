@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "night",
+ "editionName": "夜豆浆",
+ "date": "2026-10-29",
+ "fetched_at": "2026-10-29 22:30",
+ "translator": "gemini-3-flash(21条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "美股周四收跌：Alphabet遭抛售拖累科技股，AI担忧情绪重燃",
+   "summary": "美股三大股指全线下挫，Alphabet股价大跌引发科技股抛售潮。市场对人工智能前景的担忧再度升温，导致纳指大幅领跌。与此同时，受地缘政治等因素影响，国际原油价格触及近六个月高点。",
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZng1SkZyblduakt3V2JCRG1ZRFpaVV9STzdIcXhCWm5IZ3ZFRGJ3bDIyOXVRSVg5czF6N0szY0pxTm40Q2gzM2lCMkJRTldMSF9UUFB1TzFDUDFFQndIZFExX1lFQS1sQV83Sm53WHB1SDJjTzdSVUtEMGNOZ25XYzRCTnJLR1ZyZE9XSTliOTFnM0VhVnRjT3NhVjdXMVVwT1FsWEhxQzF1dzJnd19VOWZaN2tFOHZoeWljaTI1eXpENnpadHlPazhQcDBuckxJUjMyMw?oc=5",
+   "pubTime": "22:17",
+   "pubTs": "2026-10-29T22:17:41+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美国第三季度GDP增长3.4%，超预期表现得益于消费与AI投资",
+   "summary": "美国第三季度国内生产总值（GDP）折年率增长3.4%，表现优于市场预期。强劲的消费者支出和人工智能领域的巨额投资是主要驱动力。然而，9月份通胀数据有所加速，为经济前景增添了复杂性。",
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hWjFpUjZyQ0d1ZlRFNVlnTzFDMURuVDZOZ3pqaGg2UmppclZEclgwTFNQQmNFY0JpYzdmWms0Yjd3X3RsS2pDTlZXOTNkRU9fUk0yanVlclh6UmlkYWtNWFRDQzVBMEJMWjVKYXZBSW9KOS0zRVhxVzdQMA?oc=5",
+   "pubTime": "21:55",
+   "pubTs": "2026-10-29T21:55:29+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "微软财报后股价逆势上涨，云业务强劲增长缓解AI支出担忧",
+   "summary": "尽管市场对AI支出感到担忧，但微软股价在财报公布后上涨4%。得益于云业务的强劲增长和现金流表现，微软季度利润大幅增长32%，营收和利润均超出预期，表现显著优于遭遇抛售的谷歌。",
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNl90cjBzWjNJM3p0T0tXLXc1aXVuTThBNXg1blZUZTRfV2xXbXJrN3hzOVVPX2czZEliMkNZYVo4UGxyVndhOUo1X2hXUnd1VklTTmlMTmYwZzMtUWhJUlBQeXVjM2dZT25qNlh4cGQwNmxUWHMybzBzR3ZOLXd4TldVSkVlZXZxZWF5MEdGY1JSUWJ1Nzd6Sk5mMVBNb2VVeGpjbGJxMWo2dkpYbmpUTGJSbFF6MGF6SHNFOG5kdEtpZEFBZXFzYU14OE0xYXp1VXdUTWJhMkIwSjNsSm1MUFVn?oc=5",
+   "pubTime": "21:49",
+   "pubTs": "2026-10-29T21:49:49+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "默沙东公布第三季度财报：上调全年利润预期，Keytruda表现强劲",
+   "summary": "默沙东公布的第三季度业绩超出市场预期，并宣布上调全年利润展望。核心药物Keytruda的新剂型表现强劲，加上Winrevair的销售增长，共同推动了营收上升。公司同时强调了其多元化研发管线的多个里程碑进展。",
+   "source": "Merck | Home",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQUU5EUFd2dWFwNGRXWDEwSGJ1dHgxaXplWjI5dDBuVzZMbDVOWG1maHNGZzRXUmtqcWQxRDJIMy1mV3ZJSHlacjZlUndYR3ZibzRLNXU4NXlZLThKVXpQVl9IY1VKQ3E0SEItbEhrV1FIdThsN3BqS1Y3V29TLUJmMTkzdHVnaTZUenY0cWFOZi1jdkpVWHJ1a2tjM01YOE9WX3VYQTNMQ0E2cXB3RDg3UFRUV0l6aUxRUmJCdjRSTGY1dEp2aEVuLVJfZ3MwMzVyeC1TV3B5bENlcUc2dHVtR1ZwYXhPaW4yMWhERGYzSnlvc2I4Tmwycmln?oc=5",
+   "pubTime": "21:46",
+   "pubTs": "2026-10-29T21:46:10+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "欧洲央行行长拉加德宣布将于2027年2月提前卸任",
+   "summary": "欧洲央行行长克里斯蒂娜·拉加德宣布将于2027年2月提前离职。目前欧洲正面临通胀压力和经济增长乏力等多重挑战，拉加德的提前卸任计划引发了市场对欧洲货币政策连续性和未来领导层的广泛关注。",
+   "source": "Euronews.com",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMmhhd2Zxb2hFMmlvTk9vSWhySGhJZWszVmx5T0M0TlE1TEMwTVowcFpXZDVpQVlGSjBPeEdhSVUtOE4tMk42N3JxN1BhR29JVDVBSF9HQUJydGFrRnFnMXkwRHZSX3N3c2xtdVNNSWl3OFZIYzFuakh0NklJRy1RbVQ3Nm9EcTNMbFppc0lLdkdSUTQ5N2pheU04NFltcmpyZWYtT2psRk9QQ1hZOUpYd2QzbjlvZkhuSmtPbA?oc=5",
+   "pubTime": "21:37",
+   "pubTs": "2026-10-29T21:37:16+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "纳指因通胀数据及Alphabet大跌而走低，美联储青睐的通胀指标上升",
+   "summary": "受通胀数据高于预期及Alphabet财报后股价暴跌影响，纳斯达克指数大幅走低。美联储青睐的通胀指标在9月份呈现上升趋势，加剧了市场对利率路径的担忧。此外，卡特彼勒等权重股的财报表现也令大盘承压。",
+   "source": "Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc1N0UWUtenA4dTA3V1lWMXdXLWZ6Q3V1QXotNDY1OXczdHhaYV93LXNna3JweVZhb01YS25qYUlHWEFYSVJDLWhzOTFmVnZIa1hmSTRTd0RDNUhXVmtXNzZlTGR6eDllYnpXU2lFXzdibTI1RnBOUzRHeGliekY2cXh1c0Ryc1F5S3lCdnp2Tkh1YjUweTd2eWdKcDFXbHpZNXhXcE9INzNaZmhDLTA2Q2pRSEZkazJIQUZpUWo5cWFhZw?oc=5",
+   "pubTime": "21:29",
+   "pubTs": "2026-10-29T21:29:13+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "欧洲央行维持基准利率2.5%不变，警告通胀风险依然存在",
+   "summary": "欧洲央行决定将基准利率维持在2.5%不变，符合市场预期。尽管维持现状，但行长拉加德指出通胀风险仍在增加。受此消息及拉加德宣布离职影响，欧洲债券收益率和欧元汇率均出现下跌。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EdmRuRWxaV3lJMlRiZGxtYmV3eV94WGRrcW9SU2xuejhkcUktdkVUNUlnUFR4YmJqZkNaRmJsYnVQem1KbHlYaTM4Q196b0xHdkVFWENydFItQzBtN2pXbUZkLXVEamNqNTFTZVFuOXRfTWZaeDhiM25fRkNBUdIBgwFBVV95cUxOclAxUlNIR3dYMzV2aUFZSjVxZ05CWUxzeXRMWU9MM3N5QS1DYS1mc1pnSU81cWlCQktxbk11NkQtWEFSWU1pQmxLY3N3dzlBbnJUTFlBUG1iZ2VPME93aktzay1VdWJaWF9SaF9vOHpDSDgtaTFVVXFCX2p0ZGRwNWdlZw?oc=5",
+   "pubTime": "21:18",
+   "pubTs": "2026-10-29T21:18:31+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "卡塔尔否认干预以色列大选 批内坦亚胡阵营无端指控",
+   "summary": "卡塔尔外交部否认干预以色列国会选举，驳斥内坦亚胡阵营有关其资助阿拉伯政党的指控。目前以色列大选计票已接近完成，两大阵营均未达到组建政府所需的过半议席，而获得显著进展的阿拉伯裔政党有望成为左右组阁的关键力量。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261029-9917567",
+   "pubTime": "22:28",
+   "pubTs": "2026-10-29T22:28:44+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "消息指又一美军将领遭革职 伊朗警告新袭击将对国际市场造成毁灭性冲击",
+   "summary": "美国参谋长联席会议战略主管西尔维亚中将近日遭革职，正值特朗普可能对伊朗发动军事打击之际。军方未公布原因，但此前曾表示将削减将领人数以落实问责制。同时，伊朗警告新的袭击将对国际市场造成毁灭性冲击。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261029-9917355",
+   "pubTime": "21:49",
+   "pubTs": "2026-10-29T21:49:35+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "伊拉克判三名法国籍伊国组织成员终身监禁",
+   "summary": "伊拉克法院裁定三名法国公民加入极端组织“伊斯兰国”并参与恐怖活动罪名成立，判处其终身监禁。根据当地法律，这相当于20年监禁。其中一名被告的亲属此前已在法国被判刑，三人均于2014年青少年时期加入该组织。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261029-9917383",
+   "pubTime": "21:26",
+   "pubTs": "2026-10-29T21:26:09+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "西班牙高铁相撞增至69死 司机罢工促改善铁路安全",
+   "summary": "西班牙托莱多省发生两列高速列车相撞事故，死亡人数已上升至69人，另有57人住院治疗。受此影响，西班牙火车司机按计划举行罢工，要求政府加大对铁路安全的投资。目前搜救工作仍在严重变形的翻覆车厢中进行。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261029-9917233",
+   "pubTime": "21:11",
+   "pubTs": "2026-10-29T21:11:20+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "美联储于中期选举前不升息 沃什强调决策不受政治影响",
+   "summary": "在美国中期选举前夕，美联储主席沃什宣布维持基准利率不变，并强调该决策完全基于经济考量，不受政治因素影响，间接回应了总统特朗普的指责。此次会议内部争论激烈，最终以10比2的投票结果通过维持利率决定。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261029-9915360",
+   "pubTime": "20:20",
+   "pubTs": "2026-10-29T20:20:44+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "伊朗称三艘油轮在霍尔木兹海峡触雷起火",
+   "summary": "伊朗伊斯兰革命卫队称，过去24小时内有三艘违规油轮在通过霍尔木兹海峡南部未经授权航道时触雷起火。伊朗方面警告该海域仍布有水雷，而美军则重申已清除主要航道水雷，目前涉事船只的国籍等具体信息尚不明确。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261029-9917002",
+   "pubTime": "20:15",
+   "pubTs": "2026-10-29T20:15:11+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "抗衡中国影响力 澳洲称在太平洋“持久战”中取得进展",
+   "summary": "澳大利亚太平洋岛国事务部长康罗伊表示，澳洲在与中国争夺太平洋地区影响力的“持久战”中已取得进展。自2022年以来，澳政府已与图瓦卢、斐济等多个岛国签署协议，旨在通过落实承诺成为该区域的首选合作伙伴。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261029-9916794",
+   "pubTime": "20:11",
+   "pubTs": "2026-10-29T20:11:08+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "产能扩张难消化 桃李面包前三季度净利同比下降超三成 |财报解读",
+   "summary": "桃李面包前三季度实现营收39.6亿元，归母净利润同比下滑超三成至2.04亿元。业绩下滑主因是营收下降导致单位固定成本增加，毛利率受压，以及上海研发中心投入使用后研发费用增长。公司第三季度单季利润降幅进一步扩大。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2519763",
+   "pubTime": "22:01",
+   "pubTs": "2026-10-29T22:01:40+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "艾迪药业前三季度利润扭亏 HIV产品仍是核心变量",
+   "summary": "艾迪药业前三季度实现营收5.5亿元，归母净利润约1981万元，成功实现扭亏为盈。业绩增长主要得益于HIV领域收入大幅增加，以及部分研发支出计入资本化导致研发费用减少。目前HIV产品仍是支撑公司营收增长的核心动力。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2519768",
+   "pubTime": "22:01",
+   "pubTs": "2026-10-29T22:01:02+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "前三季净利接近去年全年 豫光金铅Q3净利同比翻倍｜财报解读",
+   "summary": "受黄金、白银及铜价上行等因素推动，豫光金铅前三季度实现营收523.07亿元，归母净利润8.21亿元，已接近去年全年水平。其中第三季度表现亮眼，归母净利润同比增长103.19%，扣非后净利润增幅更是超过120%。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2519746",
+   "pubTime": "21:52",
+   "pubTs": "2026-10-29T21:52:47+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "万科前三季度营收1050亿元 累计盘活优化及新增产能195亿元 |财报解读",
+   "summary": "万科前三季度累计实现营业收入1050亿元，但归母净亏损达239.4亿元。亏损主因是房地产开发业务结算规模下滑及毛利率处于低位，前三季度开发业务税前毛利率仅为5.2%。公司目前正致力于盘活优化资产及新增产能。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2519748",
+   "pubTime": "21:52",
+   "pubTs": "2026-10-29T21:52:16+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "牧原股份连亏三个季度 前三季度累计亏损超90亿 丨财报解读",
+   "summary": "受生猪市场价格持续低迷影响，牧原股份前三季度实现营收922亿元，归母净利润亏损93.19亿元，同比由盈转亏。公司已连续三个季度录得亏损，其中第三季度亏损32.41亿元，反映出养猪行业正处于深度调整与亏损期。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2519745",
+   "pubTime": "21:51",
+   "pubTs": "2026-10-29T21:51:34+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "纸企跨界光伏四年终告败 上海艾录子公司拟破产清算 | 速读公告",
+   "summary": "纸包装企业上海艾录公告称，其控股子公司南通艾录新能源因无法清偿到期债务且资产不足，拟申请破产清算。该公司为上海艾录2023年跨界布局光伏领域所设，但因经营不顺连年亏损，破产后将不再纳入上市公司合并报表。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2519718",
+   "pubTime": "21:31",
+   "pubTs": "2026-10-29T21:31:00+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "口子窖Q3营收结束同比“5连跌” 但低基数下净利润再跌近三成|财报解读",
+   "summary": "口子窖前三季度实现营收26.14亿元，归母净利润同比下降48.23%。尽管第三季度营收微增3%，结束了连续五个季度的下滑趋势，但在去年低基数背景下，单季净利润仍下跌近三成。公司拟向股东派发现金红利约8950万元。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2519708",
+   "pubTime": "21:23",
+   "pubTs": "2026-10-29T21:23:28+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
