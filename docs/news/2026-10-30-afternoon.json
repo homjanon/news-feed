@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "afternoon",
+ "editionName": "下午茶",
+ "date": "2026-10-30",
+ "fetched_at": "2026-10-30 15:20",
+ "translator": "gemini-3-flash(21条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "日本央行宣布实现2%通胀目标，结束数十年通缩",
+   "summary": "日本央行表示，在经历数十年的通缩后，核心通胀率自2013年以来首次与2%的目标一致。央行在维持利率不变的同时宣布取得阶段性胜利，并释放了近期可能加息的信号，此举对日元汇率形成支撑。",
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVi1KTThMaldwbS1RUlphdUZuVE9lU0N1M0ZvNll2eXJGczlyVy1NN0VvajJ0Q1RfVnh2THVreHdMdVdmQlpXSzRneVgyTU55cmVQMl9oa2piLWFjNmJuM0V6Qk5lSWhkWC1LUWtBSldNdGFycU1aa25hNnpHT1BTcGZLNGU?oc=5",
+   "pubTime": "14:44",
+   "pubTs": "2026-10-30T14:44:07+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "亚马逊与英特尔财报低迷，纳斯达克100指数期货下跌",
+   "summary": "受亚马逊和英特尔财报表现不佳影响，纳斯达克100指数期货大幅走低。市场对人工智能领域的担忧情绪再度升温，导致Alphabet等科技股遭到抛售，道指和标普500指数期货也随之走弱。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZVVQzRnJqelRyUjFGQjZLZlhIbGsyQUxabzc5TE1TaEx6TWRnaTRRcXVmanBTWXZ0NmhmZWpHeVZFZ3lSX1kyaEhfMnBVMnprQ0xscEpBZzhOWFZLbnZCcUtDUnJJNmdROEhxOVhSRDdFVDd4THg00gF8QVVfeXFMTmgwT1lfNnJpUlczcFVnQW9lanFWbDZzYXRadlNsNmRoS1NSVURVS1VsRjlsWGlZOGhiTkF2X3FJRzJnTllYaTAxdVRCSjgyUlduRGRQTV9kUzNDdFVyQ0VWUHQ3ODU5bW1hZ0hvS2FubEFWMEJnWnAtdUN0bg?oc=5",
+   "pubTime": "14:03",
+   "pubTs": "2026-10-30T14:03:47+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "币安遭遇63亿美元巨额黑客攻击，创加密货币史上最大劫案",
+   "summary": "全球最大加密货币交易所币安遭遇63亿美元黑客攻击，目前已紧急冻结相关资产。据调查，此次史上最大规模的加密货币劫案始于一名工程师的笔记本电脑，该事件在行业安全领域引发了巨大震动。",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUklCT0Zncjc4TE93UXRGOFczR29GTTg1WllYUXVhWko5YWpRZ05DcXZKb0ZSMnhWS3VnNnBBUzJtRThXSHdYUlRPdC1scGtPb1BCb3hJM0JRWFVpVE1rUGFiUFBtV2hleHVVdl8wRW03eDdLdGc3TkpvdzY4UFNiTXJ3ZkEzZmNIY0ZUVkt4WHdYQVBtQkZhcm9GU2xiRXVUaUVndXlpYmxKQnpXamZiUV83OHZpU3U3Z2tFLQ?oc=5",
+   "pubTime": "12:19",
+   "pubTs": "2026-10-30T12:19:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "欧洲央行行长拉加德宣布辞职，继任者选拔程序启动",
+   "summary": "欧洲央行行长拉加德宣布提前辞职，此举使欧盟领导人能够在法国大选前选定继任者。拉加德的突然离职引发了关于央行领导层人选的激烈讨论，欧盟正面临解决这一权力交接难题的挑战。",
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd0t1M2lJYVRDeHhmSWRYc01ONFJxdlNybDhYZWpzNzJBdFd6OGJ0TEh2SkdwTndiRzVsM3B5eERhaG10eng3MDZzM0JpMko2dnFiQkZSc0tNVXppX0xyck5wNmxQMV9LcmJuOEQ3cFpveldnRlRkcHh2MFkwRjVOU0JYTjdIV0JQTHVBYmo0ZkNyUQ?oc=5",
+   "pubTime": "11:42",
+   "pubTs": "2026-10-30T11:42:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "全球科技股跌势加剧，市场担忧人工智能支出过高",
+   "summary": "随着美股财报引发市场对人工智能巨额支出的担忧，全球科技股跌势进一步加剧。亚洲芯片类股票普遍下挫，市场情绪低迷。与此同时，日本央行将利率维持在31年来的高位，加剧了市场波动。",
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNTB4Ykd3SWFzX1I1OTJab3VCbDdLRy1IZmo4dVBNZU5CVmFqNFZxUmEtbGxBTnlYV09zUV9VYTZBUnpSU0tGQ2kySzZrVFIzUl96ZXRwZFlZQ2hsbHl4NGljX3YtYXNjbjBNeXdrN0dXdEZxZjg5NHBZNzNyTlZyNGRCWXc?oc=5",
+   "pubTime": "11:14",
+   "pubTs": "2026-10-30T11:14:24+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "亚马逊在线业务增长放缓，支出激增导致自由现金流转负",
+   "summary": "亚马逊第三季度财报显示，在在线业务增长放缓的同时，公司支出大幅飙升，导致自由现金流出现424亿美元的缺口。尽管AWS云业务实现了39%的近五年最快增长，但整体业绩未达预期令股价承压。",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZVVjYXpCMDllTnNYR3c2aHZCNDc5ck5QSHh2VEUxMUo1RVNKYVlNemFiTWFzQjZST0FlSnFCZUxlMl9xWkhOLUFPYjBwdzlGdnBhNUdnWnpOMmUzMVhHSVQ2X2N6dzdPNjYzTlV0U0RTb0hOT3J5cFFuUTk5b1Uzamh6aGhBWmtuY2JEdkFDNkN5cWZYY0EyRUZ1YU9FQTd1VkUxcl9qTXZvdFVJQnVYQTR4WQ?oc=5",
+   "pubTime": "09:16",
+   "pubTs": "2026-10-30T09:16:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "北卡罗来纳州Chili's餐厅发生误饮事故，3名顾客被化学品灼伤",
+   "summary": "在美国北卡罗来纳州的一家Chili's餐厅，三名顾客在饮用玛格丽特鸡尾酒后遭受化学灼伤。调查发现，事故原因是酒水中误混入了清洁剂。目前相关部门已介入调查这起严重的食品安全事故。",
+   "source": "WLOS",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdERmMDZIQ0E4blFzUm1mLU56NTNBU0dIdk9lVE1XTG1TelEzOVNRbVZ1V0JFY0JsUl9YTG02dEJpWFpycXBhUzR2c1JnSVZ2X0ozWHczRm5GMzJuVjJ2cWZTQ1VxV2xldzhnS3UzOHh0ZHNkZVd1WmZ0TGNPcTE4ajd6T1Z1cjN1MHFTZFA2QUhBYjF0dEY4Q1d6ZTAwZTJNVHR1aWFfMEgtcWF3M0hnaDctMXgzMFZMUUFpZDZWMGxWLTF3TWxSY3ktSlBCYllfSXRlYUFSdEF1Y2FhRFNiSXktYVpYUHM?oc=5",
+   "pubTime": "09:15",
+   "pubTs": "2026-10-30T09:15:36+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "默茨称德日亲近如邻居 《环球时报》批“典型的政治轻佻”",
+   "summary": "德国总理默茨访日期间称德日两国虽远隔万里却亲近如邻，强调双方共享价值观且利益一致。对此，《环球时报》发文批评默茨对日本首相高市早苗的奉承超出了正常范畴，属于典型的政治轻佻。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261030-9920988",
+   "pubTime": "15:10",
+   "pubTs": "2026-10-30T15:10:36+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "台军频传霸凌半月三人死 蓝营批防长昔高喊人权今变傲慢",
+   "summary": "台军近期频传霸凌事件，半个月内已有三人自伤身亡，引发社会关注。国民党批评国防部长顾立雄上任后态度傲慢，未能有效改善军中人权。顾立雄在立法院接受质询时，因心辅制度失灵等问题与立委爆发激烈口角。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261030-9920835",
+   "pubTime": "14:50",
+   "pubTs": "2026-10-30T14:50:12+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "全球AI股抛售加剧 台股收跌1156.5点",
+   "summary": "受全球人工智能股抛售加剧影响，台湾股市周五大幅收跌1156.5点，跌幅达2.49%。投资者因担忧AI支出庞大及部分企业业绩不及预期，加速将资金撤出科技股。台积电、台达电等权重股领跌，市场避险情绪显著升温。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261030-9920850",
+   "pubTime": "14:50",
+   "pubTs": "2026-10-30T14:50:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "太盟将斥逾40亿港元收购恒大物业51%股权",
+   "summary": "太盟投资集团宣布将斥资40.3亿港元，收购中国恒大旗下恒大物业51%的股权。该交易由清盘人主导，旨在为债权人追讨款项。目前清盘人已追回约4.33亿美元，并计划于2027年上半年开始向债权人分配回收资金。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261030-9920547",
+   "pubTime": "14:05",
+   "pubTs": "2026-10-30T14:05:52+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "北京网信办账号发文：红军“茅台酒池洗脚”是污名谣言",
+   "summary": "北京市网信办官方账号发文辟谣，称红军长征途中在茅台酒池洗脚的说法系污名化谣言。文章指出，当年红军因缺乏消毒药品而使用茅台酒擦洗伤口，该谣言实为国民党媒体刻意编造，旨在抹黑红军形象。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261030-9919950",
+   "pubTime": "13:36",
+   "pubTs": "2026-10-30T13:36:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "五中全会《决定》：突出抓好新兴领域党建 拓展新就业群体覆盖",
+   "summary": "中共二十届五中全会部署要求，突出抓好新兴领域党的建设，扩大在新经济组织、新社会组织及新就业群体中的组织覆盖。官方强调，要通过体系化推进组织建设，增强党在新兴领域的号召力与影响力。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261030-9919872",
+   "pubTime": "13:01",
+   "pubTs": "2026-10-30T13:01:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "蔡康永谈现身沈伯洋竞总：同志酒吧执法争议是原因之一",
+   "summary": "台湾主持人蔡康永在专访中透露，现身民进党籍参选人沈伯洋竞选活动的原因之一，是近期台北同志酒吧发生的执法争议。他表示对同性恋群体的处境具有使命感，希望通过行动关注执法不当及歧视问题。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261030-9920091",
+   "pubTime": "12:37",
+   "pubTs": "2026-10-30T12:37:38+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "东方财富证券董事长郑立坤辞任，总经理戴彦代行职责",
+   "summary": "东方财富证券公告称，董事长郑立坤因个人原因辞职，由总经理戴彦代行董事长职责。郑立坤作为技术出身的资深高管，是公司从财经资讯平台转型为证券经纪业务的核心操盘手。此次高层变动标志着公司管理层的关键更迭。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2520393",
+   "pubTime": "14:31",
+   "pubTs": "2026-10-30T14:31:25+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "“消费者361万买金未能提货，款项亦未退还”，周六福回应",
+   "summary": "针对消费者支付361万余元购买黄金却无法提货且未获退款的报道，周六福珠宝回应称，相关陈述并非事件全貌，目前案件已进入司法程序。涉事门店经理因涉嫌职务侵占被刑拘，公司表示将积极配合调查。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2520353",
+   "pubTime": "14:04",
+   "pubTs": "2026-10-30T14:04:40+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "港股IPO早播报：宏芯宇和登临科技等6家公司开启招股",
+   "summary": "今日共有6家公司开启港股招股，其中宏芯宇拟全球发售约1471万股，发售价区间为72.29至82.90港元，预计11月12日上市。该公司此次募资总额最高约12.2亿港元，由中信建投国际担任独家保荐人。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2520345",
+   "pubTime": "13:57",
+   "pubTs": "2026-10-30T13:57:21+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "上市银行对公贷款增速“降档踩刹车”",
+   "summary": "23家A股上市银行三季报显示，对公贷款投放增速在三季度明显放缓。单季净新增对公贷款仅为上半年季均水平的一成，不足去年同期三成。此前投放较多的江苏银行、兴业银行等均出现降档，反映出银行扩表支撑减弱。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2520337",
+   "pubTime": "13:45",
+   "pubTs": "2026-10-30T13:45:30+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "西安现房销售细则发布",
+   "summary": "西安市发布完善商品住房销售制度的实施意见，明确2026年8月28日后新取得土地的项目，申请预售时单体建筑须完成主体结构封顶。此举旨在加快构建房地产发展新模式，通过加强预售管理，推动现房销售制度落实。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2520316",
+   "pubTime": "13:25",
+   "pubTs": "2026-10-30T13:25:26+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "月末资金收敛，10年国债收益率上行已超1BP，“换锚”行情告一段落",
+   "summary": "受月末资金面收敛影响，债市今日早盘明显回调，10年期国债收益率上行超1BP。市场资金情绪指数升至近期高点，DR007一度重回1.40%上方。机构认为短期内“换锚”行情已告一段落，后续需观察利率新中枢。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2520324",
+   "pubTime": "13:25",
+   "pubTs": "2026-10-30T13:25:17+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "两天12家公司公告：大股东“不减持”，锁定1700亿元筹码",
+   "summary": "近两日共有13家科创板上市公司公告大股东承诺“不减持”，使得10月以来发布此类公告的公司增至20家。其中百利天恒等头部公司涉及市值规模巨大，此举锁定了约1700亿元的市场筹码，显示出核心股东的信心。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2520326",
+   "pubTime": "13:22",
+   "pubTs": "2026-10-30T13:22:16+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
