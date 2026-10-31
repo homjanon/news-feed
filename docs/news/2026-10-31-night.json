@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "night",
+ "editionName": "夜豆浆",
+ "date": "2026-10-31",
+ "fetched_at": "2026-10-31 22:30",
+ "translator": "gemini-3-flash(7条) + agnes-3.0-flash(14条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "Alphabet股价惨遭重挫，但分析师建议继续持有",
+   "summary": "谷歌母公司Alphabet股价近期遭遇史上最严重下跌，单日市值蒸发约5000亿美元，10月累计缩水达7580亿美元。尽管市场表现极度低迷，但分析人士认为不应在此时盲目抛售，需理性看待其长期投资价值。",
+   "source": "Barron's",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FSDJJcUY4c1h5RV9Xc0tUVVNrak9BaTNXZTVpc2l1STRPWGVYNk5VbnA2aEpaMGV0ejNGY2ZPSmIyaXNKLUNiT1V5MDVJUnR2blBQRGM1Z2JLcFRRbDBRcDk3TWt6V3owQl9ZcHRySDE1emRVQ1E?oc=5",
+   "pubTime": "22:09",
+   "pubTs": "2026-10-31T22:09:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "疑似朝鲜黑客数分钟内窃取数十亿美元加密货币",
+   "summary": "疑似受朝鲜支持的黑客在极短时间内从加密平台窃取了数十亿美元。其中币安遭遇63亿美元黑客攻击，引发了市场对钱包安全性的严重担忧。专家警告称，随着AI技术介入，加密货币领域可能面临更严峻的黑客威胁。",
+   "source": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWHE4QnBQRF9vakp0a0VReVZFSjNOa2hmODFJOHdLTGlzSnBkRW4yei1rbkY5cFNyT0tYbmlfQ2dIZG9GN2wyaGtIZnpMNUQ2Smx1ODVKMHJZdEhnUk9WbkZhYnJ2NmkxaUNJTXZvcmpRQ2tZa1RjdEFNSjNjWUk0QXVKSlotVEtNVmI5ME5fLXIwV0k1WTdGR0VFNmVQb2VIQ0pULXZlR0JILXdqTDZSa2hwSlJTVnRBWDlzbURhV185Zw?oc=5",
+   "pubTime": "21:33",
+   "pubTs": "2026-10-31T21:33:42+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "英伟达CEO亲信高管涉嫌向中国泄露信息",
+   "summary": "据报道，一名与英伟达CEO黄仁勋关系密切的高管涉嫌向中国提供敏感信息。尽管黄仁勋表示相关往来属于正常业务范畴，但此事已引发美国监管机构对间谍活动和技术外泄的高度警惕，芯片行业对此保持密切关注。",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHJLWWpfcXR5dEpVekREaFNLUlhOUmpFYm1neGZkZDh5blljZWw5WHdPWWZ4ZkVBbUJGOTFsWFVnUnJZODJNMVJiYWlfTFBMaTNwWjFZUFZsdHZweU9xUXZjX0dnMWpWN0pYOTEzNTFFYkRaWDRDdjJPdmVITzlmZTJVcmlqZWNZSXZzTmxuaU9WNlViUWtLYTBYLVZ3M2loY3FBa0JJWlFwZldqUWc?oc=5",
+   "pubTime": "21:12",
+   "pubTs": "2026-10-31T21:12:48+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "Rivian与福特等车企推广3D打印技术以降本增效",
+   "summary": "Rivian和福特等汽车制造商正致力于推动3D打印技术的普及应用，旨在通过该技术制造零部件和模具，从而有效降低生产成本并提升研发速度。这一举措标志着汽车制造业正加速向数字化和灵活化的生产模式转型。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03VHpWQVNudE80cmxIdHllS2R0MzVjQmd0ekVWREJZYXlIYjNlMG4xU0FoV3J6aC1FZEZIWFpkbWhXUVZVR2JBMU1rVUYwOGU3MFRsQWpJYzJNd3hHeVZzN2FsVFoyT0pMRlM5UGxLRjNHeXVKS29HS0M4WmxPalHSAYQBQVVfeXFMUG84TU5ISlg2amdTb1dVSjR1cjM1TnlFSVFnMlFEdjlGQ1Q0T25YQkcwdTFFM2gtT1RkaHE3c1djcnJJTzhBVDh3WkpMbTJIUi1CUmhXTmhMc2NncElLS014ZmJhZE90akhCd1dtRTdtS2RZMk1iUWlvS1dFX3RnRUdjbm1O?oc=5",
+   "pubTime": "20:00",
+   "pubTs": "2026-10-31T20:00:01+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "冲浪社区向购房者推销配备人造浪设施的住宅",
+   "summary": "随着水上运动需求的增长，一些新兴的房地产社区开始向购房者推销配备人造浪设施的景观住宅。这种模式将极限运动与居家生活相结合，利用先进的造浪技术为业主提供全天候的冲浪体验，成为高端地产的新卖点。",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNUd2UUVyejBjaWptZy1YMmIxOGhlZkoyUlJmQ3o2dExCd0FUS1lST3oyaG9DUjE3NmZLZVhNSWVKQ25RZGZjMU9PNHVYZTRUVEVFWlBqNHVvSmFUZW10WldSNGg2T24zV0xaOEhHUGQxUDE0TFNlWlJGUk5OdDY2Mm5Jck5JcDlmMk5fYXJlM0NRV1RiWl9udFJtQi0zNHRy?oc=5",
+   "pubTime": "20:00",
+   "pubTs": "2026-10-31T20:00:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "人工智能巨头Anthropic的纳斯达克上市之路遭遇挑战",
+   "summary": "Anthropic的IPO进程引发市场关注，但其上市之路正变得愈发坎坷。黑石集团警告投资者，该公司在上市后可能难以获得投资级评级。华尔街对AI领域的狂热正面临现实财务数据的考验，其IPO表现将成为行业风向标。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1samp0RmQyX1c5aFBfNjBzQVluay0zQ2RJbW1jVktrZUZnWTBwTlloNUNnSGJiMFdMNzRQbWFFbFN5T05Nemc5NHJBODBuNEVqQjJ5bzlaR2ZXTjBXb3p1OTRkVmV6M2VJRmthNDBCVdIBdEFVX3lxTE41WkJMbHlKSUdYcnRhc3hWcmFJZWgyYjRBd0tyZ3VoaHgxMnV0dDYzdng4emRyTmtFVU5KOEktT3dTQzRBQlVhUDZGb0l4MndZWU9EWmYwcWR1UkFoOW9KMkV3djdfTzZJNnBEX2tSbVlpb3A2?oc=5",
+   "pubTime": "19:00",
+   "pubTs": "2026-10-31T19:00:01+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "马斯克的星链或将成为下一代移动运营商",
+   "summary": "马斯克旗下的星链正计划进军移动通信领域，有望成为新的手机运营商。目前SpaceX正与T-Mobile等巨头展开合作，而Verizon等竞争对手也在关注其动向。AI与卫星通信技术的结合可能彻底打破现有电信市场的竞争格局。",
+   "source": "Fox News",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcmpRZFdSbm9PZmQxQXNGb3ZGSm4tNjFQUzVsVHhzNFRBaDkzNjZ6MWdHeERXaFhDRVk1NGVyaGpvZ2d0S0ZJdm5jaXJGTnlBbDJWQXVHMThsTlZYZ0UzWUdUMFZoT1o4VDd4WUZQT3E3VmFaNGZhbzk1bFl4NGprQW5OeXpic3FPYjhXZ9IBkgFBVV95cUxQWENGM2RRclJBQXEzUjZhR2VRV0UwOU40SnZUUk1zbmVaZ2R0MDJ2SDRPSGQtMmNtbmxfMTFtdzMtOUJ0Vmhpa1NnNXI0MXpuZ3ZMc2h5aUV0WGhvUXFZdTJQWXRYRkdDY2VTdXRmcTRuTGpTNVdJd0FYOFdLYkxvaFJ1NlhUVnlfemRjS0d4akJpZw?oc=5",
+   "pubTime": "18:20",
+   "pubTs": "2026-10-31T18:20:57+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "俄占城镇奥列什基撤离居民抵达乌克兰",
+   "summary": "俄乌在美方斡旋下于俄控奥列什基达成局部停火，受困居民经白俄罗斯顺利撤离并抵达乌克兰，与家人团聚。这座赫尔松州城市自2022年被占后一直激烈交火，当地面临饥荒，美国第一夫人称其处于灾难边缘。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261031-9927140",
+   "pubTime": "22:25",
+   "pubTs": "2026-10-31T22:25:33+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "抵御美关税压力与经济胁迫 加拿大与欧盟结盟拟成为“联席成员”",
+   "summary": "加拿大与欧盟宣布建立全面战略联盟，以应对美国施压。双方敲定数码贸易协定，深化矿产合作，加方注资乌克兰贷款。加拿大计划明年6月前完成谈判，成为欧盟首个联席成员，共同捍卫价值观与贸易自由。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261031-9927139",
+   "pubTime": "22:22",
+   "pubTs": "2026-10-31T22:22:06+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "美媒：美国计划遣返超150名阿富汗移民",
+   "summary": "美国特朗普政府计划经巴基斯坦遣返150多名阿富汗移民，首班航班最快下周一起飞。被遣返者包括曾协助美军人员的亲属，维权组织谴责此举危及生命安全，因塔利班掌权后部分持签人士面临风险。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261031-9927077",
+   "pubTime": "21:26",
+   "pubTs": "2026-10-31T21:26:59+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "【美国中期选举】近4800万人提前投票创新高 最终胜负仍须看正日对决",
+   "summary": "美国中期选举提前投票人数约4790万创历史新高，民主党提前投票者多于共和党。关键摇摆州得州、缅因等投票率大幅攀升，其中南卡罗来纳州增幅达83%，但最终胜负仍需看正日对决表现。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261031-9926853",
+   "pubTime": "21:10",
+   "pubTs": "2026-10-31T21:10:15+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "伊朗最高领袖：对潜在美以袭击予以即时且不受地理限制的回应",
+   "summary": "面对美国潜在军事行动，伊朗最高领袖穆杰塔巴下令武装力量对美以威胁作出即时、有力且不受地理限制的回应。他要求将美以所有资产纳入打击范围，更新目标清单，以强有力对抗实现最大威慑。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261031-9927000",
+   "pubTime": "21:02",
+   "pubTs": "2026-10-31T21:02:14+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "惠誉下调法国评级展望至负面 七万警力戒备周末示威",
+   "summary": "惠誉维持法国A+主权评级但下调展望至负面，担忧其债务占GDP比重将升至124%。由于经济乏力及财政恶化，法国偿债成本增加，七万警力将戒备周末示威，以应对物价上涨及公共服务不足引发的抗议。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261031-9926799",
+   "pubTime": "19:44",
+   "pubTs": "2026-10-31T19:44:40+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "延续逾30年后 联合国结束驻索马里和平建设任务",
+   "summary": "联合国索马里政治特派团于10月31日正式结束任务，为持续30多年的和平建设行动划下句点。索马里总统曾要求结束特派团任务并设两年过渡期，该机构前身为1995年成立的联合国索马里政治事务处。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261031-9926779",
+   "pubTime": "19:32",
+   "pubTs": "2026-10-31T19:32:58+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "福莱新材总经理李耀邦：电子皮肤订单放量之后，第二增长曲线如何兑现？|财专访",
+   "summary": "福莱新材将柔性触觉传感业务列为第二增长曲线，总经理李耀邦回应市场关切。他表示公司正从传统涂布材料向具身智能触觉感知转型，将重点解决订单交付、产能爬坡及产品一致性等战略换挡问题。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2521608",
+   "pubTime": "20:43",
+   "pubTs": "2026-10-31T20:43:59+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "从“独角戏”走向“协奏曲” 嘉宾共议供应链ESG丨聚焦财联社2026ESG可持续发展价值生态论坛",
+   "summary": "财联社ESG论坛探讨供应链ESG破局之道。专家共识认为，面对全球产业链重构与合规壁垒，供应链ESG已从加分项变为必答题。通过评级预警、链主重塑及全球赋能，ESG成为跨越周期的效率投资。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2521601",
+   "pubTime": "19:49",
+   "pubTs": "2026-10-31T19:49:53+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "斥资万亿日元 村田加码MLCC 锚定AI服务器、算力硬件市场",
+   "summary": "日本村田制作所计划五年投入1万亿日元扩产MLCC，满足AI服务器需求，目标2030财年销售额翻倍。资金用于厂房基建与设备采购，重点布局冈山基地及海外工厂，以应对算力硬件对高端元器件激增的需求。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2521598",
+   "pubTime": "19:35",
+   "pubTs": "2026-10-31T19:35:35+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "10只ETF新进港股通，日本、东盟、港美资产加速入通",
+   "summary": "港股通ETF名单新增10只产品，总数增至41只，11月9日生效。新纳入产品以主题策略为主，涵盖红利、科技及AI领域，覆盖亚太、中国及环球市场，其中红利类策略产品占比过半，多地区资产加速入通。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2521587",
+   "pubTime": "18:50",
+   "pubTs": "2026-10-31T18:50:12+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "中药板块“高分红梯队”成型 十余家公司股息率超4%",
+   "summary": "部分中药企业持续高比例分红，形成特征鲜明的高分红梯队。按2025年分红及市值测算，十余家公司股息率超4%，其中达仁堂以11.89%居首，济川药业、华润江中等紧随其后，受A股高股息主线资金关注。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2521580",
+   "pubTime": "18:47",
+   "pubTs": "2026-10-31T18:47:29+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "直击长鑫科技业绩会：已与多家头部客户协商长期供货协议",
+   "summary": "长鑫科技三季报显示营收约1187亿元，同比大增613%，净利润544亿元扭亏为盈。管理层表示长协进展顺利，已与头部客户锁定需求，预计第四季度毛利率保持稳定，产品结构及先进产品取得进展。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2521594",
+   "pubTime": "18:40",
+   "pubTs": "2026-10-31T18:40:18+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "Figure大会透露未来路线：硬件迭代收敛 押注“规模化预训练+超大算力”",
+   "summary": "人形机器人企业Figure内部大会透露战略路线：硬件迭代收敛后，将落实规模化预训练与超大算力工程路线。视频披露了第四代机器人进展、全球行为数据收集项目、35亿美元算力订单及新一代Helix模型细节。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2521593",
+   "pubTime": "18:31",
+   "pubTs": "2026-10-31T18:31:52+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
