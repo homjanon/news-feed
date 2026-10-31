@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "afternoon",
+ "editionName": "下午茶",
+ "date": "2026-10-31",
+ "fetched_at": "2026-10-31 15:20",
+ "translator": "gemini-3-flash(7条) + gemini-3.5-flash-lite(14条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "OpenAI最新融资额不及300亿美元目标的一半",
+   "summary": "受科技行业焦虑情绪及AI市场波动影响，OpenAI在最新一轮融资中大幅下调了筹款和估值目标。据悉，其实际筹得资金不足原定300亿美元目标的一半，融资缺口高达100亿至142亿美元。",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTW9TMmVsZkc2b05TYkloVW41X050RjdtZ1F5U01TRnJOSEthYTJpcDdPWVhJb0FvRGEteHgtbVhSS0lOVEZ3T2N5MTNpSUNWNXpETThZR0RvcFQwY2Q5R3ctRUFvM1ZtdFdMaXhGSnpPM2FiLUhORXNrem84cUpfVGpuQ0VmaGNsZUlxUVQ0dk4zQUE2cWFzUk8yM1R3cjc3dEczVw?oc=5",
+   "pubTime": "10:56",
+   "pubTs": "2026-10-31T10:56:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "邮轮因燃料成本高昂停航，数百名乘客滞留亚洲",
+   "summary": "由于燃料成本过高导致资金链断裂，一艘执行全球航线的邮轮在亚洲被迫停航。此次事件导致包括两名加州姐妹在内的约200名美国乘客滞留，该邮轮公司此前主打的“无尽航程”项目已宣告破产。",
+   "source": "Los Angeles Times",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaWNFUVlpM19oaWI1VWpCdGh5NWY0RzBoR202dlV2RlBOV0x4ZEs4a3lLSzQxQ1FYNEZMcTlTTkxUeFFHVm1ZTGJ0S2lVQnJXQlQySUNnTFNUYnIxT2Y4ZGp4T0o1T1ZBTkhYWjd2bE5XazFjN3huS0pWYW1LR20wdk5ib0hPaUxUNnFhU2luZEM3bzRSVGFZUk00VnFraHprUldjSDJVRHVHYkhBRTFQbTRxMlVQenppYS12YzBROERucEdhSHc?oc=5",
+   "pubTime": "10:39",
+   "pubTs": "2026-10-31T10:39:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "币安遭遇63亿美元巨额黑客攻击，朝鲜黑客被列为首要嫌疑对象",
+   "summary": "加密货币交易所币安近日遭遇史上最大规模黑客攻击，损失高达63亿美元。调查显示，朝鲜“精英”黑客被认为是此次窃案的首要嫌疑人。目前币安正全力弥补损失，此事件标志着加密货币安全进入高风险新阶段。",
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QRnRScmRRaTN0MWFnWHppc2FzSVA4YW1Fc3g0SGp3NDhJdUpBVUg1WnlaWGo4MWVVNWtHc1pyZGYxSmhBQVo3aEVaQUVsQThtazJGLWhoT1QtZkE?oc=5",
+   "pubTime": "10:12",
+   "pubTs": "2026-10-31T10:12:19+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "科技股抛售引发美股大跌，纳指创一年多来最差月度表现",
+   "summary": "2026年10月30日，科技股遭遇剧烈抛售导致纳斯达克指数创下一年多来最惨重的月度跌幅。市场对AI热潮的担忧加剧，科技板块市值蒸发约1万亿美元，道指和标普500指数在10月底也同步大幅收跌。",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa05JWDlEbXJoOEgwUkRMc0ducHRVaG9wQzdUUmRYNUs5XzFpYXMyOF9jYnNDOVFweVlmWUtJRmtxbnE5SVpEazBFRzNzSkZoS0V0X2pnRExXNTNWQXBJZ05STmtmTHh4TVVabkljcEpUVDFmNHoxclJfanVmZWpod3NmZ0JmdDg?oc=5",
+   "pubTime": "08:00",
+   "pubTs": "2026-10-31T08:00:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "标普因AI支出过高将Meta评级展望下调至“负面”",
+   "summary": "标普全球评级公司将Meta的信用评级展望下调至“负面”，主要原因是该公司在人工智能领域的巨额资本支出引发了现金流担忧。尽管科技巨头竞相投入AI，但投资者目前对高额资本开支表现出明显的惩罚倾向。",
+   "source": "Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYXBldlo0WUZ5YjlBRWFONUFOb0ppblgzNDF4Z2oyaloyZFhVMW91ZEotX3Y3b0JqZHlERFBXcjlhQ2ZvWDB3SDVYWGRFSF9Ic1JQUTZCWXJ6anlINzRRUERJaDNqQzVTa05ESnBJeHNOMUg0a1JGVUJHdU9Pb1hKS0d4V0RnVmlqOGctUE1ZejRrRUZXenNzdHZJRVpTT0h1dFRSdDU1SjhZV2xoWFE?oc=5",
+   "pubTime": "07:23",
+   "pubTs": "2026-10-31T07:23:31+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美国法官裁定麦当劳必须就McRib产品面临诉讼",
+   "summary": "美国一名联邦法官近日作出裁决，要求麦当劳必须就其标志性产品McRib（麦肋排堡）相关的法律诉讼出庭应诉。目前该诉讼的具体细节尚未完全披露，但法院已驳回了麦当劳撤销此案的请求。",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVDhaTWVhR2RLZVplbHFIWkZQTGFXLVRZRnk5TEhiV0k2RGpjREU2d2JVdDQ0bGR1dWVLQ1FhQmNrdTJFazlaQXh6bWN6d0dkWjA2cGRXYVdqRGVMVHRRWl9TN1pScDBuT1ROUWlyUGEtM2FyTGdCWVJmSm5aQkdyY0RUV1pHMDZKbFBWZ0hYdXhrRWw3Skt0cGZkREFGVWdGN2Q0ZnpxNDZIdw?oc=5",
+   "pubTime": "07:02",
+   "pubTs": "2026-10-31T07:02:02+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "对冲基金Arini因亏损加剧抛售8亿美元债务",
+   "summary": "随着欧洲垃圾债券抛售加速，知名对冲基金Arini在亏损扩大至26%之际，正紧急抛售价值8亿美元的债务资产。目前，太平洋投资管理公司（Pimco）和橡树资本等机构已对此表现出竞购意向。",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaGg0czFwR3dyV1VQWWk0YjJwXzk0YkFxc0hQMjkyekdQRlowTW56NTU4NmZEN0NaNlY5RnhWZU9LN1pxQzBudjRPcVVLcUVlWl9kdzA4MW9ROEZQTnpPWGttNkNQZ2J5dy1KMkJxbjRvM1lKQ2s5QWt5R3VhbEFWQ2RZYTFKVnRta2N1X194U29MczVPU2c4amtmNDY5ZWg3TUhhcVZ1OENnQjRFbmc?oc=5",
+   "pubTime": "06:43",
+   "pubTs": "2026-10-31T06:43:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "递补中委被“跳过” 朱鹤新主持召开外汇管理局党组会议",
+   "summary": "中国人民银行副行长、国家外汇管理局局长朱鹤新在五中全会递补中央委员时被“跳过”后，于星期五主持召开外汇管理局党组会议，传达学习习近平总书记在全会上的重要讲话精神，研究部署贯彻落实工作。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261031-9925750",
+   "pubTime": "14:48",
+   "pubTs": "2026-10-31T14:48:42+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "中国载人月球探测任务乘组中两人将登陆月球",
+   "summary": "中国载人航天工程总设计师王翔在第七届载人航天学术大会上透露，中国首次载人月球探测任务乘组计划由三人组成，其中两人将着陆月球表面。中国计划在2030年前实现中国人登陆月球。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261031-9925540",
+   "pubTime": "14:35",
+   "pubTs": "2026-10-31T14:35:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "蔡康永不会现身台湾同志大游行",
+   "summary": "台湾同志大游行星期六登场，知名主持人蔡康永确定不会现身，经纪人未进一步说明原因。蔡康永此前出席沈伯洋竞选活动曾引发大陆反弹及两岸舆论高度关注，台北市长选战候选人也在同日展开辩论。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261031-9925648",
+   "pubTime": "14:18",
+   "pubTs": "2026-10-31T14:18:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "台北市长选战电视辩论登场 蓝绿候选人正面交锋",
+   "summary": "台北市长选战首场电视辩论星期六举行，民进党候选人沈伯洋提出砍树、儿虐和营养午餐三大治理政见，寻求连任的现任市长蒋万安则批评其纸上谈兵、缺乏具体做法，双方在台上展开正面交锋。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261031-9925509",
+   "pubTime": "13:30",
+   "pubTs": "2026-10-31T13:30:23+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "日媒：安保战略修改方案提出仍称中国为最大挑战",
+   "summary": "据日本媒体报道，日本在计划修改的《国家安全保障战略》方案中，针对中国的军事动向维持“最大战略挑战”的现行表述，并预计不使用“威胁”一词，以避免引发日中外交摩擦。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261031-9925454",
+   "pubTime": "13:03",
+   "pubTs": "2026-10-31T13:03:44+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "港警务处等三方合办“留学香港反诈预备班”开播",
+   "summary": "针对大陆赴港留学生屡成诈骗目标的情况，香港警务处反诈骗协调中心、中国移动香港旗下品牌及小红书首度合作开办“留学香港反诈预备班”，通过网络直播向抵港学生普及防骗资讯，防范各类电信网络诈骗。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261031-9924935",
+   "pubTime": "12:35",
+   "pubTs": "2026-10-31T12:35:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "中国国务院党组会议：当好贯彻中央决策部署的执行者实干家",
+   "summary": "中国国务院总理、党组书记李强星期五主持召开国务院党组会议，学习贯彻习近平总书记在二十届五中全会上的讲话精神，强调国务院党组和各部门要坚定不移当好党中央决策部署的执行者、行动派和实干家。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261031-9925178",
+   "pubTime": "12:03",
+   "pubTs": "2026-10-31T12:03:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "标普下调Meta信用展望！巨额资本支出和负自由现金流为主要担忧",
+   "summary": "由于在人工智能领域的高额资本支出给资产负债表带来压力且变现能力有限，标普全球评级将Meta的信用评级展望从稳定下调至负面，引发市场对科技巨头巨额投入与回报周期的担忧。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2521522",
+   "pubTime": "14:47",
+   "pubTs": "2026-10-31T14:47:36+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "宁德时代曾毓群：电池技术“还不够好”，正用AI加速电化学领域发现",
+   "summary": "宁德时代董事长曾毓群在世界顶尖科学家论坛上表示，现有电池能量密度仍不足以支撑更广泛应用，行业需借助人工智能和全球科学家力量，加速电化学领域的源头创新以实现技术突破。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2521519",
+   "pubTime": "14:47",
+   "pubTs": "2026-10-31T14:47:27+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "Anthropic冲刺IPO：一场与OpenAI的估值、营收和算力竞赛",
+   "summary": "人工智能独角兽Anthropic已向美国SEC公开提交IPO注册声明，计划在纳斯达克上市，最快可能于11月中旬登陆资本市场，此举标志着其与OpenAI在估值、营收和算力上的竞争全面升级。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2521127",
+   "pubTime": "14:47",
+   "pubTs": "2026-10-31T14:47:22+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "中国太平三家子公司前三季度合计实现净利润超百亿元 资本市场波动下太平人寿单季度现亏损",
+   "summary": "中国太平公布前三季度财务数据，旗下三家子公司合计实现净利润超百亿元。其中太平人寿虽前三季度整体盈利，但受资本市场波动等因素影响，第三季度出现单季亏损，财险与再保险则保持盈利。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2521516",
+   "pubTime": "14:32",
+   "pubTs": "2026-10-31T14:32:18+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "中央财经大学绿色金融国际研究院院长王遥：绿色金融重心从“是不是绿色”转向“现金流怎么算” ESG实务推动中要避免七大误区",
+   "summary": "专家在ESG论坛上指出，绿色金融重心正从识别绿色资产转向创造可融资现金流，企业在推进ESG实务时需明确重要性界定，将ESG纳入发展决策与数据治理，避免陷入相关实务误区。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2521515",
+   "pubTime": "14:31",
+   "pubTs": "2026-10-31T14:31:38+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "生态环境部环境规划院董战峰：完善ESG金融投资政策体系，引导长期资本参与",
+   "summary": "专家在ESG论坛上表示，中国ESG体系建设已从概念讨论进入快速推进阶段，应注重整体性并完善金融投资政策体系，引导长期资本积极参与，防范企业潜在环境与治理风险。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2521508",
+   "pubTime": "14:05",
+   "pubTs": "2026-10-31T14:05:08+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "刘友宾：企业要做好环境信息披露，警惕“漂绿”舆情风险",
+   "summary": "中国环境新闻工作者协会主席刘友宾在论坛上强调，在生态文明建设背景下，企业必须落实环保主体责任，做实环境信息披露工作，同时高度警惕并防范“漂绿”带来的舆情风险与合规挑战。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2521505",
+   "pubTime": "13:45",
+   "pubTs": "2026-10-31T13:45:50+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
