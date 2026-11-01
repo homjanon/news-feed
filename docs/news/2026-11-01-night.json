@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "night",
+ "editionName": "夜豆浆",
+ "date": "2026-11-01",
+ "fetched_at": "2026-11-01 22:30",
+ "translator": "gemini-3-flash(21条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "马里布巨型地产项目陷入困境",
+   "summary": "《华尔街日报》报道了位于加州马里布的一个巨型开发项目面临失败。该项目曾备受瞩目，但如今因各种财务或法律问题陷入困境，标志着这一高端房地产宏伟计划的搁浅。",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYl9TUlpubGVYMVdpM1hEaXJOWFRIY0lSSkxqRHFCaDd2TUZOR3JKYkNaNmlLOFVfd0VSUXl4Y0dqcVB5Mm03ZEh0ZlZ3dm93UUQ5c3pLRGJuNnl3S0I4UERHUkFvMzFxRVJzVGVaYlg1d1hRS3VaZnRBSTV3dTdoTXgxbE9jZFQxMklIQVVuNlplWjg?oc=5",
+   "pubTime": "22:12",
+   "pubTs": "2026-11-01T22:12:03+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "OPEC+维持12月石油产量目标不变",
+   "summary": "OPEC+成员国决定维持12月的石油产量配额不变，以应对当前全球能源市场的波动。尽管海湾地区航运面临威胁，且未来2027年的产量决策将更具挑战性，但目前各方仍倾向于执行既定的稳产计划。",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMVRNX1Y5b0xXX3dlMU1QX2lRbVkxbkJYSU9SUVdxUFlXQ2hGcjRpRlVIbklCeTlZa1d2VnNOQWFaaVN0NHJVcnJSRVhUSngyVmcxdzlsZVpwSm1wbmduTGpNbXkwWEhKbGZQdURzZ0c0UHl2S28zLUxjbDdSUkdzZTFnMmtubVlvbmFVMHlsX3BvOVpLa2NqcWozZTJUWlhnUWUxYXFn?oc=5",
+   "pubTime": "21:36",
+   "pubTs": "2026-11-01T21:36:05+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "“木头姐”凯茜·伍德斥资1120万美元买入热门AI股票",
+   "summary": "方舟投资创始人“木头姐”凯茜·伍德近期再次出手，斥资约1120万美元购入了一家热门人工智能公司的股票。此举显示出她对AI赛道长期增长潜力的持续看好，也引发了市场对相关个股走势的关注。",
+   "source": "TheStreet",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVll1N28wazRqak5QNHNVT2FKQnM2aF92bXZSZ09neHJ6Z0Q5WVFzbVByTDgzVWRfczF3ekNtb0MxNUROa05aeFBzREFMU2F4ZlN5cnhDV1RVY19laWh3VWk5TkotQzhQZ0tDVUxDaGFrQU4zSUhyb0JfWVJfMVBkbmlHR3hkNE5pWXJ0dkF2NGlUZ2ZLZ2VNT0M1WG5YNXRTWTRVaWpWMkZTQQ?oc=5",
+   "pubTime": "21:07",
+   "pubTs": "2026-11-01T21:07:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "热狗店主测评15款品牌：这3款最值得回购",
+   "summary": "《Food & Wine》杂志邀请了一位资深热狗店主对市面上15个品牌的热狗进行了专业测评。经过口感、肉质和风味的综合对比，最终筛选出3款表现最出色的产品，为消费者的日常选购提供了专业参考。",
+   "source": "Food & Wine",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56dzZOTmJZTWVmNmRFMlBZaG5YZndjbnRwTjVPVHA0YlZlMmhXemcxeUJSTFpOdUItMFNzQzZZbDFoRTJxbEZQelJJVnNTNmVGZXNCM003MExDZFpfSnJyM0p0bGNXcmNTTldqektCM0pTdFMxMjhFQw?oc=5",
+   "pubTime": "20:01",
+   "pubTs": "2026-11-01T20:01:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "Avelo航空首席执行官分享助力其成功的核心习惯",
+   "summary": "在福克斯商业频道的采访中，Avelo航空公司首席执行官分享了他在职业生涯中获益匪浅的个人习惯。他认为这一习惯是其取得事业成功的关键因素，并详细阐述了如何通过自律和特定行为模式来提升管理效率。",
+   "source": "Fox Business",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTkc4NEZ5d3FaSEdvMFY5MDcxRWhoZWpnc3lUaWtVNV9DVTV0TVQ4bWpVN0tvWjdqTEQwTEFLZjk5Q3MycnZaMXU3YVZ5X2NMbDFrYkVjS0FmazVDZHhsdnBCRkxHREgyU3o4LXdqQUEtczZVaE1jQjdVbXZxaVdTbEpQMENMZktCWHYzY2xBTUloWXFsN25NU1JhN3BlNXZCZU9ZSEpOb3ltYV9UY2NBQdIBtgFBVV95cUxOZnZ3dUQtZE1jWXpDWnNpeVdSTHZtQ2hKQ3ppY2pKS1Z1RXdhcUhJUWtiZjFleEtDX25zMFh3Mmx6azlNeEttUDRZV2k2NElEa0VKRUhBNm1paW10UmtIc3JwV2xnT0FoZnQ0Mm5OVUtKZEt6cXBzOE1XUVQ5a2Fxc1duUGpDN0kxc2tiZndTYU5KdlVfTGVCT0dCVzdKenVPZTZEdHhjR3FnZ3NvWVF1d2xSLUJwUQ?oc=5",
+   "pubTime": "20:00",
+   "pubTs": "2026-11-01T20:00:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "11月Aldi超市最值得购买的10款新品",
+   "summary": "随着11月到来，知名连锁超市Aldi推出了一系列季节性新品。美食媒体评选出了最值得尝试的10款产品，涵盖了各类零食和节日特色食品。这些高性价比的精选好物已成为本月消费者购物车中的热门选择。",
+   "source": "Allrecipes",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4Z01xLXFLVHZZTmJ2VWtjTE92Q3gtbW8yZUtqbUlrZnVmOTNDT2RPaUFERUVWUzZSa3oyeWQtbVFLUWZBSk1pVUd1VkpxOXNPanU5ZWcyS0hPNk1Pc0h2eGdJY2VfU0xsbXRZdA?oc=5",
+   "pubTime": "20:00",
+   "pubTs": "2026-11-01T20:00:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "AI板块市值蒸发5万亿美元，但美股最强劲反弹期或已到来",
+   "summary": "尽管近期人工智能相关股票市值大幅缩水5万亿美元，引发投资者担忧，但历史数据表明，美股表现最强劲的阶段往往紧随其后。分析师认为，虽然当前财报季增长放缓，但市场可能正处于新一轮上涨周期的起点。",
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLXlkUVhJS3B6Y1JETnlNMFNfcnFJR1g2TkI0Q0QtcWJnVlZzVnJUbnY0ZUNzV3B2Qjl1dlhkSkZ4c0YwQzNCM0lueHE5Uk9zeTBnM0k2U2puM25rbmZFdVZXcDAzYTFDcGgydENMQjZOUnhrM1gwaERMYm9rSGU0Rm1hX1otQjVxdzRIbkQ2bjk0V3NaSkw0QmVaOGhqNlB2WWZfRGFDVFAzVnhGTFpjM0FlWlJzNjRsX0FKT0liZDJCVlJORm5uOHF3N2xlTUxNU1FiVnRVTlk3RldvZ1JBNDM2RGd6UQ?oc=5",
+   "pubTime": "19:00",
+   "pubTs": "2026-11-01T19:00:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "担忧老旧桥梁状态 伦敦桥提前进行安全检讨",
+   "summary": "鉴于对伦敦老旧桥梁状况的担忧，伦敦桥提前启动了结构安全工程检讨。负责管理该桥的基金会表示，此举受德国德累斯顿大桥坍塌事件启发，旨在深化对桥体内部缆索状况的了解。目前初步调查尚未发现任何缺陷。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261101-9930564",
+   "pubTime": "22:18",
+   "pubTs": "2026-11-01T22:18:41+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "美国招生政策改变 哈佛亚裔新生占比创新高",
+   "summary": "在美国最高法院禁止大学招生考虑种族因素后，哈佛大学亚裔新生占比升至43%，创下至少十年来新高。与此同时，非裔新生占比连续第三年下降至9.3%。尽管政策变动，国际学生占比仍维持在15%的水平。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261101-9917018",
+   "pubTime": "22:05",
+   "pubTs": "2026-11-01T22:05:51+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "彭博社：政府利用AI削减公务员规模阻力重重",
+   "summary": "荷兰政府计划利用人工智能提高效率，裁减约15%的公务员职位，目标是到2035年每年节省35亿欧元。虽然这是全球最具雄心的科技减员计划，但在其他发达经济体推广时，仍面临规模扩张惯性和政治议题等重重阻力。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261101-9916760",
+   "pubTime": "22:01",
+   "pubTs": "2026-11-01T22:01:25+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "日本分析：美国中期选举结果不影响日美安保",
+   "summary": "日本舆论高度关注美国中期选举对通胀及能源供应的影响。首相高市早苗计划在选后尽早与特朗普会谈，以应对可能的政策调整压力。分析指出，尽管美方曾要求增加防卫预算，但选举结果预计不会动摇日美安保大局。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261101-9930342",
+   "pubTime": "21:58",
+   "pubTs": "2026-11-01T21:58:03+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "俄乌冲突等议题仍严重分歧 G20外长会议未发联合公报",
+   "summary": "在亚特兰大举行的G20外长会议因各方在乌克兰危机和美伊冲突等议题上存在严重分歧，未能发表联合公报。轮值主席国美国发布声明，强调不得将粮食贸易作为胁迫工具，并呼吁确保全球能源供应安全与航道畅通。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261101-9930274",
+   "pubTime": "21:36",
+   "pubTs": "2026-11-01T21:36:36+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "法国抗议潮蔓延至德国 多城爆发警民冲突",
+   "summary": "德国34座城市爆发“Z世代”示威，抗议生活成本高涨及公共服务恶化，部分地区演变为警民冲突。受法国连续三周全国示威影响，德国年轻人对政府削减开支及增加军费表达强烈不满，多地出现抢劫和骚乱。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261101-9930011",
+   "pubTime": "21:28",
+   "pubTs": "2026-11-01T21:28:42+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "知情人士：特朗普团队数月来筹划绕过国会执政方案",
+   "summary": "特朗普团队正为民主党可能夺回国会控制权做准备，研究如何利用行政权力在移民、关税和联邦开支等领域绕过国会推进议程。相关官员自4月起便与法律顾问合作，旨在确保政策连续性并防范潜在的国会调查。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261101-9930387",
+   "pubTime": "21:14",
+   "pubTs": "2026-11-01T21:14:16+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "“新汽车”放榜10月：“银十”成色不足 鸿蒙智行、小米冷暖互现",
+   "summary": "10月国内造车新品牌销量出炉，小米汽车单月交付首破5万辆，前十个月累计交付约34万辆。鸿蒙智行单月交付3.35万辆，其中智界V9刷新高端MPV交付纪录。尽管头部品牌表现亮眼，但国内车市整体依然持续承压。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2521845",
+   "pubTime": "20:05",
+   "pubTs": "2026-11-01T20:05:15+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "超跌反弹随时触发？十大券商策略来了",
+   "summary": "本周A股震荡调整，科创50与创业板指跌幅居前。中信证券等十大券商建议，投资者可采取稳健回报、预期演绎等四种配置思维应对。在需求线索模糊阶段，应聚焦高股息行业或具备供给出清潜力的板块进行布局。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2521838",
+   "pubTime": "19:09",
+   "pubTs": "2026-11-01T19:09:51+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "突发！千亿光纤光缆龙头董事长提议回购1亿至2亿元公司股份|盘后公告集锦",
+   "summary": "亨通光电董事长提议回购1亿至2亿元公司股份，用于股权激励或注销。同时，高争民爆披露重大资产重组预案，拟通过发行股份方式购买西藏紫源铜业及晟源矿业股权，公司股票将于次日复牌。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2521833",
+   "pubTime": "18:59",
+   "pubTs": "2026-11-01T18:59:42+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "沪深上市公司前三季度净利润超5万亿元 创四年新高",
+   "summary": "今年前三季度，沪深两市上市公司实现净利润5.1万亿元，营业收入56.6万亿元，规模及增速均创2022年以来新高。超七成公司实现盈利，受益于内需修复、出口高景气度以及中国完备产业链带来的规模经济效应。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2521814",
+   "pubTime": "16:56",
+   "pubTs": "2026-11-01T16:56:56+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "【明日主题前瞻】“脑科学与类脑研究”国家科技重大专项项目正式启动",
+   "summary": "“脑科学与类脑研究”国家科技重大专项正式启动，重点研发柔性高通量脑机接口系统及临床转化技术。此外，国家能源局强调燃气轮机自主创新，阿里巴巴入股太空机器人研发商，人形机器人量产也取得新突破。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2521657",
+   "pubTime": "16:48",
+   "pubTs": "2026-11-01T16:48:54+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "A股有色金属企业，这波赚麻了",
+   "summary": "A股有色金属板块三季报表现抢眼，金铜等细分领域利润普遍超过去年全年。洛阳钼业、紫金矿业等龙头业绩显著增长。业内分析认为，在无法左右价格的情况下，产能扩张与产品结构优化成为企业增长的核心驱动力。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2521804",
+   "pubTime": "16:23",
+   "pubTs": "2026-11-01T16:23:44+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "周末要闻汇总：央行、金融监管总局、证监会，将于明天召开会议",
+   "summary": "三大金融监管部门将于周一召集银行开会，研究优化股票回购增持再贷款政策。此外，DeepSeek发布全新Agent架构，英伟达披露下一代CPO技术进展，苹果则与阿里巴巴达成合作，将千问大模型集成至Apple智能。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2521779",
+   "pubTime": "15:57",
+   "pubTs": "2026-11-01T15:57:49+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
