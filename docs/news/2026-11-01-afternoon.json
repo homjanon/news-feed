@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "afternoon",
+ "editionName": "下午茶",
+ "date": "2026-11-01",
+ "fetched_at": "2026-11-01 15:20",
+ "translator": "gemini-3-flash(7条) + agnes-3.0-flash(14条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "法官拒绝驳回麦当劳“麦肋堡”虚假宣传集体诉讼",
+   "summary": "美国一名法官裁定，麦当劳必须面对针对其“麦肋堡”产品的集体诉讼。原告指控该三明治并不含有真正的肋骨肉，涉嫌虚假宣传。目前该案件已获准继续推进，麦当劳未能成功申请驳回此项关于“神秘肉类”的法律诉讼。",
+   "source": "USA Today",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUFBkYzJoRFVrR0c3Y2pjVUdVREphWVBjenhkcmtvY0hDblJ4c3J5S29zX3hDbnNSS3RrY2ZBQmNGNG1kc3NHaFZLU1E1ajZBWjI0b2xSRVJFNjlleUdKZWNYbnhjLUVCWTRrX3c2bGJxXzFYa256Zll5eU92YUFzYmd1Wmw3c0wwaDB5clhwR2ktM3c?oc=5",
+   "pubTime": "10:47",
+   "pubTs": "2026-11-01T10:47:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "币安称63亿美元黑客损失已覆盖九成，FBI指控朝鲜为幕后黑手",
+   "summary": "加密货币交易所币安表示，在其遭受的63亿美元巨额黑客攻击中，90%的损失已得到覆盖。与此同时，美国联邦调查局（FBI）发布调查结果，指称朝鲜应对这起加密货币历史上规模最大的攻击事件负责。",
+   "source": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQmZHbGpSM3BwNVpUdHkteHN5Q2lTNTh0SVZjNjM3Yjkyd0dKcnY5LWJrNHpVeEIyYVBOTDVSUWowdEExN3hxU1lkR3dJODQ5RDhLU0pXWXJmbGRaNVJvV1hjUjVCalk5bVdhSnBod1pyY1Z6eFV6Xy1YcUFvZlNxNkJLYkRmcXhOc0IxbjJoaEJoRWVZS3Y4Q0V1UmVoaXlvUUU5bFFoeXZsVEU?oc=5",
+   "pubTime": "10:41",
+   "pubTs": "2026-11-01T10:41:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "日本举办“地味万圣节”：聚焦平凡日常的创意庆典",
+   "summary": "日本东京近日举办了独具特色的“地味万圣节”，参与者们不扮鬼怪，而是装扮成日常生活中平凡的人物或场景。与此同时，东京警方在万圣节期间加强了安保措施，部分地区也正试图改变传统的庆祝方式以减少对居民的影响。",
+   "source": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQW04Y2VKV2xIVno3d2FYa1Vpa1RublEtTndTbDk1Z2hPd09HcWR0dnBGTkYyNlNXNm5lb1pKRGFBMklhMUhQSUpDQU94ekpEQTNiSl9BRlpxZlZIejRwdmJtMWFwMHFGUS1NOVpZak9hQ2hpQVNhc1hCUE5CUFJIdlZ5RDBrUTZFSEw1LVlnRWRqUktqcC1waVh5Z3VUU19vNDA5bldZWlZzNHY2Znpua3BHMllwRUlwRUNPek1UY0p6bXJyMlVtUXcwRjhRMkxwNDV0eDhUWTE?oc=5",
+   "pubTime": "08:32",
+   "pubTs": "2026-11-01T08:32:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "爱彼迎新规禁止房东要求房客洗碗，引发房东与房客争议",
+   "summary": "爱彼迎（Airbnb）发布新规，明确禁止房东要求房客在退房前完成洗碗或打扫等家务。这一政策调整受到了房客的普遍欢迎，认为减轻了负担，但也引发了部分房东的不满，他们认为这增加了运营成本并使服务变得平庸。",
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvTEFGbVE2YkFhQVRkYTc1MUpkTDJTbzh4SlY2cnRsSk1hdXF0UXdnd3lPS2xVUWxhUFdwLW8xLUR2RTFKM05uX3pZczFpRmxHVlJNemVGNk9uT3c?oc=5",
+   "pubTime": "08:17",
+   "pubTs": "2026-11-01T08:17:05+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美国北卡罗来纳州Chili's餐厅误将除油剂当盐，致5名顾客灼伤",
+   "summary": "在美国北卡罗来纳州的一家Chili's连锁餐厅，由于工作人员误将化学除油剂涂抹在玛格丽特酒杯边缘，导致5名顾客在饮用后遭受化学灼伤。目前受害者已接受治疗，相关部门正对这起严重的食品安全失误展开调查。",
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR2diMzRDaXZHR3hDYkdodDdKZEJkcW5PeHp1ekI2RjBjWUZzUHRCN1hmbFY3RWJvcnhLaVJLWVpaV2ZRUkpLc01WT3FMRElhRjNkcGE5Tlh4ejBNZ3pyQlFiMlg0Sy1IanZFX3k1di1SMS1UV21qZW1KVHNVdG4tV25SSXFfdDhITGJNbWVrSQ?oc=5",
+   "pubTime": "07:38",
+   "pubTs": "2026-11-01T07:38:37+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "福特Fathom电动皮卡关键技术曝光，或将终结市场竞争争议",
+   "summary": "福特汽车推出的售价2.8万美元的Fathom电动皮卡引发关注，其独特的技术特性可能成为市场竞争的关键。福特首席执行官吉姆·法利对该车型赞不绝口，称其驾驶体验前所未有，且该车型的多功能设计有望为车主节省开支。",
+   "source": "Engadget",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQng3b21oLVBSRWVqSjhySTlxX1ltRVJCZ0EtV3RTS20wMWNfcUFVZU1sX1lpd21QNVZDN090TUVQUkgyVHBuTFdIcXo4anVlT0Vjd3ZDRUNDbVJ5VUNRZThURXZwMmpxSUlYaWFTZVJFenBMb2c5Yk0xUjl1djZ5UnlHQ3BRVEZDRTJ3?oc=5",
+   "pubTime": "07:00",
+   "pubTs": "2026-11-01T07:00:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "加拿大推进“中等强国”战略，通过新贸易协定实现多元化",
+   "summary": "加拿大政府正积极推进其“中等强国”外交战略，旨在通过签署新的贸易协定实现市场多元化。加拿大国库委员会主席阿南德表示，政府正将目光投向美国以外的市场，重点针对东盟地区达成自由贸易协议，以增强经济韧性。",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMkR4dzVKdEdBZ1paNXRBRkJQRHlCaFBWQlk3ZG5jQVBwam1LQXdtMFpQcl8tR3ZpdWRjLXdfVjhRTDlXX0J3dDl1a1NmTHZhV1ZGazBqd1prYjZ3UEpGZHN2MkZ6WkRmS0JJRFE5a0pQSmlCQ1hGbUZSUGFSckgzZ2l5bEFRSUFCR2puZUdRSEgyMENsTzhoZ2hxZGRiUjBYZjMyYW53ODVwX0IwWnNvbVB5YUlvUWZUY21reFVoMmFQZU0?oc=5",
+   "pubTime": "05:11",
+   "pubTs": "2026-11-01T05:11:43+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "马骁任中科大双聘教授 系邓煜团队成员",
+   "summary": "菲尔兹奖得主邓煜团队成员马骁已任中国科学技术大学几何与物理研究中心、通用人工智能研究所双聘教授及博导。他因在希尔伯特第六问题上的重大突破，与邓煜等合作从硬球粒子动力学严格推导玻尔兹曼方程，成果被《数学年刊》接收。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261101-9928980",
+   "pubTime": "15:11",
+   "pubTs": "2026-11-01T15:11:07+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "逾3.2万香港初中生参与长征主题知识竞赛",
+   "summary": "2026/27学年全港初中中国历史文化问答比赛以纪念红军长征胜利90周年为主题，吸引逾200所中学及超3.2万人参与，人数较往年增近五成。比赛涵盖长征及历代历史知识，保良局董玉娣中学获冠军，赛事由特区政府教育局主办。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261101-9928748",
+   "pubTime": "14:06",
+   "pubTs": "2026-11-01T14:06:01+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "中秘升级版自贸协定生效 新增电商全球供应链等议题",
+   "summary": "中国商务部表示，中秘升级版自贸协定于11月1日生效，彰显维护多边主义决心。协定新增标准合作、电子商务、全球供应链及环境等独立章节，并完善细化原产地规则、海关程序及知识产权等原有规定，推动贸易便利化。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261101-9928683",
+   "pubTime": "13:39",
+   "pubTs": "2026-11-01T13:39:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "港惩教署安排涉国安法及反修例案件获释人员赴深圳参访",
+   "summary": "香港惩教署安排12名涉国安法及反修例案件的更生人士赴深圳，参访东江纵队司令部旧址及土洋村革命烈士纪念碑，并参观全球最大自动驾驶科技企业。此举旨在通过考察抗战史迹与创科发展，加强国家归属感与国民身份认同。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261101-9928521",
+   "pubTime": "13:02",
+   "pubTs": "2026-11-01T13:02:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "中国路桥：警惕利用柬埔寨项目散布不实招聘信息",
+   "summary": "中国路桥发布声明，提醒公众警惕利用其承建的柬埔寨扶南德佐综合水利项目散布的不实招聘信息。此类信息常被指收取高额费用，并使用类似公司名称增强迷惑性，严重侵害公司声誉并危及财产安全，公众需提高甄别能力。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261101-9928478",
+   "pubTime": "12:36",
+   "pubTs": "2026-11-01T12:36:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "2027中国“国考”今起报名确认",
+   "summary": "2027年度国考通过资格审查345万人，计划招录3.57万人，较上年度减少约2400人。11月1日起需登录专题网站完成报名确认及缴费。最热门岗位报名人数突破3400人，吉林出入境边防检查总站延边支队岗位竞争最为激烈。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261101-9928150",
+   "pubTime": "12:02",
+   "pubTs": "2026-11-01T12:02:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "台企涉使用陆制晶片制造军用无人机 台内政部采购32架",
+   "summary": "台内政部清查发现，所属机关共采购32架使用中国大陆制造晶片的亚拓科技军用无人机，其中移民署采购的30架尚未交货。台内政部将依据政府采购法严格处理，不得交付涉陆制产品，并对违规厂商进行查证及索赔。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261101-9928385",
+   "pubTime": "11:37",
+   "pubTs": "2026-11-01T11:37:36+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "OPEC+原则上将维持12月产量目标 重心转向明年配额谈判",
+   "summary": "OPEC+产油国在11月1日会议上原则上同意维持12月石油产量目标不变，符合市场预期，进一步调整预计明年进行。受中东战事影响，海湾产油国正致力于恢复受阻出口，目前多数成员实际产量仍低于配额，重心转向2027年配额谈判。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2521751",
+   "pubTime": "15:02",
+   "pubTs": "2026-11-01T15:02:37+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "算力衡量方式变了，EDA如何跨过“协同关”？",
+   "summary": "在AI基础设施扩张背景下，芯片计算效率提高但散热跟不上，局部最优难保系统最优。在2026芯和半导体用户生态大会上，业界专家探讨如何将芯片到系统协同优化变成日常工程能力，以解决芯片、封装、存储等环节相互影响的设计挑战。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2521740",
+   "pubTime": "13:58",
+   "pubTs": "2026-11-01T13:58:51+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "港股IPO周报：东山精密H股挂牌首周累跌约一成 远信储能等多家公司开启招股",
+   "summary": "本周港股市场有3家公司通过聆讯，6家开启招股，1只新股上市。中旅港澳文旅通过主板聆讯，拟以介绍方式上市；东山精密H股挂牌首周累计下跌约一成；远信储能、金力新能源等多家公司同期开启招股。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2521739",
+   "pubTime": "13:53",
+   "pubTs": "2026-11-01T13:53:29+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "内需承压下 汽车业向“双全”要利润",
+   "summary": "受购置税补贴退坡及市场竞争影响，16家整车上市公司三季度业绩普遍承压，仅7家归母净利润增长。海外销量普遍增长成为亮点，全体系出海与全域生态转型的“双全”战略，正成为主机厂打造新增长曲线的共同选择。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2521746",
+   "pubTime": "13:53",
+   "pubTs": "2026-11-01T13:53:02+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "业绩“深蹲起跳”后 锂业双雄如何“跳”出周期大考？",
+   "summary": "2026年锂价震荡，天齐锂业与赣锋锂业三季报净利润同比增幅分别超30倍和195倍，主要因去年基数较低。随着锂价回落，两家公司单季利润增速放缓，行业关注龙头企业如何在锂价非单边上涨背景下寻找新增长点，摆脱周期依赖。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2521743",
+   "pubTime": "13:46",
+   "pubTs": "2026-11-01T13:46:31+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "一级市场，不愿聊物理AI了｜创投观察",
+   "summary": "尽管物理AI及机器人技术受黄仁勋等关注，但一级市场多家投资机构近期不愿公开讨论该话题。受访机构多为具身智能布局者，因内部策略或市场观望氛围，选择保持沉默，反映出该领域投资从热议转向谨慎。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2521736",
+   "pubTime": "13:44",
+   "pubTs": "2026-11-01T13:44:53+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "AI带着真金白银来了！CXO分化复苏潮下，谁在狂揽“湿实验”订单？",
+   "summary": "CXO板块三季报分化，药明康德、昭衍新药等净利润大幅增长，凯莱英等表现平淡。需求修复受美国Biotech融资改善及国内创新药BD出海放量驱动，海外早期研发外包需求回升，不同企业在“湿实验”订单获取上表现差异显著。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2521722",
+   "pubTime": "11:58",
+   "pubTs": "2026-11-01T11:58:01+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
