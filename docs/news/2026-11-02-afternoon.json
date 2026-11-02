@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "afternoon",
+ "editionName": "下午茶",
+ "date": "2026-11-02",
+ "fetched_at": "2026-11-02 15:20",
+ "translator": "gemini-3-flash(21条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "科技股暴跌引发AI担忧，亚洲股市预计走低",
+   "summary": "受科技股抛售潮及市场对人工智能前景担忧的影响，亚洲股市预计将出现下跌。彭博社的市场综述指出，这一趋势反映了投资者在科技板块估值过高后的谨慎情绪，市场正重新评估AI投资的风险。",
+   "source": "Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUXhSWUZpNlU1UFZVSEtvY3QwQVB4T3FuYlpCT3lpaE05MThfMFFTZVZWWllFZDZDYkJFdTBIWEx1X1ZMVXlESFdaX3Noc2VSSW1QRHFzYzhPZkowLVNZeWR1N2dBN2hlLXY1VlJ3SHJNR3Ayc29JOXN4cXN3bklZQzN5bEctRER1aGp1eFdUVjhITWM0?oc=5",
+   "pubTime": "15:00",
+   "pubTs": "2026-11-02T15:00:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美伊寻求外交途径解决冲突，国际油价应声下跌",
+   "summary": "随着美国和伊朗寻求外交手段解决冲突的报道传出，国际油价出现下跌。市场对卡塔尔主导的停火谈判持乐观态度，油价跌幅一度达到3%，反映出地缘政治紧张局势的缓解降低了原油市场的风险溢价。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQXd1a2c2UEtTYmUxbDlrUGdYYmxXdWJJd19lbVVpa1NCZFNIT1ZpV2xBOEFmY195WVZSLXNIdktTTldXRHVlWHBYN0ZIRmhMb21lRWY0X1U2NERwSzNLSTFaVjNFTmVXWDBrM1BrNE8yTjBjVUdFWG9ET05OdGhPMUstRzljYTjSAYwBQVVfeXFMTVhDTDhNM0RuaF9EMUI4clJLbjhRWVNITUd3Z3BUX2dPaXgzOFVEYlFQajBfbTFpdGtoVzhsUm0tYkdST2VKYjZPbWZCZTNvVnJra1oyU3RWRUNkYmE2dElpVUVGRDBxLWVXYVZlOVBoUy1QNVJ6dHdnOVVJUjdSdm85QWRxWTFDUmMwTHY?oc=5",
+   "pubTime": "13:04",
+   "pubTs": "2026-11-02T13:04:26+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "铠侠业绩展望显示需求趋平，股价大幅下跌",
+   "summary": "日本存储芯片巨头铠侠股价大幅下挫，此前公司发布的业绩展望显示闪存需求正趋于平稳。这一谨慎预期引发了市场对半导体行业复苏进度的担忧，也表明投资者在人工智能相关的芯片交易中正变得更加挑剔。",
+   "source": "Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcDJESk1FNV9fMHNhWHBSSnJScXowbFFveVVwMXcyMm1WVEl1bXYxUkZXS05mLVRZNE0tV0NTRXhqbUJ2OHA3OEpxbGYyWllZWUg1VGwxdTVZcmxDWk5oUWlwcnZobzJrWHJQVzNTQW5XWTFwdVBENmgxN2FQNmJ1YlNDbkZyUk1jV19IOE8tekN5T1FqS2RBem9Fd0Noa0RwY2hyUU5veXVlZi03VXhlNjc2M2Y?oc=5",
+   "pubTime": "13:01",
+   "pubTs": "2026-11-02T13:01:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "遭遇史上最大规模黑客攻击后，币安用户提现36亿美元",
+   "summary": "在遭遇创纪录的黑客攻击后，加密货币交易所币安面临大规模资金流出，用户净提现金额达36.4亿美元。尽管平台提现功能已经恢复，但此次安全事件引发了用户对资产安全性的恐慌，导致资金密集撤离。",
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBabVFHSUg2RlNyUVdrekNWMk1UMGhiVmtrOTRiSGNJaDk4N2RUeXhCekNacnFEYjRDR1Z3SkNDeHJVUWJMcFE2V1JMLVRlSThCZmx2TmxNNm5JQjQ?oc=5",
+   "pubTime": "11:32",
+   "pubTs": "2026-11-02T11:32:14+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "轨道数据中心是否会破坏夜空景观？",
+   "summary": "《华尔街日报》探讨了在地球轨道部署数据中心可能带来的负面影响。随着太空科技的发展，轨道数据中心成为新趋势，但其产生的反光和光污染可能会干扰天文观测，并对自然夜空的完整性造成破坏。",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTVJDcWZoVl9nSzFEVGVZX0tnb056SmE1cGtldWQ5eVZMWEQtNW5ZcHdDcmdQbEZkWXkyWjRpaXY5cU1XUTQyWjZfdFlFc0xocWxRUkRON1Z6c2xKTUlyMmFvSWhQaGs4XzBVZzFrY2JmMl9MdXhMLUVsZWRNU1JoWnRMaDhYRDJ3Sm9BRUdZU2JqZjBJU1NUMDhsRnhKYVU?oc=5",
+   "pubTime": "11:00",
+   "pubTs": "2026-11-02T11:00:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "特斯拉与SpaceX合并估值逻辑转向有利于特斯拉",
+   "summary": "市场分析指出，特斯拉与SpaceX潜在合并的估值逻辑正变得对特斯拉更加有利。尽管面临监管挑战，但马斯克旗下公司整合的预期正在升温，这种潜在的合并未来可能会对标普500指数的构成产生深远影响。",
+   "source": "TheStreet",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQai03TUNwUjMwbjlsVUdGWXRwMUFjS2Nma3Y1blNMdF9wc3FRZjU1TDdOaFR3VUhJaElEN1VRZXlpOVdVN25tV25GZkQyZWpNVkROUWR1N1JyVzZLOEZIRkpfM3FFLVhVTWw2OWZyOUstSXY1UC1IUmVJS19CSHFaYVVpOTBmbjZwaktKY2VGV2M?oc=5",
+   "pubTime": "10:37",
+   "pubTs": "2026-11-02T10:37:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "SemiAnalysis发布GDPx基准，衡量前沿AI模型核心领域能力",
+   "summary": "SemiAnalysis推出了名为GDPx的新型AI基准测试，旨在衡量前沿模型在11个关键代理领域的表现。目前Claude Opus 5.5在该基准中处于领先地位，反映了当前顶尖AI模型在处理复杂任务能力上的最新进展。",
+   "source": "SemiAnalysis",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUU1DSXItV3NfOG5KM2ZhejF1WkRUSUd2NDBjMlV3M0dNN3RiMUxRNms3NmxwYlk3NjRUZzhYbmttVG5kSVRQSWRVVzRaU0hsLUxUcVEyWkZmOWVpMFN2Qmc3ejFVRVRkX25LdHNnNUN1cUt2Y29PWUVYZTZtU2JXeDJyZVQtVkU?oc=5",
+   "pubTime": "09:51",
+   "pubTs": "2026-11-02T09:51:42+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "网约车万圣节在武汉步行街被围堵 车身堆放瓶子",
+   "summary": "万圣节当晚，武汉一网约车司机误入步行街拥挤人群，遭部分狂欢者围堵破坏。车辆被投掷垃圾、涂鸦并放气，司机被困车内约四小时，情绪崩溃。目前当地公安部门已介入调查处理，网民呼吁严惩肇事者。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261102-9933351",
+   "pubTime": "15:06",
+   "pubTs": "2026-11-02T15:06:29+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "被指贪婪腐化、无偿接受高端医疗服务 郭永航被“双开”",
+   "summary": "广东省政协原副主席郭永航因严重违纪违法被“双开”。通报指其丧失理想信念，对抗组织审查，违规收受礼品礼金，无偿接受私企老板提供的高端医疗服务，并利用职权在干部任用、司法活动中为他人谋利。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261102-9933329",
+   "pubTime": "15:04",
+   "pubTs": "2026-11-02T15:04:27+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "春华资本首席执行官：中国决策者应把重点放在改善经济基本面",
+   "summary": "春华资本首席执行官胡祖六建议，中国决策者应重点改善经济基本面，着重提振国内消费并增强投资者信心。他认为当前无通胀压力，央行有空间采取更大胆的政策措施。此前沪深300指数10月表现低迷，监管层正商讨支持措施。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261102-9933132",
+   "pubTime": "14:42",
+   "pubTs": "2026-11-02T14:42:07+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "习近平会阿曼苏丹：中东海湾地区不应成大国博弈角力场",
+   "summary": "中国国家主席习近平在北京同来访的阿曼苏丹海赛姆举行会谈。习近平强调，中东海湾地区不应成为大国博弈的角力场，中方愿同阿方深化战略伙伴关系，加强治国理政交流，共同维护地区和平稳定与国家主权安全。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261102-9932994",
+   "pubTime": "14:16",
+   "pubTs": "2026-11-02T14:16:51+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "中国多车企据报与相关部门协商混动汽车出口配额",
+   "summary": "继中欧就混动汽车贸易达成谅解后，多家中国车企正与相关部门协商出口配额。由于配额总量有限，各企业竞争激烈。此前欧盟官员透露，中国将对出口欧盟的混合动力等汽车量减半，并继续推进相关价格承诺程序。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261102-9932884",
+   "pubTime": "14:01",
+   "pubTs": "2026-11-02T14:01:08+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "民进党秘书长：规划沈伯洋到其他县市多走几趟",
+   "summary": "台湾“九合一”选举临近，民进党秘书长徐国勇表示，正规划让台北市长候选人沈伯洋赴其他县市助选，希望借“洋流”热潮带动全台选情。尽管如此，团队首要任务仍是应对台北紧绷的选情，持续进行扫街与座谈。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261102-9932880",
+   "pubTime": "13:58",
+   "pubTs": "2026-11-02T13:58:50+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "美媒：Meta与中企傅利叶合作打造人形机器人",
+   "summary": "据美媒报道，美国科技巨头Meta正与中国初创公司傅利叶合作开发人形机器人，目前已进入第二代原型研发阶段。傅利叶创始人顾捷对此表示暂不方便回复。此举显示出中美企业在尖端机器人领域的潜在技术合作。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261102-9932292",
+   "pubTime": "12:39",
+   "pubTs": "2026-11-02T12:39:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "国家数据集团启动校园招聘：包括研发、产品、运营、市场等岗位",
+   "summary": "国家数据集团正式启动2027届秋季校园招聘，涵盖研发、产品、运营及市场等多种岗位，报名截至2026年11月底。该集团于2026年9月成立，注册资本300亿元，总部位于雄安新区，旨在吸引大数据与人工智能人才。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2522283",
+   "pubTime": "13:36",
+   "pubTs": "2026-11-02T13:36:20+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "首批机器人国标与采购标准齐落地 地平线机器人和越疆均涨超4%",
+   "summary": "受政策利好推动，港股机器人概念股集体走强。工信部等部门发布首批政府采购本国产品标准征求意见稿，涵盖工业机器人等；同时，首批人形机器人国家标准正式发布。地平线机器人、越疆等相关个股应声上涨。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2522276",
+   "pubTime": "13:32",
+   "pubTs": "2026-11-02T13:32:01+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "金融法草案二审稿充实金融消费者、投资者保护相关内容",
+   "summary": "《金融法（草案）》提请二次审议，二审稿重点充实了金融消费者与投资者保护内容。草案明确规定，金融机构不得通过格式条款排除消费者权利或免除自身责任，并针对互联网营销活动增加了针对性规范要求。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2522256",
+   "pubTime": "12:46",
+   "pubTs": "2026-11-02T12:46:58+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "资管周报：资管信托新规正式发布，明年1月1日起施行；三季报收官，上市银行财富 AUM 拉开业绩差距",
+   "summary": "金融监管总局发布资管信托新规，明确其私募定位，将于2027年起施行。同时，上市银行三季报显示财富管理AUM规模拉开业绩差距。此外，邮储银行重启大额存单发行，公募产品基准调整等行业动态也备受关注。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2522198",
+   "pubTime": "12:21",
+   "pubTs": "2026-11-02T12:21:10+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "【午报】创业板指半日涨超3%，全市场超4700只个股飘红，AI漫剧概念涨幅居前",
+   "summary": "11月2日早盘A股震荡拉升，创业板指涨超3%，全市场逾4700只个股上涨，半日成交额突破1.1万亿元。白酒、AI漫剧、大金融及CPO概念股表现活跃，多股涨停；而贵金属板块则陷入调整，市场呈现普涨格局。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2522235",
+   "pubTime": "12:20",
+   "pubTs": "2026-11-02T12:20:13+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "国家数据局：摸清人工智能用数需求",
+   "summary": "国家数据局强调，行业高质量数据集建设应坚持需求导向，重点摸清人工智能用数需求。会议要求链主单位精准推进数据集建设，为具身大模型提供训练原料。此前，国家数据集团已正式挂牌，旨在支撑数据要素产业闭环。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2522219",
+   "pubTime": "12:18",
+   "pubTs": "2026-11-02T12:18:03+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "AI存储超级周期生变？铠侠股价暴跌17%，较历史高点“膝盖斩”",
+   "summary": "日本闪存巨头铠侠股价因业绩指引偏谨慎一度暴跌17%，较历史高点已跌去近七成。尽管其第二财季营收同比大增453%，但市场担忧人工智能驱动的存储超级周期增长势头放缓，导致投资者对长期前景产生分歧并引发抛售。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2522202",
+   "pubTime": "12:10",
+   "pubTs": "2026-11-02T12:10:05+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
