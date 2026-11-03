@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "night",
+ "editionName": "夜豆浆",
+ "date": "2026-11-03",
+ "fetched_at": "2026-11-03 22:30",
+ "translator": "gemini-3-flash(21条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "欧洲九国超市冷柜遭网络攻击，多国发布警报",
+   "summary": "欧洲九国超市的冷藏系统近期遭遇大规模网络攻击，导致设备运行异常，引发多国安全部门高度警惕。目前，路透社、半岛电视台等多家媒体正密切关注攻击者的身份及动机，这起针对民生基础设施的“冷战”式袭击已对供应链安全构成威胁。",
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zckFEbEd5YVVILVJUcHBxdU5jclBSSlZKQzRhWGZHY19maUgwUlZUcVM1OXNrLUstQW4yZTlEcy13bElzUVEwbUIzRU1RRS1aOWJaOXJKZnl0RWs?oc=5",
+   "pubTime": "21:12",
+   "pubTs": "2026-11-03T21:12:04+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "Shopify第三季度营收及利润不及预期，股价大幅下跌",
+   "summary": "电商平台Shopify发布第三季度财报，尽管营收同比增长32%，但毛营业利润和总订单价值均未达到华尔街预期，导致其股价在盘前交易中暴跌19%。虽然公司自由现金流利润率表现稳健，但市场对其增长放缓的担忧仍占据主导地位。",
+   "source": "Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZmYwV2Q5TEY5Q2FqcUxoVTJhR09CMUJtMll2N2R0OU1ic1NTcUhZbmNSZTZaQmViOWtUSmUzMzhHMEo5YWF0TDBRWGh0V2FRSGpIUVJwbjJsbnA2R2t2bFh1VGJscTJ4LTA5aHRVMmljc083TnpLWWxMQTZ1SlVUa1l6MlJyaTE0cEwwTzFNSDE3Q2hB?oc=5",
+   "pubTime": "20:32",
+   "pubTs": "2026-11-03T20:32:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "币安创始人赵长鹏回应历史性黑客攻击，称安全并非百分之百",
+   "summary": "针对涉及63亿美元的加密货币盗窃案，币安创始人赵长鹏表示没有任何系统能保证百分之百的安全。目前研究人员正追踪被盗资金流向，尽管有指控称朝鲜参与其中，但朝方予以否认。币安表示目前资金流出已恢复正常，正全力应对此次危机。",
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUFdlbks1cGotWlA4VFZFOFlDc0gzUmJ1Sk5DNTROZmZZVGFQMy02dFgzdUo1ZWtEbmp5RFhDRTJvOEgxSlF6b1AzbXg1ZG1xRjQ1M2pSdFlhODNlWU1WaHJkVlhfU3R4LUwzRTU5NUc0d3JMQXpHV1Fyc0NPd2JFVThGdW80bk9FYml5VF96M3VJNUVfTkpIMEFPMjhOU0ZrV0FnLXI4cmhPSUpBOGljQ1JQRHRyUm1lbHpMZWJIc2VLd0RNbDE1djFYR2NfYnJOV0lzQWhFTTJPU202X1diT0JR?oc=5",
+   "pubTime": "20:26",
+   "pubTs": "2026-11-03T20:26:05+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "百胜餐饮利润超预期，但塔可钟受寄生虫疫情拖累",
+   "summary": "百胜餐饮集团公布最新财报，整体利润超出市场预期，但旗下品牌塔可钟因爆发圆孢子虫疫情导致销售额下滑，跌幅超出预期。尽管受到疫情负面影响，得益于其他业务的增长，百胜集团的总营收仍实现了同比上升。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93Mk1RZFhic2N5NXJjc0NNd214NUN0SWJFOTZUa1VCMzZaZjA1c2J6d2lKd19XejIxQVNLTTM4QnQyeWhUaUpHTEJkc0YtTmxpNlVUd3ZWNnJBcmFSTlcxXzVyeFVZaFM1Q1hpZmZmT0dHMFJXelpR0gF8QVVfeXFMTVlqNFYySXFOQ2lPejlXMU52QWROTHBYNWhyRXhITFhZLUg5Q25qbVRmUEotWklFc25MdHowTlhvMVJUUGdaTkRZWW1JaUhMZlZVVS1DQ2F0YWFFQ0lOVlgxTHV0cVl0ekRYMnN0M3FPUXYtRGdOLWpGeHRJdw?oc=5",
+   "pubTime": "20:01",
+   "pubTs": "2026-11-03T20:01:12+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "辉瑞上调全年业绩预期并任命资深高管为新任CFO",
+   "summary": "辉瑞公司宣布上调全年利润预测，主要得益于抗凝药Eliquis及癌症药物的强劲需求带动第三季度业绩超预期。同时，公司任命一名资深员工出任首席财务官。新产品的增长抵消了新冠相关产品需求下降的影响，提振了市场信心。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfVElSNTY2SkVSU0NJOUpBalpLNVRMUThqV3ZTb1RwcVhkWndyUHdFTTFJZVNhWXJOWDRXckVMVHVRdU1TLTFGdlNBbmMtM0JDdzlSbEVwanJrUElJT1huRGhsdUJDa3JZUGtxRm8tcjJ0UdIBd0FVX3lxTE5sX2ZVWW5pM29Fc2RUZ2lhLV9uM2RidDdWLXFGRkhhcnhpQ0NfVjBpVFBPbDloZU9HdXVhaF9nZXFrUTR1eVEtLU9uWUhNaXNKSmJmV2J3MUNybnVnVkFPU19QeWZ5QUJPdmFHbExqbFFoNHVFbEF3?oc=5",
+   "pubTime": "20:00",
+   "pubTs": "2026-11-03T20:00:26+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美国中期选举或引发股市震荡，华尔街严阵以待",
+   "summary": "随着美国中期选举投票开启，华尔街正密切关注选举结果对市场、人工智能政策及债务上限的影响。分析师警告称，若民主党横扫国会，可能引发标普500指数的剧烈波动。瑞银等机构交易员认为，当前的政治局势为市场反弹或剧震埋下了伏笔。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Ua0pHS0JmY1BBaERCRF9iQXFoRnYyYm1ZamRxdHRJbkU4WEI0TkRobUVkMWxpQWIzRFMzaklSY2VOeVlzSmdocEhVaTduQmx0SGo4RTdqU2k1bW5mSlFDazlNT3pXZlVhYzlOYjFaaXVwWkdB0gF6QVVfeXFMTlhUMHhuNVFSZ3Z0OWdhUUxiUk5RSE12R1hzTmcwT0s0d0hVX3RqZnZleHg3cGMtaW5fTklxYWN3V0NPdFZFWEdXcU1HNVFvWXZhLWRiYkZPZ21CWTFibWMyVzlQUFZGOFZzdUJkalZiYlltTjlSejl6TWc?oc=5",
+   "pubTime": "19:37",
+   "pubTs": "2026-11-03T19:37:27+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "Palantir美国商业营收激增，但股价因财报表现下跌",
+   "summary": "数据分析公司Palantir发布财报，其美国商业业务营收首次超过政府业务，季度营收突破20亿美元大关并上调了业绩展望。然而，尽管核心数据亮眼且美国客户需求强劲，其股价在财报公布后依然出现下跌，反映出市场对高估值的担忧。",
+   "source": "Barron's",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmaHVqdkxNZVdKWERyTmp6U1VTRHdub05tMHZSRHlrd0MwajF1aDdWeW5YT2JHMXpSeTR5a3RXcG1PeUQ4S244U2xLT1NYTlRaajVDb0RGN1FlTjJINk1QQmdrRzFRMVhpa2ZuNU1PbTR5cWVtcGVtVlIybw?oc=5",
+   "pubTime": "19:24",
+   "pubTs": "2026-11-03T19:24:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "英男徒步横跨四大洲 历时28年终返回英国老家",
+   "summary": "57岁的英国探险家布什比历时28年，完成了徒步穿越四大洲的壮举。他于1998年从智利出发，坚持不借助交通工具且不中途回家的原则，跨越丛林、荒漠及冰原，最终回到英国老家与家人团聚。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261103-9940730",
+   "pubTime": "22:04",
+   "pubTs": "2026-11-03T22:04:28+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "日本北海道设“海之电话” 让沉船事故家属寄托思念",
+   "summary": "日本北海道罗臼町启用了一座名为“海之电话”的非联网电话亭，旨在为2022年知床半岛观光船沉没事故的遇难者家属提供寄托哀思的场所。该设施由当地渔民发起，受“风之电话”启发，供民众向逝者倾诉。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261103-9940893",
+   "pubTime": "21:03",
+   "pubTs": "2026-11-03T21:03:50+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "【美国中期选举】美国中期选举结果何时出炉？重点看这些时段",
+   "summary": "美国中期选举于周二举行，选举结果将随各州计票进度陆续揭晓。对新加坡读者而言，周三上午8时至中午12时是追踪选情的关键时段，届时佐治亚、北卡罗来纳等多个参议院关键战区的计票情况将陆续出炉。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261103-9941740",
+   "pubTime": "20:46",
+   "pubTs": "2026-11-03T20:46:47+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "【美国中期选举】佛罗里达州暴雨引发洪灾 18个投票站临时迁移",
+   "summary": "受暴雨引发的严重洪灾影响，美国佛罗里达州当局在中期选举投票日紧急迁移了7个县境内的18个投票站。州长德桑蒂斯已宣布相关地区进入紧急状态，以保障选民安全，部分受影响的投票区被合并至其他站点。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261103-9941652",
+   "pubTime": "20:19",
+   "pubTs": "2026-11-03T20:19:08+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "英联邦峰会登场 聚焦贸易壁垒与气候变化挑战",
+   "summary": "英联邦政府首脑会议在安提瓜和巴布达开幕，56个成员国领导人聚焦讨论加强内部贸易、应对气候变化及奴隶贸易赔偿等议题。面对全球经济冲击和关税压力，会议旨在通过深化合作降低外部风险并吸引投资。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261103-9939894",
+   "pubTime": "20:06",
+   "pubTs": "2026-11-03T20:06:40+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "欧洲超市疑再遭网攻 冷藏温度升至50度",
+   "summary": "欧洲至少九个国家的超市疑似遭遇网络攻击，导致制冷系统故障，部分冷藏设备温度异常升至50摄氏度，迫使零售商大量丢弃变质食品。比利时受损严重，目前欧盟已介入调查，尚无组织宣布对此次事件负责。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261103-9941466",
+   "pubTime": "19:37",
+   "pubTs": "2026-11-03T19:37:48+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "【美国中期选举】民主党三州退出选战 借独立候选人撼动共和党优势",
+   "summary": "在美国中期选举中，民主党在三个共和党传统票仓选择退出选战，转而支持独立候选人，意图借此打破共和党的长期优势。今年共有至少10名独立候选人参选，成为两党博弈之外影响参众两院格局的关键变量。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261103-9940022",
+   "pubTime": "19:34",
+   "pubTs": "2026-11-03T19:34:48+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "马斯克瞄准美国无线通信市场，SpaceX或自建地面移动网络",
+   "summary": "马斯克旗下的SpaceX计划进军美国移动通信市场，挑战由三大运营商主导的行业格局。凭借雄厚的资金、无线频谱资源和卫星网络，SpaceX可能通过自建地面移动网络或收购资源，尝试全新的商业模式。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2524253",
+   "pubTime": "22:27",
+   "pubTs": "2026-11-03T22:27:03+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "潘功胜：维护金融市场平稳运行 守住不发生系统性金融风险底线",
+   "summary": "中国人民银行行长潘功胜向全国人大常委会作报告，强调要维护股票、债券、外汇等金融市场平稳运行，守住不发生系统性风险的底线。未来将继续实施适度宽松的货币政策，并加强金融监管以服务实体经济。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2524254",
+   "pubTime": "22:19",
+   "pubTs": "2026-11-03T22:19:05+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "从工厂到便利店：机器人“打工”热再起，商业化仍在早期",
+   "summary": "具身智能机器人的应用重心正从工厂转向零售场景。近日，智元公司的6台机器人在上海一家便利店完成了24小时作业测试。尽管多家厂商开始在动态开放环境中验证技术，但机器人在零售业的商业化落地仍处于早期阶段。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2524248",
+   "pubTime": "22:16",
+   "pubTs": "2026-11-03T22:16:06+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "前白宫官员：伊朗局势短期难迎外交突破 共和党未来或陷路线之争",
+   "summary": "前白宫官员斯卡拉穆奇表示，由于美、以、伊三方缺乏共同立场，中东局势短期内难以实现外交突破。他还预测，在特朗普退出政治舞台后，共和党内部可能爆发激烈的路线之争，但相关政治运动的影响力将持续。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2524170",
+   "pubTime": "21:26",
+   "pubTs": "2026-11-03T21:26:14+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "苹果换帅后首份财报引发股价走弱 美股市场熬到关键节点 | 今夜看点",
+   "summary": "随着美国中期选举进入正式投票阶段，美股市场迎来关键节点。由于投资者关注参议院控制权的归属，三大股指期货表现分化。选举结果预计将在周三A股交易时段陆续揭晓，对全球市场情绪产生重要影响。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2524206",
+   "pubTime": "21:23",
+   "pubTs": "2026-11-03T21:23:14+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "港股风向标｜资金面回暖恒指连日反弹 场内仍有谨慎观望情绪",
+   "summary": "港股周三延续反弹势头，恒生指数实现三连阳，大型科网股及消费板块表现活跃。尽管资金面有所回暖，全天成交额超2300亿港元，但市场对AI硬件等部分产业链仍持谨慎态度，场内观望情绪依然存在。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2524182",
+   "pubTime": "21:18",
+   "pubTs": "2026-11-03T21:18:26+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "港股公告精选｜百胜中国三季度盈利同比增约一成 秦港股份拟发行股份收购码头资产",
+   "summary": "百胜中国发布财报，第三季度净利润同比增长10%至3.11亿美元。秦港股份公告称，拟通过发行股份及支付现金方式，向河北港口集团收购曹妃甸多个优质散货码头资产，并募集配套资金以优化资产布局。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2524185",
+   "pubTime": "21:17",
+   "pubTs": "2026-11-03T21:17:30+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
