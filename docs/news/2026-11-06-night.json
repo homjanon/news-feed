@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "night",
+ "editionName": "夜豆浆",
+ "date": "2026-11-06",
+ "fetched_at": "2026-11-06 22:30",
+ "translator": "gemini-3-flash(21条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "德州新任州长宣布暂停新建数据中心",
+   "summary": "德克萨斯州新任州长表示，在另行通知之前，该州将停止批准新建数据中心。此举反映了当地对能源消耗和电网压力的担忧，标志着德州对科技基础设施扩张政策的重大转向。",
+   "source": "USA Today",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUpKc0gtcjFCbjVyVnp0cjdTVEw5WnFNN2pwV2d2SnlzSVJadmJJRkc4N2RXMDJTdW1YU3Yyb2VRcFNaVzl0NlprSkQyT3I2SXhCOFlQQXd4c1pJOTFOeFN1enBndms2SVRYdDMzMmFfeE9FMUZweFEteFQtbm94V0V3NVJ3VWtHbFNqRVoyRmhYVjAtaW1NMUxiVXFja2U5a2pDdTFmMjItSjVETkVySXhWZ1dwdW9JbDhjd1k4WEJYOUVEV3UxR0t3bHh4N1cwanRJ?oc=5",
+   "pubTime": "22:15",
+   "pubTs": "2026-11-06T22:15:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美国10月新增非农就业16.5万人，经济展现韧性",
+   "summary": "美国10月份新增16.5万个就业岗位，远超市场预期，展现出强劲的经济韧性。在股市近期下跌的背景下，这一“爆发式”的就业增长为美国经济开启新篇章提供了有力支撑。",
+   "source": "CNN",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qWk8wMEdtNmQzcFpkelNRdjNtZjJYRkJNWkpKM2xBenpzMnRxeUVKdkUzTFlPZkNmTTE5dmNlN0lzaWJZck5ENmNEc054d280UGNkdEo4MXVUYUVEMjM4RmV5T1ZrV0VWMzRxdDhR?oc=5",
+   "pubTime": "21:32",
+   "pubTs": "2026-11-06T21:32:21+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "AI板块抛售潮令Anthropic上市估值预期承压",
+   "summary": "受近期人工智能板块股价大跌影响，AI初创公司Anthropic的IPO估值预期面临下调压力。潜在投资者表示，市场对AI的抵触情绪可能威胁到其上市时机，公司盈利能力正受到质疑。",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSnFFOWdvbmtEcGNObXJldm1QTGRoeXRMbnQ1THZ6REh2bDE4V2U4VmNDbVdOWHRtNm9TaGdCbTBrZUotOWdNZWszbmNoSUpjWnlNN2NNZ1NUcUJPVWRKb2s2RTlPZ19hNGZoR28tSWllbWFzQ0FNTUdoYl9GODVmb1JSdElLd0l0dWFSTktsbFBqSW1YVFJ2SU90anhWZjNMT0RJaFJJWlpfTUVtaDduTw?oc=5",
+   "pubTime": "21:12",
+   "pubTs": "2026-11-06T21:12:57+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美光科技股价遭抛售，分析称其估值极具吸引力",
+   "summary": "在经历剧烈抛售后，美光科技的股价估值引发热议。有分析认为当前的低估值极不合理，甚至称其为“十年一遇”的投资机会。受此影响，美光股价在盘后交易中反弹4.11%，显示出投资者信心回升。",
+   "source": "Barron's",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3SXFvMHBHQVZoMzhpclNLb1JBUGsxYUgwV2ZyMnR2a0ttMkpkTXlBX0M2WlZ2OEEwT0JoNzl0Y0NiUE84MzdiT0dfdnJTRXJDRDdCbDNVZThjdmpoajN2bmF0Y3FGMmI0elRISjlzVE9BejNw?oc=5",
+   "pubTime": "20:38",
+   "pubTs": "2026-11-06T20:38:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "纳指期货在经历19个月来最惨重跌势后反弹",
+   "summary": "随着人工智能板块回暖，纳斯达克期货在经历19个月来最严重的暴跌后开始反弹。此前市场经历了2.5万亿美元的惨烈抛售，但在强劲的非农就业数据支撑下，科技股开始复苏，大盘随之企稳。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGUGtVSmh2dDhaUDJWN2x5SWlLSW93SDgyMm5ybTd4TFo5R3NmZ3I0aDdHSHRNT2VxRVdVLS00NjZXeUE2ZDFSTExOaGtIaFY3MEFWYndKUENSWmMwVml3cVlMb1lnUk83RThmTDNvZGlCaVV0YkJn?oc=5",
+   "pubTime": "20:00",
+   "pubTs": "2026-11-06T20:00:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "亚马逊等AI数据中心概念股有望成为中选后赢家",
+   "summary": "分析指出，亚马逊及其他AI数据中心相关股票有望从中选后的政治格局中获益。尽管部分富豪财富缩水，但贝索斯等科技巨头身价上涨。分析师警告，不应将短期的AI增速放缓误读为行业崩溃。",
+   "source": "Barron's",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTmFWemxsVHJERmFRb0lsaExBZnpqQ2JQSmVqSzFFM2Zra1JRa3A0R3Z1WFg2UWtqWV9fUm85T050ZEV0SllCNlVFb0wzLUZ1dWF3RU5aR1Job2V1WTZMbnMzeGxZZWh5Q1QzY1dhczBCYnZuaVdqaGM0ckR4UzZud1JoUXNfdw?oc=5",
+   "pubTime": "19:15",
+   "pubTs": "2026-11-06T19:15:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "特斯拉计划明年逐步停产Cybertruck，转向Cybercab",
+   "summary": "马斯克暗示特斯拉将于明年逐步缩减Cybertruck的生产。这款极具争议的明星产品或将停产，为全新的无人驾驶出租车Cybercab让路。这一战略调整标志着特斯拉正将重心转向自动驾驶领域。",
+   "source": "The Verge",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMnFEQTh0TWMyanV3SndWQTNPN0MtUVVVcm9hdzJ2OEJnekh4TjJkZXg4cnFQQkh1WHo4dVZnSzFHU1NYTmlQRS1ZbGwtaDJYajFfdE4taDRicVYwWFI0S0pkZGs3SjBleHJVRU9zOFpFRXdPd2R6eHBVV2pLMVV3WDJXRENGNGsxcEpqSVpVdlkwT0dJVDdWUA?oc=5",
+   "pubTime": "18:42",
+   "pubTs": "2026-11-06T18:42:52+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "伦敦地铁司机拟展开八天罢工 抗议新工作安排",
+   "summary": "英国伦敦地铁司机计划从11月底至明年2月底分阶段展开为期八天的罢工，以抗议资方拟议的新工作安排。工会认为新规将延长驾驶时间并导致数百人失业，罢工日期涵盖了圣诞及新年等多个关键通勤时段。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261106-9961152",
+   "pubTime": "22:21",
+   "pubTs": "2026-11-06T22:21:44+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "民主党拟推翻特朗普部分关税 加拿大成首个目标",
+   "summary": "美国民主党计划在明年掌控国会后，推动撤销特朗普政府实施的部分关税措施，首个目标锁定为加拿大商品。参议院财政委员会候任主席怀登已开始商讨立法，旨在通过取消对加关税争取部分共和党议员的支持。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261106-9960212",
+   "pubTime": "21:52",
+   "pubTs": "2026-11-06T21:52:35+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "比利时国王拒绝接受首相辞呈 要求立即恢复预算谈判",
+   "summary": "比利时国王菲利普拒绝了首相德韦弗的辞呈，并要求其立即恢复预算谈判。在与执政联盟五个政党主席会谈后，各方承诺将作出让步，力争就未来三年的稳健预算规划达成协议，以维护社会凝聚力并促进经济增长。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261106-9960989",
+   "pubTime": "21:34",
+   "pubTs": "2026-11-06T21:34:57+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "英爱多家媒体机构接获炸弹威胁 爱尔兰新闻机构紧急疏散",
+   "summary": "英国和爱尔兰多家媒体机构接获炸弹威胁，爱尔兰国家广播公司总部紧急疏散员工，警方已介入调查。英国天空广播公司也证实收到安全威胁并通报当局。此前，欧洲多国航班已连续遭遇多起虚假炸弹警报干扰。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261106-9960911",
+   "pubTime": "21:14",
+   "pubTs": "2026-11-06T21:14:11+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "伊朗提交核问题方案：美方须先满足七大条件",
+   "summary": "伊朗通过卡塔尔向美国提交了一份核问题提案，要求美方先满足解除制裁、解冻海外资产及支付战争赔偿等七项条件，否则拒绝谈判并威胁关闭霍尔木兹海峡。特朗普则回应称，若无美国批准，伊朗在核计划上难有作为。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261106-9959074",
+   "pubTime": "19:56",
+   "pubTs": "2026-11-06T19:56:16+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "欧洲机场再传炸弹威胁 丹麦警方展开调查",
+   "summary": "欧洲多国航班持续遭遇炸弹威胁，法国证实当天有四架飞越其领空的飞机接获警报，所幸均安全降落。丹麦、捷克和葡萄牙也相继传出炸弹警报，丹麦警方已对哥本哈根机场接获的针对性威胁展开调查，目前未发现爆炸装置。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261106-9960270",
+   "pubTime": "19:25",
+   "pubTs": "2026-11-06T19:25:29+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "民主党大胜冲击美国AI业 数据中心扩建恐受阻",
+   "summary": "美国民主党在中期选举中获胜，可能导致人工智能产业面临更严监管。由于新任民主党籍州长对资源消耗的担忧，得克萨斯州和俄亥俄州等地的多项数据中心扩建计划或将面临更严厉的审批审查，甚至可能被迫暂停。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261106-9959332",
+   "pubTime": "19:21",
+   "pubTs": "2026-11-06T19:21:30+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "港股公告精选｜富智康集团前三季度营收超56亿美元 越秀地产前10月销售额同比降逾一成",
+   "summary": "富智康集团前三季度营收超56亿美元，溢利同比大增近六成；越秀地产前10月累计合同销售额约802亿元，同比下降12.9%。此外，中国铝业附属公司拟订立逾65亿元合同，蒙古能源预计半年度收入增长约28%。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2527819",
+   "pubTime": "21:28",
+   "pubTs": "2026-11-06T21:28:12+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "纵慧芯光启动IPO辅导 VCSEL累计出货超9亿颗 国开制造业基金、小米、比亚迪等押注",
+   "summary": "垂直腔面发射激光器芯片厂商纵慧芯光启动IPO辅导，其产品累计出货量已超9亿颗，广泛应用于消费电子和汽车等领域。该公司已获得小米、比亚迪等知名机构投资，并规划建设总投资约50亿元的光通信基地项目。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2527817",
+   "pubTime": "21:26",
+   "pubTs": "2026-11-06T21:26:55+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "AI产业链深跌后集体反弹 非农数据大幅超出预期 | 今夜看点",
+   "summary": "经历剧烈抛售后，美股AI产业链在周五盘前集体反弹，纳指期货涨超1%。存储芯片、光通信及英伟达等权重股普遍走高。同时，最新公布的美国非农就业数据大幅超出预期，市场焦点正转向科技巨头在开盘后的表现。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2527812",
+   "pubTime": "21:21",
+   "pubTs": "2026-11-06T21:21:13+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "港股风向标｜恒指反弹受阻再度缩量 AI监管叙事变化持续扰动",
+   "summary": "港股周五震荡回落，恒生指数收跌1.27%，成交量显著萎缩。科网股集体走低，阿里巴巴及小米等跌幅居前，AI监管预期的变化持续扰动市场。消费板块逆势活跃，电力及煤炭等传统行业重新获得资金关注。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2527811",
+   "pubTime": "21:21",
+   "pubTs": "2026-11-06T21:21:02+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "马斯克宣布Cybertruck明年逐步停产 得州工厂产能转投Cybercab",
+   "summary": "马斯克宣布特斯拉将于明年年中逐步停止得州工厂的Cybertruck生产，以腾出产能扩产无人驾驶出租车Cybercab。由于Cybertruck实际销量远低于规划产能，且Cybercab正面临监管调查，此举引发了市场高度关注。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2527791",
+   "pubTime": "21:06",
+   "pubTs": "2026-11-06T21:06:54+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "美联储威廉姆斯：通胀持续过高 政策走向仍需更多数据",
+   "summary": "纽约联储主席威廉姆斯表示，美国当前通胀水平持续过高，美联储必须确保其及时、持续地回归2%的目标。他强调，尽管经济具有韧性，但受能源价格波动及AI等因素影响，未来的货币政策走向仍需依赖更多数据。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2527787",
+   "pubTime": "20:48",
+   "pubTs": "2026-11-06T20:48:40+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "南向资金追踪｜本周净卖出超32亿港元 加仓三大ETF减持小米及中芯国际",
+   "summary": "本周南向资金累计净卖出超32亿港元，流出力度较上周有所减弱。资金主要加仓了盈富基金等三大ETF，并大幅买入中国平安和中国移动；个股方面，小米集团和中芯国际则遭到资金的大幅减持。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2527753",
+   "pubTime": "20:42",
+   "pubTs": "2026-11-06T20:42:06+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
