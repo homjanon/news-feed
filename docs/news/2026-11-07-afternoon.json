@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "afternoon",
+ "editionName": "下午茶",
+ "date": "2026-11-07",
+ "fetched_at": "2026-11-07 15:20",
+ "translator": "gemini-3-flash(21条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "民主党大选获胜后投资者抛售AI公司股票",
+   "summary": "随着民主党在选举中获胜，投资者开始大举抛售人工智能相关股票，导致科技股板块遭遇重挫。市场分析人士正密切关注这是否意味着AI泡沫即将破裂，以及此举是否会对整体经济产生连锁反应，尽管部分专家认为这并非重演互联网泡沫。",
+   "source": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeHBQalQ0UlBpeEtqdmZBTlJpQTJtaVNlV1B4Zm45UnV3Q0R4VWl6MXF6U1RfZDRUSXBLQU5YWWFma0xxMnJ5OXpiRVliTFlELVoxZEZiWGFmbm8xNlJvTkJBdlZCTlY0RzlOTVNZNFp2UU1qTnFsalotZmZPcE5YbVktcm9URUNUN0dSN2draU5EYU81ekl1ZTZCOGZoZFRmVDI0NDlON2k1ZEREMEdyaWJsaHZyLTU5QWhNNnJ6bWE5U3BU?oc=5",
+   "pubTime": "14:35",
+   "pubTs": "2026-11-07T14:35:36+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "马斯克重仓德州遭民主党制衡，旗下公司市值大幅缩水",
+   "summary": "埃隆·马斯克在德克萨斯州投入巨大，但当地民主党人正寻求对其加强监管。马斯克在中期选举中耗资近5亿美元却未达预期，特斯拉和SpaceX的市值在中期选举后合计蒸发超过4200亿美元，其商业帝国正面临政治与市场的双重压力。",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVVZsNTNhMFR3RTZST0VkeVNXVm52MndSd1VPbFJIUXlCZVBlQ2JJOUMtOEhxU0x6QXE0T29QaHUyRjkzRXBxRmRFNVhJOE45bVBrWTIxeE14TjFPOTNGRTI1bEpNWVZwQk1tMjIxLWFnV3I4NjZ1Unk5WU51QWZ5eXdoeDc?oc=5",
+   "pubTime": "11:00",
+   "pubTs": "2026-11-07T11:00:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美方指称英伟达CEO黄仁勋曾与中国间谍有染",
+   "summary": "美国政府指称英伟达CEO黄仁勋曾与一名疑似中国间谍的女性有染。据报道，中国情报机构招募该女性并将其目标锁定为黄仁勋。目前黄仁勋已被要求向美国国会就此安全风险进行汇报，此事引发了科技界及监管机构的高度关注。",
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcHo3eTNwbl9OX25ycmZfZ21DWjNEbTlxZ0w5UTk5RW9KZW5hZ1FUS3ZWblFCVHQ5S0EtVU8tbW94SERsbV8tb1A2NzFrN0htdjBoMzVyM1NHMXd1Wnk1OWJoQk1ORnFna0hMUFRhb2VKQVZGTzBPYWdRRDhrOC1VRjVwZUU?oc=5",
+   "pubTime": "10:33",
+   "pubTs": "2026-11-07T10:33:57+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "谷歌收购Crusoe在怀俄明州陷入困境的数据中心项目",
+   "summary": "谷歌已接手Crusoe能源公司在怀俄明州陷入困境的数据中心项目。谷歌承诺将投入170亿美元在当地建设人工智能数据中心，此举不仅解决了该项目的资金困境，也标志着谷歌在怀俄明州乃至全美范围内进一步扩大其AI基础设施的布局。",
+   "source": "TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOTZaSVJmRTQ3WWYwN3NtZktMaDFicXkxaWd2akk4QmNKQkMtY1RrclR5aUdENEJpNDdFMzJxRTlhQlhvQ2o0MjZicDBrS1p6eFJYWFoxci15b3BNQXdCcE5sMzJRdElmMmt6NkhBUkl1bm16OEQ1dHB0eUJhcWNIc0FzZUI0bzAyX1B4RXlaaS1EcEVheGs0QldR?oc=5",
+   "pubTime": "09:40",
+   "pubTs": "2026-11-07T09:40:28+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "财报表现强劲，IonQ首席执行官重申量子霸权愿景",
+   "summary": "量子计算公司IonQ发布的最新财报显示，其营收和每股收益均大幅超出市场预期。受量子计算需求激增推动，公司预计营收将实现四倍增长。首席执行官借此强劲业绩重申了公司在量子领域实现主导地位的愿景，推动股价大幅上涨。",
+   "source": "Barron's",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IOHV3RnpIOVlwUHhxQU1qVWcweG9NaHZxVHBFM1lOdVhrem41UTFOT1NGMjI2VEg2aEdsYWVmaFZkWWUzU2R3blA4VEMtVnlENGUyN1lCYkQwemJtR0lxNlJJRm5VeE90TWFsY21kNGo5c0FQWnc?oc=5",
+   "pubTime": "07:02",
+   "pubTs": "2026-11-07T07:02:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "餐饮加盟商申请破产，专家敦促企业积极转型",
+   "summary": "随着一家大型餐饮加盟商申请破产，包括澳拜客牛排馆在内的多家门店面临关闭。专家敦促企业应积极适应市场变化而非寻找借口。此次破产事件凸显了当前餐饮行业面临的经营困境，提醒企业必须通过转型来应对不断变化的经济环境。",
+   "source": "Fox Business",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNejZLZjRWU0NxWnVxNUJDS0hRRl9kakVsQUlYazNaelNRZlNWMzNhTHIxcU12a2VjMWtDTXFuNjVETUtXS1lJNUp1LTZkUXdVR1FzNnZYVmw0WDNlajlpaVhDd0ZRbnUxbkpnUWxlU0xjMGNYUFNmdFNYZ2RQazhMUUZxekxpM1VINjgzYmJnOVoxM2ZqdkY3OHF0Y0MyQzVRelRaTklvMWJsLTV4NkxMb0lzbEwwOTB3QzA3R2ZaN1FhRmvSAcgBQVVfeXFMTmFZbUlubVRSNXk4SVoxWGM4QnZVbm5LbGhvNHBXMThNRkxwVlQyTWRIczh5NTZWX3dUa2t3QUlndnFKLXkzQ0N0TWYyYW5zQnhMT0wxNDRHdlhIVGVvR3I2NmNxQ1RKal9yaDVxN0I1dGVXUF9YMzFDSFdPWGhiakJrU19HdjFWR0xHUnNZb2dVTnJkVWc4SmctQXdWczQ3Q05CYXpvc0dFTHBFcDFCMHlsVzV1NFBiTFpzYTloM25JNlZ4RFFuVVU?oc=5",
+   "pubTime": "06:58",
+   "pubTs": "2026-11-07T06:58:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "微软决定不再续签甲骨文AI云租赁协议",
+   "summary": "微软正逐步缩减并决定不再续签向甲骨文租赁人工智能云算力的协议。此前微软通过租用甲骨文的云容量来补充自身AI计算需求，但现在决定转向自给自足。这一变动对甲骨文的长期投资者而言是一个值得警惕的信号，反映了云服务市场竞争格局的变化。",
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcHJCUjh0R0d2OThyOWFnYW9sd19pbTZ0eEtwVXd0QmUzbTF5XzdQVVdCUEcxMEJOYU1vRlRIaHB1U2U3UWg1Nm91SDFQWXhXbjh2MVVaVk5VcUF5Q0Q1YU1aUmM4QmNRTVdNRzZCVHluS2FDTlA5ai1ieFlKamRjNjhtUmlzWC16N2xvMjVzQTFxS09sNjFR?oc=5",
+   "pubTime": "06:48",
+   "pubTs": "2026-11-07T06:48:41+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "巴基斯坦载荷专家将参与神舟24飞行任务",
+   "summary": "中国官方宣布，一名巴基斯坦航天员将作为载荷专家参与神舟二十四号载人飞行任务，并在短期在轨飞行后随神舟二十三号返回。这是中国载人航天史上首次中外联合飞行，标志着中国空间站将迎来首位外籍航天员。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261107-9963201",
+   "pubTime": "14:57",
+   "pubTs": "2026-11-07T14:57:15+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "深圳多区宣布：APEC会议周自愿停驶电动自行车有奖励",
+   "summary": "随着APEC领导人非正式会议即将在深圳举行，南山、福田等五区宣布，市民在11月16日至20日会议周期间自愿申报并停驶电动自行车，可在活动结束后享受保险七折优惠。此举旨在继私家车停驶倡议后，进一步保障会议期间的交通秩序。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261107-9963093",
+   "pubTime": "14:55",
+   "pubTs": "2026-11-07T14:55:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "美英等10国家谴责黄之锋判刑 港府批歪曲事实污蔑抹黑",
+   "summary": "美英等十国发表联合声明，谴责香港民主派人士黄之锋因串谋勾结外国势力罪被追加判刑十年。香港特区政府及中国驻外使馆对此强烈反驳，指责相关国家歪曲事实、污蔑抹黑，并严正警告其停止干预香港司法及中国内政。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261107-9963061",
+   "pubTime": "14:28",
+   "pubTs": "2026-11-07T14:28:13+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "中国广电总局专项治理微短剧 重点整治AI低俗内容等",
+   "summary": "中国国家广电总局自11月起开展为期两个月的微短剧专项治理，重点整治AI技术助长的低俗同质化内容、软色情及违背伦理等问题。行动还将规范AI创作中的“盗脸”“偷声”现象，并治理通过更换片名反复播出等违规传播行为。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261107-9962462",
+   "pubTime": "13:21",
+   "pubTs": "2026-11-07T13:21:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "蔡奇会金成男：愿同朝方密切战略沟通促进地区和平稳定",
+   "summary": "中共政治局常委蔡奇于11月6日会见朝鲜劳动党国际部部长金成男。蔡奇表示，中方愿同朝方落实两党两国最高领导人的重要共识，通过密切战略沟通与协调配合，深化管党治党经验交流，共同促进地区的和平稳定与发展繁荣。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261107-9962550",
+   "pubTime": "12:42",
+   "pubTs": "2026-11-07T12:42:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "谢锋：新一对熊猫美国亮相是中美落实元首会晤共识最新成果",
+   "summary": "中国驻美大使谢锋在亚特兰大动物园大熊猫馆开馆仪式上致辞，指出新一对旅美大熊猫“平平”和“福双”的正式亮相，是落实中美两国元首会晤共识的最新成果。这对大熊猫的到来不仅深化了人文交流，也续写了中美两国人民的友谊篇章。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261107-9962717",
+   "pubTime": "12:28",
+   "pubTs": "2026-11-07T12:28:01+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "美媒：台积电拟进军先进存储晶片制造",
+   "summary": "据美媒报道，台积电应最大客户英伟达的要求，正计划进军先进存储芯片制造领域，研发生产名为3D DRAM的特殊芯片。此举旨在扩大其在人工智能硬件供应链中的份额，目前关于生产时间表及制造设施的具体方案尚在制定中。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261107-9962658",
+   "pubTime": "11:52",
+   "pubTs": "2026-11-07T11:52:27+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "进博会观察：跨国工业巨头如何重写AI时代“商业剧本”",
+   "summary": "在第九届进博会上，卡特彼勒、ABB、西门子等跨国工业巨头纷纷展示其在AI时代的全新商业布局。这些企业已从传统的机械陈列转向提供系统级解决方案，聚焦数据中心电力、算电协同及低碳电网等领域，致力于重塑数字经济与绿色转型的支撑体系。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2528049",
+   "pubTime": "14:42",
+   "pubTs": "2026-11-07T14:42:39+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "震惊华尔街！马斯克豪言：SpaceX明年底年化营收或超5000亿美元",
+   "summary": "埃隆·马斯克在投资大会上预测，SpaceX的年化营收有望在2027年底突破5000亿美元，甚至可能达到1万亿美元规模。这一估值远超华尔街预期。尽管SpaceX股价近期有所回升，但仍略低于此前上市时的发行价，其增长潜力引发市场高度关注。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2528042",
+   "pubTime": "13:17",
+   "pubTs": "2026-11-07T13:17:41+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "卡特彼勒“算力标签”带到进博：从工程机械巨头到AI电力供应商",
+   "summary": "在第九届进博会上，传统工程机械巨头卡特彼勒全球首发了专为数据中心打造的发电机组，展示其向AI算力基建电力供应商转型的决心。财报显示，其电力与能源板块营收在2026年第三季度同比增长18%，成为支撑公司业务转型的重要驱动力。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2528031",
+   "pubTime": "12:11",
+   "pubTs": "2026-11-07T12:11:36+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "冰雪游热度提前释放 热门航线预订同比增长两倍",
+   "summary": "随着北方滑雪场陆续开板，今冬冰雪旅游热度提前爆发，热门航线及酒店预订量显著增长。辽宁省在进博会期间发布了2026-2027冰雪季安排，推出涵盖滑雪、温泉等百项文旅产品，旨在通过第十五届冬运会的预热效应，进一步拉动冬季旅游消费。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2528025",
+   "pubTime": "11:32",
+   "pubTs": "2026-11-07T11:32:46+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "OpenAI融资、估值被曝双双大缩水",
+   "summary": "据知情人士透露，OpenAI新一轮融资已收到约110亿美元首期款项，公司估值达到1.25万亿美元。本轮融资总额预计最高可达200亿美元，吸引了软银、红杉资本等知名机构参与。在推迟IPO计划后，OpenAI正通过大规模融资支撑其业务扩张。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2528016",
+   "pubTime": "10:18",
+   "pubTs": "2026-11-07T10:18:46+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "AI短剧迎来“拿到大结果”时刻？",
+   "summary": "随着AI视频生成技术的迭代和短剧出海的拓展，AI影视产业正从技术尝试转向规模化生产。相关上市公司股价活跃，行业逻辑也从单纯的降本增效延伸至内容供给扩张与IP价值释放。目前，AI影视正向中长剧、电影及互动影游等多元形态发展。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2528002",
+   "pubTime": "09:54",
+   "pubTs": "2026-11-07T09:54:03+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "入主数日即“输血” 兴业银锡拟向*ST威领无偿赠与现金3.5亿元丨速读公告",
+   "summary": "兴业银锡在取得*ST威领控制权仅三天后，宣布通过全资子公司向其无偿捐赠3.5亿元现金，且不附加任何条件。此次“输血”旨在补充*ST威领的权益资本并改善财务结构，为其经营恢复及矿业资源开发创造有利条件，助力公司摆脱困境。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2528004",
+   "pubTime": "09:53",
+   "pubTs": "2026-11-07T09:53:23+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
