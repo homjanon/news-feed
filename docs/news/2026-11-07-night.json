@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "night",
+ "editionName": "夜豆浆",
+ "date": "2026-11-07",
+ "fetched_at": "2026-11-07 22:30",
+ "translator": "gemini-3-flash(7条) + agnes-3.0-flash(14条)",
+ "counts": {
+  "total": 21,
+  "new": 20
+ },
+ "items": [
+  {
+   "title": "Anthropic上市遭遇AI抵制，中期选举后数据中心受挫",
+   "summary": "尽管科技股遭遇抛售，AI初创公司Anthropic仍计划推进IPO。但中期选举结果显示出对数据中心的强烈抵制，投资者对其1.5万亿美元的估值表示怀疑，市场动荡正削弱投资热情。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkVFNKdFlSLTl6ZndHZTBvOFFta0JaelYzcldkc21kSVJiSHNOcDVBX19xTVY3clpiekZSWmpRbFdtaHdTbVo1d3lNNXJTa3FfQ2NiWHhJV3Vvb3hEekdfQnJDV2xQcU0wUFo4dnBiM050YnhVOVFfYXo4VW5PRWc?oc=5",
+   "pubTime": "21:00",
+   "pubTs": "2026-11-07T21:00:01+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "华尔街因AI担忧陷入低迷，伯克希尔股价逆势大涨",
+   "summary": "在华尔街因人工智能担忧而普遍下跌之际，伯克希尔·哈撒韦股价逆势上涨。尽管第三季度营业利润有所下降，但公司将股票回购规模扩大了一倍以上，显示出在动荡中对自身价值的坚定信心。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQXgyQmpJT1lzSWhTZ01uZWJoRngzWm44N2hQT2lRcUNLWVZONlZQa3lHOTN0VE1zNEZvSjNzUEk4aThrNk1DbTZpazdtTm43TmJUYWNwYWlnTDJocHM3T3BybUpWSlM1ZElKTExkRTBoQy1NVy1zZDRCWHNPZDJFcXJReDR2OF81MkxPS282anN1UzRlUzNBb0tWTQ?oc=5",
+   "pubTime": "20:49",
+   "pubTs": "2026-11-07T20:49:19+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "欧洲冷链系统遭黑客探测，物联网安全面临严峻挑战",
+   "summary": "黑客在网络攻击前曾探测欧洲冷藏系统，导致冷库故障及航空公司虚假信息等乱象。此次事件为物联网安全敲响警钟，专家警告称，面对日益复杂的威胁，仅靠侥幸心理已不足以保护基础设施。",
+   "source": "Euronews.com",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT1VwdFFGNGxsc2ZtTmNXVWxERklTYndWcHQtb3N3NFR2YUVTaFh4SXFFUEx5aHdNa25wZ1JudmZKYUhJRElDc19WamF0VXVDZzFRSzFJS0VCTU04dng1SnBXOTBZNWVDZGwybl92bW54eTBnZGdBSFdNVGJlSGNVQWo2N0ZPbkxlV0JjY1k4dEwxMkxkZHJaUk05bko0YXNNTGxlbFpVUFpoVF9LTl94NXhTbmF1Zml2Rnl6Q29yNUFjbkIt?oc=5",
+   "pubTime": "16:30",
+   "pubTs": "2026-11-07T16:30:39+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "民主党赢得选举后，投资者为何大举抛售AI概念股",
+   "summary": "随着民主党在选举中获胜，投资者大举抛售人工智能相关股票，引发科技股剧烈震荡。市场正密切关注AI泡沫是否正在破裂，以及科技行业的低迷是否会波及整体经济并引发新一轮的现实审视。",
+   "source": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeHBQalQ0UlBpeEtqdmZBTlJpQTJtaVNlV1B4Zm45UnV3Q0R4VWl6MXF6U1RfZDRUSXBLQU5YWWFma0xxMnJ5OXpiRVliTFlELVoxZEZiWGFmbm8xNlJvTkJBdlZCTlY0RzlOTVNZNFp2UU1qTnFsalotZmZPcE5YbVktcm9URUNUN0dSN2draU5EYU81ekl1ZTZCOGZoZFRmVDI0NDlON2k1ZEREMEdyaWJsaHZyLTU5QWhNNnJ6bWE5U3BU?oc=5",
+   "pubTime": "15:02",
+   "pubTs": "2026-11-07T15:02:04+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "马斯克重仓德州遭民主党制衡，旗下公司市值大幅缩水",
+   "summary": "马斯克将其商业帝国重心转向德州后，该州民主党人正试图对其进行约束。马斯克为中期选举投入近5亿美元，但特斯拉和SpaceX市值在赛后缩水超4200亿美元，其政治博弈面临严峻考验。",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVVZsNTNhMFR3RTZST0VkeVNXVm52MndSd1VPbFJIUXlCZVBlQ2JJOUMtOEhxU0x6QXE0T29QaHUyRjkzRXBxRmRFNVhJOE45bVBrWTIxeE14TjFPOTNGRTI1bEpNWVZwQk1tMjIxLWFnV3I4NjZ1Unk5WU51QWZ5eXdoeDc?oc=5",
+   "pubTime": "11:00",
+   "pubTs": "2026-11-07T11:00:00+08:00",
+   "block": "谷歌精选",
+   "isNew": false
+  },
+  {
+   "title": "美方指称英伟达CEO黄仁勋曾与疑似中国间谍交往",
+   "summary": "据报道，美国政府认为英伟达CEO黄仁勋曾与一名疑似中国间谍的女性存在交往。该女性被指受雇于情报机构并针对黄仁勋展开行动，目前黄仁勋已被要求就相关安全风险向美国国会进行汇报。",
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcHo3eTNwbl9OX25ycmZfZ21DWjNEbTlxZ0w5UTk5RW9KZW5hZ1FUS3ZWblFCVHQ5S0EtVU8tbW94SERsbV8tb1A2NzFrN0htdjBoMzVyM1NHMXd1Wnk1OWJoQk1ORnFna0hMUFRhb2VKQVZGTzBPYWdRRDhrOC1VRjVwZUU?oc=5",
+   "pubTime": "10:33",
+   "pubTs": "2026-11-07T10:33:57+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "Google收购Crusoe怀俄明州受阻数据中心项目",
+   "summary": "Google已接手Crusoe公司在怀俄明州陷入困境的数据中心项目，并承诺投入170亿美元在该州建设人工智能基础设施。此举在解决原项目开发难题的同时，进一步扩大了Google在AI领域的布局。",
+   "source": "TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOTZaSVJmRTQ3WWYwN3NtZktMaDFicXkxaWd2akk4QmNKQkMtY1RrclR5aUdENEJpNDdFMzJxRTlhQlhvQ2o0MjZicDBrS1p6eFJYWFoxci15b3BNQXdCcE5sMzJRdElmMmt6NkhBUkl1bm16OEQ1dHB0eUJhcWNIc0FzZUI0bzAyX1B4RXlaaS1EcEVheGs0QldR?oc=5",
+   "pubTime": "09:40",
+   "pubTs": "2026-11-07T09:40:28+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "日本组“捍卫战士”精锐战队 阻击黑客巩固网络安全",
+   "summary": "日本政府决定投入100亿日元组建中央抗黑客团队，以应对AI技术驱动的网络攻击威胁。首相高市早苗指示修订相关法律，旨在通过加强防范，保护金融机构等关键基础设施，避免社会经济活动陷入瘫痪。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261107-9964390",
+   "pubTime": "22:07",
+   "pubTs": "2026-11-07T22:07:35+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "消息人士：数千名叙利亚士兵将部署至沙特与也门 抗击胡塞武装",
+   "summary": "沙特积极寻求国际力量协助击退也门胡塞武装，多名官员透露数千名叙利亚士兵即将部署至沙特和也门。目前已有数百名士兵抵达边境两侧，后续援军将陆续到位，以增强对胡塞武装的防御和反击能力。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261107-9964541",
+   "pubTime": "22:01",
+   "pubTs": "2026-11-07T22:01:52+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "加沙暴雨淹没数万难民帐篷 物资机械短缺阻碍救灾工作",
+   "summary": "加沙地带连场暴雨导致至少7万顶难民帐篷被淹，数万名流离失所民众受影响并出现受伤。因燃料短缺及设备受损，当地市政和民防部门难以应对，目前已接到大量求救电话，但暂无人员伤亡报告。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261107-9964511",
+   "pubTime": "21:34",
+   "pubTs": "2026-11-07T21:34:27+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "白宫首席顾问：特朗普不会因选举失利而调整经济政策",
+   "summary": "尽管共和党在中期选举中失利，白宫首席经济顾问哈塞特表示，特朗普政府的经济政策奏效，无须重新调整。他认为选民胜利并非否定供给侧政策，该政策已促使12万美国民众投身新厂房建设，推动经济增长。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261107-9964274",
+   "pubTime": "21:26",
+   "pubTs": "2026-11-07T21:26:33+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "特朗普委任新幕僚长 司法部高层纷离职",
+   "summary": "美国中期选举刚结束，总统特朗普对核心团队进行重大人事调整，任命强硬派亲信米勒接替怀尔斯出任白宫幕僚长。这一变动于下周一生效，米勒是扩大总统权力主张者，此举被视为进一步收紧内部控制。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261107-9964255",
+   "pubTime": "21:18",
+   "pubTs": "2026-11-07T21:18:41+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "美国务卿鲁比奥整顿国务院纪律 收紧控制权",
+   "summary": "美国国务卿鲁比奥近期加强对国务院控制，告诫高级官员必须各司其职、严守本分，避免利益冲突。分析认为，这是共和党主要人物试图与民望低迷的特朗普政府拉开距离，对不道德行为零容忍。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261107-9964425",
+   "pubTime": "21:04",
+   "pubTs": "2026-11-07T21:04:57+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "美情报：中国国家安全部招募黄乐收集黄仁勋情报",
+   "summary": "美国情报机构评估，英伟达客户超速国际前高管黄乐受雇于中国国家安全部，负责收集关于黄仁勋的情报，并试图影响英伟达向中国提供先进AI晶片。美情报官员相信两人曾有恋爱关系，该备忘录已提交政府高层。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261107-9963812",
+   "pubTime": "19:37",
+   "pubTs": "2026-11-07T19:37:21+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "四预警齐发！8省份有大到暴雪，局地特大暴雪",
+   "summary": "受较强冷空气影响，预计7日夜间至10日我国中东部大部地区将出现大范围雨雪和大风降温天气。气象部门已发布四项预警，华北北部、辽宁南部等地需防范暴雪及低温冰冻灾害，江南北部需防范局地暴雨。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2528140",
+   "pubTime": "21:31",
+   "pubTs": "2026-11-07T21:31:11+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "无人机载物应用提速 载人eVTOL 静待适航“临门一脚”",
+   "summary": "本届进博会低空经济看点集中在载物应用层面。东航物流与诺华合作验证“低空+地面”供应链方案，利用无人运输机解决跨省药品及原材料运输需求。相比往年，今年更注重实际商业应用而非单纯展示技术。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2528131",
+   "pubTime": "20:26",
+   "pubTs": "2026-11-07T20:26:35+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "外资加码中国新赛道 高技术产业引资占比超四成",
+   "summary": "尽管全球跨境直接投资承压，中国引资数据现边际改善。1—9月高技术产业实际使用外资同比增长33.8%，占比达41.6%。进博会4142家境外企业参展，世界500强参展数首超300家，显示外资加码中国新赛道。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2528126",
+   "pubTime": "20:01",
+   "pubTs": "2026-11-07T20:01:17+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "告别集中爆单！“双十一”快递一线经营“减负” 降本与修复盈利并进",
+   "summary": "今年“双十一”快递件量较平日虽有涨幅，但同比趋于平稳，使网点日常产能满足旺季需求，大幅降低临时用工和车辆成本。从业者表示压力明显减轻，行业通过降本措施与“反内卷”策略，实现盈利修复。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2528125",
+   "pubTime": "19:55",
+   "pubTs": "2026-11-07T19:55:14+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "26岁委内瑞拉男子欲刺杀特朗普，携1支步枪和2把手枪在白宫附近被捕",
+   "summary": "美国特勤局在白附近逮捕一名委内瑞拉非法移民男子，其自称受脑中声音指示欲刺杀总统特朗普。搜查发现其车内藏有步枪、手枪及失窃车辆。该男子因涉嫌多项武器罪名被捕，特勤局称白宫常成为有心理问题者目标。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2528122",
+   "pubTime": "19:47",
+   "pubTs": "2026-11-07T19:47:27+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "我国黄金储备24连增，原因揭秘",
+   "summary": "中国10月末黄金储备环比增加超25吨，实现连续24个月增持。专家认为，受全球政经形势变化及优化国际储备结构需要，尽管金价偏高，增持必要性上升。同期外汇储备连续7个月站稳3.4万亿美元上方。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2528084",
+   "pubTime": "18:34",
+   "pubTs": "2026-11-07T18:34:42+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "收入结构多元、拨备与资本指标同步优化 江苏银行三季报折射经营韧性",
+   "summary": "在银行业息差承压背景下，江苏银行三季报表现向好。前三季度营收增速逐季回升，不良贷款率维持0.81%低位，资本充足率回升。该行通过多元化收入结构，在业务扩张、风险管理与资本效率间寻求平衡。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2528047",
+   "pubTime": "18:13",
+   "pubTs": "2026-11-07T18:13:17+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
