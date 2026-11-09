@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "afternoon",
+ "editionName": "下午茶",
+ "date": "2026-11-09",
+ "fetched_at": "2026-11-09 15:20",
+ "translator": "gemini-3-flash(21条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "美股指期货上涨，投资者关注AI交易及后续财报数据",
+   "summary": "随着投资者重新审视人工智能领域的交易机会，并准备迎接更多经济数据和企业财报，美股三大股指期货在经历上周的AI板块抛售潮后出现反弹。英伟达、AMD等芯片股成为市场关注焦点，投资者正密切关注科技股后续走势。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FVDc3UlZHcHBOWVJmWWs2YWxla3J5NkpsVmNlTERMM2lQNm1MdlRteDEyeUFGcGFKVHEzV0JGalFMZXlvV3o2R3dmb2dGWUh5WlpMOWxiYkdlb1c1RzB4WlNhQzRoTF9qM3lfaUlKeUhqQUFtWkdj?oc=5",
+   "pubTime": "14:50",
+   "pubTs": "2026-11-09T14:50:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "黄仁勋帅位不保？耶鲁教授称其留任概率仅为五成",
+   "summary": "耶鲁大学教授杰弗里·索南菲尔德表示，英伟达首席执行官黄仁勋的职位面临风险，留任概率约为50%。此前有报道称黄仁勋因个人不当行为向公司道歉，且其子女在公司任职引发关注。此外，有关其与中国关系的政治压力也令其处境更加复杂。",
+   "source": "TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZWd5X1BpVzdkRlNLcm5qQi1YMEpGT2JhWTgtX0pidHEwZE90ODI2UU5iSlVsZ0VEWXd5b3M5NXJ1LW55MFcxZVJoQWxUcHRQaTVNSl9DM3Y4SkR1UDd4MlNCXzF2NS04bmo1V0hkRjFJZk1MZldhUG5qZnhVaVFFRDBaSzYzWXFpemk0M0NOb2ppbTJxenBxQkZHWnUtcEZsZzBFT09kdVhxUHFQd3RjRjg1VFEzcVNETTZKdw?oc=5",
+   "pubTime": "13:26",
+   "pubTs": "2026-11-09T13:26:29+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "亚洲股市在人工智能板块暴跌后迎来反弹",
+   "summary": "随着人工智能板块抛售潮和中东局势引发的担忧有所缓解，亚洲股市出现反弹。韩国、台湾和日本等受AI波动影响较大的市场开始回升。与此同时，受美联储降息预期影响，美元汇率保持坚挺，投资者正在重新评估市场风险。",
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWHEzQjNVM0hCVHUxV3NxbWpTSDFrQzZ2MkwwWW13Q0Vubm82dW1IU0wyT2xfMWpCa1VpcFNKQ3lGS3FnYjZmMHcyZG1kQjQtaDczbVZCSGItak53QklrVVZqOEVfQzRMY1Y2ak0tQnFOcW15dGgxdlZaR1R4UXdocl9nbWE?oc=5",
+   "pubTime": "12:55",
+   "pubTs": "2026-11-09T12:55:33+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "日本单日斥资创纪录的500亿美元干预汇市以提振日元",
+   "summary": "日本政府在夏季的汇市干预中，曾创下单日投入500亿美元提振日元的最高纪录。相关数据显示，尽管日本通过为期三天的干预行动暂时拉升了汇率，但扭转日元疲软态势依然面临巨大挑战，反映出日本在应对汇率波动方面的艰难处境。",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY3lMUTI3WFg1TUlac1JZQ1Y4bDN0ejNVNXpKdmZJczk5dVlhaDlSbmhkamQ2TGdvb09hbWhJMjZpSFRCcDBpRUoxOHI1b3I4U0hMSXhWaUxYQWE2MVhXV2p1dGNBN3gtZXY4eWU5RVVpMzQ4ZFplbjI1aGV3UXZ4R2oxX0I0VHdmTXMtalRRMDVZQVdvellGandneGNCX0xhWjZLbDR2ZlBZM0VDdWktVw?oc=5",
+   "pubTime": "10:58",
+   "pubTs": "2026-11-09T10:58:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "雪佛兰Blazer EV警车拥有近500马力，成为二手高性能车性价比之选",
+   "summary": "雪佛兰Blazer电动版警用车型凭借接近500马力的强劲动力性能受到关注。作为二手车进入市场后，该车型因其出色的性能表现和相对低廉的价格，被视为极具性价比的高性能车型，为追求性能的二手车买家提供了新的选择。",
+   "source": "Jalopnik",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcnVpRTdCZGlqRDYxdWNkeUpqX0gtQzBqYzRTenJPWVVuODI2LTYwUVY4eGNoUUNfcHo4Umc3UW9fS0kwd3lKdGNfanFFVzdHSTFzR2c0NVpyWW00SkJQYVZsSm1vSWF5TVA1ODVYR0I3WUhCbmdTTks1Y2Iyemw5MS1Lb21sbUJaSTdyOEt2b0VucHVqSkNsTTV3?oc=5",
+   "pubTime": "08:50",
+   "pubTs": "2026-11-09T08:50:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "微软逐步终止甲骨文云租赁协议，引发投资者新疑虑",
+   "summary": "微软正逐步减少并终止向甲骨文租赁人工智能云容量的协议，这一举动引发了投资者的广泛关注。据悉，甲骨文因使用较旧的英伟达芯片而失去了微软的AI合同。此举反映出微软在AI基础设施建设策略上的调整，以及对高性能算力资源的迫切需求。",
+   "source": "TheStreet",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd0dMbzRISWtRYWlEeHdWaVZOUGloU1IyZ19BWjhucEYzd3o2RjZ3dTJKY1JTN2JYN0VQTWJZMFJpVnUzbC1SSkpaWGFwM2hGNEFrcGh6dkNmeVFlUGsxZHVKVVhTRU1XSDhKZTA4R0pGQzA4eG1xSTkySnlkQkRJN0dpVno5Smg5Y3JOLXJ2X2huTUIteWVsVHc2ZlZoYWRL?oc=5",
+   "pubTime": "08:47",
+   "pubTs": "2026-11-09T08:47:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "开市客面包选购指南：6款值得购买，2款建议避雷",
+   "summary": "针对开市客（Costco）烘焙区的面包产品，消费指南列出了6款值得购买的推荐产品和2款应尽量避免的单品。尽管开市客的面包广受欢迎，但部分顾客对某些产品的性价比和品质提出了质疑，例如部分曲奇饼干被认为不值其售价。",
+   "source": "The Takeout",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hNUV5dGFjU3FvVVpZTXF4TGhqdTZKdnBEWFJkcmtzQ21SNDU3SEdDbzh5WWpGbXJoVGRCb3QyWWRvaU5pYy0tMl9VcURjWlRkcjA2X1ZhSUV5S25sVE5XTkRfU05KRU9keVE?oc=5",
+   "pubTime": "08:40",
+   "pubTs": "2026-11-09T08:40:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "韩政府：朝鲜劳动党代表团访华反映朝中关系迈向战略层面",
+   "summary": "韩国统一部官员分析称，朝鲜劳动党中央书记金成男率团访华，旨在听取中共二十届五中全会结果并与中方高层沟通。韩方认为此访反映出朝中关系正迈向战略高度，将持续关注双方在各领域的交流与合作动向。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261109-9970016",
+   "pubTime": "15:14",
+   "pubTs": "2026-11-09T15:14:53+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "《环球时报》批美媒炒作黄仁勋婚外情涉中国间谍",
+   "summary": "《环球时报》发文指责美国媒体炒作英伟达CEO黄仁勋婚外情涉及“中国间谍”的虚假叙事。文章批评美媒采取“有罪推定”逻辑，认为这种捕风捉影的报道不仅损害中美关系，也将对全球产业链形成拖累。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261109-9970002",
+   "pubTime": "15:12",
+   "pubTs": "2026-11-09T15:12:03+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "彭博：日本力图避免高市在深圳APEC会议遭冷遇",
+   "summary": "日本首相高市早苗将出席在深圳举行的APEC领导人会议。日方正设法避免高市与中国国家主席习近平会面时遭到冷遇。由于高市此前曾就台湾问题发表争议言论，此次会面被视为中日关系低谷期的一次关键接触。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261109-9969812",
+   "pubTime": "14:25",
+   "pubTs": "2026-11-09T14:25:45+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "中国海警在钓鱼岛周边海域开展例行维权巡航",
+   "summary": "中国海警局通报，海警登步舰编队于11月9日在钓鱼岛及其附属岛屿领海内开展例行维权巡航。日方称四艘中国海警船一度驶入相关海域，日方巡逻船曾要求其驶离。这是中国海警依法执行的常态化维权行动。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261109-9969811",
+   "pubTime": "14:22",
+   "pubTs": "2026-11-09T14:22:47+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "厦金小三通今年客运量创通航以来年度新高",
+   "summary": "截至11月8日，厦金“小三通”客运航线今年出入境旅客量已突破182.3万人次，创下2001年通航以来的年度最高纪录。该航线承担了约九成的两岸“小三通”客流量，被誉为两岸往来的“黄金通道”。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261109-9969486",
+   "pubTime": "13:17",
+   "pubTs": "2026-11-09T13:17:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "黄仁勋婚外情影响英伟达落脚台北？蒋万安：没相关信息",
+   "summary": "针对英伟达CEO黄仁勋卷入婚外情及间谍疑云是否会影响该公司在台北北投士林科技园区的投资，台北市长蒋万安回应称目前并无相关信息。他同时对网络上针对此事的政治化言论及不实指控作出了回应。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261109-9969507",
+   "pubTime": "12:45",
+   "pubTs": "2026-11-09T12:45:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "美媒：多家获批采购英伟达晶片中企背景可疑",
+   "summary": "据《纽约时报》报道，多家获准采购英伟达H200晶片的中国企业背景可疑，涉及空壳公司或与受制裁实体有关联。其中New Matrix公司被发现办公地址空置且无公开运营迹象，引发外界对美国出口管制审查效力的质疑。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261109-9969439",
+   "pubTime": "12:29",
+   "pubTs": "2026-11-09T12:29:51+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "港股科网股走势分化美团独跌近6% 电商增长焦虑升温引关注",
+   "summary": "港股互联网板块走势分化，美团因摩根士丹利下调其评级及目标价而大幅下挫近6%。大摩指出，电商行业正进入结构性低增长阶段，预计未来几年增速将放缓，持续的竞争压力可能消耗市场预期的利润红利。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2528937",
+   "pubTime": "15:19",
+   "pubTs": "2026-11-09T15:19:59+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "AI缺电瓶颈下 马斯克重申太空算力优势 SpaceX三年发射规划曝光",
+   "summary": "马斯克在巴伦投资大会上透露，SpaceX计划与英伟达合作，于明年三季度开始发射首批太空数据中心卫星。马斯克认为，地面电力供应已成为AI发展的瓶颈，将算力扩容向太空延伸是解决电力约束的关键路径。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2528931",
+   "pubTime": "15:19",
+   "pubTs": "2026-11-09T15:19:54+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "韩国政府称与英伟达的GPU合同不受影响",
+   "summary": "尽管英伟达CEO黄仁勋因个人私事取消了部分在韩行程，包括其女儿与韩国副总理的会面，但韩国科学技术部表示，预计相关风波不会影响英伟达对韩国的GPU交付。原定的英伟达人工智能日活动仍将如期举行。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2528916",
+   "pubTime": "15:11",
+   "pubTs": "2026-11-09T15:11:23+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "基金单周净抛近4000亿！换锚首周债市交易盘止盈情绪浓厚",
+   "summary": "隔夜OMO换锚首周，债市出现剧烈仓位切换。数据显示，基金公司单周净卖出债券规模近4000亿元，其中信用债成为抛售重灾区。在收益率创新低背景下，交易盘止盈情绪浓厚，与逆市接盘的配置型机构分歧拉大。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2528837",
+   "pubTime": "15:11",
+   "pubTs": "2026-11-09T15:11:02+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "港股评级汇总：申万宏源维持香港交易所买入评级",
+   "summary": "申万宏源与光大证券近日发布研报，维持对香港交易所的“买入”或“增持”评级，主因其前三季度业绩创历史新高，且IPO募资表现强劲。此外，华泰证券下调了华虹宏力的评级，反映出机构对不同港股标的的态度分化。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2528922",
+   "pubTime": "15:04",
+   "pubTs": "2026-11-09T15:04:35+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "前10月净融资2.66万亿创新高，信用债市场扩容，利差极致收窄|2026信用债白皮书节选①",
+   "summary": "2026年前10个月，中国信用债市场发行规模达13.53万亿元，净融资额2.66万亿元创历史新高。财联社与中诚信国际将于11月13日联合发布白皮书，系统梳理信用债与城投债的运行情况及政策脉络。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2528778",
+   "pubTime": "15:00",
+   "pubTs": "2026-11-09T15:00:43+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "财联社C50风向指数调查：10月新增信贷或同比少增，社融有望同比多增",
+   "summary": "财联社“C50风向指数”调查显示，10月金融数据或呈现社融改善、信贷收缩态势，新增人民币贷款预测中值为负值。物价方面，10月CPI同比上涨0.7%，PPI上涨5.7%创年内新高，数据表现与市场预期基本契合。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2528866",
+   "pubTime": "14:41",
+   "pubTs": "2026-11-09T14:41:05+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
