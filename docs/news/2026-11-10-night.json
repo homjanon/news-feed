@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "night",
+ "editionName": "夜豆浆",
+ "date": "2026-11-10",
+ "fetched_at": "2026-11-10 22:30",
+ "translator": "gemini-3-flash(21条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "亚股受美股科技股飙升及油价下跌提振，通胀担忧仍存",
+   "summary": "受美股科技股走强及原油价格下跌提振，亚洲股市预计将迎来反弹。然而，美国10月CPI数据高于预期，再次引发市场对通胀的担忧，导致标普500指数期货走低，并可能促使美联储在未来采取更激进的加息立场。",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNXVKNll2bkFUUU5EVDg4eTF6a3YwZ0pIS0d4bGFTdkItMkl3SkFCbGRiZFdzSmlidHZZN3I1YzF1VkVXYlM0dDJrRlRPeDRGYXp6cVBuRGVjbl9vNWxrdlRYLTl4NTRxMnRFcGtuOUROekFvUUsxdTE1R3IwWmRKRVlUVFpFTlY0WXNlWTZTa1hIdmV1?oc=5",
+   "pubTime": "22:00",
+   "pubTs": "2026-11-10T22:00:47+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "人工智能巨头Anthropic拟上市，寻求1.4万亿美元估值",
+   "summary": "在人工智能热潮推动下，AI初创公司Anthropic计划进行备受瞩目的首次公开募股（IPO），寻求高达1.4万亿美元的估值。此次上市规模空前，反映了市场对生成式AI技术的极高预期，有望成为史上规模最大的科技公司上市案之一。",
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNFd6MGdLa3YwRWRsck0xaEFGNHNwYm9nSW1idFZSeWVLVzczSG5mYy1hazd3bUppeW9NNlhTM3p0Si0xZWxYd0R0QU9ReXZONmVPMHNtMTYwRG43N3FfWEJjMXltM2pGZXRJWGxiNXV5WXVndXlOQ3E4VTBTQ3gwdzhJc1l6VTh2ODJKNFMtOXRzMWJDYS05TGl0UzR2bXBkc2xB?oc=5",
+   "pubTime": "21:52",
+   "pubTs": "2026-11-10T21:52:38+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "英伟达首席执行官黄仁勋卷入间谍丑闻，或危及国家安全与经济",
+   "summary": "据媒体报道，英伟达CEO黄仁勋因涉嫌与一名疑似中国间谍发生婚外情，正面临美国国会的调查。该事件已演变为国家安全层面的担忧，考虑到英伟达在全球半导体及人工智能领域的关键地位，此事可能对美国经济及科技安全产生深远影响。",
+   "source": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc3lyMzJwdnl2WkRzbnM2UjAwT3ZSTUZDQTgzbzBiNnJnZWVaRXloREtmSl85dGhjRUZnd2lvUlpkWTFja3BoMHZwbDJIZXl0MWdkdnpwRGlwUHpkMUZ1Vzd4NnpKMWdrN29yczBZa19MSk41Y1lFZTJIT2NfSlVtQTUtMmROZFFqRm9BcFN3QVdpbEtWN29qM3hPOUVUTWI5QkdBQUdRSEhsZnM2NlJjRVZn?oc=5",
+   "pubTime": "21:37",
+   "pubTs": "2026-11-10T21:37:09+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "麦当劳今日发售宝可梦主题开心乐园餐",
+   "summary": "麦当劳于今日正式推出备受期待的宝可梦主题开心乐园餐，再次掀起“全员捕捉”热潮。消费者可以通过购买指定套餐获得限量版宝可梦周边玩具或卡牌，这一跨界联动旨在通过流行文化IP吸引广大动漫粉丝及收藏爱好者。",
+   "source": "USA Today",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ1lIMmw4aVdqZ3FJbVV3TjljaXg2YUphSVp2b19DWHBGRUd5MDhVNlY3SUphdnlJUGs2Z2g4bzJVZTV2NmRuaUdnNVp3TFBZSGlWZkw3emNJRHgtYjZXN2VneUdDTWxVc1hLNEZEUWV6SmJ4Ql9qZkthLUJ4V014bFkwc05tVmx2aUhPZzB2RVRGS1phTERSUktXNzduQVBoRU1SLXYtZm0?oc=5",
+   "pubTime": "21:36",
+   "pubTs": "2026-11-10T21:36:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "伊朗否认法国关于其策划超市冷柜网络攻击的指控",
+   "summary": "伊朗政府驳斥了法国关于其发动网络攻击破坏超市冷柜系统的指控。此前，法国方面称伊朗黑客对该国超市基础设施实施了“前所未有”的破坏，导致大量冷柜停运。该事件引发了国际社会关于物联网设备安全性和跨境网络犯罪的广泛讨论。",
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzeFI0SDNQMm9ieHFIWGNtSFV6cEliY0dwOUhXNE9NODFkSTZKUktramxLV0ZHS1BaN3RZX1pTWEtsNmZxSVlBQTNfN2I0Rlk4NTlCdnRnUElYbUE?oc=5",
+   "pubTime": "21:31",
+   "pubTs": "2026-11-10T21:31:14+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美国10月消费者价格指数上涨0.4%超预期，抗通胀形势严峻",
+   "summary": "美国劳工部数据显示，10月消费者价格指数（CPI）环比上涨0.4%，涨幅超出市场预期。尽管能源通胀有所缓解，但核心通胀依然顽固，这使得美联储在控制物价与维持经济增长之间的权衡变得更加复杂，加息压力依然存在。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sRXhidGNwejMxdTlFZnRZRzRxSWI2R2w4MzRUcnRIWmhqdUlHMmZaN0ZlaHpNbFp5RzFNQlZfU2hJOWNtVjU2ZzZybU5jYk9lOGtwUFg3dHhDTTVaeUFWdlhNTS11aHVTQV9wZ3k0S3JscjBIZnhNeFlB?oc=5",
+   "pubTime": "21:31",
+   "pubTs": "2026-11-10T21:31:08+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美国药监局要求司美格鲁肽等减肥药增加视力丧失风险警告",
+   "summary": "美国食品药品监督管理局（FDA）要求诺和泰（Ozempic）、诺和盈（Wegovy）及Zepbound等热门减肥药物更新标签，增加关于可能导致永久性视力丧失的罕见风险警告。研究指出，这些GLP-1类药物可能与非动脉炎性前部缺血性视神经病变有关。",
+   "source": "Fox Business",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTTJuRHVsemdLS193bzREcWxfMlVqYlBaTk9zZE1PS3VMWjFSdHZGYjYtTm1BbFZacW4taEMwQVFfYVh3eFo4eHFaMEVKaFljRUR3THpxdHBucjZRZVk2Nzg1aFBNUGtrbWlYYXJWSGxsM29vMEJkNGtRenM3Unp1c2xBb0NDOW0tdnlNeUV5VnRQVmNuN1h4TGtfdEQ5QWJDSUt2bTRrUTA3UTNKcGNOWllCeVp4VDV5NGZBN9IBwgFBVV95cUxNaWppQnBVN3VEc0k4Z1hLaVVjTWM3UUhJdXdMRjBNOEhDZWdUOENNZ3JEMTZvV1FzQWpJdUFQTkF4X1VJRkVYWE1lU3ZWZS1zMGFxYUFBZVlCdjNjQk5yQXRKYk55WjNiUWRpMGI4MldRSzdwUWlSRjY4Z1pMNFVjdlVid3lDSlpteU9TU1VuNFlMU051cUpLVThCWS1tLWkxWVZHNEFuc25GSldZM2xrNHlMbjlIcnhabHFQbVZkb3M0QQ?oc=5",
+   "pubTime": "21:10",
+   "pubTs": "2026-11-10T21:10:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "特朗普称美伊战争出现结束势头",
+   "summary": "美国总统特朗普在与卡塔尔首相会晤后表示，美伊战争出现结束的积极势头，淡化了进一步军事打击的可能性。尽管胡塞武装袭击了沙特利雅得，但特朗普称盟友倾向维持现状，不过美军仍保留未来行动的可能。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261110-9977257",
+   "pubTime": "22:16",
+   "pubTs": "2026-11-10T22:16:05+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "特朗普：FBI在调查黄仁勋婚外情间谍疑云",
+   "summary": "美国总统特朗普透露，联邦调查局正调查英伟达首席执行官黄仁勋与疑似中国女情报员的婚外情事件。国会两党要求评估其对国家安全的威胁。特朗普表示曾与黄仁勋通话，对方称对女方间谍身份毫不知情。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261110-9977129",
+   "pubTime": "21:56",
+   "pubTs": "2026-11-10T21:56:31+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "日执政联盟热议部署美核动力潜艇 分析：“无核三原则”将成“无核2.5原则”",
+   "summary": "日本自民党与日本维新会讨论修订国家安全保障战略，提议放宽“无核三原则”。鉴于周边核威慑形势严峻，执政联盟考虑在例外情况下允许搭载核巡航导弹的美国核动力潜艇入驻，此举引发外界对政策转向的关注。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261110-9976727",
+   "pubTime": "21:42",
+   "pubTs": "2026-11-10T21:42:36+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "俄乌时隔九个月首次会谈 美吁建立新安全框架",
+   "summary": "在美国斡旋下，俄罗斯与乌克兰代表在阿联酋阿布扎比展开新一轮会谈，这是双方自今年2月以来的首次会晤。美国总统特使及库什纳出席，呼吁建立新的欧洲安全架构以缩小分歧，实现长期和平。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261110-9977106",
+   "pubTime": "21:27",
+   "pubTs": "2026-11-10T21:27:46+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "美国欧洲：将共同努力建立战后欧洲安全框架",
+   "summary": "美国与欧洲多国代表在阿布扎比会晤后发表联合声明，强调共同致力于建立强有力的战后欧洲安全架构，并重申必须尊重乌克兰的领土完整。各方一致认为，建立风险管理机制以避免局势升级至关重要。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261110-9977138",
+   "pubTime": "21:05",
+   "pubTs": "2026-11-10T21:05:05+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "法国就超市冰箱遭黑客攻击事件召见伊朗大使",
+   "summary": "法国政府正式召见伊朗驻法大使，指控伊朗伊斯兰革命卫队对法国数百家超市发动网络攻击，导致制冷系统瘫痪。法国外长巴罗警告称，巴黎方面正推动欧盟实施制裁，以回应此次规模空前的袭击。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261110-9976917",
+   "pubTime": "20:14",
+   "pubTs": "2026-11-10T20:14:59+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "民调：大多数美国人希望新一届国会结束美伊战争",
+   "summary": "路透社与益普索的最新民调显示，约71%的美国受访者希望新一届国会能采取行动，推动结束今年2月爆发的美伊战争。此外，多数民众还希望废除特朗普实施的关税政策，以缓解生活成本压力。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261110-9976869",
+   "pubTime": "19:59",
+   "pubTs": "2026-11-10T19:59:16+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "美国10月CPI通胀再度超预期 市场押注美联储12月加息已成定局",
+   "summary": "美国10月CPI环比上涨0.4%，核心CPI环比上涨0.3%，均高于市场预期。受食品、住房及服务价格上涨推动，通胀压力依然顽固。数据公布后，市场普遍预计美联储在12月加息已成定局。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2530730",
+   "pubTime": "22:29",
+   "pubTs": "2026-11-10T22:29:01+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "分析师警告：黄仁勋若卸任CEO，英伟达估值或缩水近30%",
+   "summary": "资深科技分析师丹·艾夫斯警告称，若英伟达首席执行官黄仁勋因近期婚外情争议被迫离职，公司估值可能缩水25%至30%。目前英伟达董事会已启动独立调查，该事件或将显著改变全球AI芯片市场的竞争格局。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2530729",
+   "pubTime": "22:25",
+   "pubTs": "2026-11-10T22:25:27+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "离婚后，前妻还要分走2371.87万股？索通发展控制权面临变数",
+   "summary": "索通发展控股股东郎光辉陷入离婚后财产纠纷案，其前妻王萍诉请追加分得公司股份2371.87万股，并索赔约3.93亿元。若诉求获法院支持，郎光辉的持股比例将进一步下降，公司控制权可能面临变数。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2530710",
+   "pubTime": "22:06",
+   "pubTs": "2026-11-10T22:06:35+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "进博会医疗观察：“中国创新”站上C位，一批“更好用”的硬科技加速落地",
+   "summary": "在今年进博会上，默克中国总裁罗杰仁回顾了公司与中国长达百年的渊源，强调中国创新正成为全球焦点。多家跨国医疗企业表示，看好中国市场潜力，正加速推动一批硬科技医疗产品在华落地应用。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2530709",
+   "pubTime": "22:05",
+   "pubTs": "2026-11-10T22:05:21+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "填补行业空白！医疗险示范条款和商保药品推荐清单出炉 首批涵盖58款药械 后续还将适时优化",
+   "summary": "中国保险行业协会发布医疗险示范条款及首版商保药品推荐清单，填补了行业空白。首批清单涵盖58款药械，其中医保目录外自费药占比近六成。新规还首次将调解介入争议处理写入条款，旨在提升保障透明度。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2530711",
+   "pubTime": "22:03",
+   "pubTs": "2026-11-10T22:03:48+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "美国10月CPI数据超预期 三大股指期货集体转跌 | 今夜看点",
+   "summary": "受美国10月CPI及核心CPI涨幅双双超出预期影响，美股三大股指期货盘前集体转跌，纳指期货跌幅超1%。通胀数据的顽固表现强化了市场对美联储12月加息的预期，交易员押注加息概率维持在100%。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2530700",
+   "pubTime": "21:58",
+   "pubTs": "2026-11-10T21:58:43+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "破晓“最初一公里”，陆家嘴金融沙龙第四十二期将聚焦科技如何重写债券一级市场",
+   "summary": "陆家嘴金融沙龙第四十二期将于11月13日在上海举行，主题聚焦科技对债券一级市场的重构。活动邀请多位行业专家，共同探讨如何通过数字化手段提升发行定价效率、识别产业债风险，破解一级市场信息不对称难题。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2530335",
+   "pubTime": "21:36",
+   "pubTs": "2026-11-10T21:36:01+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
