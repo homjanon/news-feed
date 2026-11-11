@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "night",
+ "editionName": "夜豆浆",
+ "date": "2026-11-11",
+ "fetched_at": "2026-11-11 22:30",
+ "translator": "gemini-3-flash(21条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "感恩节派价格飙升：平民甜点卖出150美元高价",
+   "summary": "随着感恩节临近，美国传统甜点派的价格大幅上涨，部分高端产品售价甚至高达150美元。这一现象反映出原材料成本上升及节日消费高端化的趋势，使得原本平价的节日主食变成了昂贵的奢侈消费。",
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ3BvT2FlQUNYaTNNbkdkZzMtYzFNT0FKMUlwZVhadk5ySUU4RllsdFNjWENIWld3R3REVEMxUnZhZ3VfZVVpZk00N3VuWXNmVnE3WnBlTHJMYXk2UTBwV0RUSUxfR3RSUmJfRDJCV0J3Y05CWjlqVWstVEFSdnc3Z0gteUh0MDhVRWhHQzRhaVJmU3c?oc=5",
+   "pubTime": "22:03",
+   "pubTs": "2026-11-11T22:03:47+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "2026年退伍军人节多家餐厅提供免费餐食，部分优惠活动持续至11月11日后",
+   "summary": "2026年退伍军人节期间，美国多家知名连锁餐厅和企业为退伍军人及现役军人提供免费餐食、赠品和折扣优惠。值得注意的是，部分商家的促销活动并不仅限于11月11日当天，而是会延长数日以示敬意。",
+   "source": "Fox News",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS1JicjRXOUpoODA2eGtST2hFd3gzY2lRX2MwdXBvWmZYXzVjWTdKQUlvVmdBVTNoRmVWdmpSN0tPYjczMFZqRnhmOE5wZmxtQV9RUm95dVZtVE01WkNvcWZhVjdJLUdKUkZ2OEdVbDBRak94aWdXVHNaTFN2eFBwWUNRTWNhUzNGMXRiTlJtelh4Y2NLdElUZk1UM0tSNUh3bFhteDdLYVd6emttUlpYQ2tkUVhkNnBO0gG-AUFVX3lxTE1kbTY1ZXotT1ZHMlZ5T202M0VPeS1NVzJocFBpZkxjOXFJX1lMTi1fbzQyckpVUUlNWUE2dzZ6SWY2OEt0SUJRZGlQQ1RYMkh4Rm5MZll4aXIxbGo4cjI3SDVjSDFGNDZtS05vQVZvZkVMRUtoMVNCVHp2WG8yR0VVQnRFQzh6OEhHekVuTTFlWHlwZXpDbUFQdHhGdE9KQ2RXWlcwdmZJRXlxeFJVYU9GSmx2SEFWQkhTMkc3bkE?oc=5",
+   "pubTime": "21:58",
+   "pubTs": "2026-11-11T21:58:25+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "CoreWeave业绩超预期带动全球科技股反弹，纳斯达克指数期货走高",
+   "summary": "受云服务提供商CoreWeave强劲财报表现的推动，纳斯达克指数期货出现跳涨，并引发全球科技股集体反弹。市场对人工智能基础设施需求的乐观预期，抵消了此前部分科技巨头业绩波动带来的负面情绪。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tNUpWaERRaEpZWXFmM0tBRnFQQlBPVzlJUm9ldF9teW53ZjY0WHZ5X1FBdXZRWk1UR0dWRlZXX19VTDAyT2N5QVA4RzlST1FFcFpBUEVMek5OTVN1Vzk3eUNra1puWVlyVk9SMVVXX01YWm1BbUVZ?oc=5",
+   "pubTime": "21:44",
+   "pubTs": "2026-11-11T21:44:06+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "人工智能巨头Anthropic超大规模IPO获数倍超额认购",
+   "summary": "据知情人士透露，人工智能初创公司Anthropic的超大规模首次公开募股（IPO）获得了投资者的热烈追捧，认购额已达发行规模的数倍。此次IPO不仅凸显了AI领域的吸金能力，也可能让公司创始人身价大幅飙升。",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMGtLeG5WQUVLcHhzM3Y1YUFGamt6TFVZYzZJc1JaSEpNNHcwaTJqaGxXdjF5bm9MWnVrWmNadTlyLUZ1cjVCSmVUeUhsOEZLWnBRbnN6X0tqYmRfdGMzakdrWmdOeGNHR01kc0dlTm9tQ0hLLS1lQWt4ZWYyMllYNG9TYWFVTnpPUzFwYlE4ODBRNkVmZ0FRc2kwWGRISHAyQ2l6VlRXMDZLRGhGUmVSMHE2OGZKUQ?oc=5",
+   "pubTime": "21:17",
+   "pubTs": "2026-11-11T21:17:14+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "英伟达遭分析师下调评级：黄仁勋个人风波及供应风险引发担忧",
+   "summary": "贝雅等机构分析师罕见下调了英伟达的股票评级，理由是首席执行官黄仁勋面临的个人不确定性以及潜在的供应链问题。分析师将此比作“伊卡洛斯的兴衰”，警告投资者需警惕公司在高速增长中潜藏的风险。",
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUFJBOGQzQXE2NFkxd21JeE9YUml1MHdrVUo3c2wxRVhYal9YU1NPUllYR3Q0QUdMSG5iRFRGb3l4SE1iT2NWc2tLcXpUZktPMUs2SUdPSmRwWjR0ZVM4STdtNjNGbzhDX3FGNE9QYjR5M2o3NjdNTmRvNEo3S283Wk15Vk4zVnBQSlM3X09VR3lXb1RRN09GUkRCVTFnc1UzNXg5VlhqazV2WXhFdnNzSzJSaGc2cmRXYmtuRnhJYjB1QVY1RjhNTnlTRWd0ODItRjBHSjE1LWt4WWlxMHpTTzhBRQ?oc=5",
+   "pubTime": "21:12",
+   "pubTs": "2026-11-11T21:12:04+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美国商务部收到关于英伟达CEO婚外情涉及国家安全的警告",
+   "summary": "据Axios报道，美国商务部收到警告称，英伟达首席执行官黄仁勋的婚外情可能涉及国家安全风险。此外，有关英伟达与中国市场复杂关系的担忧也再次浮出水面，这使得这位科技巨头在台湾及全球的声誉面临严峻考验。",
+   "source": "Axios",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NTWlEVTREeTZ0V3J5d1VBblV3Q1JiV0tqTWJUSGVJQ2MxSElWWHpVVG9lTkxKR3ctY2RDVHJUaTdWak1oS2lGSGhPbUJ6MU9CZ2xJdGY1Ui0zQy1uaFliV3c1MXprY3RDejF2eXp2WWc2WWJRSTZiOEljZw?oc=5",
+   "pubTime": "19:47",
+   "pubTs": "2026-11-11T19:47:35+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美债期货下跌难掩市场焦虑，美联储加息预期再度升温",
+   "summary": "随着通胀数据引发抛售潮，美国国债期货持续走低，借贷成本创下新高。市场对美联储进一步加息的预期不断增强，加之特朗普关税政策带来的潜在通胀压力，使得债市在假期休市后依然面临巨大的下行压力。",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa2hXVmxBejZuMktqMDMzbUNTcDA3ajBFdlE0MlpZc3AyU0ZPeHl0ZjJ3b3BhT2REdlRDVmRYWS05aFVhemtkZmVacFBnWFNXQlg5QjlmREo0VEdHRFFyTXNYR1FqV1VKUlhtVlNsT1ppUDRVQ0FVUTdGTW9FTXdVWWRVN0ZZMXpMNFo1dFBtMzJ4SzNRWHJkWnBlaGZId0x6dXJXSmU0ZW5tczhnc2pUM2Rn?oc=5",
+   "pubTime": "19:42",
+   "pubTs": "2026-11-11T19:42:53+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "风暴“查尔斯”来袭 葡萄牙200多趟航班取消",
+   "summary": "随着风暴“查尔斯”来袭，葡萄牙取消200多趟航班并关闭学校及商业场所。尽管风暴强度有所减弱，但政府吸取以往教训提前采取预防措施，令应急部门进入戒备状态。目前当局已记录数百起相关事件，并持续关注山洪风险。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261111-9983536",
+   "pubTime": "22:23",
+   "pubTs": "2026-11-11T22:23:15+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "黄仁勋陷间谍疑云 美两党鹰派推动收紧对华晶片出口",
+   "summary": "英伟达首席执行官黄仁勋卷入涉华间谍疑云，引发美国国家安全担忧。美参众两院鹰派议员借此推动收紧对华芯片出口限制，呼吁通过多项法案以加强AI芯片监管及打击走私。此外，黄仁勋已被要求于11月18日出席闭门汇报会。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261111-9982346",
+   "pubTime": "22:11",
+   "pubTs": "2026-11-11T22:11:49+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "美伊战争预计给波斯湾国家造成超过2000亿美元损失",
+   "summary": "安联贸易报告指出，美伊战争预计给波斯湾国家造成逾2000亿美元损失，到2030年经济损失总额或接近该数值的三倍。战争导致霍尔木兹海峡周边大量能源设施受损，并严重冲击旅游业和房地产业，将导致海合会成员国未来数年增长放缓。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261111-9983410",
+   "pubTime": "21:59",
+   "pubTs": "2026-11-11T21:59:45+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "【真假之外】间谍疑云加桃色纠葛：黄仁勋风波中的网络信息越拼越复杂？",
+   "summary": "英伟达首席执行官黄仁勋承认婚外情后，绯闻女主角黄乐成为网民起底对象。目前可确认其为中国籍湖南人，持有香港永久居民身份，职场履历始于2015年。该风波在间谍疑云与桃色纠葛交织下，引发了关于事实真相与话语权争夺的广泛讨论。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261111-9982627",
+   "pubTime": "21:58",
+   "pubTs": "2026-11-11T21:58:47+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "Meta未遵守巴西法院命令遭罚 无证据显示蓄意干预选举",
+   "summary": "巴西最高选举法院对Meta处以750万雷亚尔罚款，理由是其在总统大选期间未完全遵守法院关于内容处理的命令。尽管卢拉阵营指控平台存在虚假账号及AI内容识别不当等问题，但法院表示目前尚无证据显示Meta存在蓄意干预选举结果的行为。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261111-9983203",
+   "pubTime": "21:12",
+   "pubTs": "2026-11-11T21:12:19+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "伊朗：不会让一点浓缩铀运出境",
+   "summary": "伊朗最高国家安全委员会表示，伊朗不会将任何浓缩铀运出境外，相关资源将留存国内用于研发核动力船舶。伊方强调目前未与美国进行谈判，并警告若遭美方袭击将打击其军事基地作为回击。此前伊方已通过卡塔尔提交了附带七项前提条件的提案。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261111-9983115",
+   "pubTime": "20:59",
+   "pubTs": "2026-11-11T20:59:36+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "英国意大利等欧洲国家 数百所学校收到恶作剧威胁邮件",
+   "summary": "英国、意大利及爱尔兰等多国数百所学校近日收到恐吓邮件。经各国警方评估，这些邮件均被视为来自境外的恶作剧，威胁并不真实，因此无需进行疏散。当局指出近期此类虚假炸弹威胁事件有所增加，呼吁公众保持警惕并及时联系警方。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261111-9983044",
+   "pubTime": "20:36",
+   "pubTs": "2026-11-11T20:36:40+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "流量博弈下的银行理财大促：热闹营销难改收益定价约束",
+   "summary": "随着“双十一”促销开启，银行及理财子公司纷纷推出理财专场活动。与传统消费品降价逻辑不同，此类大促更多侧重于产品曝光与客户运营，而非实质性提升收益。目前多家机构已上线不同风险等级的推介产品，旨在借流量窗口吸引投资者。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2531674",
+   "pubTime": "21:50",
+   "pubTs": "2026-11-11T21:50:29+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "131年老字号终别A股：萃华珠宝明日迎最后交易日，股价只剩0.23元",
+   "summary": "拥有131年历史的中华老字号萃华珠宝因未能按期披露2025年年报，被深交所终止上市。公司股票将于2026年11月12日迎来最后一个交易日，目前股价仅剩0.23元。摘牌后，这家百年金店将正式告别A股市场，结束其资本市场历程。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2531929",
+   "pubTime": "21:39",
+   "pubTs": "2026-11-11T21:39:04+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "CoreWeave业绩超预期提振AI板块 纳指期货涨约2% | 今夜看点",
+   "summary": "受“新云”龙头CoreWeave三季度营收超预期及上调业绩指引提振，美股三大期指集体上涨，纳指期货涨约2%。该业绩表现缓解了市场对AI基础设施过度投资的担忧，带动相关板块走高。同时，欧洲主要股指多数上涨，投资者对欧股支撑力度依然较强。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2531921",
+   "pubTime": "21:31",
+   "pubTs": "2026-11-11T21:31:33+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "港股公告精选｜洛阳钼业获18亿元贷款承诺可用于回购 中远海发订立逾130亿元造船合同",
+   "summary": "今日港股重要公告显示，中远海发订立了总价约134.25亿元的16艘VLCC造船及租赁合同；洛阳钼业获得最高18亿元贷款承诺用于股份回购。此外，融信中国前10月销售额同比下降约35%，而亿都国际控股预计中期净利润将实现大幅增长。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2531878",
+   "pubTime": "21:10",
+   "pubTs": "2026-11-11T21:10:08+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "瞄准全球央行黄金储备！新加坡推出托管服务 欲打造国际贵金属交易枢纽",
+   "summary": "新加坡金融管理局宣布将推出面向全球央行及主权实体的黄金托管服务，利用容量达500公吨的国家级金库提升其国际贵金属交易枢纽地位。此举旨在满足各国央行日益增长的储备资产配置需求，目前已有部分机构表达了合作兴趣。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2531911",
+   "pubTime": "21:10",
+   "pubTs": "2026-11-11T21:10:05+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "中国船舶子公司签下超172亿元VLCC大单 预计于2029年至2030年交付",
+   "summary": "中国船舶全资子公司大连造船联合中船贸易，与中远海能及中远海发下属公司签署了20艘30.7万吨级超大型油轮（VLCC）建造合同，总金额约172.18亿元。该批船舶预计将于2029年至2030年间交付，反映出当前油运市场的持续走强。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2531881",
+   "pubTime": "21:03",
+   "pubTs": "2026-11-11T21:03:30+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "港股风向标｜恒指缩量场内交投情绪转淡 科技板块内部分歧轮动",
+   "summary": "今日港股走势疲软，恒生指数收跌0.98%，场内交投情绪转淡。科网股集体承压，美团、腾讯等权重股纷纷下挫，银行及消费板块也表现弱势。相比之下，AI硬件产业链及半导体板块逆势活跃，市场呈现出明显的板块分歧与轮动特征。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2531874",
+   "pubTime": "20:57",
+   "pubTs": "2026-11-11T20:57:26+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
