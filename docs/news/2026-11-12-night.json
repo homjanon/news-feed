@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "night",
+ "editionName": "夜豆浆",
+ "date": "2026-11-12",
+ "fetched_at": "2026-11-12 22:30",
+ "translator": "gemini-3-flash(21条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "英伟达首席执行官黄仁勋辞职，首席财务官克雷斯出任临时CEO",
+   "summary": "英伟达宣布重大领导层变动，创始人黄仁勋已辞去首席执行官职务，由首席财务官科莱特·克雷斯接任临时CEO。此次变动正值公司面临挑战之际，市场正密切关注这一突发人事调整及其对公司未来发展的后续影响。",
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVHFEUUxwdVhBcllKSHlTWTVtdEtxaFdEY2ZXb01lZThoVGhkWHh5WEFLbGhPV2k0WWM5Uk1aajlaUzFyeGxzek9KaEVoS2lCU1hMcm03TXdnNjE5Tk5aR2R1dFUzNjQtVE8tVGxhYlhZZWx6TEtSeWpRYTY4bVZONmY3ZkZScHoyRkJnMjlWYnBLdmlNc0p6Rm5CcW85Qm9zRTUwZmVIVnRNcnJkRE9veWoxalk3TFduRlltZ05IaFh0b1hxMjQ4anRGWVlkeUlkWDItT3NR?oc=5",
+   "pubTime": "22:03",
+   "pubTs": "2026-11-12T22:03:41+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "Megaspeed空置办公室引发与英伟达及中国关联的质疑",
+   "summary": "卷入英伟达丑闻的Megaspeed公司因其空置的办公室引发外界对其与英伟达及中国关系的质疑。调查显示，该公司与一名澳大利亚报刊代销店员工有关联，且其新加坡注册地址实际为一家室内设计公司。",
+   "source": "CBS News",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52LU1peGdldFJnVUVCNEFTeVVMMUN5c1hqWTBWX29VSU5TOTROUXoxSUNydjdrT3hJSUx1dzhNb0pGVW5QZHNvX3lISmU2dWFuekpVdGFmMmRXWWtSdnNzbnZmVy1FNHEw?oc=5",
+   "pubTime": "21:51",
+   "pubTs": "2026-11-12T21:51:10+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "Ondas发布2026财年第三季度财报，营收创纪录并上调全年预期",
+   "summary": "Ondas公布2026财年第三季度营收达1.675亿美元，创下历史新高。得益于强劲的预订量和积压订单增长，公司决定上调全年业绩预期。这一表现反映了公司在相关业务领域的稳健增长势头。",
+   "source": "Ondas inc.",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaHhzaEhJQ2JxWGE1bTlBeFMxVXVWZmZON2d6QXNOLUlQR1pmcXNkVGRjdjF3Q1UySjFFZFBFR2M3alpUNTJkcnhVdU13c2U3Smo1b0dSN0ppNFJPVWhVVllfMk04cmRNNjZkOHN6V3JCdWxORnk2b19DUFRkYzdoaHVBV1B2cXFQS2Y4a3JaczdoMjl4cENuY1JnMXdnUmpnVDFv?oc=5",
+   "pubTime": "21:01",
+   "pubTs": "2026-11-12T21:01:01+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "黄仁勋因丑闻辞职重创英伟达，美股指期货下跌且油价上涨",
+   "summary": "受黄仁勋因丑闻辞去英伟达首席执行官职务的影响，英伟达股价重挫并拖累美股指期货走低。与此同时，国际油价因伊朗冲突缓解的预期而波动。投资者正密切关注英伟达领导层更迭对科技板块的冲击。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00cTdQYjhOUVlzVEZnQndNN1NKNzBJSjIta1lDWVlVXzhDcXkwWWpVRnE3c1VMTVF2bkZ5WnhHU2NSd2ZRZlI4RVRjREJvbG9xWDZJRF9QMG1MNE40ZGdESkpmZXhsOUhCTUcyZGZiOGhfTjdiSUk4?oc=5",
+   "pubTime": "20:56",
+   "pubTs": "2026-11-12T20:56:21+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "Nebius季度营收及利润超预期，但AI云板块再度遭遇抛售",
+   "summary": "Nebius公布的最新财报显示，其季度利润和营收均超过分析师预期。然而，尽管业绩表现出色，以“Neoclouds”为代表的AI云服务板块股票却再次遭遇市场抛售，反映出投资者对该领域的谨慎态度。",
+   "source": "Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdThPYXEzTWRUR3RubFZ0enJHV1FtamVjS2p3OUpKMXAxOG5sZzBaeFJnUXZ0SXNGVU9uSWV4RnY5eV9kV3NWMXZjZmRQSUpLRGZCdURkNXN5UGZadE9fNWk0bmJrMXNxZjhNV2h1Z1JNQ3RLdHU1RFAzV1l0cVV0YTBjX3pPc2hOU0tBOA?oc=5",
+   "pubTime": "20:54",
+   "pubTs": "2026-11-12T20:54:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "盘前异动股：英伟达因领导层危机重挫，AMD及Corteva受关注",
+   "summary": "英伟达因黄仁勋的个人丑闻及辞职危机在盘前大幅波动，拖累半导体板块。英伟达董事会此前已就黄仁勋的去留进行讨论。此外，AMD和Corteva等公司股票也在盘前交易中出现显著走势，反映出市场情绪的震荡。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSnRjVVEyQTc5NnhZY0wwMEZ2dk9kOHVPVzVOWDBXbVR6bW1WYVVuUUpsRzlPRzJCdTBWa3FoSUo1d3ZaMy1EamVyV3NDQktCN3FTMHRlMjNBalVhaUdXdHpjQ3JhSWJxVndhNVdIVDk5NnNJZmZlVGM5UjlUUjVTeE85ekw?oc=5",
+   "pubTime": "20:50",
+   "pubTs": "2026-11-12T20:50:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "单身人士寻爱指南：警惕社交中的“过度分享”行为",
+   "summary": "针对单身人士的情感建议提醒，在寻找真爱时应避免“过度分享”行为。这种行为通常指在关系初期过快地透露过多个人信息，可能会对潜在的感情发展产生负面影响。专家建议在交往中保持适当节奏，以建立更稳固的关系。",
+   "source": "USA Today",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdldNWUp0ckdWbnBLTHZpemtPeFlPblJmUkFmR091N1UzSERQaEJDQktuUHRTeGF1Ymk4YmZyRzFfbDVTak1iM2ZVcDhEVjIwSnZkaFZSaUFZRkVFNnB4R0FlZXo3ZG9sR3dSclA0SXpTRVpva2tfYWtmQkYwdFNveFAtSkNQREV0Q3BPbGZhakJjN2JJZGJQMUFwNExxbFpkcm5zeEtSMEFfdkc3R280cmJGZlNYX0U?oc=5",
+   "pubTime": "20:02",
+   "pubTs": "2026-11-12T20:02:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "特朗普：无需与伊朗达成协议 万斯应专注国内腐败问题",
+   "summary": "特朗普在社交媒体发文称，希望副总统万斯将精力集中于调查民主党执政城市的犯罪与腐败问题，而非寻求与伊朗达成协议。他认为此举能更有效地平衡预算，并强调美国已掌控伊朗资金和海峡，无需再与其达成协议。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261112-9989412",
+   "pubTime": "22:10",
+   "pubTs": "2026-11-12T22:10:28+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "卷入婚外情风波多日 黄仁勋宣布辞职",
+   "summary": "英伟达创始人黄仁勋在卷入婚外情风波后宣布辞职，结束了其长达33年的首席执行官生涯。董事会已任命现任首席财务官克雷斯担任临时首席执行官。黄仁勋曾带领公司成为全球AI基础设施核心及市值最高的公司之一。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261112-9989494",
+   "pubTime": "22:01",
+   "pubTs": "2026-11-12T22:01:42+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "普京建议在顿涅茨克地区一城市实施人道援助行动",
+   "summary": "俄罗斯总统普京在会见美国总统特使威特科夫时建议，由俄乌双方人权专员在顿涅茨克地区的康斯坦丁诺夫卡市组织人道主义援助行动，协助当地约400至500名平民撤离。该市目前处于俄方控制之下。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261112-9989370",
+   "pubTime": "21:47",
+   "pubTs": "2026-11-12T21:47:31+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "西班牙大规模罢工后 议会通过一揽子住房措施缓解危机",
+   "summary": "在西班牙爆发超过400万人的全国大罢工后，众议院通过了一揽子住房措施以缓解危机。新规包括将弱势租户驱逐保护期延长至2030年、限制年度租金涨幅至2027年底，并为降低租金的房东提供税务优惠。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261112-9989279",
+   "pubTime": "21:32",
+   "pubTs": "2026-11-12T21:32:22+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "澳洲工会与专家批大型企业 借AI之名削减成本",
+   "summary": "澳大利亚工会与专家指责大型企业存在“AI洗白”行为，即借人工智能转型之名进行裁员并将业务外包至海外以削减成本。昆达士航空近期裁减850个岗位并外包职能的做法引发争议，加重了政府的就业压力。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261112-9989167",
+   "pubTime": "21:12",
+   "pubTs": "2026-11-12T21:12:40+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "特朗普威胁：若墨西哥不阻移民 美国将加倍征收关税",
+   "summary": "美国总统特朗普威胁称，若墨西哥不立即阻止逾千名移民徒步北上前往美国，美国将立即对其加倍征收关税。他强调这些移民绝不会获准入境，并已就此向得州州长及边境执法部门发出警告，表示绝不手下留情。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261112-9989076",
+   "pubTime": "20:51",
+   "pubTs": "2026-11-12T20:51:22+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "俄副外长：需建立某种机制 避免局势失控升级",
+   "summary": "俄罗斯副外长里亚布科夫表示，俄美乌三方在阿布扎比的会谈表明，建立某种功能性机制以避免局势失控是可能的。会谈重点关注在欧洲及冲突地区建立安全架构，旨在将目前的紧张趋势转变为可持续的共存状态。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261112-9989037",
+   "pubTime": "20:38",
+   "pubTs": "2026-11-12T20:38:49+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "泽连斯基称星盾卫星通信再度受限 美方特使抵莫斯科与普京会谈",
+   "summary": "乌克兰总统泽连斯基表示，军方正调查SpaceX星盾卫星通信系统在前线及占领区出现的严重运行中断和系统性限速问题。与此同时，美国总统特使威特科夫与库什纳已抵达莫斯科，并与俄罗斯总统普京展开会谈。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2533096",
+   "pubTime": "21:18",
+   "pubTs": "2026-11-12T21:18:57+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "特朗普：美国不需要与伊朗达成协议",
+   "summary": "美国总统特朗普明确表示，美国已无需与伊朗达成任何协议，称此类需求已成过去。他声称美国目前掌握着伊朗数千亿美元的资金，并控制着霍尔木兹海峡，展现出在对伊关系上的强硬立场。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2533081",
+   "pubTime": "21:09",
+   "pubTs": "2026-11-12T21:09:11+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "Q3净利同比增近90% 5000亿存储芯片概念股发布三季报|盘后公告集锦",
+   "summary": "中芯国际发布三季报，第三季度实现营收219.83亿元，同比增长28.1%；净利润28.47亿元，同比增长87.6%，但环比下降8.35%。业绩增长主因是晶圆销量增加及产能利用率上升，公司预计四季度收入将持续增长。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2533071",
+   "pubTime": "21:02",
+   "pubTs": "2026-11-12T21:02:12+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "港股公告精选｜新秀丽前三季盈利同比下滑两成 中国金茂前10月销售额超950亿元",
+   "summary": "港股多家公司发布公告：中芯国际三季度净利润同比大增123.4%；新秀丽前九个月净利润同比减少22.3%至1.49亿美元；中国金茂前10个月累计签约销售额逾951亿元，同比增长2.6%，但10月单月销售额有所下滑。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2533065",
+   "pubTime": "20:59",
+   "pubTs": "2026-11-12T20:59:16+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "美元触及19个月新高 美联储加息预期持续升温",
+   "summary": "受强劲通胀数据及美联储官员鹰派言论影响，美元指数一度触及19个月新高。美联储理事沃勒表示，若核心CPI持续高企，下月可能考虑加息50个基点。市场对加息预期的升温推动了美国短期国债收益率大幅攀升。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2533064",
+   "pubTime": "20:53",
+   "pubTs": "2026-11-12T20:53:48+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "腾讯“裁员50%”是谣言 但AI时代的用工逻辑真的在变",
+   "summary": "针对腾讯“裁员50%”的传闻，知情人士回应称该说法完全不属实。腾讯管理层在内部直播中表示，所谓“50%的人”是指鼓励员工像海军一样拥抱AI浪潮、探索新战场。公司正进行面向AI时代的主动组织变革。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2533049",
+   "pubTime": "20:44",
+   "pubTs": "2026-11-12T20:44:00+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "全球投资者共话中国资产长期价值：配置窗口期已经打开，深化互联互通成共识",
+   "summary": "在上海举行的上交所国际投资者大会上，与会嘉宾认为中国资产在全球配置中的战略地位日益凸显，配置窗口期已打开。专家指出，A股科技板块权重不断增长，深化互联互通及丰富投资工具是把握未来机遇的关键。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2533051",
+   "pubTime": "20:39",
+   "pubTs": "2026-11-12T20:39:05+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
