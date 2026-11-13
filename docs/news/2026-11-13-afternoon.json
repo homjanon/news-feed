@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "afternoon",
+ "editionName": "下午茶",
+ "date": "2026-11-13",
+ "fetched_at": "2026-11-13 15:20",
+ "translator": "gemini-3-flash(21条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "英伟达危机拖累市场，美股指期货小幅走低",
+   "summary": "受英伟达首席执行官黄仁勋个人丑闻及公司动荡影响，美股市场出现下滑，股指期货在盘后交易中继续走低。投资者正密切关注英伟达危机对芯片行业复苏的冲击，以及美元汇率在市场波动中的表现。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DUGhtX3RkQk1tTVc3WFZQOGhSalVKd2RzNks0R1dHRlFMSUd1bUhOeVVmNTQxS09JQjhaaTBQVWVnY3RBblNRRlc3a21TVEJJUnZmVm9pYmJMSVNWazl5bU9lZkdyOVpSSXhoSUlfeEx1ZUdvakVR0gF8QVVfeXFMUEZVRDFwUjNBQ01QTjdQX0h5WXU5R3BqdDZwVFJiNU9obl9qYk1lWC1XTWUxbDhFaGR4V2x0cERQdDAyNFlJQk1fNXBqdFItb3FaTDdyV2R6WklkbExBZHNnQ3k1WFR4X0FaeGpRM09SZHprem0zajZXbEx6Vg?oc=5",
+   "pubTime": "14:31",
+   "pubTs": "2026-11-13T14:31:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "微软全球服务大范围瘫痪，Outlook及Teams等应用受阻",
+   "summary": "微软遭遇全球性技术故障，导致数百万用户无法访问Outlook邮件、Teams协作工具及365系列应用。微软目前正紧急尝试多种修复方案，以解决此次波及范围极广的服务中断问题，目前部分应用仍处于离线状态。",
+   "source": "ABC7 Los Angeles",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcHViWEtYaGk5Uy1kTHhvMllyWWJPUWV4ak1LSFIySjNvYlBVbzNmRjZiZlFSNXN0Vmt3b1FrcEJUTjRZRVNYc1Zab2hrbXhFWjBaandFWFdjNUFBWkJHRHlDMlpDREVYemlEa2FGRUNUcGw4RGxXcUE5QXQyaVhpVHItWDk5dEtTbFBfYk41QzdqNkVIemQ1Z01ndVVzazFPU3VVa1pmLWZndnlHUlFPQmgzWWY?oc=5",
+   "pubTime": "13:58",
+   "pubTs": "2026-11-13T13:58:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美联储调整政策安排，2027年10月会议将不讨论利率",
+   "summary": "美联储在最新公布的2027年会议日程中宣布了一项政策变动，确认其2027年10月的会议将不会进行利率投票。这一决定打破了常规，引发了市场对美联储长期政策导向和会议机制调整的广泛关注。",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkZiVk1uU2k5a1RQRGUxdFBJMEcxSVhtWEJfR0s3Q3E3T185OXRrZHRZMDVsQlhTdVpIbVlfQnNPem4zbGlTMDR6elFDRlM3RzhETUhCVzlTTDJvWmtfQzctcUFhRXZsVmxpVjBQUXpXTkRUTThQNVJwQV9YX19qaTZGVGswRGF1N2d0dktsZW5DVHlFWVNENmtQaERZYm5ZTmREdm8tMzVjX3ZCQUdqbTFCbWktdw?oc=5",
+   "pubTime": "12:32",
+   "pubTs": "2026-11-13T12:32:36+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "比特币跌破7万美元关口，引发12亿美元杠杆头寸爆仓",
+   "summary": "受美债收益率上升及美国中期选举后市场波动影响，比特币价格跌破7万美元大关，触及两个月来低点。此次剧烈波动触发了约12亿美元的加密货币头寸强制平仓，市场分析师正密切关注数字资产跌势是否会进一步加剧。",
+   "source": "CoinDesk",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUFvUmV4NkRTR3k0bnVVUjBYQTh5Z1BNX3NsTE1YWE9YUEpRMTJ4TEF5NFJfVmxPaUZQWl9CZEJpNGQtOTRMNmtYRHV0N3NUM2FtOUp1dWNaSV9OSlVYMFRwNld4ZWI4bUV4a251VjdzeUVnTW1EbFBuUndERzNjTWg1cDZ4Y1d1aXFPbzZYUXFoT2NJcnVBcXFXdFo?oc=5",
+   "pubTime": "11:59",
+   "pubTs": "2026-11-13T11:59:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "英伟达创始人黄仁勋因丑闻下台，公司宣布启动CEO更迭",
+   "summary": "《金融时报》等媒体披露，英伟达创始人黄仁勋因涉嫌与第二名员工存在不正当关系而陷入危机并离职。英伟达已正式宣布首席执行官更迭计划。特朗普对此发表评论，并再次提议由蒂姆·库克接替该职位。",
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRlBZMEhVQzRCSXVHeERpUHl6bXFFcmVWQ281TVJWMjRlU1ptOVJtYThTejV0RGY5V29lSHNUengydW96cWZEUDZlcUVKU2ZPQlRISmlJZFNPeGhBbU1fRlZ4OFlYc0xZR3J6SzVFLWNCX2luUWg3VzAtQ21GZVM5OUF1R1M?oc=5",
+   "pubTime": "11:49",
+   "pubTs": "2026-11-13T11:49:03+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "黄仁勋离职前曾贬低继任者，英伟达临时CEO面临挑战",
+   "summary": "据《华尔街日报》报道，黄仁勋在被罢免前曾公开贬低其继任者。目前英伟达已任命科莱特·克雷斯担任临时首席执行官，外界正关注这位科技界权势女性能否带领公司走出动荡，或是否面临所谓的“玻璃悬崖”困境。",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9maWRVVUJxUEQzbHk2X0hGUE0wYmVRbTRlVVdaRGVYZUhfWVR0ajdIVkp2ZElQRnRlbXNZeks0bFFQX21uYjNJbHduZG43RXhpSFRjZmVaU2hRTkdfakRMdGQyamdld0FjaWx4T2VOUWpmU0ktZmZYeHN5bw?oc=5",
+   "pubTime": "10:00",
+   "pubTs": "2026-11-13T10:00:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美国成屋销售陷入16年来最严重低迷，受高房贷利率冲击",
+   "summary": "美国房地产市场陷入自大衰退以来最严重的低迷期，10月份成屋销售量跌至16年来的最低点。创纪录的高抵押贷款利率严重抑制了购房需求，导致春季销售前景暗淡，给美国住房市场带来了沉重打击。",
+   "source": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQmttNnNqVm1jQmstQ2pvWl9aOUYzaklQNmpYaEFuMVdyLUdyWEZqOWU4R0luSldvNlhURDcyeng0VG5NQTVSejFOTFhmOEJlSUt1aGRadmg2c1FSTGdCb2tpbzVuRnJYbXRvYkFsQ0xrUlB3Ui1IMFZyZklhcGpoWW9Rc09Menk0LXBGVlV0MkpsMW53R01kckdKVnRtMWRZc0kzaEFvdk51MnNDbGF3?oc=5",
+   "pubTime": "09:47",
+   "pubTs": "2026-11-13T09:47:38+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "用间谍案施压习近平释放黎智英？特朗普称“难办到”",
+   "summary": "特朗普在受访时表示，由于中国国家主席习近平对黎智英存有“极大仇恨”，且视其为引发困扰的运动领袖，因此他不看好中方会答应释放黎智英。目前，78岁的黎智英正面临串谋勾结外国势力及发布煽动刊物等指控。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261113-9993007",
+   "pubTime": "15:10",
+   "pubTs": "2026-11-13T15:10:10+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "习近平：加强中共对国企全面领导 推动融入公司治理各环节",
+   "summary": "习近平近日对国企党建工作作出指示，强调要加强中共对国有企业的全面领导，将党的领导融入公司治理各环节。他要求以高质量党建引领企业高质量发展，完善现代企业制度，并持续推进从严治党与反腐工作。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261113-9992872",
+   "pubTime": "14:54",
+   "pubTs": "2026-11-13T14:54:03+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "山东枣庄文物倒卖案 20余人被捕追回2000多件文件",
+   "summary": "山东枣庄警方成功侦破一起特大文物倒卖案，共抓获犯罪嫌疑人20余名，追回文物2000多件。警方于今年6月在交易现场当场抓获3名嫌犯，查获价值400余万元的疑似文物。目前案件仍在进一步办理中。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261113-9992179",
+   "pubTime": "13:26",
+   "pubTs": "2026-11-13T13:26:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "黄仁勋离职影响英伟达台北布局 蒋万安：已签完整合约",
+   "summary": "针对英伟达首席执行官黄仁勋因个人风波辞职可能影响台北布局的担忧，台北市长蒋万安回应称，市政府已与英伟达签署完整合约，目前未收到相关变动信息。他强调，英伟达此前已选定台北作为其首个海外总部的落脚城市。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261113-9992036",
+   "pubTime": "12:44",
+   "pubTs": "2026-11-13T12:44:10+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "完成收购德企 京东寻求成为欧洲领先电子零售线上平台",
+   "summary": "京东集团宣布完成对欧洲消费电子零售巨头Ceconomy的要约收购，以13.35亿欧元获得其59.8%的股权及投票权。通过此次交易，京东将把Ceconomy并入报表，并力争成为欧洲领先的电子零售线上平台。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261113-9991874",
+   "pubTime": "12:12",
+   "pubTs": "2026-11-13T12:12:30+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "日本防卫省智库：中国正强化远海作战能力",
+   "summary": "日本防卫省智库发布报告指出，中国海军正持续强化远海作战能力，旨在加强对南中国海的控制并阻止美军介入可能的台海冲突。报告建议日本应加强与亚细安的合作。该报告仅代表研究人员观点，不代表日本政府官方立场。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261113-9991818",
+   "pubTime": "12:02",
+   "pubTs": "2026-11-13T12:02:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "台陆委会：无法证实黄仁勋外遇对象黄乐是大陆间谍",
+   "summary": "针对美媒披露与黄仁勋有染的商人黄乐涉嫌为北京从事间谍活动一事，台湾陆委会副主委梁文杰表示，目前无法证实其间谍身份。虽然黄乐过去两年曾多次入境台湾，但陆委会此前并未接获相关预警信息，掌握情况与外界一致。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261113-9991664",
+   "pubTime": "11:41",
+   "pubTs": "2026-11-13T11:41:11+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "预测市场行业开始谨慎行事？Kalshi停止与特朗普长子的顾问合作",
+   "summary": "预测市场平台Kalshi宣布终止与小唐纳德·特朗普的顾问合作。据悉，由于小唐纳德旗下的风投公司对Kalshi的竞争对手Polymarket进行了大额投资，双方经协商后决定结束合作关系。Kalshi对其早期的帮助表示感谢。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2533769",
+   "pubTime": "15:17",
+   "pubTs": "2026-11-13T15:17:19+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "两部门印发《“十五五”新型储能实施方案》",
+   "summary": "国家发改委与能源局印发方案，提出到2030年新型储能将步入市场化发展阶段，装机规模达到3亿千瓦。方案强调要深化储能在新能源消纳与电力系统安全方面的应用，加强核心技术攻关，并完善相关政策体系。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2533753",
+   "pubTime": "15:10",
+   "pubTs": "2026-11-13T15:10:56+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "从国产替代到全球创新前沿 联影薛敏详解高端医疗装备“中国路径”",
+   "summary": "联影集团董事长薛敏在演讲中指出，中国高端医疗装备正从跟随者转向全球创新前沿。他将这一崛起归结为政策引导、完整产业体系、高质量人才及大规模临床应用四大优势。尽管全球环境存在不确定性，但医疗健康赛道仍具价值。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2533736",
+   "pubTime": "15:08",
+   "pubTs": "2026-11-13T15:08:05+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "尾盘2只沪深300ETF显著放量",
+   "summary": "11月13日尾盘半小时，两只沪深300ETF出现显著放量现象。其中天弘沪深300ETF成交额超7.3亿元，较前一交易日全天增长逾27倍；广发沪深300ETF成交额超3.3亿元，增幅超4倍。这一异常波动引起市场关注。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2533735",
+   "pubTime": "14:58",
+   "pubTs": "2026-11-13T14:58:29+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "小心！美股“空军”正再度集结“利率敏感股”？",
+   "summary": "美银数据显示，对冲基金正重新加码做空美股中对利率敏感的标的。受高通胀数据及疲软的成屋销售表现影响，空头投资者再度瞄准高借贷成本压力下的公司。目前，市场共识做空的小盘股组合表现已明显逊色于基准指数。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2533695",
+   "pubTime": "14:18",
+   "pubTs": "2026-11-13T14:18:42+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "“易中天”集体大跌",
+   "summary": "11月13日，A股CPO板块表现低迷，行业龙头“易中天”组合集体大幅走低。午后，新易盛与中际旭创盘中跌幅均一度超过9%，天孚通信跌幅更是超过11%。板块整体承压明显，反映出市场对光模块相关个股的短期情绪波动。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2533686",
+   "pubTime": "14:15",
+   "pubTs": "2026-11-13T14:15:08+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "市盈率跌至10倍！又一分析师喊话抄底英伟达：估值“低得离谱”",
+   "summary": "在黄仁勋辞任首席执行官后，分析师Paul Meeks呼吁投资者抄底英伟达，认为其估值已“低得离谱”。英伟达股价较历史高点已回落约30%，本周市值蒸发近5000亿美元。尽管股价一度暴跌，但散户的强劲买盘已推动股价反弹。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2533650",
+   "pubTime": "14:08",
+   "pubTs": "2026-11-13T14:08:22+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
