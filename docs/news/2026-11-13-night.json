@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "night",
+ "editionName": "夜豆浆",
+ "date": "2026-11-13",
+ "fetched_at": "2026-11-13 22:30",
+ "translator": "gemini-3-flash(21条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "多数美联储官员将通胀归咎于AI，古尔斯比持不同意见",
+   "summary": "多数美联储高级官员认为人工智能的发展推高了通胀，但芝加哥联储主席古尔斯比持谨慎态度。他强调美联储必须重建通胀信誉，并指出当前通胀形势正处于危险时刻，数据中心的建设等因素也对经济产生了复杂影响。",
+   "source": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYWx2S1gybU5lYjJCbEl5OXkyekl3YXdnd2RuWnJPQU9VODlSSnpLM1ZDeGVfT19LdEF4OThPMGZQM1NDNXloMzFGcjdmZDE4ZU90dDBuX2xsX2lUZTJjLU5HNEZCNnJJRFJQT0tmR2FwZVBXT1Q3cURtZHFTYTJtUDVOVHZESnNfWlBkZXdoT1pQXzNkYldpWklrdEZiRWxiVjJRaHNxOXpMVXhPOFR1ZERmc09uWXJEcWR1dUdKblUzQjdkTkM0?oc=5",
+   "pubTime": "22:13",
+   "pubTs": "2026-11-13T22:13:05+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "英伟达企稳且通胀数据低于预期，道指期货上涨200点",
+   "summary": "随着英伟达股价企稳以及美国通胀数据略低于预期，道指期货上涨200点。市场情绪在经历波动后回暖，标普500和纳斯达克期货亦小幅走高，投资者正密切关注AMD和Arista等科技股的买入机会。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DUGhtX3RkQk1tTVc3WFZQOGhSalVKd2RzNks0R1dHRlFMSUd1bUhOeVVmNTQxS09JQjhaaTBQVWVnY3RBblNRRlc3a21TVEJJUnZmVm9pYmJMSVNWazl5bU9lZkdyOVpSSXhoSUlfeEx1ZUdvakVR0gF8QVVfeXFMUEZVRDFwUjNBQ01QTjdQX0h5WXU5R3BqdDZwVFJiNU9obl9qYk1lWC1XTWUxbDhFaGR4V2x0cERQdDAyNFlJQk1fNXBqdFItb3FaTDdyV2R6WklkbExBZHNnQ3k1WFR4X0FaeGpRM09SZHprem0zajZXbEx6Vg?oc=5",
+   "pubTime": "22:05",
+   "pubTs": "2026-11-13T22:05:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美国10月批发价格上涨0.3%，年率达6.5%创近四年新高",
+   "summary": "美国10月生产者价格指数（PPI）环比上涨0.3%，使得同比通胀率达到6.5%，创下近四年来的最高水平。数据显示批发端通胀依然高企，这可能增加美联储在未来政策决策中面临的压力，市场正密切关注后续加息概率。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4X1hoQmRtbDM0TllqRXgydjN2cE9Gb2w4cmRDOWhBT2Z3SEhHOTMySDJrSDdVaU9HVFZhcWJRNm1tZS1kN25SQzRtU3JSdGpTMXh4MWFuaFBYbllQMGpGYUxHV2s3RVhFc2drd1NGWllJRWFqenVrREdB0gF_QVVfeXFMTUd3LWpmaHJxMWdUOWVSSmJrTFNqN0Y2UU8tRFJCcUIzelRvdTNKOFJNaDRkNGhYaThoMVBqR2dCalRkdDFxTXA1SWloZ2FxV2NxTTV4RnZ6Y0dxT0t5UWVvUUprOU9wSUd1bUtCaTdEcFA5UEhSQXBJRkdxcm9lUQ?oc=5",
+   "pubTime": "21:31",
+   "pubTs": "2026-11-13T21:31:21+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "加息预期升温导致金价承压，维持在近一年低点附近",
+   "summary": "受美联储加息预期升温及美债收益率飙升影响，金价维持在接近一年来的低点。尽管金价在技术性反弹中略有回升，但由于中东局势降温和美元走强，黄金本周表现疲软，投资者正等待进一步的美国通胀数据指引。",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT3F2NGZ0c25jVUdYLU1WVFUydUJtUHQwWm9uTHlQbG10SHFHLUpZUndrUzZNR2ZwRFBqMUdKNDQ4NmlnY0dDS2hjR3hkenpsZlo1Q3Q2Q21pV3c4dDRFNmdSTnJPejNNR191a1RxVFd5dDNIYkhrb20wcWRRREFCTHFlOXJ1cXZGRlFLRC0ybWNyS0sxODJoWTBBVlFCZDM3S0tSdm9BREUzSVZnQzRiOXc5OXY?oc=5",
+   "pubTime": "20:18",
+   "pubTs": "2026-11-13T20:18:46+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美股期货微涨，英伟达动荡加剧引发芯片股轮动",
+   "summary": "尽管英伟达因高管变动和监管压力陷入动荡，美股三大股指期货今日仍小幅走高。英伟达的波动促使资金在芯片板块内轮动。此外，美国对涉及英伟达技术的中国AI项目的审查加严，也为市场增添了不确定性。",
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUlFnOGhDYjBhQ1U3Y2IxUFI2c3cwTEZGS19OU2M4SG5ZNmJiTjkwWnJibFZBV0tGUFF2b0t2VXBSY1pKVV9HNENTaWJVaDg4X2MxNnhtNXBBQll6UGJuZjM0VGlyRmN6YlVuZG50M1VVSk9YNDRxcDBydTZ5andqMENtWEcwa0JDTlNreWxnNnU0UkItaEllY1ZESGVxNGlSaXRNdDllbGN0ZEZ0bmpUTV9xQ25xRzg?oc=5",
+   "pubTime": "20:15",
+   "pubTs": "2026-11-13T20:15:41+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "黄仁勋多年深耕中国市场，英伟达宣布首席执行官更迭",
+   "summary": "英伟达宣布首席执行官过渡计划，黄仁勋将离职。媒体报道称黄仁勋多年来一直致力于深耕中国市场，但近期被曝出与员工存在不正当关系的丑闻。这一重大人事变动及相关负面消息引发了科技界和金融市场的剧烈震动。",
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNGdpdFdoUHF2WEtfdW1CeUUxamVuY0RTeHlmLWFEcnB3ZzBnRk9mbk5IdVBZTS1taWJrcjdKelBfbGZTUWpOZHh4NWNSQTZhRTJpTUdueVR6TTZNdGNCWS0xSlNrYTVvdThtcDBmNnBtY1dBYXktSFE3NzRFWl9oVWVfc0M?oc=5",
+   "pubTime": "20:04",
+   "pubTs": "2026-11-13T20:04:12+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "Cerebras业绩超预期并与微软达成合作，股价飙升17%",
+   "summary": "芯片初创公司Cerebras第三季度财报超出预期，并宣布与微软达成合作伙伴关系，股价随之飙升17%。公司上调了年度业绩预测，表示受益于超大规模云计算客户的强劲需求，其在人工智能芯片市场的地位得到进一步巩固。",
+   "source": "Barron's",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GV3pHZXI5bHdjSjFjc2JBMEF0UGNGZTBYVUgzZzZ6Smd0dGhTdUdyYzd2QzVYbnBrUkRweWhSWW9OQ1ZWVWotWXlBbHFob05kWUtqSmVwOEhZXzh6azBFZ0haOTh3eXYzazZ3SFluUDRWRW5FYi1EY0FtOA?oc=5",
+   "pubTime": "19:13",
+   "pubTs": "2026-11-13T19:13:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "特朗普普京下周会谈 德国总理吁特朗普“不要制造意外”",
+   "summary": "美国总统特朗普预计下周在华与普京会谈。德国总理默茨呼吁美方不要在乌克兰问题上制造意外，强调未来和谈应聚焦安全保障，并敦促美国继续作为“欧洲团队”和“乌克兰团队”的一员发挥作用。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261113-9995752",
+   "pubTime": "21:53",
+   "pubTs": "2026-11-13T21:53:21+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "波斯湾石油出口恢复至战前七成 国际油价持续回落",
+   "summary": "国际能源署报告显示，波斯湾石油出口已恢复至战前水平的74%，全球石油供应自伊朗战争以来首次超过需求。受此影响，国际油价持续回落，但柴油供应紧张仍是市场主要隐忧。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261113-9995645",
+   "pubTime": "21:24",
+   "pubTs": "2026-11-13T21:24:09+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "微软全球服务中断逾12小时 英国医疗体系受严重冲击",
+   "summary": "微软Outlook及Teams全球服务中断逾12小时，波及多国政府与企业。英国医疗体系受严重冲击，急救人员无法查阅病患资料。故障还导致金融交易延误、企业业绩发布受阻及部分债券交易暂停。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261113-9995555",
+   "pubTime": "21:12",
+   "pubTs": "2026-11-13T21:12:34+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "分析：特朗普进退两难 或任由美伊僵局延续",
+   "summary": "特朗普暗示可能在未达成核协议的情况下结束美伊战事，并要求停止谈判。分析指出，受中期选举失利影响，特朗普陷入既难以重启攻势又无法通过经济压力换取让步的两难境地，僵局或将延续。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261113-9995055",
+   "pubTime": "20:44",
+   "pubTs": "2026-11-13T20:44:04+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "黄仁勋辞职风波发酵 美议员促收紧对华晶片出口管制",
+   "summary": "英伟达前CEO黄仁勋因卷入间谍疑云辞职，促使美议员推动收紧对华芯片出口管制。议员建议堵住中企通过海外数据中心远程使用芯片的漏洞，并拟将相关管制法案纳入年度《国防授权法案》。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261113-9993630",
+   "pubTime": "20:36",
+   "pubTs": "2026-11-13T20:36:07+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "币安63亿美元加密货币被盗 FBI成功截获12亿",
+   "summary": "针对币安发生的史上最大规模加密货币盗窃案，FBI已查获逾12亿美元资产。调查显示幕后黑手为朝鲜黑客组织。目前相关机构已冻结部分资金，美国司法部正动用一切手段追回不法所得。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261113-9995025",
+   "pubTime": "20:18",
+   "pubTs": "2026-11-13T20:18:58+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "肯尼亚在建建筑倒塌酿六死 至少三人获救",
+   "summary": "肯尼亚首都内罗毕附近一栋在建建筑于周五倒塌，造成至少六人死亡、三人获救。这是当地数周内第二起致命坍塌事故。事故频发暴露了当地建筑施工质量欠佳、建材不合格及监管缺失等问题。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261113-9994964",
+   "pubTime": "19:24",
+   "pubTs": "2026-11-13T19:24:48+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "铅炭储能标杆项目陷质量纠纷 经纬股份子公司等被诉超1亿 | 速读公告",
+   "summary": "经纬股份子公司鸿晟电力因参与的铅炭储能项目存在电池质量问题，被电投浙储起诉索赔。受此影响，公司及子公司累计涉案金额已达1.08亿元。目前该项目纠纷已进入司法程序，引发市场关注。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2534236",
+   "pubTime": "22:03",
+   "pubTs": "2026-11-13T22:03:21+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "美国10月PPI低于预期 美股三大期指受提振携手上涨 | 今夜看点",
+   "summary": "美国10月PPI同比增长6.5%，低于市场预期。受此提振，美债收益率下跌，美股三大期指短线拉升。尽管英伟达动荡令AI板块承压，但通胀数据降温缓解了市场对美联储收紧政策的担忧。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2534230",
+   "pubTime": "21:57",
+   "pubTs": "2026-11-13T21:57:44+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "固态电池加速“补链” 天齐锂业年产1000吨金属锂项目竣工",
+   "summary": "天齐锂业年产1000吨电池级金属锂项目在重庆竣工，目前已向头部客户送样验证。金属锂是提升固态电池能量密度的关键材料，该项目投产有助于公司稳步推进下一代高比能电池材料的市场应用。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2534227",
+   "pubTime": "21:53",
+   "pubTs": "2026-11-13T21:53:12+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "央行将开展2000亿元买断式逆回购操作 稳定市场预期",
+   "summary": "央行今日开展2000亿元买断式逆回购操作，实现缩量续作。此举旨在近期市场流动性偏松背景下，通过适度回笼资金遏制利率下行势头，稳定市场预期，并引导货币市场利率围绕政策利率平稳运行。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2534228",
+   "pubTime": "21:51",
+   "pubTs": "2026-11-13T21:51:07+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "港股公告精选｜TCL电子前三季盈利同比增约四成 中国中冶年内新签合同额近5500亿元",
+   "summary": "港股多家公司发布业绩：TCL电子前三季净利增约四成；中国中冶前10月新签合同额近5500亿元；中国神华煤炭销量微增。此外，国银金租拟采购IT设备，中教控股发布未来年度业绩预告。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2534219",
+   "pubTime": "21:40",
+   "pubTs": "2026-11-13T21:40:34+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "港股风向标｜全球AI调整情绪扩散 空头发力恒指失守24000点",
+   "summary": "受全球AI板块调整情绪扩散影响，恒生指数跌破24000点，科指大跌3%。科网股集体走低，快手创历史新低，AI硬件产业链全线下挫。仅银行及高息股逆势走强，市场整体承接乏力。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2534214",
+   "pubTime": "21:40",
+   "pubTs": "2026-11-13T21:40:23+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "Anthropic新品引发微软股价下跌，但阿克曼仍看好其前景",
+   "summary": "AI初创公司Anthropic推出多项企业级软件工具，直接竞争微软Office业务，导致微软股价承压。尽管市场担忧加剧，知名投资者阿克曼仍看好微软前景。Anthropic正加速将协作功能整合至其平台。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2534151",
+   "pubTime": "21:09",
+   "pubTs": "2026-11-13T21:09:43+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
