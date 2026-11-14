@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "afternoon",
+ "editionName": "下午茶",
+ "date": "2026-11-14",
+ "fetched_at": "2026-11-14 15:20",
+ "translator": "gemini-3-flash(21条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "SpaceX星舰第15次试飞成功发射，助推器捕捉尝试中止",
+   "summary": "SpaceX星舰在第15次试飞中成功发射并进入轨道。尽管助推器在尝试前所未有的“双重捕捉”回收时因故中止，且有报道称助推器发生爆炸，但此次任务仍标志着星舰在迈向历史性突破的过程中取得了重要进展。",
+   "source": "CNN",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcGhfR3lVM2ZfMmw3dHhUdms0VlU4d2JVTGpBTzdiV2FpVTAxLUFtSW5JNXZSMEFkS0pXM1gtNEdvVzY0TDdzUlVNaWNpTk5qdHFkR0R5WHlBOE53ZGZMRW9hdkUtSHBFa3ZmcU16VFVnNElhV24wRHdCYk9DbWtMMEV0SVlYSjRHcjVrLVJ3?oc=5",
+   "pubTime": "14:30",
+   "pubTs": "2026-11-14T14:30:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "黄仁勋丑闻背后：特朗普对华政策耳边风的影子战争",
+   "summary": "随着英伟达前CEO黄仁勋陷入间谍丑闻及个人关系争议，一场围绕特朗普对华政策影响力的暗战正在展开。英伟达近期陷入动荡，不仅面临企业文化和个人行为的质疑，还因地缘政治博弈成为多方角力的焦点。",
+   "source": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNV83TGNqLXB1TGRFV1otMFAwS3poMGY4dHp6V05vWllwcmJ0SGN1QkxXdHpob3czaXJSLW1jcjkta1FpRFR1emR3SVZtWWlUclVIWDlFODZHRDFabzcxR2JfamFhU3VxTnVRNG16Z0F2Y09wRUU0ZmxRazVwTDVSV0V2dlFNNm1WazBoUXg2U1kxM1p0Ym5NSmREU1htSDk2SF9jR2hSTXFYLU85ZHFnaW5YMzY?oc=5",
+   "pubTime": "13:45",
+   "pubTs": "2026-11-14T13:45:28+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "阿里·伊曼纽尔将FAA技术故障归咎于交通部长布蒂吉格",
+   "summary": "奋进公司CEO阿里·伊曼纽尔公开指责交通部长布蒂吉格应对美国联邦航空管理局（FAA）的问题负责。与此同时，特朗普团队推崇的AI辅助工具在全美停飞事件中引发争议，相关AI公司否认该工具与此次故障有关。",
+   "source": "Deadline",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZXhlWWZ2dzlwcVpOTWdiTHJlWDJRVXJHc1pGcnc3WjMzbkZJY0Fld0pQVnMzNi1ySkhER3ZjTHJZUjk3R3dpSFEzMGFFV1hVZ0ZQY3JHbGZ5ZnY2QVVRSG1GZGRzX25LRmxodGNpUng5Q0x4SGxNVzdkbGJCbTNwRWEyZmhDcHRENG1lRUp3?oc=5",
+   "pubTime": "12:55",
+   "pubTs": "2026-11-14T12:55:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "全美航班停飞令已解除，但大规模延误与取消仍将持续",
+   "summary": "美国联邦航空管理局（FAA）在周五实施数小时的全美地面停飞令后，现已允许航空公司恢复飞行。尽管禁令解除，但交通部警告称，由于系统恢复需要时间，全美范围内的航班取消和严重延误情况预计仍将持续。",
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ3ZnWGY2YWY1TW9QakM0dTdtNFRBcW9qVDc3aGJlV25yb0Q3S0szQ2otUy1IREYyWGgyMllrQW1xY2RRQlJMRlhnRHFEVFlwcFJyQ0FMLWFVTFdwbzdQVzRXR3FQc0lTQlFodFlzcnFkRk13emQ0Z05KRVQwa2lhbkVSS2FvZw?oc=5",
+   "pubTime": "12:47",
+   "pubTs": "2026-11-14T12:47:30+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "特斯拉向特定客户开放Cybercab预订，售价2.99万美元起",
+   "summary": "特斯拉已开始向受邀的特定客户开放自动驾驶出租车Cybercab的销售，起售价为29990美元，另需每月支付299美元服务费。该车型目前仅限在指定的无人驾驶出租车区域内使用，标志着特斯拉自动驾驶商业化迈出重要一步。",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMThvUmpYTW5TY3k5M3dGODhWa0RtOS1XY1ZHMVBBMEl0eU5UTVBLbWNZLVRTeFhBWnQzMjRMSF8zNV9oMWRUbzRhN0tieHJkblRyc0lZdnJQYmJ1aThMUGptc3VqbU1Fc0VqUldRUUptODA5VU5uZHhoS0FRS240MlB3MVpLRTE4d3cwODBMdndrS19GYkJEbExXSHZ6SVdOcjhuMkR5ek0?oc=5",
+   "pubTime": "11:15",
+   "pubTs": "2026-11-14T11:15:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "微软大规模故障波及政府机构，Outlook全球服务中断",
+   "summary": "微软近期遭遇的大规模服务中断已严重影响多国法院和政府机构的正常运作。微软官方对全球范围内的Outlook故障表示道歉，并将其归因于技术问题。目前尚无明确的修复时间表，微软表示正全力以赴进行系统恢复。",
+   "source": "Axios",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yUnhQZ1hSOVFGajVoZXJDcE1TbWhCa2RJU0ExblA5WElCZVczWnh0VlpBdXljcnlDM2cxZWh1dW50ZXQ1M3pTWE4tamZGMWk2X2VXZmVETC1pd1M0WDBYQXo2Ri16QlVrVnFMdjBpamUxdVdaNWVLMjhn?oc=5",
+   "pubTime": "09:48",
+   "pubTs": "2026-11-14T09:48:06+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "湾区Denny's餐厅重新安装英伟达创始人黄仁勋纪念牌",
+   "summary": "位于圣何塞的一家Denny's餐厅此前拆除了纪念英伟达诞生地的黄仁勋纪念牌，引发舆论关注后现已将其重新安装。这家餐厅是英伟达三位创始人最初构思公司的起点，被视为科技行业极具象征意义的文化地标。",
+   "source": "SFGATE",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80RlJtNFZ2aVNKOTJFX3Ntb190Q18xT3doTDcyRV9rTXp1eUtqbVFvRnVPV3hodXZuME9XTTY2blBxWHJHLUVnZEJBRHJXYmpVUGNPYkZQVWU5RzNfSEViUDF1aXE5Y1FtZGJpVWN4OGFKdllWdE45dA?oc=5",
+   "pubTime": "08:29",
+   "pubTs": "2026-11-14T08:29:15+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "中国官媒反驳彭博“中国最大输家”论 警告美方封闭技术终自损",
+   "summary": "《环球时报》发文反驳彭博社关于“中国将是黄仁勋离职最大输家”的言论。文章指出，美方因间谍疑云调查黄仁勋并收紧对华出口管制，不仅影响中国AI产业，最终也将损害美国自身利益。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261114-9997755",
+   "pubTime": "15:10",
+   "pubTs": "2026-11-14T15:10:18+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "中纪委监委谈王忠林被查：让搞了腐败的人付出代价",
+   "summary": "中纪委国家监委就湖北省委原书记王忠林涉嫌严重违纪违法被查发表评论，强调此举彰显了中共坚决清除腐败、将反腐斗争进行到底的决心，旨在让腐败分子付出代价，始终保持高压态势。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261114-9997702",
+   "pubTime": "14:59",
+   "pubTs": "2026-11-14T14:59:37+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "韩外长：不应畏惧中国崛起 也不应低估其实力",
+   "summary": "韩国外长赵显在北京与中国外长王毅会谈后表示，韩国不应无端畏惧中国崛起或低估其潜力。他强调双方探讨了推动双边关系及朝鲜半岛事务，主张发挥韩国自身优势，深化互利共赢的合作。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261114-9997571",
+   "pubTime": "14:25",
+   "pubTs": "2026-11-14T14:25:37+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "香港上调全年经济增长预测至4.8%",
+   "summary": "受全球人工智能热潮带动贸易强劲增长影响，香港政府将今年全年经济增长预测上调至4.8%。第三季经济同比增长5.2%，创五年来同期最快增速，出口成为推动经济增长的主要动力。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261114-9997270",
+   "pubTime": "14:09",
+   "pubTs": "2026-11-14T14:09:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "武汉女足前主教练常卫魏获任中国女足主帅",
+   "summary": "中国足协宣布聘任常卫魏担任中国国家女子足球队主教练，王军担任第一助理教练。常卫魏拥有丰富的执教经验，曾率领武汉女足多次夺冠，此次任命旨在备战洛杉矶奥运会预选赛及女足世界杯。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261114-9997445",
+   "pubTime": "13:37",
+   "pubTs": "2026-11-14T13:37:37+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "深圳APEC九条主要道路临时交管 美团骑手超时免责",
+   "summary": "2026年APEC领导人非正式会议将在深圳举行，届时九条主要道路将实施临时交通管制。为应对交通限制，美团宣布在会议期间对全城骑手超时订单实行免责，以保障配送员权益及会议顺利进行。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261114-9997197",
+   "pubTime": "13:31",
+   "pubTs": "2026-11-14T13:31:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "官媒视频：外机超低空贴海接近中国领空 飞行员极限距离逼退",
+   "summary": "央视发布视频披露中国空军飞行员与外机对峙20分钟的惊险画面。外机采取超低空贴海飞行试图规避预警并接近中国领空，中国飞行员迅速驾机升空，在极限距离内建立打击阵位并成功将其逼退。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261114-9996998",
+   "pubTime": "13:02",
+   "pubTs": "2026-11-14T13:02:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "中美举行中美经贸磋商机制项下贸易理事会首次会议",
+   "summary": "中美双方通过视频方式举行经贸磋商机制项下贸易理事会首次会议。双方围绕落实元首会晤共识，就关税、对等降税安排及农产品贸易等议题进行深入交流，旨在通过沟通解决经贸关切，构建稳定关系。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2534450",
+   "pubTime": "14:59",
+   "pubTs": "2026-11-14T14:59:38+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "浙江算力规模超198EFLOPS，智算占比96%，AI正走进乡村、医院和路口|一线",
+   "summary": "截至2026年10月，浙江省已建成算力中心113家，总算力规模超过198EFLOPS，其中智能算力占比高达96%。浙江正积极布局全国一体化算力网，推动人工智能在制造业、医疗及乡村等领域的深度融合。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2534439",
+   "pubTime": "13:43",
+   "pubTs": "2026-11-14T13:43:58+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "美联储重磅报告：“AI热”正推高资产估值 或对金融系统构成风险",
+   "summary": "美联储发布金融稳定报告警告称，“人工智能热”导致各类资产估值过高，已成为金融稳定的首要担忧。报告指出，一旦AI行业进入下行周期，相关债务违约风险及高杠杆水平可能对金融系统构成威胁。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2534437",
+   "pubTime": "13:08",
+   "pubTs": "2026-11-14T13:08:16+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "又一轮券商罚单集中开出，有券商分支负责人遭数百万级罚没",
+   "summary": "监管部门近期密集披露多张券商罚单，涉及中信证券、申港证券及国盛证券。其中，国盛证券原分支机构负责人因违规行为被合计罚没逾244万元。此次穿透式问责显示了监管层对券商合规经营的严厉态度。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2534435",
+   "pubTime": "12:43",
+   "pubTs": "2026-11-14T12:43:46+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "我国10吨级电动商用飞机有人驾驶首飞成功",
+   "summary": "我国自主研制的10吨级电动商用飞机CE-25A在山东滨州成功完成首次有人驾驶智能飞行。该机由中国商飞研制，可搭载19名乘客，最大航程400公里，标志着我国在电动商用飞机领域取得重要里程碑。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2534433",
+   "pubTime": "12:26",
+   "pubTs": "2026-11-14T12:26:03+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "吴清：进一步深化市场稳定长效机制研究 防范市场异常波动",
+   "summary": "证监会主席吴清在学术年会上表示，将进一步深化市场稳定长效机制研究。他强调，面对全球资本市场高度联动及外部不确定性，需加强对风险传导规律的认识，系统构建稳的机制与生态，有效防范市场异常波动。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2534426",
+   "pubTime": "12:04",
+   "pubTs": "2026-11-14T12:04:22+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "全球化、电动化、数字化：中国装备制造正在换一套竞争规则",
+   "summary": "在上海证券交易所国际投资者大会上，多家装备制造龙头企业高管指出，中国制造业正从比拼规模和成本转向技术、品牌及全球化运营能力的竞争。产业升级将围绕全球化布局、电动化转型及数字化变革展开。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2534408",
+   "pubTime": "11:09",
+   "pubTs": "2026-11-14T11:09:33+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
