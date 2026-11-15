@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "afternoon",
+ "editionName": "下午茶",
+ "date": "2026-11-15",
+ "fetched_at": "2026-11-15 15:20",
+ "translator": "gemini-3-flash(21条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "全球技术系统频发故障引发担忧：从飞机停飞到微软宕机",
+   "summary": "近期发生的飞机停飞、微软系统宕机及人工智能引发的混乱，让外界对全球技术系统的稳定性产生质疑。专家指出，没有任何技术是百分之百可靠的，而随着技术依赖度增加，未来的系统性故障可能会带来比以往更严重的后果。",
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbUFCdzU3WWxqWDJyOThxR0pfSENwbHdjWE50LVZfX0xSUUZFZnpTemtWN2RRckNlOW56TnZwT2pmUHpPYnU0cGtiaUJ4aFpzLXZ4OHN0a3UxVEpNenFlc0VETFE2UDJkdy1Ld0ZSU2V2MHJxNE9WN3VFMjA2U1lLRThOdE5kSWk2UVdpektzb00yV3ZjUjhOeWpiNA?oc=5",
+   "pubTime": "13:38",
+   "pubTs": "2026-11-15T13:38:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美国联邦航空管理局曾多次收到维修风险警告，最终导致全美航班停飞",
+   "summary": "美国联邦航空管理局（FAA）因维修风险预警不力遭到质疑。据悉，导致全美航班大面积停飞的诱因是路由器故障及陈旧铜线维修问题。尽管多年来一直有相关风险警告，但系统隐患未能及时消除，最终酿成严重的航空瘫痪事故。",
+   "source": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdGhEX0dMOEdKd2dQcXJYV1NJVnZKeUFMTlMyRmVMWXFkZHhaU3hDR0NCM201VTZQRXc0QXNERjdBdGdyX3ZXU3ZlbU42WjR4MW5qLWh1WGtCdk9UVXdlaUlQMTJkS1FuWHhDcUt0MlNmQlRRYTdDSTh0Z3I0RTAwaGlYdzByVG05WE1uZjdyeWhiQlYtRmRRSkwtOVR0WS14X1VOZ25JZzVHMFFJNEhMUW9YWWtKVTM3cG5McHJDbjJGWWFfMTZV?oc=5",
+   "pubTime": "12:37",
+   "pubTs": "2026-11-15T12:37:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美国国税局上调2027年401(k)缴存上限，退休储蓄额度增加1000美元",
+   "summary": "美国国税局（IRS）宣布上调2027年退休账户的缴存限额，其中401(k)计划的年度缴存上限将增加1000美元。此次调整是基于通货膨胀进行的常规额度修正，旨在帮助纳税人通过退休账户增加储蓄，应对未来的生活成本上升。",
+   "source": "Fox Business",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY3IwclZvTHQ3Tmw1eG40c3B2RnNIRUpLVVBTLXBveEd2WWQ0eFFxek42YzZoaWlZM0EzTldNd1JSS0pUSlNXY2w3VHlSMzdnV0l2RFlVWE45dU11MWhNS05fV3hLd1JNa1JNWXJVbEhKcFZPUmtCeGhqUUg3RFp2WGxubHpFMHJFOHhuNHVzLUZmWk9WemN1Rmx1TFFnVmgteXY3eWVsQzYwVlg5am1QZVNiU2VWcjRQOXhBZmpBa9IBxAFBVV95cUxPRmk4dWotc00wbTZwLWU0TnBFdmJkSno4VmMzMWRwa2c5ZE5pTGZOOElIOUtBRkY3NEZpWWZLMTBueDRuVDZiTEY5MEp2RmV5bTVOdU42TllFemU1bTBhTXE2WWZJWndfalJHc05hOHZiMjg0d3V1U0pWZWpZb0d6VnhGTm5qVHVDUEZiN1oxT3dNM1R0aXJKeVN0ZTFMTkFKZGJEUTNOWTdvbzREZmtBak1BWE9nWlpXYWxGdl9QZVNDRmVE?oc=5",
+   "pubTime": "10:32",
+   "pubTs": "2026-11-15T10:32:22+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "意大利因Meta违规访问安卓用户照片视频对其罚款8.87亿美元",
+   "summary": "意大利监管机构对Meta公司处以约8.87亿美元的巨额罚款。原因是该公司旗下的Facebook应用在未经充分授权的情况下，擅自访问了安卓用户的相册和视频。此举被认定严重侵犯了用户隐私，违反了欧洲及意大利的相关数据保护法规。",
+   "source": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTW9mbXFBUUVjX2R6d19QWTBrWlFiSE96OFVjeGx1elljZGJnYkdLbnhlRy11d1BObUpPN0Vvam40bTBieFJwdGNhY0NrWE5iMG1FT3E3SnFQU0FiMm13ZmZzX0xYQXA5aG1od3FHanp1U2pWVnY1eTZ3VFR0WmYyc0VVNFVXVGIwdkFJVWdwNl85dEpIS1dFWmR4NXNfOU1tc2pZRlFtTElMV25lMU9hYWV0Njh3RUtuaGc?oc=5",
+   "pubTime": "10:02",
+   "pubTs": "2026-11-15T10:02:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "比特币价格持续下跌进入“深度价值区”，市场情绪陷入极度恐惧",
+   "summary": "比特币价格在周六继续走低，目前已进入分析师所称的“深度价值区”。受加密货币市场持续抛售影响，交易员情绪普遍低落。尽管市场出现超卖信号并触及关键支撑位，但整体仍处于极度恐惧状态，价格正不断刷新近期低点。",
+   "source": "CoinDesk",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPREhQQTJ6T1M4cmdyMzU2SUhaYWszWDZOOWp0TzJ1M240RnY3RjI4OEpCQmlHR0pFbU1FekdXMXE1dzVjVHJlZ2ZMUjdOYXZIem5JY01DQ3JyYnIyUWxnZWNoR25TTG9DdExHNjNGMTdSNzJLZ3pKQ0JJeWxzMjV5cUlid3JkR0czV3ZmWlRnWXZ5QVBaSFJYZmltaU1Caks4NkdPTHo2bjE?oc=5",
+   "pubTime": "10:01",
+   "pubTs": "2026-11-15T10:01:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "黄仁勋如何通过“后门路径”助力中国维持人工智能竞赛地位",
+   "summary": "华尔街日报披露，英伟达CEO黄仁勋通过特定路径使中国在受限情况下仍能参与AI竞赛。然而，随着美国监管加强，价值30亿美元的中国AI项目面临风险。这一事件加剧了中美在人工智能领域的竞争，英伟达在华业务正面临严峻审查。",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5WRVRId0ZUcVRGRlNaOFhjRE5vUUVQWnZ6OElxc0llcUVsaXAxbDFxdXJocTh6UTc2OGN6VnZuN2sxMnZROVhnaU1aTWVVUlZLbU1KRzFYT2ljczNYTV9FTVQxWnFrS2xNdDdZQ2FHejNDUjh2d29PbHRROA?oc=5",
+   "pubTime": "10:00",
+   "pubTs": "2026-11-15T10:00:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "特斯拉宣布无人驾驶出租车Cybercab正式开售，首批面向特定受邀客户",
+   "summary": "特斯拉正式宣布其无人驾驶出租车Cybercab开启销售，首批购买资格仅限特定受邀客户。该车型主打全自动驾驶功能，预计将改变未来的出行模式。尽管购买条件包含诸多限制，但这一进展标志着特斯拉在自动驾驶商业化领域迈出重要一步。",
+   "source": "Fox Business",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeWRiUWowYWVmQW9OdUFReWE4cDdfWDlZSUVJNURfUEp3UTJncjFBQVVwOVhxcVB1dmpfSkJNYVhmQ2lUM01YNHUwTzRDX2VNdHdWenNkSjN1RTFpM1ByeG1XeElsdDN6Yl8xSnlsZnlqUUtDY0VyVU90c1Rxb3JZdmM3M0czSVRTUmI5V2pVRlRVQ0VYMi0zckIycFM3eWtEcEhnTXpEa29iUlHSAbABQVVfeXFMUHp6UmxGSl9iLUxTY3hhSmRUYkNZcHkzck16VVprb3pqVE9nUnRrdDJKNWxpYUZybFNrMkt2WFFZejdJdkxBMDJESFR0N01rRTJoVGxVa21uWm1zbFk4aXFaT093SVRVQlFuaWU3aDh3MGkxeERGcmJCbzFkeTc4dnRORmFyU010cjR0Y0I3bW5RU2hweUlmQU1xVFFiZzlfN2Z0SEJubUhxR1BOel85X0U?oc=5",
+   "pubTime": "09:49",
+   "pubTs": "2026-11-15T09:49:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "中越边境互联互通“国门大动脉”本月通车",
+   "summary": "天保至麻栗坡高速公路将于11月24日正式通车。该路段全长约52.8公里，是中越边境互联互通的重要通道。通车后，文山市区至天保口岸的车程将从两小时缩短至80分钟左右，有效提升边境交通效率。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261115-10001240",
+   "pubTime": "15:16",
+   "pubTs": "2026-11-15T15:16:36+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "北京无人机新规今起实施",
+   "summary": "新修订的《北京市无人驾驶航空器管理规定》于11月15日起正式实施。新规明确北京市全域为管制空域，禁止无人机飞行活动，并进一步禁止在行政区域内持有、存放、运输及携带无人机及其核心部件。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261115-10001174",
+   "pubTime": "15:09",
+   "pubTs": "2026-11-15T15:09:07+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "香港M+未获电检许可 取消放映侯孝贤《童年往事》",
+   "summary": "香港M+博物馆原定于11月及12月放映侯孝贤导演的经典电影《童年往事》，但因未获得电影检查条例下的相关许可，官方宣布取消所有放映场次。电检处对此表示系按既定机制处理送检申请，不就个别影片评论。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261115-10001006",
+   "pubTime": "14:31",
+   "pubTs": "2026-11-15T14:31:18+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "李强：“中泰一家亲”是中泰关系的独特优势",
+   "summary": "中国国务院总理李强在曼谷会见泰国国王哇集拉隆功。李强指出，“中泰一家亲”是两国关系的独特优势，中方愿同泰方在经贸、科技创新及新能源汽车等领域深化务实合作，助力两国经济社会发展，增进人民福祉。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261115-10000914",
+   "pubTime": "14:05",
+   "pubTs": "2026-11-15T14:05:55+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "郑丽文称国民党选情趋稳：相信我们会赢",
+   "summary": "台湾“九合一”地方选举临近，国民党主席郑丽文表示党内选情已趋于稳定，对此持审慎乐观态度。她强调投票率是胜选关键，呼吁支持者在11月28日投票日踊跃投票，并表达了对国民党最终赢得选举的信心。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261115-10000846",
+   "pubTime": "13:39",
+   "pubTs": "2026-11-15T13:39:14+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "韩外交高官：中方向韩方说明中朝交流情况",
+   "summary": "韩国外交部高层透露，中方在韩中外长会谈中说明了近期中朝交流情况，强调双方合作侧重经济领域。韩方在会上重申不应承认朝鲜拥核地位，中方对此表示理解，双方还就朝美领导人会晤的可能性交换了意见。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261115-10000347",
+   "pubTime": "13:26",
+   "pubTs": "2026-11-15T13:26:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "甘肃一地发起“见面即问您好”活动",
+   "summary": "甘肃省平凉市近期发起“见面即问您好”活动，旨在通过推广文明礼貌用语，重塑城市人际交往的善意秩序。当地官方已向全市职工发出倡议，引导市民主动开口问好，以此提升城市文明品质与人文环境。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261115-10000779",
+   "pubTime": "13:12",
+   "pubTs": "2026-11-15T13:12:51+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "习近平：携手共建亚太命运共同体",
+   "summary": "《求是》杂志发表习近平主席的重要文章，强调亚太各经济体应牢固树立命运共同体意识。文章指出，亚太是全球最具活力的经济板块，各方应顺应开放融合潮流，携手应对挑战，延续地区强劲发展势头。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2534658",
+   "pubTime": "15:08",
+   "pubTs": "2026-11-15T15:08:59+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "重仓AI硬件，让一批基金濒临清盘",
+   "summary": "受市场震荡及AI板块持续调整影响，多只重仓AI硬件领域的成长基金陷入清盘危机。长盛成长精选混合已因规模缩减触发清算，另有多只相关基金发布清盘预警，反映出当前市场风险偏好较低及产品规模收缩的现状。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2534655",
+   "pubTime": "14:51",
+   "pubTs": "2026-11-15T14:51:27+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "中专生拍出爆火AI短片 海外播放百万级、单集成本千元",
+   "summary": "中国创作者制作的《哈利·波特》二创AI短片在海外社交平台走红，单集播放量达百万级。该作品凭借出色的叙事节奏和低廉的制作成本，吸引了海外歌手及好莱坞制片人的关注，展示了AI影视创作在C端的商业潜力。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2534653",
+   "pubTime": "14:48",
+   "pubTs": "2026-11-15T14:48:26+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "霸榜热搜 BLG拿下S16总冠军 千亿电竞市场迎高光时刻",
+   "summary": "在2026英雄联盟全球总决赛（S16）中，中国战队BLG以3:1击败韩国战队Gen.G，成功夺得总冠军。这是中国赛区时隔五年再次捧杯，也是BLG建队以来的首座S赛冠军奖杯，引发全网热议与电竞市场关注。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2534646",
+   "pubTime": "12:54",
+   "pubTs": "2026-11-15T12:54:12+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "【明日主题前瞻】华为云宣布，首款昇腾原生具身世界模型来了",
+   "summary": "华为云将于11月16日正式发布首款昇腾原生具身世界模型CloudRoboWM1.2，旨在推动具身智能规模化落地。此外，市场关注点还包括即将召开的APEC深圳会议以及算力集群带动的交换机需求增长。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2533930",
+   "pubTime": "09:57",
+   "pubTs": "2026-11-15T09:57:06+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "创投资本“转向”：撤离具身智能，回流半导体",
+   "summary": "一级市场创投资金近期出现转向，部分资金从具身智能领域回流至半导体行业。数据显示，集成电路领域单周融资金额已超百亿元，投资者在筛选项目时更加看重企业的订单规模、商业化进展及实际业务能力。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2534602",
+   "pubTime": "08:22",
+   "pubTs": "2026-11-15T08:22:44+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "【早报】吴清发声！深化市场稳定长效机制研究，有效防范市场异常波动",
+   "summary": "证监会主席吴清表示将深化市场稳定长效机制研究，防范异常波动并保护投资者权益。此外，中美经贸磋商机制项下贸易理事会举行首次会议，国家医保局也发布了新增107种药品的2026年版国家医保药品目录。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2534592",
+   "pubTime": "07:00",
+   "pubTs": "2026-11-15T07:00:00+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
