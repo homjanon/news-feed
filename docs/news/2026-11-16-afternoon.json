@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "afternoon",
+ "editionName": "下午茶",
+ "date": "2026-11-16",
+ "fetched_at": "2026-11-16 15:20",
+ "translator": "gemini-3-flash(21条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "美国交通部长达菲：空中交通管制路由器广播功能被关闭，正接受调查",
+   "summary": "美国交通部长达菲表示，阿肯色州南部的一个路由器导致全美航班大面积停飞。调查发现，该空中交通管制路由器的广播数据功能被关闭。目前，特朗普政府正对此展开深入调查，以确定这一导致航空交通瘫痪的故障原因。",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNDhPN0ZLX2hXZGFxTVZ3QUxmcG9jb1RHVXBOcEk5NWVWQk5EZFdGZ1dSazM4T2lvY05yZ3B1N3Bqb1Bnc3hBQU0xT0NnV2FyajdxOUJQaVNjMTZnUGFCR1c4d3B3OTVnQUVTME1qNV84Rk5XMzZZWG9SdFRKeVR3M1pONGZJeXl1Y1JlUzdJRHZQenF2OXB3Q2NHSEUzdVVaSl93OWljc3J5SUgyNjVUV3NMc9IBuAFBVV95cUxPdUdtZjlvZG5NQ0Q0cGdDRjcwVkhwNW9fUXFhcmVOaDMxUWtmVF80ZWFjbjNNSldURkZDNTRjb1ExS01TM0gtazFsT2d6eE9wb2tiSzlVY0ZMNG8tMmRMd0dYR21HNWFWTVNUdzlmbi1VeHJPLVBqTHNtSFIwRV9YTEFXVkdWWTVmdzhoRE5Wc24zM2RFQWtqUHRLZEpLSFBEZlJCOGU3NVlEWTlQTmVRakZxUlg1TTlB?oc=5",
+   "pubTime": "15:07",
+   "pubTs": "2026-11-16T15:07:30+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "Megaspeed称黄艾丽斯已于2025年8月离职",
+   "summary": "新加坡公司Megaspeed表示，涉嫌与英伟达前首席执行官丑闻有关的黄艾丽斯已于2025年8月离职。该公司强调其为合法经营企业。此前，黄艾丽斯因被指控为中国间谍并卷入英伟达高层变动而受到广泛关注。",
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVTFteWE3T01VQ29ObzFtdi1VSlExVDZmWVAwWGM3YkdtZHliQXNEa0hQMjhkYTlKRDJqSnhEbU5VeEFKNnRQaWZ6bF9OZGpKdUs5OEFRTWQ4eHpySlJuZlJOY3NsaVdLUnJULXJrcVJWUHlpWkY2N01XTnZxOGhoN01BMXdyT2lwVjJn?oc=5",
+   "pubTime": "14:02",
+   "pubTs": "2026-11-16T14:02:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "晨报：英伟达财报发布在即，人工智能板块抛售潮重启",
+   "summary": "随着英伟达即将发布最新财报，市场对人工智能板块的担忧加剧，相关股票的抛售潮再次开启。投资者正密切关注英伟达的业绩表现，以判断AI行业的增长势头是否能够持续，这导致市场整体情绪趋于谨慎。",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcFRFLTFjUUlGa0plMjBTUHVpcVFwMXkzbWR2MWs3TnBjSE9tLUJWb2Z1Szg3MV9ON010RmN1VXJMMTRaMG51Ynp3ZEJBRTdnRXB6MzF6b2RzXzhDQlZIMXFZZ3BOTWIyN1ZyRi1xQ2dCbVVMNWliS1lubWVkb2plalJGWQ?oc=5",
+   "pubTime": "13:32",
+   "pubTs": "2026-11-16T13:32:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美股指期货下跌，交易员关注英伟达财报及Anthropic本周IPO",
+   "summary": "美国股指期货小幅下跌，市场正严阵以待本周的两大关键事件：英伟达的季度财报以及人工智能初创公司Anthropic的首次公开募股（IPO）。交易员们正根据这些重大财务动向调整仓位，导致市场波动性有所增加。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mcjluX1NZUEVzZ0dXVXFRX3c3SkZubmJJclpoSlNQVDV2TTloVERqNU54dnBhNG9oVTVObVJzMExPSkQyVEZzNkpmQ09sTWRTaWZwSjc1cEJiZ0k1U1NNZ1pJSVlKQlNidFcwT2NRLVJCbGVLMzln0gF8QVVfeXFMUG1YMkpQVmR5RkUzM0x4dkxzdjZsbV9MUTZWbl92M3BvT1lfWWYwX3RxZjBIMHd1cGdBYndYbkdXVmk4Y2hObFVKVUVlT0xmdTBNR21qd3M1YV80ZFI1eFQtbUpqbG1kQUpqSlVDc3hWbVJRUV8yU2lhcmRpeA?oc=5",
+   "pubTime": "13:28",
+   "pubTs": "2026-11-16T13:28:57+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "国际油价下跌，全球供应过剩担忧再度抬头",
+   "summary": "由于市场对全球原油供应过剩的担忧重新浮现，国际油价出现下跌。尽管发生了伊朗袭击巴林基地的事件，但原油期货仍连续两周录得跌幅。此外，特朗普政府的政策预期也对能源价格的持续走低产生了一定影响。",
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdktCeVItSmVGR2FrYkJfQ0tzR1doTXM2SnNLUUJ5ZW1td3ZpdkFFWEJNWUY0elhRZVhnSVZ0NjFuMGtkRmdaakpsVkpoblNScklHYnE0VXVNenFudUdrUjRYczJobTVDVnNvWVZfVFo3dTJ2WlItZ2g1SzNUaEtpdFU3TDBIYUdCcnNIZnZXWjVmWHdZQUdmejhSY0JkUWo4SXNrdk55cVdCYThFdHNtRNIBtgFBVV95cUxNalNBWlRlS2lkQWZVa2V1M0tOdTRNbGlnS0ZFZk1kSmJHOEMtTElOOHVlTDN4dzFCX1d2UmRwVHlkSDRPZ0tzakhGM2laWHRZM2Zna2xMazRXRWpTc0xaTGhwWG5ld3g4Q3pOaV8xNDNONFBXTmQtUzlTZC1raVdoNXd2dGNSNk1XdkRFajhuRS16d3ZmNl80bkRBZE1STl93WU5NdWtXSXpjUUNoaWJJVHdrRm40dw?oc=5",
+   "pubTime": "13:25",
+   "pubTs": "2026-11-16T13:25:32+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "律师称黄仁勋妻子或将获得巨额离婚赔偿",
+   "summary": "法律专家指出，根据加利福尼亚州的离婚法律，英伟达前首席执行官黄仁勋的妻子洛里·黄可能会获得一笔数额惊人的离婚结算金。鉴于黄仁勋约1450亿美元的身家，这起离婚案引发了外界对财产分割及公司股权变动的广泛关注。",
+   "source": "NewsNation",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcG02NkZQQnhOOS1mN0lXb1hpRkJra3lpemxCSlh0YngtaVYyaG9nenA3N0FGVk9uVENFLUdTMDJEbEdLNHhFcWZfdTREaV9SaExYN3VKcHVtTk0wYXphMDRVb1NyUmpPeTRUM0NmSFY1Z0YwWVNyYThRb0xVWDM4di1ZUlpmVG1mSGlV0gGQAUFVX3lxTE1nZktoUS1pMFVWLVMzc3NQR3FJLW5leG9ObUF6MzJsdUVROUpYSU4wUUZYNFRoaThyR0JKMDhJWWZFM3RsV0JKcUQzQjhVZUl4T0p2cXc1ZVczMFhad1NqMTI2d2M1Q2NIZVVSWmMzeWNJQmtDMjR6bUIzMXgtOUgwS05KRFFJeV9LX2owSzN5ZQ?oc=5",
+   "pubTime": "13:11",
+   "pubTs": "2026-11-16T13:11:22+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "贝森特呼吁英伟达重组，首席执行官搜寻工作引发争议",
+   "summary": "美国财政部长贝森特对英伟达的首席执行官搜寻工作提出批评，呼吁公司必须从外部寻找新任CEO。贝森特警告称，英伟达需要进行彻底重组，并要求公司尽快就领导层变动给出答复，这一强硬立场使得英伟达的未来走向更具不确定性。",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZVBETnNKak9BME5HaDEzOXN3TzctS3kzWUVadDVaem9wVDExVFJqb0NSMEdoZG01cXFmLTJSaFJzSkhxOTRYelRQcXYxSTl6OUdzaTE3LW9KM3FTRWh0bUZWY1BKMmNaUWVvN1luaTczdVhWTXZHVnFJSWwzZ3Z5R1JIYVljbUl5UmY3bGZfWW1tZnJOaUMwYnpQVElIekFHMjJyUDR3a0NBYVNKZkhtbGdJSQ?oc=5",
+   "pubTime": "13:07",
+   "pubTs": "2026-11-16T13:07:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "亚马尔疑转发歧视亚裔作品 有网民要求道歉",
+   "summary": "西班牙球星亚马尔因疑似在社交平台转发一段带有“ching chong”等歧视亚裔言论及丑化形象的动画视频，引发中国网民强烈不满。尽管该视频随后被删除，但相关话题已冲上微博热搜，部分网民要求其公开道歉。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261116-10005816",
+   "pubTime": "15:09",
+   "pubTs": "2026-11-16T15:09:47+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "再有民调显示沈伯洋支持度领先蒋万安",
+   "summary": "台湾“九合一”选举临近，最新民调显示民进党参选人沈伯洋的支持度领先现任市长蒋万安。两份民调显示的领先幅度不同，其中《锋灿传媒》民调中沈伯洋以44.7%微弱领先蒋万安的43.0%，双方差距仅1.7个百分点。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261116-10005605",
+   "pubTime": "14:45",
+   "pubTs": "2026-11-16T14:45:42+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "李强：国际经贸限制大幅增多 中国与亚细安仍坚定维护多边主义",
+   "summary": "中国总理李强在马尼拉出席中国-亚细安领导人会议时表示，尽管国际经贸限制增多且局势动荡，双方仍坚定维护多边主义。去年双方贸易额已突破1万亿美元，双向投资累计超5000亿美元，展现出强劲的合作韧性。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261116-10005548",
+   "pubTime": "14:38",
+   "pubTs": "2026-11-16T14:38:56+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "中国统计局呼吁客观、辩证地看待月度指标波动",
+   "summary": "针对10月部分经济指标增速回落，中国国家统计局表示应客观辩证看待。发言人王冠华指出，月度波动受季节性因素和基数影响属正常现象，且今年中秋错月导致部分需求提前在9月释放，强调全年目标实现仍有支撑。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261116-10005423",
+   "pubTime": "14:19",
+   "pubTs": "2026-11-16T14:19:25+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "蒋万安将出席民众党选前大型造势活动",
+   "summary": "台湾民众党主席黄国昌证实，国民党籍台北市长蒋万安已答应出席民众党于11月21日举行的选前大型造势活动。黄国昌表示双方互动融洽，希望通过此次全台大造势提振士气，为“九合一”选举做最后冲刺。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261116-10005300",
+   "pubTime": "14:03",
+   "pubTs": "2026-11-16T14:03:16+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "“湘超”球迷拉侮辱性横幅 两人被行拘",
+   "summary": "在湖南省足球联赛“湘超”四分之一决赛现场，个别人员因呼喊不文明口号及展示侮辱性横幅扰乱秩序，被公安机关依法传唤。目前两名违法行为人已被处以行政拘留五日，其余涉案人员分别受到警告或罚款处罚。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261116-10004995",
+   "pubTime": "13:54",
+   "pubTs": "2026-11-16T13:54:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "香港特首李家超明天赴深圳出席APEC会议",
+   "summary": "香港特首李家超将于11月17日赴深圳出席亚太经济合作组织（APEC）相关会议，包括工商领导人峰会及领导人非正式会议。期间他将与各经济体领导人举行会谈深化合作，随行人员包括商经局局长丘应桦等。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261116-10004895",
+   "pubTime": "13:28",
+   "pubTs": "2026-11-16T13:28:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "港股评级汇总：国投证券维持TCL电子买入评级",
+   "summary": "财联社汇总港股评级，国投证券、国金证券等多家机构维持TCL电子“买入”评级。研报指出，该公司前三季度业绩高增，受益于电视产品结构升级、海外渠道深化及互联网业务增长，与索尼的合作也打开了成长空间。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2535368",
+   "pubTime": "15:12",
+   "pubTs": "2026-11-16T15:12:27+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "齐创新低！多家AI硬件龙头H股重挫逾10% 供应链风险情绪仍在传导",
+   "summary": "港股AI硬件产业链遭遇抛售，罗博特科、中际旭创等多只龙头股跌幅超10%并创上市新低。市场主要受英伟达管理层人事风波及财报发布前的不确定性影响，投资者情绪趋于观望，导致供应链风险持续传导。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2535335",
+   "pubTime": "15:12",
+   "pubTs": "2026-11-16T15:12:15+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "不要无脑恐慌割肉 伯恩斯坦：这些AI概念美股正被“错杀”",
+   "summary": "伯恩斯坦分析师指出，近期投资者因担忧数据中心建设受阻而盲目抛售AI概念股，导致部分优质标的被“错杀”。报告认为，戴尔、希捷等公司对建设周期的风险敞口有限，目前的估值回调为投资者提供了低价买入的良机。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2535237",
+   "pubTime": "14:49",
+   "pubTs": "2026-11-16T14:49:04+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "克里米亚大桥遭袭 交通受限",
+   "summary": "俄罗斯克里米亚地区行政长官表示，克里米亚大桥于11月16日遭到袭击，导致大桥交通通行暂时受限。目前相关部门已展开应急处置，预计限制将持续至当日中午，俄方尚未透露袭击造成的具体损失情况。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2535316",
+   "pubTime": "14:45",
+   "pubTs": "2026-11-16T14:45:31+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "西部证券陈焕：化债重塑城投信用，产业债走向舞台中央",
+   "summary": "在2026财联社债券融资论坛上，西部证券陈焕指出，本轮化债旨在化解隐性债务，重塑金融资源配置。随着化债推进，城投平台的政府信用背书将逐步退出，市场将转向政府显性债务与市场化主体债务，产业债地位将日益凸显。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2535257",
+   "pubTime": "14:15",
+   "pubTs": "2026-11-16T14:15:24+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "海外研选日报1116 | 摩根士丹利：标普500指数明年底有望升至8700点",
+   "summary": "财联社海外研选显示，摩根士丹利看好标普500指数明年底升至8700点。高盛则指出，近期美股科技板块反弹主要由仓位改善驱动，市场对AI投资前景仍存分歧，且纳指100等技术面尚未完全修复。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2535201",
+   "pubTime": "13:53",
+   "pubTs": "2026-11-16T13:53:35+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "石墨烯产业步入落地检验期：场景多点铺开 算力散热与高比能电池前景广阔",
+   "summary": "2026中国石墨烯材料应用博览会透露，石墨烯产业已进入商业化落地检验期。专家指出，随着人工智能发展，芯片及大功率器件对散热需求日益迫切，石墨烯在算力散热及高比能电池领域的应用价值正加速显现。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2535197",
+   "pubTime": "13:28",
+   "pubTs": "2026-11-16T13:28:22+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
