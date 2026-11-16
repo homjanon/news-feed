@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "night",
+ "editionName": "夜豆浆",
+ "date": "2026-11-16",
+ "fetched_at": "2026-11-16 22:30",
+ "translator": "gemini-3-flash(21条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "GLP-1类药物热潮背后的副作用隐忧",
+   "summary": "随着Ozempic和Wegovy等减肥药走红，其潜在副作用引发关注。尽管严重并发症罕见，但美国FDA已发布新警告，眼科专家也提醒需警惕视神经病变等风险，提醒使用者在追求减重效果的同时不可忽视健康安全。",
+   "source": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR1JqNXhZX00wVUZJM3R4dEl3Sk5USHRqbFZBdmhJYWU3cmpOMk1MTGxteV9iMVpsOVczUzJRTXFVZGNMMEZBOExpMUx2UEo4N1dMaGFySEZEQWFWTTZlY0JzVjViQXZJc3dMYW92U1pTeGYzSjJzUHNTVnk2MHhkZmx6WWdaSlNsSHNZVmZnVUNGREdyWk12bm1kMGdSUURiMDgwZTdENGsyOTY1bnBXTlowNkVQQ1NiaEJaeUd3?oc=5",
+   "pubTime": "22:02",
+   "pubTs": "2026-11-16T22:02:29+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "英伟达领跌AI板块，美股指期货集体下滑",
+   "summary": "受英伟达股价走低拖累，人工智能板块集体下挫，导致美股指期货全线走低。市场正密切关注英伟达即将发布的财报及Anthropic的IPO进展，投资者在关键的一周到来前表现出谨慎态度，科技股普遍承压。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mcjluX1NZUEVzZ0dXVXFRX3c3SkZubmJJclpoSlNQVDV2TTloVERqNU54dnBhNG9oVTVObVJzMExPSkQyVEZzNkpmQ09sTWRTaWZwSjc1cEJiZ0k1U1NNZ1pJSVlKQlNidFcwT2NRLVJCbGVLMzln0gF8QVVfeXFMUG1YMkpQVmR5RkUzM0x4dkxzdjZsbV9MUTZWbl92M3BvT1lfWWYwX3RxZjBIMHd1cGdBYndYbkdXVmk4Y2hObFVKVUVlT0xmdTBNR21qd3M1YV80ZFI1eFQtbUpqbG1kQUpqSlVDc3hWbVJRUV8yU2lhcmRpeA?oc=5",
+   "pubTime": "21:56",
+   "pubTs": "2026-11-16T21:56:04+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "特朗普被曝丑闻前曾持有价值高达6200万美元英伟达股票",
+   "summary": "据《华盛顿邮报》报道，在相关丑闻爆发前，特朗普持有的英伟达股票价值已增至约6200万美元。报道指出，特朗普在任职期间曾协助修改芯片出口规则，此举对该芯片制造商有利，引发了公众对其利益冲突的质疑。",
+   "source": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPalJ6aGJjaVBRcGpoZmx6WmJ2RFloSnFJdDJWMmlTOG5qS2ZTTTdVTUZhenF6eXoxNEtHRHhJNHFDb1NKNEhGOGY3UjV2dVI2eHdiZmVnb1BEWVdXRTY1NjRFbm0xdUJnQzY5QlZTWnZuQ2FKQ1VqeExkSWtDR21qQkpNcVhFRll0VnN2eGNjMm5uWTJLSEkzTENCVmRyVG5rWGppSnBDcC1ldlZFanpsOXhQblFkSjZU?oc=5",
+   "pubTime": "21:55",
+   "pubTs": "2026-11-16T21:55:27+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美国拟限制远程访问先进AI芯片以堵塞出口管制漏洞",
+   "summary": "美国商务部正采取行动，限制通过第三方国家远程访问先进人工智能芯片的行为。此举旨在堵塞现有的监管漏洞，防止中国企业利用云端计算能力绕过出口管制，进一步收紧对高性能AI硬件的获取渠道。",
+   "source": "Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3diZGZDaW14MTdtajJNSTFnMXF3MWtpODZRZDN3UVVRZXBwQllnQXFRRUFYbTAzQmJkLW1qTDAzZDhyYW54UjdBVjFrZVRzV3JiTVRTdmlybkVtRnZVSWlMTnFvYVp3dkFGeWhUVFdrUE1Na3E0WTVuekRuSm5jN1A2aDBnb1NjYXRhYmJfdjlBQWY1X093Q1hHTDM4ZzNhdlYwNVRn?oc=5",
+   "pubTime": "21:33",
+   "pubTs": "2026-11-16T21:33:27+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "AI关键周拉开序幕，科技股承压拖累美股大盘",
+   "summary": "在人工智能行业迎来关键财报周之际，英伟达业绩的不确定性令科技股普遍承压。标普500指数和纳斯达克指数受此影响收跌，投资者在等待英伟达财报公布期间情绪谨慎，市场整体波动性因AI板块的动荡而有所增加。",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdy10SlNMRlFPdjFwZnBNZEwybjZLOGwxdENoX2wxZWpLTlB0bXNvbFctREtRcThZUXcxRUV6ZXlYSVZjR0d1MVNEaHNvVDJfVXVvZEN6MFJMMUF0VnNTMHFTWmtIZzVKMWxCM1BMU3l6UEJUWWVnbzNvTG13TmhQUjNPZlJYQlU?oc=5",
+   "pubTime": "21:19",
+   "pubTs": "2026-11-16T21:19:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "供应担忧挥之不去，国际油价回吐早盘涨幅",
+   "summary": "受市场对原油供应过剩的持续担忧影响，国际油价在早盘上涨后出现反转，回吐了此前录得的全部涨幅。投资者正密切关注全球需求变化及主要产油国的产量政策，市场情绪在供应压力下显得较为低迷。",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUDJZaXFhY1pnSUd1OEp5V2NtbWc2Z2ZvUW41OU1pOGdBWVRPbllCZWhHMExvNWlsSjR3cmFsNFpjV0d1WkRGTEdUcEZNMUNfZ19lS1oxQTlDanlUMXZxZzV4NVhNd29tZWJ6bUI2a0E2SnhPSmJZRVViNUgtREpsZmVUOWN3TFFoU1BTRURIOUZCOGlkNkc0TU41TlNMeTB6b09XSk9MSE92YXBtOFh4WXd5ajFRR3Nna3YxdmxPdEg?oc=5",
+   "pubTime": "20:56",
+   "pubTs": "2026-11-16T20:56:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "英伟达将举行首次“后黄仁勋时代”简报会",
+   "summary": "英伟达准备举行首次关于公司在黄仁勋之后领导层规划的简报会。当前AI行业正面临泡沫破裂风险及政治环境变化的挑战，此次会议将探讨英伟达如何在动荡的市场环境和监管压力下，继续维持其在人工智能领域的领导地位。",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSUUza3ZRN2NNQUpGVUY5X09sVHVOSFVBamhPQklHQ1dFbjV1X1hKaWVPQTBjSmxyM0c3QUtqcmlaSndRaW5OdkJ2WW80WHhQcVJ1YWhpdFVxVzRiTmFBZENZS3AtS3hfeW1pYkRtWW81TXlzT0E4d2FQU3FDQ2Q3U08yYXVJNlFFdEoySTZGeC0wWUdqd0xlMlRFOA?oc=5",
+   "pubTime": "20:48",
+   "pubTs": "2026-11-16T20:48:44+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美国索要三倍驻军费 日本拟砍半应对",
+   "summary": "日美正就未来五年驻日美军经费分摊进行磋商。针对特朗普政府提出的3万亿日元（约为现行水平三倍）的高额要求，日方计划采取不完全满足的策略，拟将最终金额控制在1.5万亿日元左右。现行协议将于2027年3月到期，双方自今年7月起已展开多轮交涉。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261116-10008369",
+   "pubTime": "22:12",
+   "pubTs": "2026-11-16T22:12:54+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "男子东京街头行刺 致一女子伤重身亡",
+   "summary": "日本东京中野区街头发生持刀伤人事件。一名20多岁女子颈部被刺伤，送医后不治身亡。警方已逮捕一名涉嫌抢劫未遂和谋杀的三四十岁男子。据报道，该男子在行刺后曾逃离现场，目前案件详情仍在进一步调查中。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261116-10008594",
+   "pubTime": "21:51",
+   "pubTs": "2026-11-16T21:51:16+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "苏格兰威尔士堕胎去罪化生效 曾获罪女性自动得到赦免",
+   "summary": "英国英格兰和威尔士地区的堕胎去罪化法案正式生效。根据新规，自行终止妊娠的女性不再构成刑事犯罪，此前因违反19世纪旧法而获罪或受警告的女性将自动获得赦免。此举废除了最高可判终身监禁的陈旧法律，旨在保障女性权益。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261116-10008316",
+   "pubTime": "21:14",
+   "pubTs": "2026-11-16T21:14:20+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "中美俄元首周四会晤 中方促共同合作应对全球挑战",
+   "summary": "中国外交部确认，国家主席习近平将于本周四在深圳同俄罗斯总统普京、美国总统特朗普举行会晤。这是史上首次中美俄元首面对面会晤，具有开创性意义。三方将围绕维护世界和平、促进大国关系战略稳定及应对全球挑战等议题深入交换意见。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261116-10007041",
+   "pubTime": "20:21",
+   "pubTs": "2026-11-16T20:21:04+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "为防范高考AI作弊 韩政府拟收考场智能设备并屏蔽公共WiFi",
+   "summary": "针对近期有考生自曝利用人工智能技术在国家考试中作弊，韩国政府计划在即将举行的全国高考中加强管控。具体措施包括在考场收缴智能设备并屏蔽公共无线网络（WiFi）。国务总理韩圣淑强调，政府将集中力量严防利用电子设备作弊，维护考试公平。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261116-10008163",
+   "pubTime": "20:14",
+   "pubTs": "2026-11-16T20:14:05+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "传黄仁勋拟回巢 美财长：英伟达须对外选帅彻底重整",
+   "summary": "消息称英伟达前CEO黄仁勋正与亲信讨论重返公司的可能性，其团队正游说硅谷高管及白宫支持。然而，美国财长贝森特公开表示，英伟达应从外部选拔新帅并进行彻底重组。黄仁勋于本月12日辞职，目前英伟达尚未对此传闻作出回应。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261116-10006718",
+   "pubTime": "20:08",
+   "pubTs": "2026-11-16T20:08:21+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "欧盟拟新增113项对俄制裁 俄斥此举损害和平进程",
+   "summary": "欧盟计划对俄罗斯实施包含113项内容的新一轮制裁，重点针对参与网络攻击的个人，旨在施压俄方结束军事行动。克里姆林宫对此表示强烈反对，认为此举损害了当前的和平进程。与此同时，欧盟已商定由英法德意波等国代表欧洲参与新一轮多方和谈。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261116-10007482",
+   "pubTime": "18:27",
+   "pubTs": "2026-11-16T18:27:09+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "瑞晟智能拟定增募资不超9600万元 投建智能物流搬运机器人及系统产业化项目|速读公告",
+   "summary": "瑞晟智能公告称，拟以简易程序向特定对象发行股票，募集资金不超过9600万元，用于投建智能物流搬运机器人及系统产业化项目。该项目总投资约1.16亿元，旨在通过引进先进设备，提升具身智能机器人及AGV等产品的规模化生产与交付能力。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2535910",
+   "pubTime": "22:05",
+   "pubTs": "2026-11-16T22:05:27+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "金价跌至一年多来最低水平 美股纳指期货跌近1.3% | 今夜看点",
+   "summary": "周一美股盘前三大期指集体走低，纳指期货跌近1.3%，金价则跌至一年多来最低水平。投资者正密切关注英伟达即将公布的财报及AI巨头Anthropic的IPO。受市场情绪影响，英伟达盘前跌近3%，英特尔、超威半导体等芯片股也普遍走弱。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2535893",
+   "pubTime": "21:30",
+   "pubTs": "2026-11-16T21:30:36+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "百度AI业务收入连续三季占比过半 李彦宏：AI云投资回收周期在缩短",
+   "summary": "百度发布2026年第三季度财报，总营收达308亿元。其中AI业务收入同比增长37%至132亿元，占一般性业务收入的53%，已连续三季占比过半。得益于无长期资产减值及成本管控，百度本季实现净利润约14亿元，同比扭亏为盈。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2535894",
+   "pubTime": "21:25",
+   "pubTs": "2026-11-16T21:25:31+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "港股公告精选｜华住集团三季度净赚18亿元 华润电力前10月光伏发电量增约四成",
+   "summary": "港股多家公司发布业绩公告。华住集团第三季度收入78亿元，净利润达18亿元，酒店营业额同比增长11.3%；华润电力前10月累计售电量同比增长11%，其中光伏发电量大幅增长约四成；完美医疗中期收入4.83亿港元，利润实现1.45亿港元。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2535860",
+   "pubTime": "21:11",
+   "pubTs": "2026-11-16T21:11:31+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "科技巨头深度绑定Anthropic，一场IPO牵动整个AI产业链",
+   "summary": "AI巨头Anthropic预计于本周四在纳斯达克上市，计划通过IPO及私募配售筹集260亿美元。谷歌、微软、英伟达等科技巨头均参与投资，产业链利益深度绑定。在行业压力增大及英伟达高层变动的背景下，此次IPO对整个AI产业具有极高的风向标意义。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2535827",
+   "pubTime": "20:25",
+   "pubTs": "2026-11-16T20:25:13+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "合计707亿元！千亿PCB龙头拟向多家银行申请授信额度|盘后公告集锦",
+   "summary": "胜宏科技公告称，拟向浦发、平安等多家银行申请合计707亿元的综合授信额度，用于满足公司运营资金需求。此外，骏成科技宣布拟斥资7.65亿元采购9000张GPU卡，以夯实研发中心及数据中心的基础设施建设，提升公司技术研发实力。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2535824",
+   "pubTime": "20:17",
+   "pubTs": "2026-11-16T20:17:31+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "60天账期从“承诺”变“铁律” 17家车企将迎常态化年度“大考”",
+   "summary": "中国汽车工业协会宣布，将对17家重点车企的供应商账款支付情况开展常态化调研评估，推动“60天账期”承诺制度化。评估采取车企定期报送与样本供应商抽查相结合的方式，要求企业每年两次报送账款支付报告，旨在规范行业支付行为，保障供应商权益。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2535815",
+   "pubTime": "20:05",
+   "pubTs": "2026-11-16T20:05:58+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
