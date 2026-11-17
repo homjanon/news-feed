@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "night",
+ "editionName": "夜豆浆",
+ "date": "2026-11-17",
+ "fetched_at": "2026-11-17 22:30",
+ "translator": "gemini-3-flash(21条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "家得宝业绩拖累道指期货下跌200点，市场静待英伟达财报",
+   "summary": "受家得宝业绩疲软拖累，道指期货下跌200点，标普500期货亦走低，而纳斯达克期货在英伟达财报发布前小幅上涨。投资者正密切关注英伟达的业绩指引以及Anthropic的IPO动向，以寻求科技股反弹的新动力。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZX1A1ZUpLQzUwdUhDWHJmSktxM0JhR1RsZU43OTR1TndFamZ4LXBqcjJKakZyWWFHeHVzdHhLM0JRYnJnemNXVHpsT0dXYm9WWWRUdXUxXzc0VV9yUkF5QlBGLTA4WkVOTFpvb0NDQ0p4d0lpbzVj0gF8QVVfeXFMUGFfWnJDSW5odWJYOGZPaks3ZUtHZUxHSkVrdDVmeVY3UnhPX0ExTVFXVmQ2Qjd6eVNXbHowQnBzNmJobUNvOTRSRW5IZVFWVk5xOVNwV3ViT3haX1R1S0J1YW8wMU1pdmVZMFNacFg2YnlvdlFnanVBM0RJTA?oc=5",
+   "pubTime": "22:26",
+   "pubTs": "2026-11-17T22:26:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "达菲寻求500亿美元拨款以避免停飞，专家称资金并非核心问题",
+   "summary": "美国交通部长提名人达菲提议拨款500亿美元以升级老旧的空中交通管制系统，避免再次发生大规模停飞。然而专家指出，FAA长期使用软盘等过时技术，系统性风险并非单纯靠资金就能解决，国会需正视系统现代化的紧迫性。",
+   "source": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMGg1T2NkLUNxb3ljNkhUejdxTWtSTEM2X0FtcHMzRUdhOUQ4czhOcTlZSGI0MmpaazdxMFh4bmJ3NGN5ZHRJYUxKdDRDWGgzTXIxeXBTU3Ryay1tdnN0MzB3dnhJSVZSSTZhZ05IX0Z3X1EzSVp3NkFGU1gtOHBzNmoyVDZuRDFicWpLcU9CdEt3V2dOZW5nd1o0VDhscHZBekZaR0EtN19oNmdMcVdVbjFIUVhYSHFDZDFDYXlySmFOWmJRRG1aYk0xSUNyZzRp?oc=5",
+   "pubTime": "21:55",
+   "pubTs": "2026-11-17T21:55:20+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "期权市场显示英伟达财报后市值波动或达3350亿美元",
+   "summary": "期权市场数据显示，在英伟达即将发布财报之际，其股价可能面临高达3350亿美元的市值波动。投资者正屏息以待，关注其业绩表现及未来指引是否能在近期市场动荡中安抚情绪，同时黄仁勋离职后的后续影响仍是市场焦点。",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcVgtN05zY1JHMFRsZlg2WkdkdGNRMDV4bFl4RllkcWFvVEVyd0QxTUhZWERjUmhIWTlOTkxiNHpxQjJpQTV1ZU45dGNmT2M5MDd4ZkRZeHNxSGNjaTFPdHUyRXJEdHlrSGRuWUlaX0VDRkpWNG9CS2UySmxFajBDQ1NjU0JMcUl6NFNmbFZoOXYyY19GMExQSkZva2VWMWUtUGpLRG93TkRhWHRU?oc=5",
+   "pubTime": "21:09",
+   "pubTs": "2026-11-17T21:09:01+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "德意志银行泄密文件披露5.82亿美元爱泼斯坦款项及特朗普税务信息",
+   "summary": "德意志银行最新泄露的文件揭示了其与爱泼斯坦之间高达5.82亿美元的资金往来，并意外披露了特朗普的税务信息。此外，记录还显示该行曾拉拢俄罗斯寡头，并多次无视针对高风险客户交易的内部警告，引发严重合规质疑。",
+   "source": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUFI1Tm1KVTlOUVl3Yl9meEpBOVdYQ1l3b0pRZjlyampkdUo3SDNZSXJXUjB4ZUh3S3pVc2toYlp3WnFmMlFycUtISVRjSUZzR3EzX2dHbGxXVHpyLWZINXluYWtjc18zXzUyNTBYdk5mRldIRHRHTVZhcTNwNEJ4YTU2SEhMbFhmVWEtUmR1b3JVUk5wZDJtUWpSMGFPNnRnc3h5QXpiUXI1QlBVcHUwU1ZuT1BzcHhydXluT01DbXo?oc=5",
+   "pubTime": "21:08",
+   "pubTs": "2026-11-17T21:08:48+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "英伟达在芯片出口受限后成立董事会出口管制委员会",
+   "summary": "在对华芯片销售面临严密审查及前首席执行官黄仁勋离职后，英伟达董事会宣布成立出口管制与国家安全委员会。该委员会旨在加强对出口业务的监督，应对日益严格的监管环境，并确保公司在全球芯片贸易限制下符合国家安全要求。",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQWxyajYtdjVkUkVrcGYzOVFNc0wzclpPdXZvZHIyUnEwU2VzNkF6ZENhZ3Y2aWMwaW9BQUF2RG1uVng2Tk5JR2wwZUJXcTRjVlRFbS1FUzhOYWZENnczaUN1WEtBVVlRTUZuTGtSbzhaUHh1ZDBvbGgyZGN2Y0QxbUxzR2tYOFR5WlQ3bXNWVGpQYlFZNG1jaGcyMzNieG14Z0x3cVNtcFJJd21lcWVsMQ?oc=5",
+   "pubTime": "20:14",
+   "pubTs": "2026-11-17T20:14:39+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "耐克举办九年来首次投资者日活动，力求优化业务规模",
+   "summary": "耐克公司举办了九年来的首次投资者日活动，旨在向市场展示其优化业务规模及扭转业绩颓势的战略。由于公司转型进程慢于预期，耐克必须在会上捍卫其经营策略，以重塑投资者信心并应对来自竞争对手的挑战。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SS3JxeW90T240aEQ1WW5aWFk3M1NDeWhfb0tfTmNraGwwNE1rOExjOXByREE5cjBLS3ptWDZkRXRjbjNXVnR2ZUppRTRiaXhqTVpZbFRzRnhjQzI3NHlyUUo4VjJJamFDZ2RpU2dCTzE3MldfWmfSAXtBVV95cUxObjVfOW9nalRJSExPdmJEb2szZFJydVRpQ0ozVkwwbG9YNHNiUzhJbWhDUFpRUi13YzhGaGRZYmRpQ0duM0RWZ1RneWpYUzNxREQ2RUZLb2dLMmUzZlFOYmJzektMMFZzRV9VaU9vSG1DSVIzV3JYdGViUWs?oc=5",
+   "pubTime": "20:00",
+   "pubTs": "2026-11-17T20:00:01+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "恢复黄仁勋职位的呼声考验科技巨头首席执行官的问责制",
+   "summary": "随着要求恢复黄仁勋英伟达CEO职位的呼声日益高涨，甚至获得特朗普的支持，科技界正面临对明星CEO问责制的考验。然而，关于其家属与中资背景数据中心的关联引发了广泛争议，专家对于此时恢复其职位的潜在风险表示担忧。",
+   "source": "Axios",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYU5zbnBpbW9QZ1IxRzM2cWNSYmVFcnlyeUkzdE9YcWtwWXBFNTZNblpXZWRyYjVMNnZEX04tSUFLLU9mdm1fTTVQSWFDY2tRY1dXQms4WHhlUDdPU1oxeU5obDNOVnlsSVh1VkZYM2tPTzNkUHljVTFoMVdrb1R0QWhETQ?oc=5",
+   "pubTime": "19:50",
+   "pubTs": "2026-11-17T19:50:32+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "无视美科技巨头反对 美国拟限进口中国数据中心设备",
+   "summary": "尽管亚马逊、谷歌等科技巨头强烈反对，特朗普政府仍计划限制进口中国产数据中心设备，包括光收发器。美企警告合规调整或需十年，但相关限制措施仍在推进中。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261117-10014687",
+   "pubTime": "22:20",
+   "pubTs": "2026-11-17T22:20:29+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "四方安全对话声明：反对破坏和平的单边行动",
+   "summary": "美日印澳“四方安全对话”领导人发表联合声明，坚决反对通过武力或胁迫手段单方面改变现状、破坏地区稳定的行动，并对实施出口限制等经济胁迫行为表示严重关切。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261117-10014702",
+   "pubTime": "22:12",
+   "pubTs": "2026-11-17T22:12:12+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "英首相称脱欧十年失多于得",
+   "summary": "英国首相伯纳姆表示，脱欧十年使英国经济损失约4%至8%，失去的多于得到的。他提出将重新审视英欧关系，并计划与欧盟伙伴讨论长期合作选项，向国会提交评估报告。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261117-10011871",
+   "pubTime": "21:24",
+   "pubTs": "2026-11-17T21:24:24+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "特朗普：美国认真对待伊朗或在华盛顿引爆脏弹",
+   "summary": "美国总统特朗普表示，美方正高度重视并调查有关伊朗可能在华盛顿策划“脏弹”袭击的消息，并警告若威胁属实，对方将付出惨重代价。伊朗外交部则否认相关指控。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261117-10014463",
+   "pubTime": "21:20",
+   "pubTs": "2026-11-17T21:20:58+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "乌克兰空袭致克里米亚大桥部分坍塌",
+   "summary": "乌克兰连续两天袭击克里米亚大桥，导致部分公路拱桥结构坍塌并落入海峡，航运受阻。总统泽连斯基证实此举是对俄军轰炸乌方基础设施的回应，目前大桥交通已暂停。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261117-10014437",
+   "pubTime": "21:18",
+   "pubTs": "2026-11-17T21:18:23+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "美俄领导人释放会晤信号 金正恩现身朝中边境引猜测",
+   "summary": "亚太经合组织会议即将在深圳举行，特朗普与普京均释放可能在峰会期间会晤朝鲜领导人的信号。金正恩此时现身朝中边境地区，引发外界对其即将赴华参加首脑会谈的猜测。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261117-10014205",
+   "pubTime": "20:53",
+   "pubTs": "2026-11-17T20:53:40+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "美国政府内斗白热化 特朗普图淡化分歧力挺卢特尼克",
+   "summary": "美国内阁围绕对华政策及英伟达芯片转运问题产生严重分歧。商务部长卢特尼克因涉嫌阻挠打击行动遭批评，但总统特朗普公开为其辩护，试图淡化其与财政部长之间的矛盾。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261117-10012706",
+   "pubTime": "20:37",
+   "pubTs": "2026-11-17T20:37:45+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "主动ETF挂牌上市在即 创新产品为“长钱”入市再添载体",
+   "summary": "首批18只主动ETF将于11月23日挂牌上市，合计募集资金360亿元。该类产品填补了场内主动权益工具空白，融合了专业投研能力与标准化优势，为投资者提供高效投资工具。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2537104",
+   "pubTime": "22:25",
+   "pubTs": "2026-11-17T22:25:39+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "Anthropic尚未上市便获“买入”评级 机构目标价最高达105美元",
+   "summary": "AI公司Anthropic即将上市，多家机构提前发布看多报告，最高目标价达105美元。公司计划通过IPO及私募配售筹资最高约903.5亿美元，市场普遍看好其长期发展前景。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2537099",
+   "pubTime": "22:16",
+   "pubTs": "2026-11-17T22:16:33+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "小K快评：腾讯为何要“再创业”？",
+   "summary": "腾讯在成立28周年之际号召全员在AI时代“心态归零”并再次创业。公司强调组织扁平化、打破山头主义，反映出AI冲击已从技术层面延伸至组织架构，引发科技产业深刻变革。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2537102",
+   "pubTime": "22:15",
+   "pubTs": "2026-11-17T22:15:19+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "年内52家科创板半导体公司披露回购方案，合计金额上限143亿元",
+   "summary": "今年以来，52家科创板半导体公司披露回购方案，金额上限合计达143亿元，其中10月以来披露金额占比超八成。此举体现了产业层面对行业前景的信心，涵盖设计、设备及制造等环节。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2537089",
+   "pubTime": "21:52",
+   "pubTs": "2026-11-17T21:52:07+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "科技股反弹纳指期货涨0.37% 英伟达财报与Anthropic IPO接踵而至 | 今夜看点",
+   "summary": "美股科技股盘前企稳，纳指期货小幅走高。市场焦点集中在英伟达即将公布的季度财报以及Anthropic的首次公开募股，这两大事件将成为衡量市场对AI投资热情的关键风向标。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2537068",
+   "pubTime": "21:30",
+   "pubTs": "2026-11-17T21:30:12+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "通用汽车加码机器人，北美工厂自动化应用据报拟增20%",
+   "summary": "通用汽车计划到2028年将北美工厂的自动化应用增加20%，并正自主研发移动机器人。此外，公司还要求参与竞标的零部件供应商提交自动化计划，以全面提升供应链的生产效率。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2537063",
+   "pubTime": "21:28",
+   "pubTs": "2026-11-17T21:28:40+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "9.5亿元！ 欧科亿拟投建AI PCB钻针用超细硬质合金棒材等项目",
+   "summary": "欧科亿拟定增募资不超过9.5亿元，用于数控刀具产业园产能提升、高精密磨制刀片升级及AI PCB钻针用超细硬质合金棒材研发等项目，旨在通过技术升级进一步扩大生产规模。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2537065",
+   "pubTime": "21:17",
+   "pubTs": "2026-11-17T21:17:18+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
