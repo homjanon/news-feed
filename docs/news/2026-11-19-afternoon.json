@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "afternoon",
+ "editionName": "下午茶",
+ "date": "2026-11-19",
+ "fetched_at": "2026-11-19 15:20",
+ "translator": "gemini-3-flash(21条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "Waymo暂停全美高速公路无人驾驶出租车服务",
+   "summary": "谷歌母公司Alphabet旗下的Waymo宣布，在加州发生多起交通事件后，将暂时停止其无人驾驶出租车在全美高速公路上的运行。此前加州已发布相关禁令，Waymo此举旨在应对安全担忧并重新评估其自动驾驶系统的表现。",
+   "source": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbldKa1dEUWkwU2k5X254WGpCS1RDbFlWcmZ4UktIdHY3OWhNNExnNXlTbDI5TVlVQXZ3b0pLcU1iRTJSZ2FMd3ZBWTFhd3JRVll4Z0MzcHY0TFRvb0E0NDVnTkw1OXI3SnJhdEt4S3ltNjZCaGNaYTdnN3ZfNTFZRjN4by1yS1ozZ3M3R3VsTXl6YS1IeWJNRnVZSl81QmhsY3FLSXNNSzdGSjJnYy03Z05jVnBYbmN6cE5hTl9ZdkF5ZlUyS3NsQWpnWQ?oc=5",
+   "pubTime": "14:32",
+   "pubTs": "2026-11-19T14:32:35+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美联储对人工智能泡沫破裂风险表示担忧",
+   "summary": "美联储政策制定者对人工智能可能引发的金融系统风险表示关注。美联储主席沃什在与科技领袖交流时强调了AI对经济转型的潜力，但会议纪要显示，官员们担心AI领域可能出现泡沫破裂，并对相关市场波动保持警惕。",
+   "source": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR0t0NWstc3N2V0F2RE9fWlJDYVNTY3lINGFtUHhsQUE1cDU2SkdYc3E0M3hvNlpuMXlRQmxjdFdwVzMtbGQ4bXg3QjdzWU9sYmVNangtcmFxV1NvQWQ2TG5xRV9WVl9XTGpubUd2dHh3MUNsRlBDXzduNXVTOENfa0tTdmtrOWpWT2g0ZV9mYVV5ckpzNXJxaFBHRkxvQ2U5YjhiZVBqZHRBeVFQM2JnMQ?oc=5",
+   "pubTime": "14:03",
+   "pubTs": "2026-11-19T14:03:24+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "Anthropic上市前夕亚股走低，其IPO规模创纪录",
+   "summary": "随着人工智能巨头Anthropic即将上市，亚洲股市预计将下跌。Anthropic此次IPO筹资超过810亿美元，打破SpaceX纪录成为史上最大规模发行。公司定价为每股83美元，预计周四开始交易，其营收目标设定在6000亿美元。",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHJMMGxuVjE0QlBiMjdlLVg4Snd2RjdIVmxmMlFGX3E1cEpBS3BHaEQ0YnpUb19jc2lXMG9RQk9nSk8xSVFmN2d4VFRoSC1nQkJUdk5DTF9MWlVqRklPelgyUGpNREtJQUpEd3BTZ3A0VmVZdGRZZ21mT0x5bEdhUkd1OVVKZHNLUkRqdWY3M3VxOHBu?oc=5",
+   "pubTime": "13:47",
+   "pubTs": "2026-11-19T13:47:01+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "纽约州面临全州电力短缺，电网老化严重",
+   "summary": "报告显示，纽约州正面临严重的电力短缺危机，其电网为全美最老旧。随着用电需求攀升，预计到2033年将出现供应缺口。专家警告，如果电网建设无法跟上需求增长，纽约可能在未来五年内面临大规模停电风险。",
+   "source": "Times Union",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVnR0T1Vnd2htSVVJSkx2Yy1BeC1HY0JNS3JIWHhDZkdTUTZZdVFKeFNNQjdleTNKVG1xUUFTQ3EzcC0yT2tMcXdBcmtpd2lBRkR0cGtxZ3MxcjktUVNNOURlQmdtSHIwOW5tN1JFck1BX2F1SGU4WEE0b1l0QUhKbVNmaXR4VE5CUzJCWll2NlN1V0RqbkJ6YWt5VTE2akhITmV4YUpJXzY1UQ?oc=5",
+   "pubTime": "12:03",
+   "pubTs": "2026-11-19T12:03:47+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "福特密歇根工厂投产磷酸铁锂电池，采用中国技术",
+   "summary": "福特汽车位于密歇根州的Fathom工厂已正式开始生产磷酸铁锂（LFP）电池，标志着福特正式进军电池制造领域。尽管面临地缘政治压力，该工厂仍采用了中国技术。首批电池已开始发货，旨在提升福特电动汽车的供应链自主权。",
+   "source": "InsideEVs",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUEQwbTB6Z2JwTDhxaUViZ0pBQjNmTmxUem9BZDF2QmJMYW96VFh5S3JKTzRkSk45RzJINi1UTUhReWRUbmVvRmdxcHNXQ0lXbmRhVzZSTFZTMkxwMTFFbk5JSnYxeEFTTXNzcmlhSlJmUzlKUzczaXNvZVdYZnpQMG1hRko?oc=5",
+   "pubTime": "11:50",
+   "pubTs": "2026-11-19T11:50:18+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "马斯克自称政治温和派，否认属于“MAGA”阵营",
+   "summary": "在DealBook峰会上，埃隆·马斯克表示自己是政治温和派而非“MAGA”支持者。他承认在美中期选举中投入近5亿美元巨资是“愚蠢的”行为。马斯克试图淡化其政治色彩，并对之前的巨额政治捐款表示反思。",
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZYjB2UXJGcEo1ZE0xNVhkMHU4VnU5NmNYWS1NUkRhYWVhdFdTSTRMNlUxcFRuVlF4VHVQSWVlZzR5VjNOOXZQdGR5R2lzVUM2aWZ2aVhhRkVxZDVVVzhJTTkzU29HeUVtOUxpcmIyN1lDdnFqb1ZvYQ?oc=5",
+   "pubTime": "11:12",
+   "pubTs": "2026-11-19T11:12:43+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "医疗机构紧急修复Java重大安全漏洞",
+   "summary": "全美医院正紧急修复名为“Java4Shell”的重大软件漏洞。该漏洞由AI辅助发现，影响广泛使用的Java平台。政府和安全机构警告称，该漏洞可能导致计算机系统极易受到攻击，Cloudflare等公司已发布防护方案以应对这一网络安全威胁。",
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdXpiSTJkZjlmR0l3Wms5TG1ad0xZS0VYUzgtbzcyN0pMbkFqTDZqVnM4a1pLdVF2eWlzc2NYdDNtYmI5LXU4ckhfSXRxUDNmMVJXcmZwb0RmUGRTN1FnNHVtSzhzN1F6eE96U2NkeXg3NmQtM1V5eFZKSHZGSFNkZldYN1NQZGRjdi1HOXlGeFU?oc=5",
+   "pubTime": "10:39",
+   "pubTs": "2026-11-19T10:39:19+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "韩官员称尚无金正恩访华动向 特金会能否成行仍待观察",
+   "summary": "韩国统一部官员表示，截至11月19日上午，尚未发现朝鲜领导人金正恩访华的迹象。尽管美朝首脑在华会晤的可能性引发关注，但局势仍不明朗，难以断定“特金会”是否会成行，相关动向仍需进一步观察。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261119-10024613",
+   "pubTime": "15:10",
+   "pubTs": "2026-11-19T15:10:32+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "习近平将主持中俄美元首会晤",
+   "summary": "中国国家主席习近平将于11月19日下午在深圳主持中俄美元首会晤，同俄罗斯总统普京、美国总统特朗普举行会谈。此前，习近平已与特朗普举行双边会晤，双方就贸易委员会及俄乌战争等议题交换了意见。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261119-10024592",
+   "pubTime": "15:09",
+   "pubTs": "2026-11-19T15:09:31+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "日官房长官：高市早苗在深圳受到惯常接待",
+   "summary": "针对日本首相高市早苗在深圳APEC峰会期间接待规格疑似较低的质疑，日本内阁官房长官木原稔回应称，中方的接待符合惯例，与其他领导人相同。他强调习近平主席已在欢迎晚宴上与高市握手致意，属于正常礼遇。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261119-10024437",
+   "pubTime": "14:55",
+   "pubTs": "2026-11-19T14:55:02+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "腾讯总裁：美国AI晶片管制新规 短期内将拖慢中国研发新模型",
+   "summary": "腾讯总裁刘炽平在业绩会上表示，美国人工智能芯片出口管制新规短期内将拖慢中国研发新模型的速度。他指出，受此影响，中国科技企业将日益转向使用国产半导体，以降低美国政策带来的长远影响并寻求技术替代。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261119-10024446",
+   "pubTime": "14:53",
+   "pubTs": "2026-11-19T14:53:41+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "高市早苗：感谢习近平邀请她出席APEC",
+   "summary": "日本首相高市早苗在深圳APEC峰会期间，向中国国家主席习近平表示感谢并祝贺会议举办。两人在峰会期间两次握手互动，高市强调了日中保持沟通的重要性，而双方关系此前因高市的台湾问题言论而持续紧张。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261119-10024441",
+   "pubTime": "14:51",
+   "pubTs": "2026-11-19T14:51:18+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "李家超：APEC峰会期间曾与习近平短暂交流",
+   "summary": "香港特首李家超在深圳出席APEC峰会期间，与中国国家主席习近平进行了短暂交流。李家超向习近平介绍了香港推广粤港澳大湾区发展机遇的情况，并强调香港将继续发挥独特优势，积极融入和服务国家发展大局。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261119-10024351",
+   "pubTime": "14:42",
+   "pubTs": "2026-11-19T14:42:36+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "习特会结束 会晤历时约一小时",
+   "summary": "中国国家主席习近平与美国总统特朗普在深圳举行的双边会晤已圆满结束，全程历时约一小时。这是两人今年第三次会晤，特朗普在会中提到，双方此前同意成立的贸易委员会已为两国关系带来了平衡与进展。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261119-10024313",
+   "pubTime": "14:38",
+   "pubTs": "2026-11-19T14:38:27+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "习近平将主持中俄美元首会晤",
+   "summary": "11月19日下午，国家主席习近平将在深圳主持中俄美元首会晤，届时将同俄罗斯总统普京、美国总统特朗普共同出席。此次三方会晤是APEC会议期间的重要外事活动，旨在就当前国际局势及多边合作进行深入探讨。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2538880",
+   "pubTime": "15:04",
+   "pubTs": "2026-11-19T15:04:11+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "18个交易日信用债ETF持续承压，负债端稳市路径成关注焦点",
+   "summary": "自10月下旬以来，信用债ETF成为资金撤离的主要通道，18个交易日内累计净流出超568亿元。伴随份额缩水与折价走阔，债市负债端的脆弱性再度暴露，如何阻断“赎回-抛券”负反馈循环成为当前市场关注的焦点。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2538808",
+   "pubTime": "14:59",
+   "pubTs": "2026-11-19T14:59:02+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "游戏行业史上最高分！《GTA VI》发售首日再创纪录 累计销量已超1700万份",
+   "summary": "知名游戏开发商Rockstar Games新作《GTA VI》正式发售，凭借Metacritic 99分的媒体均分追平历史最高纪录。该作发售首日即获得“必玩”认证，累计销量已突破1700万份，展现出极高的市场热度。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2538831",
+   "pubTime": "14:53",
+   "pubTs": "2026-11-19T14:53:29+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "创近半年新低！联想集团绩后重挫逾一成 AI服务器订单储备超5000亿",
+   "summary": "联想集团发布财报后股价重挫逾10%，创近半年新低。尽管上半财年因会计计量因素录得账面亏损，但经调整后净利润同比增长170%至24.36亿美元。此外，公司AI服务器订单储备充足，业务基本面依然保持强劲。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2538847",
+   "pubTime": "14:52",
+   "pubTs": "2026-11-19T14:52:02+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "惠誉最新观点速览：科技企业发行AI相关债券今年已达2770亿美元",
+   "summary": "惠誉在媒体交流会上指出，今年科技企业AI相关债券发行规模已达2770亿美元，但商业化变现节奏滞后于投入，回报存在不确定性。针对化债，惠誉预计未来政府对城投平台的支持将更具针对性，影响债市定价逻辑。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2538759",
+   "pubTime": "14:51",
+   "pubTs": "2026-11-19T14:51:50+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "娃哈哈原核心高管祝丽丹，起诉娃哈哈商业股份有限公司",
+   "summary": "娃哈哈原核心高管祝丽丹起诉娃哈哈商业股份有限公司，涉及涤除公司登记纠纷，案件将于11月26日开庭。天眼查显示，该公司法定代表人为宗馥莉，祝丽丹目前在主要人员名单中担任董事一职，纠纷原因备受关注。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2538824",
+   "pubTime": "14:32",
+   "pubTs": "2026-11-19T14:32:06+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "美联储刚示警、欧央行又补刀：AI狂潮已现“次贷影子”？",
+   "summary": "继美联储之后，欧洲央行也对人工智能投资热潮发出警告，认为当前由债务驱动的AI投资与次贷危机前的泡沫有相似之处。报告指出，科技巨头在资产负债表外堆积了数万亿美元的隐性承诺，存在巨大的潜在金融风险。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2538773",
+   "pubTime": "14:06",
+   "pubTs": "2026-11-19T14:06:33+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
