@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "night",
+ "editionName": "夜豆浆",
+ "date": "2026-11-19",
+ "fetched_at": "2026-11-19 22:30",
+ "translator": "gemini-3-flash(21条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "Anthropic纳斯达克上市直播：创始人抵达现场，美股期货走高",
+   "summary": "人工智能巨头Anthropic即将在纳斯达克挂牌上市，创始人达里奥和达妮埃拉·阿莫代已抵达现场。此次IPO规模创下纪录，市场对其寄予厚望，受此乐观情绪推动，道指、标普500及纳斯达克指数期货在开盘前集体走高。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14U2NHa0M5c3U5aU1rSFlveXQ5SU04X0Jjb29RdVBJeXJ4OVQzRl9zVkMzNVN6SVJZREJYOVJycWVia2hlamstS3FGbDZnY293TTZTUnZGSVJBY1IyUlhWejUwZUp2c3lVbFJsZVFabVMxMDhtNUHSAXtBVV95cUxPYjZZVENYd3lLenZiVHE3azkwQXo1ejJvU2doaVMtSThZckRKTTNCU1pPdXJUWGdhRDdCaTNaczRTanF1VUczcUt3THIteXB3VFdkM0JzSUJfZ3UzNVpRQi1NSS1SajdaMkxwdk1nanhCaFdJZ3VzUGxhSUE?oc=5",
+   "pubTime": "21:59",
+   "pubTs": "2026-11-19T21:59:35+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "周四美股异动：派拓网络、Take-Two及沃尔玛等表现活跃",
+   "summary": "周四美股盘前多只个股波动显著，包括派拓网络、Take-Two、Everpure和沃尔玛等。受Anthropic上市带动的科技股反弹提振，纳斯达克指数表现优于大盘。此外，谷歌等科技巨头的表现也成为今日市场关注的焦点。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNnM1LXV0d0JUbjQ3eDd2QmtPSVdMZUU4aGZUM2E5cDdvYnAzczlzRUh4OF8ySDRnR2plWmpwT1hvR0NZbGFGUHY5RTl3a2JHejdRTTk0SjBQQW0tNElvNEdqZlBaSE1GNERsNU1SZlFORTE4ZUdNc1lfcUhHVkt3amM4ZFfSAYoBQVVfeXFMTmd4QzlTZmM0THZwc0lHajZHTjNqUzgwZlIyaVkwQ0sxUC15aVFNVGc1RU5NYXJyd3JienBEa2c0dHZGejVnZXYycW10NkNHUWJZdjRrb1R4OEYwZXU5TzlfelpCZXZhWkMxZjVQakFsRDNjakw2YXh6RUJSZU5tN1YwWkVKX0ZuUGV3?oc=5",
+   "pubTime": "21:55",
+   "pubTs": "2026-11-19T21:55:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "沃尔玛电商业务强劲增长，上调全年业绩指引",
+   "summary": "沃尔玛第三季度财报超出预期，得益于电子商务业务的再次大幅增长，公司宣布上调全年销售额和利润预期。尽管美国本土增长率有所放缓，但吸引了更多追求性价比的高收入消费者，整体业绩表现依然稳健。",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb1NMeEgtRlBKbmh5MGpoTmJfNUUtLS1QNUgxeTJnUlh2NTJvSjY3dndxekJzZXFxRFF3TkkxLWxpUG4zSmxTVGdyUFh6bC1uem5EWkprRWlQS01JdkNaT2xXd3l5eTM2bE9HU3IxR1BadWhwNHRmQ2xhRjhTZ0NRSHlhcUZUT1RBN2c?oc=5",
+   "pubTime": "21:25",
+   "pubTs": "2026-11-19T21:25:16+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "肯德基大型加盟商申请破产，旗下84家门店待售",
+   "summary": "肯德基的一家主要加盟商已正式申请第11章破产保护，并计划出售旗下的84家餐厅。受此影响，多地肯德基门店面临关闭风险。目前该加盟商已公布了可能受影响的门店名单，此举引发了市场对快餐行业经营压力的关注。",
+   "source": "Fox Business",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWjVFUUR0M3F6WHNuQXVydjFINVp0ZlYwTkZRUWMzQVlMZnBIN2ZnVkRNYUdQMlg4d3dIczJ1bndIcXE1VktUbm9YZHk4NXRRR0t6WUFmRGdWMjJRaXRHLTRzLVVyWVRDWTE1MXJwTUE3TmFSaW1CbFo0aGN2ZTZMYkppTzJTYXZmU2dDSGdmMzVrVUlBYWk0TdIBngFBVV95cUxNLWwzMXpwd3lVbzcyM0hMWDdfczZlbVpDZzE0REpNMWZVMW9ibUJidFVJcC1teFpYS0F2ejAyanJzcG5XV1J0ZDFYV1VVLVo1LV91bFUwMUFvVkFLbzJ1ZmQyeENuWFhCMmRjQXlhMkxtN3VXaUlRVFR1eTh2R3RvNzhEbUcxaFZ0WUl6VUxJZ2hHRURxUTQ2OXA5YThYQQ?oc=5",
+   "pubTime": "21:01",
+   "pubTs": "2026-11-19T21:01:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "北卡罗来纳州公用事业委员辞职，此前曾批准杜克能源涨价",
+   "summary": "在批准杜克能源公司上调电价的决定几天后，北卡罗来纳州公用事业委员会的一名共和党监管官员意外宣布辞职。该委员此前曾对电价调整及数据中心相关决策表达过异议，其离职引发了外界对监管政策走向的猜测。",
+   "source": "WRAL",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTzF3Z2FSNk9hcDloWVI4U1pOVHQxaWRwc0NwZjB2Rnp3SEVSRHl1MmdWdWZ2RTFzMTZIWFhHS1JBNnhaRkgzbjRQTnFIQUx2dF8yZThybUhJaHU5eVBqeURTZ2FEbzh1cl9Mdkl1aFQ0QUZpTi15cDdOWDJGUnNtQ21IUVBNY0FWTEpqT3dkbExEckN5WkFkcmQ4YlV2dnhwT1NiV01MRHIyLVdMRUtmWVpvbFg0Y0p5a3pabUlISGk?oc=5",
+   "pubTime": "20:14",
+   "pubTs": "2026-11-19T20:14:10+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "达美航空推出“基础商务舱”票价，高端出行门槛降低",
+   "summary": "达美航空正为其头等舱和商务舱引入“基础票价”模式，旨在提供更具价格竞争力的选择。然而，购买此类基础商务舱机票的乘客可能无法享受部分高端服务，例如从明年1月起，该票价将无法进入达美航空的高端休息室。",
+   "source": "USA Today",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTWtkRV9lZUhjOWEzMURjM2h6TjEwSFNEc1pRNE5tRkg1UUMtRHE4QjZmNVRMNHdncjFQc0tFUmtJYkwxN2xSU2VUSFZYUi1VOUpqMDlnQW5XOTZaZjkxN0VtTnpMRU5jNGtLeW9iMEQ5M1ZkTTBtUUxJMWpCLXl2am1MNTczYmN2UlgwLURGNlZUQlVVdlp4cXE1UEtvcjl0OUpTSml5YUlPb2hxa0ViQ3RJYmpwalpBakVn?oc=5",
+   "pubTime": "19:47",
+   "pubTs": "2026-11-19T19:47:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "台积电与三星暂停向中国客户供应部分芯片",
+   "summary": "据英国《金融时报》报道，台积电和三星已暂停向中国客户交付部分先进芯片。此举正值美国加强对华半导体出口管制之际。与此同时，有关英伟达芯片如何流向特定机构的调查也引发了华盛顿方面对供应链监管的进一步讨论。",
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVmdYLWxyejBmNWE2ZmVSbk93M0w2ajJMbzZvWE54bG5QU2JqYzNqYUhobnJVX1h6bkcyT0JZX1VLMHNYZG4tM0Q4Vmd3dGJIRG9yS2dYcjIyLVpvV3RwUHFpRXU2cU51dXdWTTBRcy1wNHBJZEYtYURQcVhOTXlZRU5nLW8?oc=5",
+   "pubTime": "18:21",
+   "pubTs": "2026-11-19T18:21:27+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "莫迪促印度产业走出“舒适圈” 参与全球竞争",
+   "summary": "印度总理莫迪敦促国内企业走出“舒适区”，积极参与全球竞争。他强调产业界应根据全球需求建立可靠供应机制，而非仅依赖国内市场，并呼吁企业在投资决策中将国家利益与安全置于首位。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261119-10027536",
+   "pubTime": "22:15",
+   "pubTs": "2026-11-19T22:15:16+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "普京考虑12月赴美参加G20峰会",
+   "summary": "俄罗斯总统普京表示，在与美国总统特朗普讨论后，他将考虑出席12月在迈阿密举行的G20峰会。普京补充称，最终决定将取决于俄罗斯国内局势。此前，美方已正式邀请其参会以解决分歧。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261119-10027265",
+   "pubTime": "21:05",
+   "pubTs": "2026-11-19T21:05:48+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "韩国高考严防AI作弊 三次紧急警报揪出49部手机",
+   "summary": "针对近期频发的AI作弊事件，韩国政府在高考期间采取了空前严密的防范措施。通过加强电子设备检查及罕见地发送三次紧急灾难警报，当局共揪出49部违规手机，全国累计查获近百名涉嫌违规的考生。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261119-10027014",
+   "pubTime": "20:55",
+   "pubTs": "2026-11-19T20:55:17+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "普京：乌克兰和欧洲未准备好让步解决冲突",
+   "summary": "俄罗斯总统普京在与中美元首会晤后表示，乌克兰和欧洲尚未准备好通过让步解决冲突。他强调，没有欧洲参与讨论安全问题毫无意义，并已邀请欧洲官员赴俄商讨，而目前俄乌谈判进程依然推进缓慢。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261119-10027152",
+   "pubTime": "20:43",
+   "pubTs": "2026-11-19T20:43:24+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "晶片AI投资激增 韩国出口额首破1万亿美元大关",
+   "summary": "受全球大型科技公司加大人工智能投资带动，韩国半导体和电脑产业出口激增。截至11月19日，韩国今年出口总额首次突破1万亿美元大关，成为继美、中、德之后又一达成该里程碑的全球出口强国。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261119-10025644",
+   "pubTime": "19:59",
+   "pubTs": "2026-11-19T19:59:44+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "和平委员会警告：加沙停火协议濒临崩溃",
+   "summary": "特朗普设立的和平委员会警告称，若以色列与哈马斯不履行谈判承诺，加沙停火协议可能崩溃。报告指出，实现和平需部署国际稳定部队及哈马斯解除武装，并强调当前加沙人道局势正持续恶化。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261119-10026055",
+   "pubTime": "19:47",
+   "pubTs": "2026-11-19T19:47:21+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "英国哈里王子：若有需要 愿重返军队对抗俄罗斯",
+   "summary": "英国哈里王子在访问乌克兰期间表示，若国家有需要，他愿意再次报名参军并与战友并肩作战对抗俄罗斯。曾有阿富汗服役经历的他，自俄乌冲突爆发以来已四次访乌，旨在慰问退伍军人及医护人员。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261119-10026583",
+   "pubTime": "19:14",
+   "pubTs": "2026-11-19T19:14:17+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "“A+H”热潮局部降温？近一个月5家A股公司终止赴港上市计划",
+   "summary": "随着市场环境变化，“A+H”上市热潮出现降温迹象。近一个月内，包括西子洁能、宇信科技在内的5家A股公司相继宣布终止发行H股计划，理由多为鉴于当前宏观经济及资本市场环境的变化。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2539387",
+   "pubTime": "21:57",
+   "pubTs": "2026-11-19T21:57:48+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "诺和诺德司美格鲁肽眼疾风险发酵 31名用户已在丹麦获政府赔付",
+   "summary": "丹麦政府已向31名在使用诺和诺德司美格鲁肽后患上罕见眼疾的患者发放赔偿金。尽管美国FDA已要求此类药物警示致盲风险，但诺和诺德坚称药物与该病无因果关系，目前相关风险争议仍在持续发酵。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2539362",
+   "pubTime": "21:51",
+   "pubTs": "2026-11-19T21:51:51+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "港股公告精选｜阿里巴巴三季度营收同比增逾一成 顺丰控股10月业务收入超270亿元",
+   "summary": "阿里巴巴公布三季度业绩，营收同比增长10%至2715.19亿元，AI云服务表现亮眼。同时，网易三季度净利润环比增长超20%，快手营收达315.92亿元，顺丰控股10月业务收入则突破270亿元。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2539364",
+   "pubTime": "21:40",
+   "pubTs": "2026-11-19T21:40:21+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "Anthropic IPO提振市场情绪 美股三大股指期货齐涨 | 今夜看点",
+   "summary": "AI初创公司Anthropic首次公开募股募资规模超预期，重新点燃了市场对AI交易的热情。受此提振，美股三大股指期货周四集体走高，纳指期货涨超2%，投资者正密切关注该公司上市后的市场表现。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2539359",
+   "pubTime": "21:39",
+   "pubTs": "2026-11-19T21:39:20+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "史上规模最大IPO今日上市，资金面冲击有多大？五大变量浮现",
+   "summary": "AI巨头Anthropic于今日在纳斯达克上市，其IPO定价每股83美元，公开发售及私募配售合计募资额超1000亿美元，创下史上最大规模纪录。市场正高度关注这一巨量融资对资金面及科技板块带来的冲击。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2539361",
+   "pubTime": "21:25",
+   "pubTs": "2026-11-19T21:25:21+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "政策利好为何没托住医药股？未来行情怎么看？券商拆解三条主线",
+   "summary": "尽管近期医药板块出现阶段性调整，但行业基本面正迎来积极变化。瑞银证券指出，中国医药行业正向“创新+全球化”转型，建议重点关注生物科技、CRO及AI制药三大主线，企业盈利拐点已逐步显现。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2539348",
+   "pubTime": "21:22",
+   "pubTs": "2026-11-19T21:22:40+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "港股风向标｜恒指放量跌破23000点 临近年底机构看好红利配置",
+   "summary": "港股三大指数持续走弱，恒生指数放量跌破23000点大关，科网股集体下挫，腾讯跌幅超6%。市场短线承压且沽空占比处于高位，临近年底，机构普遍看好具有防御属性的红利资产配置价值。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2539350",
+   "pubTime": "21:15",
+   "pubTs": "2026-11-19T21:15:15+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
