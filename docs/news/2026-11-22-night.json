@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "night",
+ "editionName": "夜豆浆",
+ "date": "2026-11-22",
+ "fetched_at": "2026-11-22 22:30",
+ "translator": "gemini-3-flash(21条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "揭秘AI先知对人类未来的秘密愿景",
+   "summary": "《华盛顿邮报》等媒体深入探讨了Anthropic等AI巨头对人类未来的愿景。与此同时，专家丹·亨德里克斯呼吁暂停前沿AI训练，舆论也开始反思投资可能毁灭人类的技术所带来的潜在风险。",
+   "source": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNGZfRXNLSjJFSWtDbEktLW1XLXVPZUVaaXFTRHhaSlhGend6QU02VnBqWHVndGZPLXZnYXJNSktyc1pObV9JcUE0TDduMTZxUTlBY0RlellYb0s5OEx2Q05leExlMjVFOVRPaHd5UjdNb0MyM3NfSnc3Um5TelJtcUpNT0RqaktPR25YYVFrSVpoVnp5OW5UNlBDVmVBc1VsaFFIQjRWLWxhNjF1?oc=5",
+   "pubTime": "21:52",
+   "pubTs": "2026-11-22T21:52:17+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "独家：Anthropic效仿SpaceX采取非传统IPO流程引发投行不满",
+   "summary": "据路透社报道，AI巨头Anthropic效仿SpaceX采取了非传统的IPO流程，导致部分银行家感到不满。尽管此次IPO规模巨大，但华尔街AI板块近期市值蒸发约4万亿美元，引发了市场剧烈动荡。",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1RsTFBlMWZGejNqWjVvdVlYX2lRTGpZZXhoYXFXN2RuV3lHZ09ra0ctdnZqc3hiVENXSlc2ZTBIbDRyTmpTS1Nhdk1kdU5HLW5FNGdNRTNoeXVBeEc5cDl5VGx3c3dUSzNDYkVVTHVfenVQbHFUQ0hQS2NfalhuNDczWFdUS0FWQS1iZ1ZhVnNYMy1FOHVSUmlBMmI3NTdVTGY1X0JxTFRmYnptV3huQQ?oc=5",
+   "pubTime": "21:29",
+   "pubTs": "2026-11-22T21:29:02+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "2026年“黑色星期五”提前大促：戴森、Hoka等品牌开启折扣",
+   "summary": "2026年度购物盛典“黑色星期五”提前开启，雅虎与CNN等媒体汇总了包括戴森、Ugg、迈克高仕及Hoka在内的品牌优惠。各大平台已对数千项折扣进行筛选，旨在为消费者提供最具价值的购物指南。",
+   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQNmxkZklMc3lVRVRLbk1PWkMyT0c3c2dOQXF5c2c1cVUyb0F3SDFFR1drSGI4STgySWZTQmJGbkRKWmhUeDlKM3pJUmhyQ0ZvdEpsWjUxQ0xLc0RndTVWZktMbEJzeXROd1VqOHFNTS16Y1ZIWlRFNDJxU1hEbXlyLWY2Y3R2X3QtbncxQnF3d0psMkVoX1dVQi1peVpvVFBlYk1pUGtYeUNnQ3ozd0tGeWp3MFJPSmk2d3NqU0JXczhNNWdGdjZwS21PenI1cFhGbHlzS1A4X3M5ZGU2QnBTMVVLNHVfTkF0WHB3dkZHb2ZoRGdWSjhoRENxY29kV2xMbTQzOEUwNEtyeW9xQWdVNEhSazgwM1Z3VU5zM3FqdERzMGdxUjBXbkpZTQ?oc=5",
+   "pubTime": "20:01",
+   "pubTs": "2026-11-22T20:01:23+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美股出现本世纪第五次罕见信号，历史规律预示市场走向",
+   "summary": "美股市场目前正处于本世纪以来仅出现过五次的特殊状态。Motley Fool及雅虎财经分析指出，在AI驱动的特朗普牛市背景下，历史规律暗示了潜在的崩盘风险，华尔街的融资融券债务水平也引发担忧。",
+   "source": "The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORUQtblJfenRtODNzS1I1NTZJTDEtaWgzX1dYSjhYckE2NDlraGpzUFNzXzhPV2F5U3Z4YWNUdXctdE9MamlDUjhpbU1yMW1zd2Z1SUlyUG1sLWpQLXY2RDVfaWE5NjI1Wm56REdTS1lvRHdjVXhmNER2Wl9ITktDMmM2MU9ReG80WnQtTVE1Z0ctM2oyeVg2OWdCYU5EM0VBdmgxUnBhUE9Wc01lVzNNN1lZOTRGMGZTdlpFcnpsTlVKTmpiZ0p3NHhjN3FZblVTa29mUVhPQQ?oc=5",
+   "pubTime": "19:36",
+   "pubTs": "2026-11-22T19:36:02+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "汽车耐用性排名：哪些车型行驶里程最易突破25万英里？",
+   "summary": "Visual Capitalist等机构发布了最新汽车耐用性排名，列出了最有可能行驶超过25万英里的车型。榜单涵盖了高可靠性的SUV及部分豪华车型，旨在为寻求长期使用车辆的消费者提供参考。",
+   "source": "Visual Capitalist",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRnlnTTJZbnFESmRuRXhYekx2YjJXNmpHRmZqa3h4QjJQLVFaNnJEWXBDVlR3MHUtNVkzOFZMbzBSRzZiQVNHbTZ5N2R5WUZ4OHl5Tmw0WVhVVVh5TE93Qk02WklwUTJiN3IwblgwekFkczVpMDhlR2xVNmFDWjhXSmFyY052T3ZLT1NKVGFNWQ?oc=5",
+   "pubTime": "19:19",
+   "pubTs": "2026-11-22T19:19:14+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "银行业对AI代理失去耐心，警告客户需自担安全风险",
+   "summary": "随着AI代理的普及，银行业对其带来的安全隐患表示担忧。多家银行明确警告，如果客户使用的AI代理导致账户被黑或出现操作失误，客户可能需要自行承担法律责任和经济损失，银行将不再为此类风险背书。",
+   "source": "WIRED",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pUy1ObG9vc0x4SEwtc2xRdFNzNldlekRzdXZhOTNWZnByOUh2TzRsUEI2dWhiM2Y3cmZEZGZrQ1RBLUx5VDhreGo5YW1GRVZtZnNlNmlRSjFvRlFkcnlwZFEtYnJFOUZ3SWxrYlZfWG5ka3c?oc=5",
+   "pubTime": "19:00",
+   "pubTs": "2026-11-22T19:00:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "铜价暴跌向美国经济发出预警，金属市场陷入剧烈动荡",
+   "summary": "铜价近期大幅下跌至今年4月以来的最低水平，引发了对美国经济前景的担忧。受中国需求疲软及AI市场动荡影响，全球金属市场出现剧烈波动，基金组织正大量抛售铜头寸，市场情绪表现出极度不安。",
+   "source": "Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOElkaGNZcUQ5TUdHaWZXWFFmSkxneEh4dE9oQks4aW9pWlJJUVNqQ0lUeVNNM1dhODVCeVgtMld4NF9pcGdUQWNsNHBVSGlMdWhoR0s1WFVheDlVMV93TWJMcVBHeks5TVhEMVlOQ0M4blUwd1czY3FZRHVralV2R0d0TWxvOHpa?oc=5",
+   "pubTime": "18:25",
+   "pubTs": "2026-11-22T18:25:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "英国前首相特雷莎·梅促伯纳姆：接受脱欧事实向前看",
+   "summary": "英国前首相特雷莎·梅对现任首相伯纳姆考虑重新加入欧盟表示惊愕，敦促其在脱欧问题上“向前看”。她警告称，与欧盟进行进一步谈判将耗费大量政府时间，从而阻碍政府解决其他紧迫问题。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261122-10040219",
+   "pubTime": "21:50",
+   "pubTs": "2026-11-22T21:50:43+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "日本爱子公主结束访新 感言祝愿新日友谊深厚",
+   "summary": "日本爱子公主圆满结束对新加坡为期五天的正式访问。她在感言中对新加坡各界的热情款待表示感谢，并衷心祝愿两国友谊与互信纽带日益深厚，希望自己能传承日本皇室与新加坡跨越三代的友好情谊。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261122-10039980",
+   "pubTime": "21:37",
+   "pubTs": "2026-11-22T21:37:40+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "伊朗袭击巴林致两人受伤 沙特批犯罪行径",
+   "summary": "伊朗袭击巴林一处民用工业设施，造成一名巴林公民和一名巴基斯坦居民受伤，沙特对此严厉谴责。据悉，袭击导致锡特拉岛工业区冒起浓烟，伊朗伊斯兰革命卫队声称其打击目标是美国驻巴林设施。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261122-10040152",
+   "pubTime": "21:22",
+   "pubTs": "2026-11-22T21:22:02+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "俄乌战火波及波罗的海 遇袭俄货船漂入芬兰领海",
+   "summary": "俄罗斯货船“斯巴达二号”在芬兰湾遭无人机袭击起火后漂入芬兰领海，火势至今未灭。芬兰军方研判袭击极可能由乌克兰发动。受俄乌冲突波及，波罗的海周边近期接连发生领空侵犯等安全警报。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261122-10039526",
+   "pubTime": "20:57",
+   "pubTs": "2026-11-22T20:57:21+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "欧盟等拒绝接受协议草案 COP31谈判破裂",
+   "summary": "联合国气候变化大会（COP31）因欧盟、巴拿马等缔约方拒绝接受最终协议草案而宣告谈判破裂。尽管会议延期两天，但各方在化石燃料等核心议题上未能达成共识，导致抗击气候变化的推进计划陷入混乱。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261122-10040024",
+   "pubTime": "20:45",
+   "pubTs": "2026-11-22T20:45:33+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "美国收紧晶片管制 英伟达供应商暂停对东南亚出货",
+   "summary": "随着美国收紧先进芯片出口管制，英伟达至少两家服务器合作伙伴已暂停向东南亚客户发货。根据美方新规，向新加坡、马来西亚等国出口受管制芯片须先申请许可证，此举恐导致当地数据中心建设延迟。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261122-10038953",
+   "pubTime": "19:58",
+   "pubTs": "2026-11-22T19:58:02+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "俄无人机击中基辅州公寓14人受困 多地能源与港口设施受创",
+   "summary": "俄罗斯无人机击中乌克兰基辅州一栋五层住宅楼导致其部分坍塌，估计至少14人受困瓦砾堆下。同时，俄军对乌克兰多处能源和港口基础设施的袭击，导致敖德萨等地区电力供应吃紧，搜救工作仍在进行。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261122-10039693",
+   "pubTime": "18:59",
+   "pubTs": "2026-11-22T18:59:42+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "“所有金条都卖光了”，菜百股份紧急提示",
+   "summary": "菜百股份发布贵金属市场波动风险提示，呼吁投资者理性配置。近期受金价下跌影响，北京菜百总店出现抢购潮，投资金条在短时间内被抢购一空，工作人员表示所有克重的金条均已售罄。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2541033",
+   "pubTime": "22:02",
+   "pubTs": "2026-11-22T22:02:40+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "微信最新公告：集体下架",
+   "summary": "微信平台发布公告称，为落实监管要求并保障用户权益，近期对存在内容低质、价值观导向不良及侵权等问题的百余部违规微短剧进行了下架处理。平台将持续加强对微短剧小程序的规范管理和巡查审核。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2541029",
+   "pubTime": "21:42",
+   "pubTs": "2026-11-22T21:42:37+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "因违规使用募集资金等 逸飞激光收湖北证监局警示函",
+   "summary": "逸飞激光因违规将2800万元募投资金出借给其他公司、定期报告披露不准确及关联交易披露不及时等问题，收到湖北证监局警示函。公司及相关责任人被采取行政监管措施，目前违规资金已归还并完成整改。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2541023",
+   "pubTime": "21:09",
+   "pubTs": "2026-11-22T21:09:39+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "星思半导体IPO获备案 华为系团队创业 高瓴、经纬等投了",
+   "summary": "芯片新秀星思半导体拟在香港联交所上市，其IPO备案申请已获中国证监会披露。该公司由华为系团队创业，专注于无线通信基带芯片研发，产品覆盖5G和卫星通信领域，曾获得高瓴、经纬等多家知名机构投资。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2541022",
+   "pubTime": "21:08",
+   "pubTs": "2026-11-22T21:08:16+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "时隔十个月融资保证金重回80%，积极信号明确",
+   "summary": "沪深北三大交易所宣布，经证监会批准，将投资者融资买入证券时的融资保证金最低比例从100%下调至80%，自11月30日起施行。此举被视为监管层释放的逆周期调节积极信号，旨在引导杠杆资金合理运行。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2541019",
+   "pubTime": "20:30",
+   "pubTs": "2026-11-22T20:30:28+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "突发！涉嫌信息披露违法违规，百亿地产股控股股东遭立案|盘后公告集锦",
+   "summary": "金科股份控股股东京渝星筑、京渝星璨及其合伙人因涉嫌信息披露违法违规，被中国证监会立案调查。公司表示立案不涉及上市公司主体，目前生产经营正常。此外，天孚通信拟在南昌投建高速光器件研发生产项目。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2541018",
+   "pubTime": "20:12",
+   "pubTs": "2026-11-22T20:12:51+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "A股年底还有行情吗？投资主线有哪些？十大券商策略来了",
+   "summary": "中信证券等十大券商发布最新策略观点。中信证券指出，当前A股估值呈现“杠铃型”特征，进攻型和防御型品种估值较高，而中间段长久期资产因缺乏稳定资金配置被系统性低估，反映出市场定价资金偏向短视的现状。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2541013",
+   "pubTime": "19:41",
+   "pubTs": "2026-11-22T19:41:39+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
