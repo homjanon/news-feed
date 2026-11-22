@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "afternoon",
+ "editionName": "下午茶",
+ "date": "2026-11-22",
+ "fetched_at": "2026-11-22 15:20",
+ "translator": "gemini-3-flash(21条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "亚特兰大I-285跨河大桥经紧急维修后重新开放",
+   "summary": "位于亚特兰大查塔胡奇河上的I-285大桥在完成紧急维修后已重新开放。此前因桥梁接缝问题导致车道关闭，佐治亚州交通部确认该问题不构成结构性危险。目前科布县路段已恢复通行，缓解了当地的交通压力。",
+   "source": "WSB-TV",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQXZwYTlPemdmR29WSGxpWEExOWp4SkdqV0xlRGxTNHlYNDRoMWNZMWp2a3dDVE9fMEpCTDdzdFBmYlIwNmJYZFpIaDhhaFlPN3Y5Vm1vVkFaMEFsVEYwVnBFWjRHOUk4WmZKVENSYk9CUTJhdlQyU21feEQyckVmOGRkaGpIZlUzQWJfVkdwZWpBVUJ0YnlPZEpoTnBPdk1GTE5ETThnOFdmVDJBZXYzbnZWWllfYmc4UE9LQldOTE9GajAyQU83V3ZXTGvSAeABQVVfeXFMT3VjY0JzdlQ4Um5ncjJGbFhSMTBEaEQ4YXk2Qll3QkNBdmx2aC1TS2kwWXNLU3BrZTFJZWkwamVhMUJ6NlFUYlJHTllfRzZjbm9CZ0R4U0NUNlFWZk5BR004Z2dNSEN6Q2hNLXJRZG11QXUzYmxaYUNleUtQcGJFdXlyYzE0c1NFQ3VkdkNaUGNZQzBRcTZLVjNBbDVhQkZvZ3JXNU9mcUdDOS1CYUdOZFhpNDl3b0ltZzRlV0p2cGNlSlRneVgwNU5OLVgwVkI3bTVBbEFWVVRYRlhWWUpjUkY?oc=5",
+   "pubTime": "11:10",
+   "pubTs": "2026-11-22T11:10:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "黄仁勋深陷舆论风暴：英伟达对华业务及间谍丑闻引发关注",
+   "summary": "英伟达首席执行官黄仁勋近期面临严峻挑战，舆论焦点正从其个人绯闻转向英伟达与中国之间复杂的业务往来。相关调查涉及间谍丑闻及芯片竞争，部分政治势力正借此要求政府重新审视与大型科技公司的关系。",
+   "source": "New York Post",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcS1WQWhjUnJrMjc3YVh3Z2ZWRnUwc1FqQV9RZVVqNk4ta3dBNlRwSDFlaGhERmJHVUJfMkNaaTFtZXQ0aTlpR3JZOWJhVlRhRDZXVjJCbGJBMGVsYnFDX0xBaVBCaVFMa29KT0dMSnBfNFpxVEl5Yl9nZk5tR0NRTS0zTkFadmtaM1J0X04xX2hGaXRBd01TZXJDS1RNRnhxMVpmRDhwckkwQm5tSjVfTURCQ0phRmZoX0g0SUNTRk5pVTRqZElsLQ?oc=5",
+   "pubTime": "10:02",
+   "pubTs": "2026-11-22T10:02:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "应对银行系统故障：储户应如何提前做好准备",
+   "summary": "针对近期美国多家大银行出现的广泛服务中断，专家建议储户应提前制定应对方案。虽然目前服务已基本恢复，但为防范未来可能的系统离线，民众需了解如何保护个人资金安全，并关注政府官员对技术故障的最新表态。",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BV3JpZ0Y3QnVhNjgxLVNLcldqX0diZVYtN0hQNy1GQjVJOXFnUFFCbWhqRWxvaDh3VkwzTGJBVGc5dS11MmJ4MmlHR3gtQUh1Z2lkVGFVYmJ4Qzk2MmVjbWN4WFJscERPbmE1OUo0Zw?oc=5",
+   "pubTime": "10:00",
+   "pubTs": "2026-11-22T10:00:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "职场“冷处理”：求职者遭遇雇主不回复该如何应对",
+   "summary": "针对求职过程中雇主不予回复的“职场冷处理”现象，相关机构呼吁企业应向申请人提供反馈。专家为面临困境的求职者提供了应对策略，目前英国已有评论呼吁改善招聘流程，以减轻求职者在漫长等待中的心理压力。",
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HVE94d2owemUycWhsOVV6WHR2VXAyRU83bzF6T3c4cVRMQVBydE9ScnZvd1I5a042UnhfdTYwXzJ4VThKb0JyaWdVSlZ3THYyMDdMSlRhVE85WHM?oc=5",
+   "pubTime": "08:04",
+   "pubTs": "2026-11-22T08:04:07+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "中国AI板块市值蒸发1.7万亿美元，热门交易沦为亏损赌注",
+   "summary": "受美国AI芯片限制政策影响，中国人工智能板块近期遭遇剧烈动荡，市值缩水达1.7万亿美元。分析人士警告称，AI领域的下行趋势正对经济构成威胁。此举也迫使中国科技股承压，并进一步推动了国内产业追求自主可控的进程。",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRFM5M0lfajByTmNXWHhadkRCd19qQUJGU1FUM0ZUQnBXdVhDQU42NVF1X2RuUHJXUUt4QW41UWpnWS12aHNsX1JZU0RtSTBacFZTU0dncHpmOTRTLWJMbGRwY2pSeHFOTTI3dFFmcXJlRnQwcnRQSjlMSTh1a1pjdkRNQ1dCQlJlSGZPcXZQRk9MdUJBaWlUVFBzT2xCaUV2cUtQTXVCVVY0S0xDWFJEMQ?oc=5",
+   "pubTime": "08:00",
+   "pubTs": "2026-11-22T08:00:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美国正式废除一美分硬币，特朗普签署法案终结250年历史",
+   "summary": "特朗普总统正式签署《分币法案》，终结了美国近250年的一美分硬币铸造历史。随着这一重要货币制度的结束，现金支付将采取四舍五入的方式进行结算。此举旨在降低铸币成本，标志着美国货币体系进入了不再使用分币的新时代。",
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZjNsVFhVeThPQjd4dHZ4RThXbmU1ZmRHTTdSdUdxZEtIcXhzXy1VVVN5VTZHN0otTkEySVlzblQtT0t2Z3U4WmhCbTNCSEx3ampjb3FTbnZJZ0tobU9zSGpGVEJLTDJxbjA1QkRrVnJOcDFXcTc5bUlJLXdDdjIxemRqZ1VyN0FlS0lUQQ?oc=5",
+   "pubTime": "07:12",
+   "pubTs": "2026-11-22T07:12:23+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "特朗普提议与民主党合作，拟将信用卡利率上限设为10%",
+   "summary": "特朗普表示愿与民主党人合作，共同推动限制信用卡利率和费用的立法，提议将利率上限设定为10%。该提议得到了部分民主党人士的关注，旨在减轻美国消费者的债务负担。这被视为双方在降低民众生活成本方面可能的合作契机。",
+   "source": "Axios",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE93VmlHVnQwVGE3ejRNcTlLSmhLbGtPb3VwNGpxMmtPMGRjeWEtaXVIaUJCUWNuaTFpVG55ZkI4RkNDTXFPZ1NfR1dIb25McVhTeVhIc3pBbEx0X1FXdWJRLXlTcmoxeVhVTml1SVZTRWhudw?oc=5",
+   "pubTime": "06:22",
+   "pubTs": "2026-11-22T06:22:30+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "欧阳娜娜称“总想着有一天海峡会变窄”",
+   "summary": "台湾艺人欧阳娜娜在大陆节目中发表独白，分享在江西吉安家族祠堂寻根的感悟。她提到爷爷叮嘱要“守住根”，并表达了希望海峡变窄、两岸同胞能牵手走过的愿望。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261122-10038759",
+   "pubTime": "15:15",
+   "pubTs": "2026-11-22T15:15:45+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "香港选委会换届选举 截至下午2时投票率为93.55%",
+   "summary": "香港选举委员会于11月22日举行换届选举，31个界别分组的候选人竞逐723个席位。截至当日下午2时，累积投票率已达93.55%，投票将于下午6时结束。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261122-10038627",
+   "pubTime": "14:45",
+   "pubTs": "2026-11-22T14:45:25+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "韩国对华汽车贸易逆差创新高",
+   "summary": "韩国今年前10个月对华汽车贸易逆差达42.3亿美元，同比大增近一倍并创历史新高。受中国产特斯拉热销推动，韩国自华汽车进口额激增，而对华出口额则显著下滑。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261122-10038544",
+   "pubTime": "14:27",
+   "pubTs": "2026-11-22T14:27:02+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "学习时报：警惕伪史论的历史虚无主义危害",
+   "summary": "《学习时报》发文警惕“唐朝不存在”等网络“伪史论”危害。文章指出，此类谬论属于历史虚无主义，通过否定信史割裂中华文明脉络，消解传统文化的主体性与可信度。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261122-10038524",
+   "pubTime": "14:23",
+   "pubTs": "2026-11-22T14:23:04+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "郎平获国际排联最高荣誉“排球勋章”",
+   "summary": "中国排球名宿郎平在国际排联第40届代表大会上荣获最高荣誉“排球勋章”。国际排联称其为全球排球偶像，肯定了她作为球员和教练在多届奥运会上取得的卓越成就。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261122-10038256",
+   "pubTime": "13:38",
+   "pubTs": "2026-11-22T13:38:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "九合一选举倒数六天 卢秀燕谈台中选情：史上最紧张",
+   "summary": "台湾“九合一”选举进入倒数六天，台中市长卢秀燕形容选情为史上最紧张。面对民进党方面的强力辅选，卢秀燕对国民党籍参选人的选情持审慎乐观态度，并积极开展活动。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261122-10038388",
+   "pubTime": "13:32",
+   "pubTs": "2026-11-22T13:32:59+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "搜狐张朝阳辟谣“被出具警示函”：同名同姓者",
+   "summary": "搜狐创始人张朝阳针对网传“被出具警示函”一事辟谣，称相关监管措施针对的是同名同姓者。他表示自己从未收到警示函也未从事证券咨询业务，并调侃AI无法区分同名者。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261122-10038135",
+   "pubTime": "13:01",
+   "pubTs": "2026-11-22T13:01:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "【明日主题前瞻】多个新兴市场长期需求向好，有望拉动家电长期增量空间",
+   "summary": "受政策红利及出海提速驱动，中国家电产业正向高质量发展转型，新兴市场需求向好有望提供增量空间。此外，阿里CEO及马斯克分别就国产芯片训练和家务机器人进展发声。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2540100",
+   "pubTime": "15:01",
+   "pubTs": "2026-11-22T15:01:59+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "人形机器人“贴身肉搏”，搏出了什么？",
+   "summary": "在南京举行的机器人格斗赛中，人形机器人展示了激烈的攻防转换与失衡后的自我调整能力。比赛体现了机器人在动态平衡与对抗方面的技术进步，吸引了大量观众现场关注。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2540901",
+   "pubTime": "13:17",
+   "pubTs": "2026-11-22T13:17:26+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "英特尔、SpaceX还是另起炉灶？围绕黄仁勋“下一站”，市场上猜测四起",
+   "summary": "市场对英伟达前CEO黄仁勋的未来去向产生热议，猜测其可能加入英特尔、SpaceX或重新创业。舆论认为这位AI大佬的动向将对全球算力格局产生深远影响。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2540900",
+   "pubTime": "13:12",
+   "pubTs": "2026-11-22T13:12:34+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "黄金连连溃败，逼近3500美元关口！华尔街齐呼：已跌入超卖区域",
+   "summary": "国际金价近期剧烈下跌，单周跌幅达8.9%，逼近3500美元关口。受美联储鹰派立场强化及通胀数据影响，金价较年初高点已回撤37%，华尔街分析认为其已进入超卖区域。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2540882",
+   "pubTime": "10:32",
+   "pubTs": "2026-11-22T10:32:57+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "美方拟禁止中国电信运营商直接获取美国互联网电话号码资源 商务部回应",
+   "summary": "针对美国FCC拟禁止中国电信运营商获取美国互联网电话号码资源一事，中国商务部回应称，美方此举属于滥用监管权力、泛化国家安全风险，严重违反了公平竞争原则。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2540877",
+   "pubTime": "09:18",
+   "pubTs": "2026-11-22T09:18:54+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "美元基金回来了，但热门项目不一定要它的钱 | 创投观察",
+   "summary": "美元基金市场近期出现回暖迹象，有机构成功募集3亿美元新基金且招聘活跃。尽管募资顺利且中东资金关注度提升，但在当前环境下，部分热门项目对美元基金的接纳度仍有变数。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2540870",
+   "pubTime": "08:38",
+   "pubTs": "2026-11-22T08:38:44+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "美伊局势追踪：特朗普称寻求达成永久性协议 霍尔木兹触雷事故不断",
+   "summary": "美国总统特朗普表示将寻求与伊朗达成一项“永久性”协议，以阻止其获得核武器，并称无意推动政权更迭。与此同时，霍尔木兹海峡近期触雷事故频发，地区局势依然紧张。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2540868",
+   "pubTime": "08:27",
+   "pubTs": "2026-11-22T08:27:03+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
