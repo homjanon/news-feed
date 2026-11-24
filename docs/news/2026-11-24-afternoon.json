@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "afternoon",
+ "editionName": "下午茶",
+ "date": "2026-11-24",
+ "fetched_at": "2026-11-24 15:20",
+ "translator": "gemini-3-flash(21条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "美股指期货上涨，市场关注黄仁勋回归能否延续英伟达涨势",
+   "summary": "随着黄仁勋重返英伟达，美股三大股指期货集体走高。投资者正密切关注英伟达能否延续其强劲的反弹势头。此前，白宫曾积极推动黄仁勋回归，而中国方面也对此事发出了警告。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11bVhzTUlmU0hLLW0wRklRekw2eURvelhVMlZ3YThhUm5kNkctUE81eHlyNkRVQkRqTkc1enU3TWZZT0RKY2I1YWNTTmVpaDZkdlJYRGtqYkhFSGViT2NQN1A2MEVxNXEwbkNRMXlaejlRbzhtY2g40gF8QVVfeXFMTzg5Wkp0R2RYWWl3cUFWVjR1MzhPYlcwbzBsTGFFZVN0Z1QybjdvcThKTzBSd2NoOG51TU1JbkpKbUoyaWYtMGVGN2JKMWFkOWc2X3ZFODBBT3VBYkhzTmN3ZXNNTnlfUE5hRlZlM3pEaUgycEtwbWdNNlhuVw?oc=5",
+   "pubTime": "14:47",
+   "pubTs": "2026-11-24T14:47:25+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "黄仁勋重掌英伟达提振股市，特朗普因其干预角色面临舆论压力",
+   "summary": "黄仁勋重返英伟达引发股市普遍上涨，但特朗普政府在其中扮演的角色引发了争议。批评人士对政府干预企业治理表示担忧，特朗普也因其在黄仁勋回归过程中所起的作用而面临舆论的强烈抨击。",
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SeXJDYXotaGotTjIxUGJLUUtpcWFwbkhISVpNQ0MxYzFmRmF3ZDVfSFdtWW1XVjI3QUtjeC1qVnhhRmFmU2NmVDlhcmNURjR0VVVPcEp3?oc=5",
+   "pubTime": "14:00",
+   "pubTs": "2026-11-24T14:00:32+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "特朗普政府制裁新加坡公司Megaspeed，其卷入英伟达丑闻核心",
+   "summary": "特朗普政府宣布对新加坡公司Megaspeed实施制裁，并将其列入贸易黑名单。该公司处于英伟达丑闻的中心，美方指控其与黄仁勋之女Alice Huang及中国情报机构存在联系，涉及敏感技术追踪。",
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXE4aUdTVGFvS0Nqd0tXS2E2Y2IyU0dQSEhGRVM2WlVwdXRRczRRUlNuZ09QWjY0OUJrLVZYeEdTaE9hTW83VG9mMV9aVFNVZWQzT3QwMXZaNGd0WmV5LXE2QURZQ1lUSlI5VWdSLWlOYkp0OFZZVFlvMDVYbmhERk91cUZkcGd1dm1UTkMtTEJvU2pmRHk4WW95RUc0SmNQdllqbw?oc=5",
+   "pubTime": "13:39",
+   "pubTs": "2026-11-24T13:39:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "谷歌警告首例自主AI网络攻击已发生，未来此类威胁将大幅增加",
+   "summary": "谷歌宣布已监测到全球首例自主AI网络攻击，标志着网络安全进入新阶段。此类“代理型攻击”利用AI框架自动执行黑客任务，FBI也警告称AI工具正被用于突破安全防线，未来此类攻击将愈发频繁。",
+   "source": "Mashable",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWGxDWWVnZnFZdVIwa0hpYi1hTVNsVEo1eGtmS3cyVVVOanA3N0RvU1ZGcjR1YkxOOE5fdVNjMWhCNWIwSVJEYUk2MUxjTkd3bWdUMjFlT2htZlZwSEhNcFFDblZ0RTZPb1N3NDU4NzRPR2t5U1FUcVVteHBMMDFOZlQ2VGhMTXdnd1E?oc=5",
+   "pubTime": "11:44",
+   "pubTs": "2026-11-24T11:44:08+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "亚马逊无人机配送洗发水时挂到电线，坠落于密歇根州一民宅房顶",
+   "summary": "亚马逊一架正在配送洗发水的无人机在密歇根州坠毁。该无人机在飞行中不慎挂到电线，随后掉落在一名男子的车库屋顶上。目前美国国家运输安全委员会（NTSB）正考虑对这起事故展开调查。",
+   "source": "NBC News",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcGJLZEhNaFE2OV8zY09jQ0xzaVQ1bS1DeHVSRG5Pd1pDN21Makh6WkxIaXB6aWdEbHZERjQ4b0lnWG1hOUcycEZfQTV3Q2ZtdjRuck4wLXVLTFVlZ1l5YUR1T3lQcVRSaHZ4bnBpWGdNenpud1NiM1ZVSHctekdMVlF3V2tWYlduUjdWZWY4SVo?oc=5",
+   "pubTime": "08:34",
+   "pubTs": "2026-11-24T08:34:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "Anthropic称Claude解开千年数学难题，但证明过程长达25万页",
+   "summary": "Anthropic声称其AI模型Claude成功证明了黎曼猜想等顶级数学难题。然而，该AI生成的书面证明过程长达25万页，被部分专家形容为内容冗长且质量不佳，引发了关于AI在数学领域突破真实性的广泛讨论。",
+   "source": "The Register",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPc1hFcE5MWURoX29EZXNEXzBaU1A4RC1VZGlzUHBBWTUwdXJGSUQyTzh0Rm9NU09qN3lxS2pvdVBlN1JxdjBzY3E3ZFZEMUN1aVhlR3NuWWlEWE5ncEdxV3A3Wl9zeFhEQWZfcXdua3puSkp3MkpkaGl6S3N6UzFLMGZna3JabWgwUFp5N3pFaWlkbDlXWXdGQzdTZWk5XzFUMktnOEFVSnk4aVpETEZXUGEzci1kb19hd0NOMHdJS01MLV9CRENMWWVXMHc2LUd1RktsWUdRRF8zc0xkaDZ1aENsUDlpcGFaSmdF?oc=5",
+   "pubTime": "08:18",
+   "pubTs": "2026-11-24T08:18:17+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "标普与纳指创去年4月以来最大单日涨幅，黄仁勋回归提振市场信心",
+   "summary": "受黄仁勋重返英伟达的乐观情绪推动，标普500指数和纳斯达克指数创下自去年4月以来的最佳单日表现。英伟达、亚马逊等科技股成为市场焦点，投资者情绪在经历了一周的低迷后出现强劲反弹。",
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWjI5NzZ0c2t3SEVKaUlNZUFPb0NnRURkeHBTT1QxTWJvVHNTRERkSzVoeGp5QURjV2FXbUUwb28wT210Mm51SGlMTUY0RUdzb0pTVDdKMjZET2FyY3gxaGd2bjhBWXZnTHY4U2RfX1g3cmhPbGhpYVhsLTN1RTZQQ1NUZ0JXdWRVUXBLZUNudw?oc=5",
+   "pubTime": "07:33",
+   "pubTs": "2026-11-24T07:33:25+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "中使馆：津巴布韦一中企被入室抢劫 涉案10人中八人被捕",
+   "summary": "中国驻津巴布韦大使馆通报，当地一家中资企业于10月遭遇10名歹徒入室抢劫，导致两名中国员工受伤。目前，津巴布韦警方已抓获10名涉案嫌疑人中的八人，并已确认剩余两人的身份，正全力开展追捕工作。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261124-10049062",
+   "pubTime": "14:52",
+   "pubTs": "2026-11-24T14:52:06+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "台官方预计中国大陆后天发射火箭经过台ADIZ",
+   "summary": "台湾国防部发布通报称，预计中国大陆将于11月26日在西昌卫星发射中心发射运载火箭，飞行路径将经过台湾防空识别区并指向西太平洋。此外，台方监测到多架次大陆军机与军舰持续在台海周边活动。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261124-10048951",
+   "pubTime": "14:34",
+   "pubTs": "2026-11-24T14:34:07+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "宏福苑大火改革汇报 李家超要求尽速修订六法严打围标",
+   "summary": "香港特首李家超在听取大埔宏福苑大火事故改革进度报告时，指示各部门全力推行系统性改革。他要求尽快将六条法例的修订草案提交立法会审议，并部署跨部门特遣队严厉打击围标行为，以防止类似致命火灾事故再次发生。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261124-10048785",
+   "pubTime": "14:10",
+   "pubTs": "2026-11-24T14:10:31+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "特朗普称若不保黄仁勋恐被中国挖角执掌华为",
+   "summary": "美国总统特朗普在接受采访时为其介入黄仁勋复职一事辩护，称若不保护顶尖人才，中国可能会招揽黄仁勋执掌华为。特朗普透露，中国国家主席习近平对黄仁勋十分敬佩，认为他是全球芯片领域最杰出的人才。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261124-10048722",
+   "pubTime": "13:59",
+   "pubTs": "2026-11-24T13:59:12+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "涉嫌受贿 中共西安市委原书记方红卫被提起公诉",
+   "summary": "中共陕西省委原常委、西安市委原书记方红卫涉嫌受贿一案，已由国家监察委员会调查终结。最高人民检察院已对其作出逮捕决定，并指定甘肃省兰州市人民检察院向兰州市中级人民法院提起公诉，指控其利用职务便利为他人谋利。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261124-10047935",
+   "pubTime": "13:39",
+   "pubTs": "2026-11-24T13:39:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "台自制潜舰再海测 学者预测年底或明年1月交舰",
+   "summary": "台湾自制潜舰“海鲲号”于11月24日展开第26次出海测试，这也是其第20次潜航测试。军事观察学者根据测试进度预测，该舰有望在今年年底或明年1月正式交舰。海鲲舰此前已于2023年9月下水并完成多次海试。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261124-10047695",
+   "pubTime": "13:07",
+   "pubTs": "2026-11-24T13:07:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "柯文哲谈送蒋万安金刚经和书架：不要被洋流幻象吓到",
+   "summary": "台湾民众党主席柯文哲日前向台北市长蒋万安赠送《金刚经》及手写信，勉励其不要被所谓的“洋流”幻象所惊扰。蒋万安随后公开开箱礼物并朗读卡片内容，表示将以经文中的“如如不动”等佛学智慧自我勉励。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261124-10048163",
+   "pubTime": "12:33",
+   "pubTs": "2026-11-24T12:33:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "英伟达重新任命黄仁勋为首席执行官，外交部：不作评论",
+   "summary": "针对英伟达董事会重新任命黄仁勋为首席执行官，以及美国政府介入该人事变动等相关提问，中国外交部发言人郭嘉昆在11月24日的例行记者会上明确表示，中方对此不作评论。此前黄仁勋曾因个人原因辞职。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2542851",
+   "pubTime": "15:17",
+   "pubTs": "2026-11-24T15:17:16+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "港股评级汇总：天风证券维持联想集团买入评级",
+   "summary": "天风证券与申万宏源等多家机构近日发布研报，维持联想集团“买入”评级。报告指出，联想ISG业务营收大幅增长且AI服务器订单储备充足，整体基本面坚实，收入与经调净利润均创历史新高，当前估值具备吸引力。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2542842",
+   "pubTime": "15:10",
+   "pubTs": "2026-11-24T15:10:31+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "第100单项目明日上市，REITs市场触底反弹，原始权益人密集增持 |公募REITs面面观",
+   "summary": "公募REITs市场迎来里程碑，第100单项目将于11月25日上市。尽管近期部分新发项目面临“破发”压力，但市场供给持续提速，年内发行规模同比增长显著。同时，原始权益人近期密集增持，释放出市场触底反弹的积极信号。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2542776",
+   "pubTime": "14:45",
+   "pubTs": "2026-11-24T14:45:17+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "年内最高赚73%！黄仁勋回归引爆科技股修复 QDII基金业绩分化进一步加剧",
+   "summary": "受黄仁勋重返英伟达提振，海外科技股迎来修复行情，带动QDII基金净值回升。然而，年内QDII业绩分化剧烈，原油主题产品最高收益超73%，而港股科技及中概互联主题产品跌幅仍深，全球宏观周期错位导致不同品类表现迥异。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2542787",
+   "pubTime": "14:45",
+   "pubTs": "2026-11-24T14:45:00+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "港股空头撤离科网股转战新能源车 零跑汽车卖空股数增近6倍",
+   "summary": "近期港股资金博弈出现分化，空头头寸正从腾讯、阿里巴巴等已企稳的大型科网股中撤出，转而集中于竞争加剧的新能源汽车赛道。其中，零跑汽车的卖空股数大幅增长近6倍，反映出市场对汽车行业预期存在较大分歧。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2542773",
+   "pubTime": "14:26",
+   "pubTs": "2026-11-24T14:26:08+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "民主党人“反攻”？美联储内部调查特朗普任命的美联储副主席！",
+   "summary": "美联储内部监察机构正对负责银行监管的副主席鲍曼展开调查，以核实其在今年6月出席私人银行晚宴是否违反了“噤声期”纪律。鲍曼对此予以否认，坚称自己遵守了所有适用规则。此举被外界视为美联储内部的纪律博弈。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2542761",
+   "pubTime": "14:25",
+   "pubTs": "2026-11-24T14:25:55+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "【午报】创业板指高开低走涨近2%，全市场超3100股飘红，机器人概念股持续走强",
+   "summary": "11月24日早盘，A股创业板指高开低走收涨1.9%，全市场超3100只个股上涨，成交额明显放大。人形机器人及AI漫剧概念表现活跃，多只个股走出连板行情；而贵金属板块则震荡调整，赤峰黄金等矿业股集体下挫。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2542702",
+   "pubTime": "12:26",
+   "pubTs": "2026-11-24T12:26:50+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
