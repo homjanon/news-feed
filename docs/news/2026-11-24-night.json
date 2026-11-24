@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "night",
+ "editionName": "夜豆浆",
+ "date": "2026-11-24",
+ "fetched_at": "2026-11-24 22:30",
+ "translator": "agnes-3.0-flash(21条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "芯片股走弱拖累股指，投资者审视英伟达推动的涨势",
+   "summary": "道指、标普500和纳斯达克期货下跌，受芯片股疲软影响。英伟达股价在盘前交易中因黄仁勋回归及美国政治因素下滑，回吐了部分周一的涨幅，投资者正在测试由英伟达驱动的反弹力度。",
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRElscjEtckxzUEhMMWRhYk92WEhnM0E5aFFzYl9PVzIxbGotWTh3bjhrNE9ncTMxdFFyTDFJOTdNLXBuMWgyMEg3TGpKVTZqaXBiQS1JeklvM2xiTXpPTXh5VkNOTkdqNzM3WHhHLWtEOVNQZHZHRWk1RWRWSk1sS1hnZDVkN0dVeEN6ektwTVdfY2xpQWQ1elREX0NiVW13N1VHRzRnaG4zUHNiOFZnMnMtamZhV09NQjMzaTRfUVNiWWNtQUlMOQ?oc=5",
+   "pubTime": "22:06",
+   "pubTs": "2026-11-24T22:06:29+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美国拟对中国及其他多国加征关税",
+   "summary": "在二十国集团峰会临近之际，美国正准备提高对中国及另外15个经济体的关税。此举被视为特朗普政府新一轮关税措施的一部分，引发了市场对贸易摩擦加剧和“贸易战2.0”的担忧，华尔街对此做出反应。",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPblRKZFY1SDBYYTNwNWlxcjFqNFdGMmpQdXc3RzEyb0NoWHE3MmZoX3hBMmdnR0doa3JUUmhoN2xaUTR6dUVuajlkX19tZmN3ZHFOTUNkWnJmV3RVaThzRXVWbXZlNWVpb3k1WmNzOFRYUDRCTjg1S1g3YTRaMDZMT3lhVm8wM3VHdG1BaWlvTTZNY2JNMlR1aHNzV3RyQVk5MW44?oc=5",
+   "pubTime": "21:08",
+   "pubTs": "2026-11-24T21:08:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "Anthropic IPO股价跌破发行价，创纪录上市后迅速逆转",
+   "summary": "Anthropic在创下纪录的上市表现后迅速反转，股价跌破83美元的IPO发行价。尽管其高调亮相，但未能缓解华尔街对人工智能领域风险的担忧，周一科技股涨势未能带动其股价持续走高。",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMHBNOVY5RDc1NmxUUjNnZkNhLWROQkhUOFZpVmQ0SEI0UG9aSUpTTjhpV3EydTNkdW8xYm1KOWF6OXg2Z3BMaUJCWTE3WnFCM0hCZGNuQ3ZKUklsYUROVWQzdExOamNKVlJLRTgwYWpoYVdOUjlDY0pxTmxZajlvckJ4cHc0TG1hbW1ZUkszaDZ2M2Rvd3RqTWRFaVRENXVWT0pr?oc=5",
+   "pubTime": "20:54",
+   "pubTs": "2026-11-24T20:54:49+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "谷歌称首次自主AI网络攻击已发生，预计此类事件将增多",
+   "summary": "谷歌宣布已发生首个自主AI网络攻击，并警告类似事件将大幅增加。目前犯罪分子已广泛使用新的“即点即射”AI黑客工具，相关代码已随处可见，凸显了AI框架在网络安全领域带来的新威胁与挑战。",
+   "source": "Mashable",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWGxDWWVnZnFZdVIwa0hpYi1hTVNsVEo1eGtmS3cyVVVOanA3N0RvU1ZGcjR1YkxOOE5fdVNjMWhCNWIwSVJEYUk2MUxjTkd3bWdUMjFlT2htZlZwSEhNcFFDblZ0RTZPb1N3NDU4NzRPR2t5U1FUcVVteHBMMDFOZlQ2VGhMTXdnd1E?oc=5",
+   "pubTime": "20:44",
+   "pubTs": "2026-11-24T20:44:40+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "百思买同店销售增长6.1%，创五年新高",
+   "summary": "百思买报告同店销售增长6.1%，创下五年来最高纪录。受计算设备及AI眼镜需求强劲推动，公司上调了业绩展望，营收和利润均实现增长，股价因此在利好消息刺激下大幅跳涨。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsMENfR2tOY1lmMDB4VC1ySEJXR0xDbnozRGZMNUc2VXhIelg2ZlpTRFVkZXRtem1yLU9LY29IUG1Ka0FuSlgzcXBnWm5qZlA1ZmU1RzRsaWZFQVFoSjJ2NFhRZEtMellvdmJHRlZTMTJSZzlq0gF6QVVfeXFMT1NIQVlRWlIwcjhtbS1GbUhNeVo3dXFBSmpieGlGdzJKSWpCdkJLdmhGTXZfV0tWbVVGd2U1aFRKUXVxMU5hVWg0azFSQ0RLS3RINDVjM2tUMlVVeWVJX0trb3BJLUdfOFE3LUV5LWhfcTZnYjIyUFNyaWc?oc=5",
+   "pubTime": "20:00",
+   "pubTs": "2026-11-24T20:00:41+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "黄丽斯崛起：从中国工厂小镇到英伟达黑名单风波",
+   "summary": "文章讲述了Alice Huang从背景到卷入英伟达相关丑闻的历程。美国已针对包括她所在公司Megaspeed在内的实体实施黑名单处罚，以打击向中国的芯片走私行为，此举正值英伟达前CEO黄仁勋回归公司之际。",
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zelRkcXN1RXlRQWpxa3AweUdLaHc5Y191WEZDdkljbmwtYlhEVVEyNzhLS0I3azBxR0ExWUFqcUp1ZXZPU3FRRzd3OU5NbV9HeEpYd3Qzb01OS2V3VVVtR0dFQm9YOVg1MHc1UWdqQmxvTnRPUTNXRHV0UjBDQQ?oc=5",
+   "pubTime": "18:03",
+   "pubTs": "2026-11-24T18:03:11+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "职场文化倡导者视黄仁勋回归为“不可理解”之举",
+   "summary": "在特朗普促成英伟达重新聘请黄仁勋担任CEO的交易达成后，许多职场文化倡导者认为此举令人难以理解。尽管该交易已敲定，但围绕黄仁勋回归所引发的公司文化争议仍在持续，引发外界对英伟达管理方向的讨论。",
+   "source": "NPR",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Ic00yc2J1a1NRMzFEa2NEYVNMVG1Ud2g0M2VkRkp0ZEgwZ2E1Njk4Ni1PZ2IzdzhGUDRlbkZVUEVuaEZJS1k4TmxhMElmTXNQM1V5SkFnTHc1NDZSNkttbjN1eTJYOUE2alUzTGMta2kxYzhHWHhCYTFKb1lMZw?oc=5",
+   "pubTime": "18:00",
+   "pubTs": "2026-11-24T18:00:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "挪威与乌克兰将扩大反无人机防空系统合作",
+   "summary": "挪威国防部称，将与乌克兰扩大“DESNA”反无人机防空系统合作。该系统由挪威康斯伯格与乌克兰伙伴开发，已投入使用。双方计划将其部署至乌更多地区，以应对无人机等空中威胁，具体规模与时间未披露。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261124-10050920",
+   "pubTime": "22:06",
+   "pubTs": "2026-11-24T22:06:54+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "英国拟与泰国商签自贸协定 拓展海外市场",
+   "summary": "英国政府启动公众咨询，探讨与泰国签署自贸协定可行性，系首相伯纳姆上台后首次启动新谈判。目前两国贸易额达78亿英镑，但泰对英商品征收高额关税。此举凸显英国在深化欧盟关系同时拓展海外市场。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261124-10050425",
+   "pubTime": "21:36",
+   "pubTs": "2026-11-24T21:36:24+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "情报指俄可能最快下月部署卫星核武 北约誓捍卫太空安全",
+   "summary": "西方情报机构警告，俄罗斯已制造可携带核弹头的卫星“Sputnik-S”，最快下月发射。德国当局称将严肃对待，北约誓言捍卫包括太空在内的领土安全，强调保护重要通信与观测卫星免受干扰或摧毁。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261124-10051905",
+   "pubTime": "21:24",
+   "pubTs": "2026-11-24T21:24:46+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "高市内阁再陷丑闻 在野党要求文科大臣辞职",
+   "summary": "日本文部科学大臣关芳弘被曝借职务便利为政企人士筹款，遭在野党质疑。立宪民主党等已提交问责决议案要求其辞职，风波或打乱国会安排，影响高市早苗政府力推的消费税减税法案审议进程。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261124-10050050",
+   "pubTime": "20:54",
+   "pubTs": "2026-11-24T20:54:54+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "印度传统阿育吠陀疗法风靡海外 带动养生旅游业蓬勃发展",
+   "summary": "印度传统阿育吠陀疗法凭借草药敷疗、精油按摩等特色吸引海外游客，成为养生旅游业重要卖点。尽管疗效缺乏充分科学依据，其仍助推西南喀拉拉邦等地发展，并助力印度扩大海外文化影响力。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261124-10051720",
+   "pubTime": "20:35",
+   "pubTs": "2026-11-24T20:35:16+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "家人关系破裂如何修复？研究揭四大和解关键",
+   "summary": "康奈尔大学研究发现，修复破裂家庭关系有四个关键：放下过去、反省自身责任、调整期望及明确相处界限。研究显示约四分之一美国人与近亲关系疏远，成功和解案例多具备这些共同点。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261124-10043802",
+   "pubTime": "20:28",
+   "pubTs": "2026-11-24T20:28:39+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "直接介入助黄仁勋复职 特朗普打破“跛脚鸭”规则",
+   "summary": "特朗普在共和党失国会控制权后，仍施压英伟达董事会恢复黄仁勋CEO职务，显示其“跛脚鸭”期影响力犹存。此举打破常规，直接介入企业重大决策，凸显其对涉及美国安全企业的强力干预特征。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261124-10050234",
+   "pubTime": "20:06",
+   "pubTs": "2026-11-24T20:06:31+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "韦德布什首次覆盖Anthropic：给予“跑赢大盘”评级 目标价120美元",
+   "summary": "韦德布什首次覆盖Anthropic，给予“跑赢大盘”评级，目标价120美元，较现价有37%上涨空间。分析师认为尽管初期股价波动，但AI生态系统建立趋势不可逆，长期潜力巨大。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2543371",
+   "pubTime": "22:11",
+   "pubTs": "2026-11-24T22:11:08+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "利息收入接棒佣金，成老虎国际第一大收入，收入结构为何变了？",
+   "summary": "老虎国际三季度营收1.73亿美元，利息收入0.83亿美元超过佣金成第一大来源，主要因两融及证券借贷增加。佣金收入同比下降13.5%，反映股票交易量减少，公司呈现“以利息补佣金”趋势。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2543352",
+   "pubTime": "21:52",
+   "pubTs": "2026-11-24T21:52:21+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "央行将开展5000亿元逆回购操作 11月MLF续作2000亿元",
+   "summary": "央行预告11月25日开展8000亿元MLF及5000亿元7天逆回购。因MLF到期1万亿元，当月续作缩量2000亿元，中期流动性净回笼5000亿元，扭转此前加量势头。操作旨在补缺口，体现稳健偏宽思路。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2543357",
+   "pubTime": "21:50",
+   "pubTs": "2026-11-24T21:50:09+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "部分固收类理财产品净值已修复，多家银行理财子：市场逐渐平复，跨年行情或仍可期",
+   "summary": "11月债市调整后部分理财净值随之下探，近期债市企稳带动净值修复。多家理财子认为赎回主因机构止盈与调仓，市场逐渐平复，结合央行流动性操作，跨年行情仍可期，投资者情绪回暖。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2543354",
+   "pubTime": "21:49",
+   "pubTs": "2026-11-24T21:49:37+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "公募新发规模连续八年破万亿，新发主力换了一轮",
+   "summary": "截至11月23日，2026年公募新发规模约1.05万亿元，连续第八年破万亿。今年产品结构变化显著，主动权益类占比超半数，债券基金回落，FOF快速扩容，浮动管理费基金及主动ETF成为新发行主力。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2543349",
+   "pubTime": "21:41",
+   "pubTs": "2026-11-24T21:41:54+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "太古周期高点套现国泰航空股权 年内三次减持套现约百亿港元",
+   "summary": "太古集团借国泰航空股价创11年新高之际，再度配售2.53亿股套现35.75亿港元，较市价折让8%。这是年内第三次减持，累计回笼资金超百亿港元，持股比例降至35%，显示大股东在高位持续变现策略。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2543331",
+   "pubTime": "21:30",
+   "pubTs": "2026-11-24T21:30:05+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "罗氏乳腺癌口服药在美接连获批 有望成公司旗下最畅销药物",
+   "summary": "罗氏宣布其乳腺癌口服药Wilserdly销售有望超越Ocrevus成公司最畅销药物。美国FDA已扩大该药获批范围，用于高风险早期乳腺癌辅助治疗。该药为新一代选择性雌激素受体降解剂，旨在阻断雌激素作用。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2543299",
+   "pubTime": "21:29",
+   "pubTs": "2026-11-24T21:29:55+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
