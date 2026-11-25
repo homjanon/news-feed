@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "afternoon",
+ "editionName": "下午茶",
+ "date": "2026-11-25",
+ "fetched_at": "2026-11-25 15:20",
+ "translator": "gemini-3-flash(21条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "亚洲股市随美股走低，AI板块回调及关税威胁令市场承压",
+   "summary": "受美股科技股走势疲软影响，亚洲股市普遍下跌。投资者对人工智能板块的持续增长产生疑虑，加之潜在的关税威胁隐现，导致市场避险情绪升温，此前AI板块的反弹势头因获利回吐而受阻。",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjE4Zm9DOUxVdmFFaTlaQVJMWHFaVEVGVy1JcTNEcEc3bnhET2xfaGNCdFlpbXkwS210Tkx0d3JVUWVzbzA4amhwWU1FWGxLd2E0YUJBY1lOOUNlVmlwNF83b3Bqc2dqaWVMTzUwSGFfYWNJVDZwXzh5TGp5YUZaTzZoa0dZenZfalhyelF0UUZwbllhOEZIbWNGc1V3OHQxWlhfV3ZoeGdKRURCS3dTVEFSRnk?oc=5",
+   "pubTime": "14:04",
+   "pubTs": "2026-11-25T14:04:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美股期货走低，市场静待通胀报告并评估科技股抛售潮",
+   "summary": "美国股指期货小幅下跌，投资者正密切关注即将发布的关键通胀报告。与此同时，英伟达和Anthropic等科技巨头股价大幅下挫，纳斯达克指数延续跌势，市场正在评估科技股抛售对整体行情的影响。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Jd2QwOVppNGtIY3I5ZXgyVmZKQzJ3SzZvVnVydTJHQnliRXBCR2RiQTBMeXExQU16TnpPQzkwWVl2Q0FKV055NzJBNE4tMGQ0UmlFMFdnQ3o1OG9tR2JNd1Z6Ymk5cGtDVFBxZjJPT19jblIxZ2lwRdIBfkFVX3lxTE5qZGNISDFwMjNGQUoxc3ZlT1JFR1A5Zk1oTmJSX1kxWVFOWUZscTZGTWh2cHdfMW92SzVCbXdBR2o3YWJUVzN2TXhfOUdhSUZpdFNyNXBaUjdseWpuQklwaVgzaUlGdkJqNm54TWEyVTluWVFYVTZVMVptNV9xQQ?oc=5",
+   "pubTime": "13:25",
+   "pubTs": "2026-11-25T13:25:52+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "特朗普账户规模突破10亿美元大关，家庭及亲友捐款贡献显著",
+   "summary": "美国财政部和白宫证实，专门为儿童设立的“特朗普账户”已达到一个重要里程碑，来自亲友及个人的捐款总额已突破10亿美元。该项目旨在通过社会捐助支持特定群体，目前资金规模增长迅速。",
+   "source": "Fox Business",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLU9rZlpJcFFGYmw2eDVlQUhnOHd4NVNtN3ZKaFU4QUhwYXp3ci1fQS1PZno4c3Q3d2ZwUDlpeGw2QW9OY2xyWVVDYm9xYlZZSFNlQ1EzT1RBV3Izb0lyZ2JsUW5IMkJjQm5NNHlQcldUY21lM2N6bVN0NmlENmtzY0NEZGtvRHNtZDV6U2lvcGdjQmZSSlkyS0ttLWJyNW53LTM5OHFuV0h3WVJrZWlv0gG0AUFVX3lxTE9tcmpPVHM4Um93VWN2dzZpeEFyaC1qUTcyZndQelYwMlZwRXMxWTVMN3l6dUtUMmhWbXlGaDJEaUlQV05HVmlEaWdMekVtWGQwVHNiaElFZmFoMWlqX0RfbWJpeVNhUGlyY1ZVZ2RtZDZhSmt5azBFbUt4NU1YOTc5dnVXRm1rT0plTjBvWFlSWjFoN21PaHBjWlRGMkdoQkhXZEFJbjVXLXhTTUdRdS1UcGlNZw?oc=5",
+   "pubTime": "12:51",
+   "pubTs": "2026-11-25T12:51:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "黄仁勋在英伟达员工会议上致谢，称感激获得“第二次机会”",
+   "summary": "英伟达首席执行官黄仁勋在员工会议上表达了感激之情，称非常感谢能获得第二次机会。目前英伟达正面临科技支出紧缩及相关丑闻的压力，白宫方面也在积极介入，试图稳定这家芯片巨头的局面。",
+   "source": "NBC News",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQmhlWk90SmZVWUllcWFBTGNHbWs3SUhBUXNEWUh1ei1tQUd0eFQxSHN5RnJHcFZyRENZS3VCaVdLalFqZzZpd29NcjRJU3BuSGlEVGZULXJJRVN3VlVJeXE4RGM2VVBIcFNPaC1ielpmaWd2YjZzZkxWU195YWNyQmlvTXVmQ1hFelNzcGtabU0xUGtUUlItTXhhYnBjX3NsQm1BajRtRWhwblFubjhqLVg5eV8tbW9wU2JWWWMybVpPQQ?oc=5",
+   "pubTime": "12:11",
+   "pubTs": "2026-11-25T12:11:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美国运输安全管理局预计感恩节期间航空旅客将达1800万人次",
+   "summary": "美国运输安全管理局（TSA）预计，今年感恩节期间全美航空旅行人数将接近1800万人次。为此，TSA发布了关于携带砂锅菜、龙虾等食品的安检规定提醒，并建议旅客提前做好准备以应对机场客流高峰。",
+   "source": "Fox Business",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObUxzSTRsUVExeGJlWHAwS2hZVHRFbkxoUmVuRG1WRFVvODE0WFJrY2Y1Q2loaXZiWHdGQ2dfUGNWWXZhUEZHWFc3TjAwaTlsR25sSDduMkZjVHBsMUk3T3B4bXFUaWJZaFJkWnljbHVuazNzMU53OFpCUkVxem9JWFgtZmMyeUJycVRNVnRELXV2eTgwU213MmY4Vm0tUTR6cXlsdTViZWFIQW1uN2tqbTExN3TSAboBQVVfeXFMTTV2dTdEQ29TemxWYVFyTGJDMzFONEJLNHdZVGhYMnU1aVBvUkNOaUM1TWV1bE50dXpMaWx1M1VaTVptWk5OaDhhWWQzeUJodVFuNFVId3lSYzFkZnVOQU9Pc3ZsQy1PZm1QRnF1ZnUxdVRXc09OalJXd3d5SEFERzhnRnVtenJtS28ydXhOZTZkUXNMcDBkcnhya3dhbkFVaTF2bF9mYnR5WER0VFo1ZTNHRW9fOXN2Z1Rn?oc=5",
+   "pubTime": "11:44",
+   "pubTs": "2026-11-25T11:44:13+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美国官员就英伟达相关情报向国会作简报，涉及芯片走私指控",
+   "summary": "美国政府官员向国会工作人员通报了涉及英伟达的最新情报。调查重点围绕一名叫Alice Huang的人士，其被指控非法向中国输送英伟达芯片。该事件已引发广泛关注，并成为美中科技竞争中的焦点。",
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaDI2MUVaY1NkUWpVOWRFMXJUQW9McW5HSDUtZlZtTlNjQVFoQzU3TE92WlB4c04wenRXZWpmamRibm0xc1pzM29WU0tHMGt2N05kQVV0b01QTTduTGxRX2EzWmZCNmRtV3F2SXp4aGZZZVJSbmNUd3F5SWhZdDhQLXBuUkZVdzZ6cnJuN1ROOWlQNmRnMGlrZHZ6bjVJUkF2WGZz?oc=5",
+   "pubTime": "11:15",
+   "pubTs": "2026-11-25T11:15:54+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "特朗普称美国入股英伟达“为时不晚”，并暗示可能特赦黄仁勋",
+   "summary": "特朗普在接受采访时表示，美国政府现在入股英伟达可能还不算晚。此外，他对抗拒国会传唤的黄仁勋持开放态度，暗示如果需要，可能会对其进行特赦，并敦促其不要在下周的国会听证会上行使沉默权。",
+   "source": "Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV0RjeFlHc2dpVFFRODd4WENkQ1Q0WjNUaE1RdVZESGRnUDVnNVFYeHJTYWgzV1NZU0QwU2VvTmZ2VHFHQ0lfSjkxR0tHZlJLUUNSWVhUVkMyYnZKVjBoOUZHcDAxSVNpUVd3MU1kLWZSNHVnQl9lb1lLbUtPdUN1d3ZjU3kwSm43?oc=5",
+   "pubTime": "09:03",
+   "pubTs": "2026-11-25T09:03:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "黄仁勋婚外情对象黄乐关联企业 据报以在华AI设备担保融资",
+   "summary": "与英伟达CEO黄仁勋传出绯闻的商人黄乐，其关联企业据报以在华AI数据中心的高性能计算设备作为担保进行融资，涉及金额约2.7亿美元。同时，美国当局正调查其关联公司是否协助中国客户获取受管制的英伟达技术。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261125-10055438",
+   "pubTime": "15:06",
+   "pubTs": "2026-11-25T15:06:53+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "习近平与巴基斯坦总统互致贺电 中外航天员实现首次太空握手",
+   "summary": "中国国家主席习近平同巴基斯坦总统扎尔达里就中巴航天员执行联合飞行任务互致贺电。神舟二十四号航天员顺利进驻天宫空间站，巴基斯坦航天员阿里随行，中外航天员实现了首次太空握手，阿里也成为首位到访天宫的外籍航天员。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261125-10055389",
+   "pubTime": "15:00",
+   "pubTs": "2026-11-25T15:00:12+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "阿里巴巴据报考虑明年发行离岸债券 为AI投资筹资",
+   "summary": "阿里巴巴据报正与投资银行初步磋商，计划于明年在离岸市场发行人民币或美元债券，以筹集资金支持其不断扩大的AI基础设施投资。此前腾讯已通过类似方式筹资近57亿美元，反映出科技巨头竞相通过资本市场支持AI发展。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261125-10055260",
+   "pubTime": "14:38",
+   "pubTs": "2026-11-25T14:38:58+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "中美贸易理事会项下农业工作组首次会议举行",
+   "summary": "中美贸易理事会项下农业工作组首次会议于11月23日至24日在北京举行。双方就农产品监管、市场准入及贸易等议题进行了深入交流，旨在落实中美元首会晤共识，通过加强沟通解决农业领域关切，推动两国经贸关系稳定发展。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261125-10055116",
+   "pubTime": "14:22",
+   "pubTs": "2026-11-25T14:22:24+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "英媒：欧盟拟设500亿欧元科技基金 降低对中美依赖",
+   "summary": "据外媒报道，欧盟计划设立规模达500亿欧元的“主权科技股权基金”，重点投资人工智能和量子计算企业。该基金旨在通过更大规模、更高风险的长期投资，降低欧洲对美国和中国技术的依赖，提升自身技术独立性。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261125-10055073",
+   "pubTime": "14:13",
+   "pubTs": "2026-11-25T14:13:08+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "旗下组织曾获索罗斯资助 沈伯洋：未进个人口袋",
+   "summary": "针对民进党台北市长候选人沈伯洋曾任职的“台湾民主实验室”接受索罗斯基金会资助一事，沈伯洋回应称，约135万美元的款项均用于研究和机构营运，并未进入个人口袋。此事在台湾地方选举期间引发了关于政治立场与资金来源的争议。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261125-10054995",
+   "pubTime": "14:00",
+   "pubTs": "2026-11-25T14:00:10+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "习近平：持续高质量推进党内法规制度建设",
+   "summary": "中共中央总书记习近平近日对党内法规工作作出重要指示，强调要坚持把依规治党作为管党治党基本方式，持续高质量推进党内法规制度建设。他要求更加注重制度系统集成、学习教育及执行，并加强党内法规与国家法律的衔接。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261125-10054952",
+   "pubTime": "13:50",
+   "pubTs": "2026-11-25T13:50:21+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "欧盟酝酿全新科技业投资基金 投入500亿欧元以捍卫AI等技术独立性",
+   "summary": "欧盟正计划筹集至多500亿欧元设立“主权科技资产基金”，旨在对人工智能、量子计算等先进技术领域进行长期高风险投资。此举意在应对地缘政治动荡及美国政策的不确定性，通过加强技术独立性，确保欧洲在核心领域不受他国制约。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2544015",
+   "pubTime": "15:18",
+   "pubTs": "2026-11-25T15:18:13+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "“互联网泡沫+次贷危机”！AI若暴雷 美国经济真伤不起？",
+   "summary": "近期美股剧烈动荡及英伟达董事会风波，引发了市场对AI泡沫破裂后果的担忧。分析认为，美国经济过去两年对AI支出已近乎成瘾，若AI投资大幅萎缩，即便不演变为全面崩盘，其产生的冲击也足以拖垮美国整体经济增长。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2543982",
+   "pubTime": "15:17",
+   "pubTs": "2026-11-25T15:17:52+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "港股消费股逆势走强 有个股近一月跑赢恒指逾20%",
+   "summary": "在港股震荡走弱的背景下，消费龙头股逆势走强。雨润食品、名创优品等个股集体上涨，李宁、蒙牛等近一月表现显著跑赢恒生指数。市场分析指出，本轮消费股回暖呈现趋势性上行，反映出投资者对中国消费企业前景的关注。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2544017",
+   "pubTime": "15:11",
+   "pubTs": "2026-11-25T15:11:21+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "多只宽基ETF尾盘成交激增 沪深300ETF华夏（510330）20分钟成交超110亿",
+   "summary": "11月25日尾盘，多只宽基ETF出现集中放量成交。其中，华夏沪深300ETF在20分钟内成交额突破110亿元，易方达沪深300ETF成交超80亿元，上证50ETF成交也超过40亿元。大额资金的涌入带动部分指数一度冲高翻红。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2544000",
+   "pubTime": "14:57",
+   "pubTs": "2026-11-25T14:57:05+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "取消80%折扣红线！三大期交所同步优化担保品规则 国债仓单资金效率再升级",
+   "summary": "上海、大连、郑州三大期货交易所同步发布公告，拟取消标准仓单及国债等担保品折后金额不高于市值80%的硬性约束。未来折扣比率将由交易所根据市场情况动态调整，此举旨在降低市场交易成本，进一步提升期货市场的资金使用效率。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2543903",
+   "pubTime": "14:56",
+   "pubTs": "2026-11-25T14:56:55+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "多地密集清退“空壳”融担公司，银行收紧合作名单，融担助贷模式日趋合规",
+   "summary": "随着监管部门持续清退“空壳”及“失联”地方金融组织，多地近期密集注销融资担保公司经营许可证。与此同时，银行等金融机构也在收紧助贷合作名单，不合规机构的生存空间被进一步压缩，推动融资担保行业向合规化与高质量发展转型。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2543939",
+   "pubTime": "14:53",
+   "pubTs": "2026-11-25T14:53:49+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "沐曦股份彭莉：AI算力评价体系迭代 单位Token成本与产出成核心衡量维度",
+   "summary": "在第七届科创领袖大会上，沐曦股份CTO彭莉表示，AI算力评价体系正发生变革。随着算力重心向推理和强化学习迁移，衡量标准已从单颗芯片的峰值性能转向单位Token的成本与产出，即每度电能产出多少有用Token已成为客户的核心考量。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2543949",
+   "pubTime": "14:23",
+   "pubTs": "2026-11-25T14:23:27+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
