@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "night",
+ "editionName": "夜豆浆",
+ "date": "2026-11-25",
+ "fetched_at": "2026-11-25 22:30",
+ "translator": "gemini-3-flash(7条) + agnes-3.0-flash(14条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "美联储青睐的通胀指标攀升，加息预期进一步强化",
+   "summary": "美联储首选的通胀衡量指标在10月份加速升至3.8%，这一数据表现超出了市场预期。通胀压力的回升可能促使美联储再次加息，加剧了市场对经济前景和金融市场波动性的担忧。",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbFd6dlZlV25JVlBjcjRXWWdYUTdqd2ZBeG1WbGI3Z1dGRjhwN0pCWEJteUN2YVBvSHFXbHl2M3VPcS05WU9TTWlQaVpZS3BVTTV1Sk1kVTNDSXQyOWlMLUJOT1ViUnhGUnM0Qkhxc3BGUlFMeUU2aHVBYy1SQTJPNVZDZUJwWkdhLUVUdWZNREdxaHI2R1BROTZlbTliVHZCVFdUWGMzaU02UdIBrwFBVV95cUxPWE1jU1l6LVdTcGhmTWp6aUROSnFNX0tsQVF2Q0FRam85VGs4SS1CNlg3VUpSRF95Y0Z1cnRzdGtGOWM0YWJLUTNhRElWVTNaQzdjVHA3TzYyN25yOTlyMV9qZzhzLTRZNHlDMFF4emdVQU9UbGZnWnktMC1tNTFQUURsN1NxRW05TUhyNW1odXcwbWI0T2xnYXlkdXkyaXNpS0VXMGlVZDVHcGNpamkw?oc=5",
+   "pubTime": "22:15",
+   "pubTs": "2026-11-25T22:15:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "通胀数据再度走高，美联储或维持加息路径",
+   "summary": "最新公布的通胀报告显示物价压力依然强劲，这使得美联储保持在再次加息的轨道上。持续处于高位的通胀读数令市场预期美联储将采取更强硬的政策立场，以遏制顽固的物价上涨势头。",
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVmt0OG9famdFX2l1SjBPc1A0aWZYc3Aza2tac0ZTYWk0bWplX2xRWVBUdjh3ZEtOQ1RQbFdhaUc0Wl8zZkpKaGV5c3Q1R3AxZHF0VjBqZ0RicnRRNVZ6X2RfYmNQUnBtTXBfbmNQUWRuZXpVcXFGa2pyRXhJZmhIWUxjXzc5cm1RTG1HSm1n?oc=5",
+   "pubTime": "21:53",
+   "pubTs": "2026-11-25T21:53:24+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "经济数据公布后美股指期货跌幅扩大",
+   "summary": "受最新通胀数据回升及英伟达领跌人工智能板块影响，美国股指期货在数据公布后进一步走低。投资者对关税政策、通胀压力以及科技股估值的担忧情绪升温，导致市场抛售压力显著增大。",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUdBTGhVT2V5cDcydUZMX2NTdTkxVDBJSHdCMUgwNXBibGhQc28zdktpLXA2dGVUYzRzV3hpMld1U29KempSNUswd2dNYVdITlFxV2NycEkwbnlpZkdPSDNicVRKM3NCU2l0M0hoWU13UTZkbTAtX2JFempxaUtFbjdTZGMxT2lXM2g3dkR4cy1UYnVfZ09kOWpTNGxtUEZZOTRPaXhENlZ6OGt2ZF94d0RCVjdOSldfc0E?oc=5",
+   "pubTime": "21:43",
+   "pubTs": "2026-11-25T21:43:10+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美股三大股指预期走低，市场聚焦PCE通胀数据",
+   "summary": "在关键的PCE通胀数据公布前夕，道指、标普500及纳指期货集体走弱。受英伟达股价下跌拖累，市场情绪偏向谨慎。投资者正密切关注该通胀指标，以研判美联储未来的利率走向。",
+   "source": "MarketWatch",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWUoxN04xLTNpMnpwa1d3YkJLT1l0RElYblJUckRXTktsMXpfakMxdXkyd2JfcXdKUTZXWVE0Y1dmWHBDbGlSVTBqWVkxS2ViWUdtX01rU21rYnpBdDFsSWg2UG16UkNCWTJSNWdjbndGcm5LcExsZVNENkptV0tvblRQMTlKTjREaDR6Q3lNeGR3Tm42enlyX0s3ZENmX2ZLMzNrMlprVXotbjdfZXBYRDlVZV8?oc=5",
+   "pubTime": "21:03",
+   "pubTs": "2026-11-25T21:03:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "GLP-1类药物普及，改变美国感恩节传统饮食习惯",
+   "summary": "随着Ozempic等GLP-1类减肥药的广泛使用，患者和医生正在重新审视感恩节晚餐。由于该类药物具有显著的食欲抑制作用，传统的节日高热量饮食正面临挑战，医疗专家也为此提供了新的节日饮食指南。",
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYzljN2prYndWcDN2a2ZLdEJ5dTluamNmWnZWQkxydU5FZE5mYng2VDRuTUFhcHZvNEZORGoyTXRKN19VU0lGU2wwQm5TQ2k0Rk9QRWJZYlhKOEp0T0Eza0JwaHRkQ21fanV5YWRkRjIyOFZzenpGYVRYSFQwVEdKSWdnbEs3WmJya0ttS2JXcGVheG9tVVJDTEVabWozRzVPaHZQQg?oc=5",
+   "pubTime": "20:39",
+   "pubTs": "2026-11-25T20:39:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "追求性价比，二手购物成为今年假日季主流趋势",
+   "summary": "调查显示，随着消费者在假日购物季更加注重价值和性价比，二手商品正逐渐成为主流选择。多数消费者计划购买二手物品作为节日礼物，反映出在预算压力下，大众消费观念正向经济实惠转变。",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb1ZzNEQ4enhXbDlRODFHdnpNZlAtU0o3NDFiQnJuaW5MbFZQVHpweGtCdV84aEJsTmlTVFdDRkV4SFdYd0o2UG5KTDJ4S0E0UTFNcXZmU2ZCX2FWV2puekVSMXlXVS1Xd09fS2ZfOHNZaWNQQmNVUEhxdlVzSnlNV29yblRLbnpmdkk4c0xjWWYxTXhoN2ZZddIBngFBVV95cUxPWjdBYms4ajQ5WmNhNy1NTXNDU2tmc19CVW1MeGtnSXRqZU9sVzhRazlzOW5hZGpsLXpsT3puN1ZzUkVLX3NzNGJYQ1JCN0t4V1RORm1xXzFybUZNd1FYeVB5MXd5Q2d6YVN3eUNSV3hsNTVIOEMtT3FmVjBTYUczejV1bG84ajJMQnRsdmxqNzcyMEYtelBOTFR4a0hIUQ?oc=5",
+   "pubTime": "20:00",
+   "pubTs": "2026-11-25T20:00:01+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美国关税计划强化加息预期，金价维持跌势",
+   "summary": "受美国关税计划引发的通胀担忧及加息预期增强影响，金价持续走低。在关键通胀数据公布前，美元走强令黄金承压。尽管市场存在反弹动力，但整体情绪仍受美联储政策前景和关税政策左右。",
+   "source": "Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORkQxbTNiWEs3QmZBV1ZoVV9Nb1kyM1dUSmRYT2RWYkQ0eTV6cktjakV3OXRjalVYSkJ2Q2FBdFhUbHl6V3VBTHFzbGJFU1RacTRrUGxFWHU2Y0R3OXZKXzlaQUVPc3Z3TjJ1MkRnVGNwMlpHYzhwbVkwRTFLbVc0ZTkxa3ExQU1iYTcxU3Q4czZTVVhDRE9iYTFCak1aZ3BnQ1ZGbldMSGdaQ2szYXNQX1FJTQ?oc=5",
+   "pubTime": "19:38",
+   "pubTs": "2026-11-25T19:38:14+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美贸易代表支持晶片管制措施 包括将超速国际列黑名单",
+   "summary": "美国贸易代表格里尔支持政府晶片出口管制，赞同将英伟达合作伙伴超速国际列入黑名单。此前英伟达CEO黄仁勋因涉超速国际高管丑闻辞职，后被董事会恢复职务。美国已将超速国际及另七家企业列入黑名单，限制其交易。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261125-10058358",
+   "pubTime": "22:26",
+   "pubTs": "2026-11-25T22:26:19+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "以色列初步通过法案 拟成立委员会调查哈马斯袭击事件",
+   "summary": "以色列议会初步通过法案，拟成立国家调查委员会彻查2023年10月7日哈马斯袭击的安全失误。法案由前国防部长艾森科特所属政党议员提出，获65票赞成。该法案旨在独立调查导致1200余人遇难的安全漏洞，目前尚待正式立法。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261125-10058327",
+   "pubTime": "22:19",
+   "pubTs": "2026-11-25T22:19:01+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "美拟对14个贸易伙伴征产能过剩关税 新加坡税率料为20%",
+   "summary": "美国贸易代表办公室宣布对14个贸易伙伴加征新关税以应对产能过剩，新加坡料被征收最高20%关税。调查涉及中国大陆、欧盟、日本等，依据《1974年贸易法》第301条。墨西哥和挪威暂未被列入，具体税率将于25日刊登于《联邦公报》。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261125-10058173",
+   "pubTime": "21:48",
+   "pubTs": "2026-11-25T21:48:05+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "Shein同意支付1亿美元和解金 了结美国一起欺骗营销案",
+   "summary": "中国快时尚品牌希音同意支付1亿美元，了结美国联邦贸易委员会指控其欺骗营销案。委员会指希音在产品、供应商及消费者评价方面误导消费者，违反保护法律。双方已达成和解，款项将用于赔偿受损消费者，公司称调查涉及过去业务。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261125-10057998",
+   "pubTime": "21:06",
+   "pubTs": "2026-11-25T21:06:47+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "调查：欧元区内刷卡支付 首次超过现金支付",
+   "summary": "欧洲央行调查显示，欧元区银行卡支付首次超过现金支付，占比45%对44%。这标志着该地区从偏好现金转向数码交易。较2024年调查，现金支付占比从52%大幅下降。欧洲央行官员称，电子支付在日常交易中正变得越来越重要。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261125-10057930",
+   "pubTime": "21:01",
+   "pubTs": "2026-11-25T21:01:59+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "受厄尔尼诺现象影响 旧金山海潮将创40多年高位",
+   "summary": "受超强厄尔尼诺影响，旧金山超级大潮将创40多年同期最高，水位或高出正常0.82米。叠加风暴天气，感恩节期间美国东西岸洪灾风险上升。多家航空公司已豁免飞往旧金山机场的改签费，影响数百万旅客行程。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261125-10057683",
+   "pubTime": "20:46",
+   "pubTs": "2026-11-25T20:46:55+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "美媒：美政府正重新考虑或将伊朗高层列为打击目标",
+   "summary": "美国官员正讨论将伊朗政权高层列为打击目标，旨在清除强硬派以结束战事。支持者认为可施压伊朗，反对者担忧引发报复及破坏外交努力。随着特朗普重新评估对伊军事行动，相关讨论近几周再次升温。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/world/story20261125-10057891",
+   "pubTime": "20:41",
+   "pubTs": "2026-11-25T20:41:44+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "Meta据称与亚马逊磋商解除Muse封锁 广告与搜索成焦点",
+   "summary": "Meta与亚马逊正磋商解除对Muse智能体的封锁，拟将其接入亚马逊商城。双方谈判聚焦于搜索结果和广告业务处理，亚马逊担心Muse绕过广告导致收入流失。目前谈判存在变数，尚未确定能否及何时达成协议。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2544598",
+   "pubTime": "22:20",
+   "pubTs": "2026-11-25T22:20:40+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "李斌、何小鹏羊城隔空“对话”：物理AI正在颠覆汽车业",
+   "summary": "广州车展前夕，小鹏何小鹏与蔚来李斌探讨AI进入物理世界。何小鹏认为机器人未来将超越汽车成为最大产业；李斌主张车企应成为AI原生组织。小鹏选择向外延伸智能体能力，蔚来选择向内改造企业经营流程。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2544596",
+   "pubTime": "22:15",
+   "pubTs": "2026-11-25T22:15:30+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "广东加码推进回购增持贷，年内上市公司回购增持金额已超700亿元，多家银行重点拓客",
+   "summary": "广东、深圳召开座谈会宣讲股票回购增持再贷款政策。目前广东超200家上市公司使用贷款回购增持，涉及金额超700亿元。深圳银行发放贷款超115亿元，多家公司披露增持计划，金额创近年新高，多家银行正重点拓展客户。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2544588",
+   "pubTime": "22:05",
+   "pubTs": "2026-11-25T22:05:58+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "平安产险任晓强：并购保险的核心是把不确定风险转化为确定性保障",
+   "summary": "平安产险任晓强在并购保险论坛指出，并购保险填补尽职调查难发现的或有风险，将不确定风险转化为确定保障。该产品历经40年发展，定位已从风险转移转向交易促成，2017年平安产险推出相关产品填补国内空白。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2544580",
+   "pubTime": "21:59",
+   "pubTs": "2026-11-25T21:59:50+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "避险情绪持续升温 英伟达盘前跌超5% | 今夜看点",
+   "summary": "受美联储议息会议前通胀数据及关税风波影响，美股期货下跌，避险情绪升温。10月核心PCE同比上升3.3%，略高于预期。英伟达盘前跌超5%，此前一周暴涨后回落；AI次新股Anthropic破发，美光科技等科技股亦下跌。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2544578",
+   "pubTime": "21:45",
+   "pubTs": "2026-11-25T21:45:53+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "多家国有大行表态将加速投放股票回购增持贷，累计金额已超4600亿",
+   "summary": "股票回购增持再贷款政策落地三周后，国有大行集体加速投放。建设银行已与百余家客户签约超千亿元贷款；工商银行、中国银行等也公开表态加大投放并披露数据。多家国有大行累计发放该类贷款金额已超4600亿元。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2544570",
+   "pubTime": "21:36",
+   "pubTs": "2026-11-25T21:36:52+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "通化金马终止并购八加一 AD新药商业化落地待验证｜速读公告",
+   "summary": "通化金马宣布终止收购八加一控股权，因交易各方未能达成共识。此举发生在公司AD新药进入医保背景下。此前八加一存在失信及债务问题，交易不确定性早有伏笔。目前公司AD新药后续放量节奏及盈利贡献仍待市场验证。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2544526",
+   "pubTime": "21:35",
+   "pubTs": "2026-11-25T21:35:33+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
