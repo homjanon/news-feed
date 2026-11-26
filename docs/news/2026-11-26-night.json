@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "night",
+ "editionName": "夜豆浆",
+ "date": "2026-11-26",
+ "fetched_at": "2026-11-26 22:30",
+ "translator": "gemini-3-flash(21条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "AI板块反弹带动美股及纳指期货走高",
+   "summary": "随着投资者在感恩节假期前逢低买入，全球股市及纳斯达克期货出现反弹。尽管面临美国关税政策和AI板块波动的压力，市场情绪依然回暖，科技股的稳健表现抵消了此前对AI贸易前景的担忧。",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeEQtTUQwY0ZyTEpubU1fOUV6eVQzR2llam9uaF9UUnQ5LVNvcWJFT0dRYW9NRHM2cDQtYkpaOF9rS1ZuVE8zaDhmYWk0S1IzdU1sOER5aWJLOTQteFZFTjRkMUJwUTdta0ZnemNITTBEa1VVb1c1MGJkUnZoMFRKNDZjM1d6SDBqZ1g2NDZTenZfSEZK?oc=5",
+   "pubTime": "21:54",
+   "pubTs": "2026-11-26T21:54:48+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "北大西洋航空暂停所有航班并面临破产风险",
+   "summary": "廉价航空公司北大西洋航空因面临潜在的崩溃风险，已宣布暂停所有航班。该公司目前正发出紧急融资请求，并警告称若无法获得资金支持，将面临破产危机。这家成立仅五年的航司在感恩节期间突然停运。",
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kcUhxMWplRk1tNm1GLW1Ca0tRRkJpUU94d0MtS0o1bGl6UHNoV3RxZEk5VHFYMGVBcmlzMnFDYzFJcmJUdEhkQ2xyeWg4eVdkemVCcEpsZ1NqbWs?oc=5",
+   "pubTime": "21:30",
+   "pubTs": "2026-11-26T21:30:12+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "联邦快递货机冲出迈阿密机场跑道影响感恩节出行",
+   "summary": "一架联邦快递货机在迈阿密国际机场降落时冲出跑道，导致该机场多架次航班延误或取消，严重干扰了感恩节期间的旅客出行。目前机场除一条跑道外已恢复开放，相关部门正在对事故原因展开调查。",
+   "source": "The Hill",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb0RUUkVFQmVEYmJVY3RYdWZELXZqV1V4UHJzdU03WnVuZlZJdWdFY3ZGeUpnYjV4Q2VxeXhqNkVmbURkSWljN1V0ZEpGeTRPMS1LeTU0MTJsQ1BiRVg3Yk94SWlqR3pfa3ozM2RXMWtEOTJ1el92RFI5MDFZN2NrZjAyclFtVkdETHVnX9IBkgFBVV95cUxNYWwwNTFfWldPTHhOcjNmUFFLRGVmampkTG9pbHQ2ZHlQcjgzYWd0ZzUxUk5pWG4xQlo2Vk5ibEFQNjRfZFY2RUdwSUp5X09kWEstYzN2LVM4Y0dzaXBpR1RSdXdESEpFdUc4R2tsc2FzZ1FuT0RkSGJ3WkJZLUJGbjFzdVhnVjBISUkxZE5iZ3p2dw?oc=5",
+   "pubTime": "20:23",
+   "pubTs": "2026-11-26T20:23:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "受美国对华出口管制影响，英伟达暂停向东南亚供货",
+   "summary": "随着美国进一步收紧对华芯片限制，英伟达已停止向东南亚四个国家的服务器出货。此举导致价值数十亿美元的数据中心交易陷入停滞，英伟达及其销售商正被迫在管制政策下寻找新的买家和市场。",
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSHM3RHJjQzd5X25CS3B2YkpjVm9fa092SkJjUmlWLS1xRi1EaFZNam9wTi1lbUpmTXdPeVRaYXdjM2hnT2dLenQyQXVtOHZzcDJ5SkZSeGdlS0ZCZHMtMUNfclhqT3VJVUNmNy1yUmtNMnlnRkhvd1ZWV2FKdVQ1QmtB?oc=5",
+   "pubTime": "20:04",
+   "pubTs": "2026-11-26T20:04:01+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "Denny's餐厅重新挂牌纪念英伟达CEO黄仁勋",
+   "summary": "美国连锁餐厅Denny's重新挂起了纪念英伟达首席执行官黄仁勋的牌匾。黄仁勋早年曾在这家餐厅构思了英伟达的创业蓝图，餐厅方面表示“有些东西永远不会从菜单上消失”，以此欢迎这位科技巨头回归。",
+   "source": "Politico",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRmVBTi1nckNpeUFQb1RoU0NTbWt1MVVYSVdZNjhueVI4NHZuT05hSmJ4MmVWSjNoUi01cVAzNnQ5Vl84d0FOOTV0aW5xOXcwODFra085b1MyS3gzOExyRnFzSk9Dc1M0ZTE2WnlReFZmSmlVVWZjenZDQzhpZUQyNHVOSVlzMmpFYUwyMm8xQ3lxdXdNNVZrdGRRTFd4ZlB0SEZvRDg5N3Eycks5LTdtcGlaWEM?oc=5",
+   "pubTime": "19:27",
+   "pubTs": "2026-11-26T19:27:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "2026年感恩节营业时间指南：各大商店及银行开闭情况",
+   "summary": "针对2026年感恩节假期，各大零售商、餐厅和银行公布了营业时间安排。沃尔玛、塔吉特等大型超市通常选择关门，而部分杂货店和连锁餐厅仍将限时开放，为有节日购物和用餐需求的民众提供参考。",
+   "source": "CBS News",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcjdyTDMyaElweWpKVkk0cVJDb3F1bjJ2Ty1za3ZwV21fUzU2MDJwWVM1dnQxbXZRdE15WDA4Wk1uVGp3TkllNjRLQ1FMcXRiLU8yb19oaE1rT2QzUTYzNnFBaF9XUkZxS0ZkODJFenBSUUxad1RJVmcyak5HekJDTWN0ZUowLWJuMTZvRg?oc=5",
+   "pubTime": "19:00",
+   "pubTs": "2026-11-26T19:00:21+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "伊朗及胡塞武装威胁升级，国际油价小幅回升",
+   "summary": "受伊朗及其盟友胡塞武装升级威胁影响，国际油价出现回升。胡塞武装声称袭击了沙特最大的炼油厂，导致海面上空出现巨大黑烟，市场对原油供应中断的担忧再度升温，抵消了此前部分利空因素。",
+   "source": "CBS News",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05bmJOWEtxU1hnYmlGcXV2cHM2SzlfUnBhVUk3QklXMzFEd3Eyd1BhRmhORDBNM21BZmhfMnZObENxQTB4QWFDWnJwX0xhdnFUQmVkT1FSYnlBWUNsc0dtc1hVZTk5eDBMbEJDV2hNcl9qN2tEX2Q0RUl6N3pFdw?oc=5",
+   "pubTime": "18:38",
+   "pubTs": "2026-11-26T18:38:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "巴西总统卢拉有意委任银行家出任财长 安抚市场情绪",
+   "summary": "巴西总统卢拉有意邀请布拉德斯科银行董事长特拉布科出任财政部长，旨在缓解投资者对新政府经济政策的担忧。特拉布科与卢拉关系密切，目前尚未正式答复。此举背景是卢拉当选后巴西金融市场表现疲软，急需专业人士安抚市场。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261126-10064419",
+   "pubTime": "22:01",
+   "pubTs": "2026-11-26T22:01:42+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "科威特拦截伊朗无人机四人受伤 沙特与胡塞武装持续交火",
+   "summary": "科威特国防部称拦截了一架袭击其关键设施的伊朗无人机，坠落碎片导致至少四人受伤。与此同时，沙特阿拉伯与也门胡塞武装持续交火，在利雅得遭袭后，沙特对胡塞武装控制的萨那等地区发动了一系列空袭。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261126-10064362",
+   "pubTime": "21:55",
+   "pubTs": "2026-11-26T21:55:45+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "以防长警告哈马斯若不解除武装 将迫使百万加沙居民撤离",
+   "summary": "以色列国防部长卡茨警告称，若哈马斯不履行解除武装承诺，以军将采取行动迫使百万加沙居民向南部撤离。尽管已实施停火协议，以军仍加强了定点清除行动。目前以军已控制加沙约70%的领土，并持续追捕哈马斯领导层。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261126-10064265",
+   "pubTime": "21:25",
+   "pubTs": "2026-11-26T21:25:38+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "金正恩称否定朝鲜拥核地位等同宣战 暗示对韩国用核武",
+   "summary": "朝鲜领导人金正恩在视察核设施时宣称，否定朝鲜拥核国地位等同于宣战，并要求扩大战术核武器运用，暗示可能对韩国动武。朝方还首次公开了核动力潜艇反应堆等设备，意在向韩美施压，迫使其接受朝鲜拥核现实。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261126-10064072",
+   "pubTime": "21:22",
+   "pubTs": "2026-11-26T21:22:41+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "美国感恩节客流激增 恶劣天气难阻逾8000万人出行",
+   "summary": "美国迎来感恩节出行高峰，尽管全美多地遭遇暴雨、洪水和大雪等恶劣天气，预计仍有约8150万人出行。客流激增导致各大机场安检排队严重，全美超过2000架次航班延误，其中公路出行人次占比最高，接近7300万。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261126-10064141",
+   "pubTime": "21:14",
+   "pubTs": "2026-11-26T21:14:32+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "特朗普与北约促俄勿升级战事 美批售乌克兰战机设备",
+   "summary": "美国当选总统特朗普与北约秘书长吕特在海湖庄园举行会谈并发表联合声明，敦促俄罗斯避免采取导致乌克兰战事扩大的行动。双方强调应尽快推动和平解决冲突，此次会谈还聚焦了俄乌冲突及美伊战争等国际安全议题。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261126-10063002",
+   "pubTime": "20:29",
+   "pubTs": "2026-11-26T20:29:44+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "伊朗称两艘油轮在霍尔木兹海峡触雷爆炸起火",
+   "summary": "伊朗伊斯兰革命卫队称，两艘油轮因试图通过未经授权的航道，在霍尔木兹海峡附近触雷爆炸并起火，其中一艘载有超过200万桶原油。伊朗方面强调，未经协调的船只无法安全通过该海峡，并指责水雷威胁航行安全。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/world/story20261126-10063945",
+   "pubTime": "20:22",
+   "pubTs": "2026-11-26T20:22:17+08:00",
+   "block": "国际视野",
+   "isNew": true
+  },
+  {
+   "title": "载有约7000吨燃油的油轮在西班牙伊维萨岛附近倾覆",
+   "summary": "一艘载有约7000吨燃油的马耳他籍油轮在西班牙伊维萨岛附近倾覆，造成一名船员死亡。目前船体完全翻转，龙骨朝上。西班牙政府已调集救援及防污染力量，严防燃油泄漏对地中海旅游胜地及海洋生态造成冲击。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2545890",
+   "pubTime": "22:06",
+   "pubTs": "2026-11-26T22:06:38+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "日本寿险巨头外汇对冲比例创新低 策略师称其已对日元“不抱指望”",
+   "summary": "日本九家大型寿险公司将海外资产的外汇对冲比例降至43.3%，创下2011年以来新低。由于缩减对冲会减少对日元的需求，这一策略调整削弱了日本当局支撑日元汇率的效果，显示出机构投资者对日元走势的悲观预期。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2545864",
+   "pubTime": "21:28",
+   "pubTs": "2026-11-26T21:28:56+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "消息称欧佩克+考虑将现行石油产量配额延续至明年1月",
+   "summary": "鉴于中东局势及市场不确定性，欧佩克+正考虑将现行石油产量配额延续至明年1月。该联盟原计划根据产能评估制定新目标，但因伊拉克提出异议而变得复杂。欧佩克+将于本周日举行会议，商讨应对市场波动的策略。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2545872",
+   "pubTime": "21:25",
+   "pubTs": "2026-11-26T21:25:50+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "老“浮费基金”面临生存大考，3只规模不足2亿走向清盘命运",
+   "summary": "2023年获批的首批浮动费率基金迎来成立三周年大考，其中3只与投资者持有时间挂钩的产品因规模不足2亿元正走向清盘。嘉实基金与博时基金已发布公告，旗下相关发起式产品可能触发合同终止情形，反映出该类产品的生存压力。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2545860",
+   "pubTime": "21:08",
+   "pubTs": "2026-11-26T21:08:03+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "港股公告精选｜中教控股上财年营收超76亿元 微盟集团拟加大AI算力及云服务投入",
+   "summary": "微盟集团计划加大人工智能算力投入，拟耗资约4.3亿元人民币采购5000件英伟达GPU产品，以满足客户对AI内容生成的需求。中教控股公布年度业绩，营收增长3.2%至76.02亿元，但归母净利润同比减少28%。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2545828",
+   "pubTime": "21:06",
+   "pubTs": "2026-11-26T21:06:24+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "策略首席张启尧组团转会国联民生，表态不愿再陷入传统的“包工头模式”",
+   "summary": "兴业证券首席策略分析师张启尧已确认离职，并将带领团队加盟国联民生研究所，出任副所长兼首席策略官。张启尧此番履新旨在填补国联民生策略首席的空缺，并表达了对卖方研究传统管理模式进行转型的意愿。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2545829",
+   "pubTime": "21:00",
+   "pubTs": "2026-11-26T21:00:14+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "4家券商密集入驻WorkBuddy，将给投服竞争带来哪些变化？",
+   "summary": "11月以来，中金财富、银河证券、国金证券及东北证券相继入驻WorkBuddy平台，上线AI应用。目前已有8家券商在该生态布局，旨在通过专家分工与AI技能打包提升投服竞争力，各家券商在应用场景侧重上呈现出差异化特征。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2545830",
+   "pubTime": "20:59",
+   "pubTs": "2026-11-26T20:59:41+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
