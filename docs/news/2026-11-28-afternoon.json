@@ -1,0 +1,224 @@
+{
+ "version": 1,
+ "edition": "afternoon",
+ "editionName": "下午茶",
+ "date": "2026-11-28",
+ "fetched_at": "2026-11-28 15:20",
+ "translator": "gemini-3-flash(21条)",
+ "counts": {
+  "total": 21,
+  "new": 21
+ },
+ "items": [
+  {
+   "title": "专家警告：AI实验室掌握的“重磅”发现或引发全球混乱",
+   "summary": "专家警告称，人工智能实验室可能掌握着足以引发全球混乱的突破性发现。据报道，AI技术可能已经具备破解现有加密算法的能力，这将使保护互联网安全的加密技术失效，对全球金融体系和在线安全构成巨大威胁。",
+   "source": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdk5mQnJsSjlGQ1JxaHhFRWI2a0xYVTZQUEVQdWxpNWxFNUVRN1FFYXlhSkwxM2JDNzdQSXdwSTc1TlQzNE9IeV8zd1YzcVVhNXJVSUNTakFTRVNKdmI3M28yUFZmU3hTWXlZcG1SQU81dkdrWjNaRVA3ZEJPazVJQ19ZSlFsdzh2Q3J2LXNuZHNYZHFHWEQ4UFBnWlRzVTBnb2Zr?oc=5",
+   "pubTime": "13:00",
+   "pubTs": "2026-11-28T13:00:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "黑色星期五平价好物指南：精选50美元以下超值优惠",
+   "summary": "随着“黑色星期五”购物季拉开帷幕，各大媒体纷纷推出省钱攻略。NBC新闻整理了一系列价格低于50美元的超值单品，涵盖时尚、家居等多个品类。此外，CNN和《纽约时报》也对各大平台的历史低价和优质折扣进行了深度追踪。",
+   "source": "NBC News",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQUJseGdhY09CbHQ3bW5LZG5OYlo1bDktdUk3X1gxVms3b0J3bGVJSy1lQnJLd3RwV1d4NXNyOW5uOURfYV9WcHhEYVFiQTJFM2EyTUhzUlNXRm9pelhrV211eDZqLUlfaTRGaE1ycndONTZiT2VyRGlILUJNQXo2Uzk4M0NGM2JSMDN3?oc=5",
+   "pubTime": "12:36",
+   "pubTs": "2026-11-28T12:36:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "沃尔玛黑五促销正式开启：43款最值得购买的商品清单",
+   "summary": "沃尔玛和塔吉特等零售巨头已正式启动“黑色星期五”促销活动。沃尔玛目前上线了数十项重磅优惠，涵盖苹果AirPods、海信电视、乐高积木及任天堂游戏机等热门商品。各大门店正全力备战，迎接即将到来的假日购物高峰。",
+   "source": "NBC News",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV3JueGwySWxtZUNpQ05pWTBLNTlQS2RsWHNKZzBUNmpUemRhMGFGYlI2QkUzT2pXNzRPLVhseEVQazQ1WkFnRlV3aV9nLTdLLURiTUJrSFlpNzREVTZjSHVSWUJTQ0x4ZDUzdDFjOWFLeTVEdzRFalozcktuWGZfR3NneEJHeXZmT0E?oc=5",
+   "pubTime": "12:13",
+   "pubTs": "2026-11-28T12:13:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "华盛顿里根国家机场两架客机发生机翼擦碰事故",
+   "summary": "在华盛顿里根国家机场，两架美国航空公司的客机在起飞前发生机翼擦碰事故。目击者称现场气氛一度十分紧张。目前相关部门正对事故原因展开调查，所幸事故未造成人员伤亡，但导致了部分航班延误。",
+   "source": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU1JBQ1NyNU5ldGtkRDVpMDY4QmQtU2s0T1Q4VnJMS01IQUtIa2Qtd01BMVNaVktUY3g2Qml2bnY4WmlXdVc4YUEyMkh5ekxyZWhsVjVPbU54X3B2OUwwOFRia3pwTmNDRGRyRFExdzc5Y0lQWXNWM3ZhTjJCY1FHdEVRSmhJSUVBZlpQSHBiT290akFrTjRXWElEeWVmQQ?oc=5",
+   "pubTime": "11:09",
+   "pubTs": "2026-11-28T11:09:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "美国监管机构关闭印第安纳州联合富达银行，系两年来最大规模银行倒闭案",
+   "summary": "美国联邦监管机构宣布关闭资产规模达60亿美元的印第安纳州联合富达银行（United Fidelity Bank），这是美国两年多来规模最大的银行倒闭事件。货币监理署已指派接收方处理后续事宜，该事件再次引发市场对地区性银行稳定性的关注。",
+   "source": "CNN",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtQmRaX204N3I5S2FqZjVhd19CYzBRV0h1dVZLM2JuQVBtMkg5Y04yU3B5am5vZ21oYmMxYzZPVEdsVHFRZFptbUUzTHUtNTdTRE5ITlRGWTdZT2FwejJtZ0dPTTMzS3VORzliR3pTNWtZM1E?oc=5",
+   "pubTime": "10:09",
+   "pubTs": "2026-11-28T10:09:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "特朗普力挺黄仁勋引发政治争议，或面临高昂政治代价",
+   "summary": "《华尔街日报》报道称，特朗普对英伟达CEO黄仁勋的支持引发了巨大的政治争议。此前有消息称，五角大楼官员曾提议动用战时法律重新任命黄仁勋。尽管英伟达股价曾因特朗普的言论大涨，但这种密切关系正面临严峻的政治审查和市场波动风险。",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd0RESWZCNURwWGRtNHhIZTY0OXFScXNJYVk5TUJ2djBDWHVKNXVsZlVmRDZfUmFucEJqTUZBdkF0NkY4Y2JmQUJqZzRfazlhN0dWbnY0WTJCRXJ0X0NQTXAySXE3bGtKNnVWbWJhQ1czWGhJVk1qV1NBM01HMXE2S1J2S2VzTlBmT3VUa2pObFBGMHZzUUtRYkNsNnUzUzc5Ty16OQ?oc=5",
+   "pubTime": "10:00",
+   "pubTs": "2026-11-28T10:00:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "必胜客联合创始人丹·卡尼逝世，享年95岁",
+   "summary": "必胜客（Pizza Hut）联合创始人丹·卡尼（Dan Carney）近日逝世，享年95岁。卡尼在近七十年前与兄弟共同创立了必胜客，并将其发展成为全球知名的连锁餐饮品牌。他的创业传奇始于堪萨斯州威奇托市，对全球快餐行业产生了深远影响。",
+   "source": "HuffPost",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT3RHbXF4MlhOM0Qwa0JaSE1SN3NKZHBsLU5GbThUaXpjbkFsS3hNaWUwQ0hLUjFCX0tiTGFyLVJIRTNzVEY2cUZvanZJYUdhS1l5TmFaQ3ZwN2NHSjhpN1M1WWdqeF9zT1pfRE1hOWY3SW9wTGhmOGNuZUY2QnpZRUhMb09Kc3JOSFlRS21kbVhXRTlRUjl0ME5namYwOUp10gGmAUFVX3lxTE9KNFFKLTA5RnJxNWpaWGdROXg5NE1RUldzLWdqMWxZbFpRdFRZak1hbk10eklZMmFvdzk3Tjk4S0c0Qm5JZzk5eVpEdmQ0OGV0VVVHLVNnOEJESzlVM0tSbTNOZDJPaDk1VE9vaW95Ymt1dmRUSDNlWU5sdTdkZ2syZnRBaWNndkRxVUxuS3FCRHA0aUU0SHdlY001aU0xcHY0eFlfcHc?oc=5",
+   "pubTime": "09:25",
+   "pubTs": "2026-11-28T09:25:00+08:00",
+   "block": "谷歌精选",
+   "isNew": true
+  },
+  {
+   "title": "中共江苏省委进行换届 省委书记信长星连任",
+   "summary": "中共江苏省委近日完成换届选举，信长星连任省委书记，刘小涛、范波当选省委副书记。江苏是全国第六个完成本轮换届的省份。现年63岁的信长星曾长期在人社系统任职，并曾担任安徽省委副书记及青海省委书记等职。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261128-10072130",
+   "pubTime": "15:17",
+   "pubTs": "2026-11-28T15:17:11+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "台网红钟明轩投票日发政治评论被检举 最重或罚100万新台币",
+   "summary": "台湾网红钟明轩因在“九合一”选举投票日凌晨发布长文，回顾与蔡英文合作经历并发表政治评论，被民众检举涉嫌违反投票日不得竞选或助选的规定。若认定违规，他最高可能面临100万新台币的罚款。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261128-10072124",
+   "pubTime": "15:15",
+   "pubTs": "2026-11-28T15:15:42+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "中国市监总局约谈15家电动脚踏车企业",
+   "summary": "中国国家市场监管总局近日约谈雅迪、爱玛、九号等15家电动自行车企业。约谈指出，飞行检查发现部分企业存在质量责任落实不到位、销售不合格产品等问题，要求企业严把质量关，坚决防止不合格产品流入市场。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261128-10071837",
+   "pubTime": "13:57",
+   "pubTs": "2026-11-28T13:57:52+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "台九合一投票前 33架次大陆军机四面绕台演习",
+   "summary": "台湾“九合一”选举投票日当天，台军方通报侦获33架次大陆军机、8艘军舰及4艘公务船在台海周边活动。其中27架次军机逾越台海中线，从北、中、西南及东部空域四面环绕台湾本岛进行军事施压。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261128-10071725",
+   "pubTime": "13:12",
+   "pubTs": "2026-11-28T13:12:00+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "珠海航展歼-35A将面向观众近距离静态展示",
+   "summary": "中国自主研制的新一代中型隐身多用途战斗机歼-35A已飞抵珠海，将在本届航展上首次以真机形式进行近距离静态展示。该机型采用一体化隐身设计，主要承担夺取制空权任务，并兼顾对面作战能力。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261128-10071713",
+   "pubTime": "12:47",
+   "pubTs": "2026-11-28T12:47:58+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "赖清德：投给你最想要的生活",
+   "summary": "台湾“九合一”地方选举投票期间，总统赖清德前往台南投票。他受访时引用《礼记》名篇，呼吁民众踊跃行使公民权利，选出心目中最理想的人选，通过选票决定自己想要的生活，并强调了此次地方选举的重要性。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261128-10071659",
+   "pubTime": "12:26",
+   "pubTs": "2026-11-28T12:26:49+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "台湾九合一选举：卢秀燕配蓝营候选人投票",
+   "summary": "台湾“九合一”选举投票日，台中市长卢秀燕首次陪同国民党候选人江启臣投票，展现两人深厚情谊。作为蒋万安竞选总部主委，她表示将视情况北上。随后卢秀燕回到户籍地完成投票，并呼吁市民趁着好天气踊跃投票。",
+   "source": "联合早报",
+   "url": "https://www.zaobao.com/news/china/story20261128-10071435",
+   "pubTime": "11:23",
+   "pubTs": "2026-11-28T11:23:38+08:00",
+   "block": "中国视野",
+   "isNew": true
+  },
+  {
+   "title": "OpenAI反诉苹果窃取机密 人工智能设备开发竞赛愈发白热化",
+   "summary": "OpenAI正式起诉苹果公司，指控其窃取商业机密并阻碍硬件供应商合作。此前苹果曾起诉OpenAI及其前员工盗用机密进军硬件市场。双方互诉标志着人工智能设备开发竞争升级，OpenAI还指责苹果未经授权监听员工信息。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2547224",
+   "pubTime": "14:34",
+   "pubTs": "2026-11-28T14:34:52+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "国常会释放稳市新信号，后市怎么走？卖方一线解读：增量政策可期",
+   "summary": "国务院常务会议研究深化资本市场投融资改革，提出要坚持逆周期调节，加力发挥“国家队”稳市作用，并谋划出台增量政策。多家券商解读认为，会议释放了完善稳市机制、引导中长期资金入市的积极信号，后续政策值得期待。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2547218",
+   "pubTime": "14:07",
+   "pubTs": "2026-11-28T14:07:13+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "近千只主动基单日涨超10%，如何看继续修复的可能性？",
+   "summary": "随着11月27日股市大幅反弹，近千只主动权益基金单日涨幅超过10%，其中最高涨幅达19.90%。业内人士分析指出，市场底部区域正逐步确认，前期坚守持仓的基金经理迎来净值修复，预计未来股市企稳后仍有上行空间。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2547217",
+   "pubTime": "13:59",
+   "pubTs": "2026-11-28T13:59:00+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "低至5.9一杯，乐乐茶全线降价超30%，此前多地门店已清零",
+   "summary": "为庆祝品牌十周年，乐乐茶宣布全线产品调价30%，部分招牌产品降幅高达65%，最低售价降至5.9元。此次激进调价使乐乐茶进入了古茗、蜜雪冰城等品牌的价格竞争带，反映出新茶饮赛道价格战的持续白热化。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2547208",
+   "pubTime": "13:25",
+   "pubTs": "2026-11-28T13:25:00+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "不满特朗普称普京“朋友”，泽连斯基敦促美对俄施压",
+   "summary": "乌克兰总统泽连斯基在接受采访时，对美国当选总统特朗普称普京为“朋友”表示不满，并敦促美国加大对俄施压力度。俄方对此回应称其不愿走和平道路。特朗普则为自己的言论辩护，强调其目标是达成和平协议。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2547203",
+   "pubTime": "13:01",
+   "pubTs": "2026-11-28T13:01:42+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "央行研究引入大额存单转让第三方平台 哪些交易堵点将被打通？",
+   "summary": "中国人民银行发布新规，明确大额存单可通过第三方平台办理转让，并授权全国银行间同业拆借中心提供相关服务。此举旨在打破此前仅依托银行自有渠道转让的局限，引入统一的第三方机制，保障大额存单转让市场有序开展。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2547193",
+   "pubTime": "11:52",
+   "pubTs": "2026-11-28T11:52:54+08:00",
+   "block": "财经深度",
+   "isNew": true
+  },
+  {
+   "title": "星链大举扩张之际 关键高管宣布离开SpaceX",
+   "summary": "SpaceX关键高管、负责星链业务运营的副总裁查德·吉布斯宣布离职。吉布斯在公司任职十余年，主管供应链、销售及客户支持等核心职能。在星链大举扩张之际，其离职且继任者尚未确定的现状，引发了投资者对业务稳定性的关注。",
+   "source": "财联社",
+   "url": "https://www.cls.cn/detail/2547194",
+   "pubTime": "11:46",
+   "pubTs": "2026-11-28T11:46:56+08:00",
+   "block": "财经深度",
+   "isNew": true
+  }
+ ]
+}
